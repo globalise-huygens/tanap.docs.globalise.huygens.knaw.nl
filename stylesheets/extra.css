@@ -39,3 +39,11 @@ body {
   color: black;
 }
 
+.md-nav__item--section {
+  display: block;
+  margin: 2em 0;
+}
+
+label.md-nav__title {
+  display: none;
+}
