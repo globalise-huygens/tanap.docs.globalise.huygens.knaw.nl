@@ -1,4 +1,6 @@
 site_name: GLOBALISE Lab
+repo_name: "globalise-huygens/lab.globalise.huygens.knaw.nl/"
+repo_url: "https://github.com/globalise-huygens/lab.globalise.huygens.knaw.nl/"
 
 theme:
   name: material
@@ -22,9 +24,15 @@ nav:
   - "Completed experiments":
       - "Word Embeddings": finished-experiments/word-embeddings.md
 markdown_extensions:
+  - toc:
+      permalink: True
   - admonition
+  - smarty
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.magiclink
+  - pymdownx.details
+  - footnotes
 plugins:
   - search # necessary for search to work
   - git-revision-date-localized
