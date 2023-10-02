@@ -13,12 +13,13 @@ theme:
     - navigation.top
 
 nav:
-  - Home: index.md
-  - About: about.md
+  - Introduction: index.md
+  #- About: about.md
   - "Ongoing experiments":
-      - "HTR Transcription viewer": ongoing-experiments/htr-viewer.md
-      - "SKOSMOS": ongoing-experiments/skosmos-concept-browser.md
-  - "Finished experiments":
+      - "Transcriptions viewer": ongoing-experiments/htr-viewer.md
+      - "Thesaurus concepts browser": ongoing-experiments/skosmos-concept-browser.md
+      - "Places visualization": ongoing-experiments/places-visualization.md
+  - "Completed experiments":
       - "Word Embeddings": finished-experiments/word-embeddings.md
 markdown_extensions:
   - admonition
