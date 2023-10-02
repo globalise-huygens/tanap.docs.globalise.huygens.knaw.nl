@@ -19,7 +19,7 @@
 ### Ongoing
 
 
-- A [viewer for transcriptions](transcriptions.md) of 5 million handwritten pages
+- A [viewer for transcriptions](ongoing-experiments/htr-viewer.md) of 5 million handwritten pages
 - A [SKOSMOS concept browser](https://vocabulary.globalise.dev.diginfra.net/) for our thesauri
 
 
