@@ -2,8 +2,8 @@
 
 <!-- ![GLOBALISE G](static/globalise_g.svg) -->
 <p style="text-align: center">
-<img src="static/globalise.svg" alt="GLOBALISE G" width="80%"/> <br>
-<img src="static/globalise_lab.svg" alt="GLOBALISE G" width="25%"/>
+<img src="static/globalise.svg" alt="GLOBALISE Logo" width="80%"/> <br>
+<img src="static/globalise_lab.svg" alt="GLOBALISE Lab logo" width="25%"/>
 </p>
 
 
