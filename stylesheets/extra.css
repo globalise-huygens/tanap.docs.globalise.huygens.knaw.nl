@@ -1,0 +1,41 @@
+:root {
+  /* Default color shades */
+  /* --md-default-fg-color: #33A9AC; */
+  /* --md-default-fg-color--light: #FF0055; */
+  /* --md-default-fg-color--lighter: #23201E; */
+  /* --md-default-fg-color--lightest: #23201E; */
+  /* --md-default-bg-color: #33A9AC; */
+  --md-default-bg-color--light: white;
+  /* --md-default-bg-color--lighter: #23201E; */
+  /* --md-default-bg-color--lightest: #23201E; */
+
+  /* Primary color shades */
+  --md-primary-fg-color: #33a9ac;  /* Top bar color */
+  --md-primary
+  --md-primary-fg-color--light: #23201e;
+  --md-primary-fg-color--dark: #23201e;
+  --md-primary-bg-color: white;
+  --md-primary-bg-color--light: #23201e;
+
+  --md-footer-bg-color: #33a9ac;  /* Top bar color */
+  /* --md-footer-bg-color--dark: #33a9ac; */
+  /* --md-footer-bg-color--light: #33a9ac; */
+
+  /* Accent color shades */
+  --md-accent-fg-color: #23201e;
+  /* --md-accent-fg-color--transparent: #23201E; */
+  --md-accent-bg-color: #23201e;
+  /* --md-accent-bg-color--light: #23201E; */
+
+  /* Code block color shades */
+  /* --md-code-bg-color: #23201E;
+    --md-code-fg-color: #23201E; */
+
+    /* Link color shades */
+    --md-typeset-a-color: #FF0055;
+}
+
+body {
+  color: black;
+}
+
