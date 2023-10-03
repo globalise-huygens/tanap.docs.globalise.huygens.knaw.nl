@@ -1,4 +1,9 @@
-# Introduction
+<!-- ---
+hide:
+  - toc
+--- -->
+
+# Home 
 
 <!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
 <p style="text-align: center">

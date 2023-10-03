@@ -1,5 +1,9 @@
 # GLOBALISE Transcriptions Viewer
 
+**Date:** October 4, 2023  
+**URL:** https://transcriptions.globalise.huygens.knaw.nl/  
+**Status:** Prototype  
+
 The aim of the GLOBALISE project is to facilitate research with the _Overgekomen Brieven en Papieren_ series of documents from the VOC archives. As a first step to reaching this goal, we generate transcriptions of the c. 5 million of handwritten pages made available by the Dutch National Archives using [automatic transcription software](https://github.com/knaw-huc/loghi). 
 
 While we publish text files of the transcriptions on the [GLOBALISE Dataverse](https://datasets.iisg.amsterdam/dataverse/globalise), we also experiment with building an interface for easy searching and exploring the material. A first prototype can be accessed through the link below. Please share your feedback through our [contact form](https://globalise.huygens.knaw.nl/contact-us/). In the future, improved versions will be made available.
