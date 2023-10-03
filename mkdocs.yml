@@ -4,7 +4,8 @@ repo_url: "https://github.com/globalise-huygens/lab.globalise.huygens.knaw.nl/"
 
 theme:
   name: material
-  # logo: static/globalise_g.svg
+  # logo: static/img/logo/globalise_g.svg
+  favicon: static/img/logo/globalise_g.svg
   icon:
     logo: material/flask
   features:
@@ -39,9 +40,10 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 extra:
-  #   social:
-  #     - icon: fontawesome/brands/mastodon
-  #       link: https://fosstodon.org/@squidfunk
+  social:
+    - icon: material/web
+      name: Website
+      link: https://globalise.huygens.knaw.nl/
   generator: false
 copyright: <p>
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License"

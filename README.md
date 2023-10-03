@@ -1,6 +1,6 @@
 # lab.globalise.huygens.knaw.nl
 <p style="text-align: center">
-<img src="docs/static/globalise_lab.svg" alt="GLOBALISE" width="25%"/>
+<img src="docs/static/img/logo/globalise_lab.svg" alt="GLOBALISE" width="25%"/>
 </p>
 Static website for our GLOBALISE Lab at [http://lab.globalise.huygens.knaw.nl/](http://lab.globalise.huygens.knaw.nl/).
 
