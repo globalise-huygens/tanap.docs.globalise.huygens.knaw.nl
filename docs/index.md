@@ -27,11 +27,6 @@ GLOBALISE is funded by the [The Netherlands Organization for Scientific Research
 
 
 - [Viewer for transcriptions](experiments/htr-viewer.md) of the c. 5 million pages of VOC documents that comprise the GLOBALISE corpus.
-- [SKOSMOS concept browser](experiments/skosmos-concept-browser.md) for the GLOBALISE thesauri.
 - [Visualization of places](experiments/places-visualization.md) occurring in the c. 5 million pages of VOC documents that comprise the GLOBALISE corpus.
     
 
-
-### Completed
-
-- 

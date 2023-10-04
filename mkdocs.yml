@@ -20,10 +20,9 @@ nav:
   #- About: about.md
   - "Ongoing experiments":
       - "Transcriptions viewer": experiments/htr-viewer.md
-      - "Thesaurus concepts browser": experiments/skosmos-concept-browser.md
       - "Places visualization": experiments/places-visualization.md
-  - "Completed experiments":
-      - "Word Embeddings": experiments/word-embeddings.md
+  # - "Completed experiments":
+  #     - "Word Embeddings": experiments/word-embeddings.md
 markdown_extensions:
   - toc:
       permalink: True
