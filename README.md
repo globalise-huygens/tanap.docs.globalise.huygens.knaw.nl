@@ -1,12 +1,9 @@
 # lab.globalise.huygens.knaw.nl
-<p style="text-align: center">
-<img src="docs/static/img/logo/globalise_lab.svg" alt="GLOBALISE" width="25%"/>
-</p>
 
-Static website for our GLOBALISE Lab at [http://lab.globalise.huygens.knaw.nl/](http://lab.globalise.huygens.knaw.nl/).
+Static website for GLOBALISE Docs at [https://docs.globalise.huygens.knaw.nl/](https://docs.globalise.huygens.knaw.nl/).
 
 ## Development
-These static pages are generated with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) using a GitHub Action on every push (see the [`gh-pages`](https://github.com/globalise-huygens/lab.globalise.huygens.knaw.nl/tree/gh-pages) branch). For local development, follow the instructions below.
+These static pages are generated with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) using a GitHub Action on every push (see the [`gh-pages`](https://github.com/globalise-huygens/docs.globalise.huygens.knaw.nl/tree/gh-pages) branch). For local development, follow the instructions below.
 
 ### Local development
 

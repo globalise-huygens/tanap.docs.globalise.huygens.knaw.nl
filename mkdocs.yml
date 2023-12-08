@@ -1,13 +1,13 @@
-site_name: GLOBALISE Lab
-repo_name: "globalise-huygens/lab.globalise.huygens.knaw.nl/"
-repo_url: "https://github.com/globalise-huygens/lab.globalise.huygens.knaw.nl/"
+site_name: GLOBALISE Docs
+repo_name: "globalise-huygens/docs.globalise.huygens.knaw.nl/"
+repo_url: "https://github.com/globalise-huygens/docs.globalise.huygens.knaw.nl/"
 
 theme:
   name: material
   # logo: static/img/logo/globalise_g.svg
   favicon: static/img/logo/globalise_g.svg
-  icon:
-    logo: material/flask
+  #icon:
+  #  logo: material/flask
   features:
     # - navigation.instant
     - navigation.tracking
@@ -18,11 +18,9 @@ theme:
 nav:
   - Home: index.md
   #- About: about.md
-  - "Ongoing experiments":
-      - "Transcriptions viewer": experiments/htr-viewer.md
-      - "Places visualization": experiments/places-visualization.md
-  # - "Completed experiments":
-  #     - "Word Embeddings": experiments/word-embeddings.md
+  - "GLOBALISE Ethics Guidelines":
+      - "Ethics Policy": ethics/policy.md
+      - "Ethical Review of Work Processes": ethics/workflow-review.md
 markdown_extensions:
   - toc:
       permalink: True
@@ -47,7 +45,7 @@ extra:
 copyright: <p>
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License"
   style="border-width:0" src="https://licensebuttons.net/i/l/by-sa/transparent/ff/ff/ff/88x31.png" /></a><br/>
-  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GLOBALISE Lab</span> is the experimental playground of the <a
+  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">GLOBALISE Docs</span> provides background documentation to the <a
   xmlns:cc="http://creativecommons.org/ns#" href="https://globalise.huygens.knaw.nl/" property="cc:attributionName"
   rel="cc:attributionURL">GLOBALISE project</a>.
   <br>

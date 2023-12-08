@@ -8,25 +8,20 @@ hide:
 <!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
 <p style="text-align: center">
 <img src="static/img/logo/globalise.svg" alt="GLOBALISE Logo" width="80%"/> <br>
-<img src="static/img/logo/globalise_lab.svg" alt="GLOBALISE Lab logo" width="25%"/>
 </p>
 
 
 
 
-The aim of the [GLOBALISE project](https://globalise.huygens.knaw.nl/) is to develop an online infrastructure that unlocks the key series of VOC documents and reports for advanced new research methods. On this Lab page, we share our ongoing and completed experiments and prototypes. We welcome your feedback through our [contact form](https://globalise.huygens.knaw.nl/contact-us/).
+The aim of the [GLOBALISE project](https://globalise.huygens.knaw.nl/) is to develop an online infrastructure that unlocks the key series of VOC documents and reports for advanced new research methods. On this Docs page, we provide background documentation about the project. Currently limited to information about the ethics policy, we will soon extend the information provided here with documentation about the GLOBALISE ontology, source corpus, and guiding principles for the design and development of the online interfaces, among others. We welcome your feedback through our [contact form](https://globalise.huygens.knaw.nl/contact-us/).
 
 GLOBALISE is funded by the [The Netherlands Organization for Scientific Research (NWO)](https://www.nwo.nl/en).
 
-## Experiments
+## Table of Contents
 
-!!! warning "This is a work in progress"
-    This website is still under construction. Please check back later for more information.
+### GLOBALISE Ethics Guidelins
 
-### Ongoing
-
-
-- [Viewer for transcriptions](experiments/htr-viewer.md) of the c. 5 million pages of VOC documents that comprise the GLOBALISE corpus.
-- [Visualization of places](experiments/places-visualization.md) occurring in the c. 5 million pages of VOC documents that comprise the GLOBALISE corpus.
+- [Ethics Policy](ethics/policy.md.md)
+- [Ethical Review of Work Processes](ethics/workflow-review.md).
     
 
