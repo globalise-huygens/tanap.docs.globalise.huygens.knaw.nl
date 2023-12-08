@@ -1,4 +1,4 @@
-# lab.globalise.huygens.knaw.nl
+# docs.globalise.huygens.knaw.nl
 
 Static website for GLOBALISE Docs at [https://docs.globalise.huygens.knaw.nl/](https://docs.globalise.huygens.knaw.nl/).
 
