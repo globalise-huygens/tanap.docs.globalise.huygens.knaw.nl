@@ -88,19 +88,17 @@ The way in which we advance DEI is visible in the following points:
 
 4. **Societal and Environmental Wellbeing** GLOBALISE should benefit society and ensure that it is sustainable and minimises environmental impact. 
 
-**Acknowledging Impact** involves recognizing how the project can affect various communities. This entails understanding the social and cultural dimensions of the content within the archive.
+**Societal Wellbeing** involves recognizing how the project can affect various communities. This entails understanding the social and cultural dimensions of the content within the archive. Archives contain materials that use language or express views that are now considered offensive or inappropriate. It’s important to address this issue sensitively. GLOBALISE will warn users of such content in the VOC archives and will contextualise records of contentious or violent past events with sensitivity toward affected groups.
+
+**Ecological Impact** GLOBALISE will consider the environmental footprint of the project throughout its entire lifecycle, from development to implementation. 
+	
+   **Data and Infrastructure** Choices When building and maintaining our infrastructure, we opt for energy-efficient solutions without compromising on performance or    reliability.
+
+   **Resource-Efficient Alternatives** Acknowledging the diverse capabilities of our users, we will provide alternative, lighter versions of our models and          datasets. This approach ensures that our resources are accessible to a broader audience, including those without access to high-end computing facilities. 
+
+   **Publishing for Accessibility** In publishing our data and tooling, we ensure that our deliverables are optimised for varied computational environments. We       provide clear documentation and support for both our full-scale and minimal models, ensuring that users can choose the most suitable option for their             specific context.
 
 
-    **Dealing with Offensive Language** Archives often contain historical materials that use language or express views that are now considered offensive or inappropriate. It’s important to address this issue sensitively.
-
-
-
-    **Enhancing Cultural Safety** Ensuring that communities interacting with sensitive collections feel respected and safe is essential. This involves being mindful of how language and content are presented.
-
-
-    **Historical Contextualization** Recognizing and contextualising records of contentious or violent past events with sensitivity toward affected groups.
-
-**Reducing Life Cycle Impact** It’s important to consider the environmental footprint of the GLOBALISE project throughout its entire lifecycle, from development to implementation and beyond.
 
 
 
