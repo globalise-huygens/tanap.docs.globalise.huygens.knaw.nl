@@ -45,16 +45,12 @@ Our mission can be encapsulated in the following core commitments:
 
 In the GLOBALISE initiative, ethical adherence is a cornerstone throughout the project lifecycle, encompassing work packages, future plans, and governance. Should any aspect fall short of these ethical standards during periodic evaluations, it is imperative to restructure it to conform to the following core principles.
 
-
-
-
-1. **Diversity, Equity, and Inclusion (DEI)** GLOBALISE is dedicated to advancing DEI in every part of the project: people, governance, perspectives, datasets, algorithms, and interfaces. 
+**1. Diversity, Equity, and Inclusion (DEI)** GLOBALISE is dedicated to advancing DEI in every part of the project: people, governance, perspectives, datasets, algorithms, and interfaces. 
 
     **Diversity** encompasses a wide range of differences and variations within any given environment or system. Diversity may include variations in not only individual characteristics like ethnicity, age, gender identity, religion, physical abilities and disabilities, cultural background, and education but also extends to encompass differences in ideas, perspectives, datasets, algorithms, infrastructural elements, and any other factors that contribute to the overall complexity and richness of the system in question. Embracing diversity means recognizing, appreciating, and harnessing the breadth and depth of distinctions.
 
     **Equity** strives to rectify disparities and create a level playing field for all elements within a system. 
 
-    
     **Inclusion** refers to the behaviours, attitudes, and social norms within our project that ensures that there is space for multiple identities, groups and expressions.
 
 The way in which we advance DEI is visible in the following points:
