@@ -24,8 +24,6 @@ GLOBALISE is an infrastructure project dedicated to enhancing the way we access 
 Our mission can be encapsulated in the following core commitments:
 
 
-
-
 1. **Enhancing Accessibility** At its core, GLOBALISE is committed to making a substantial segment of the VOC archives not just accessible, but contextually relevant to audiences worldwide. Through this project, history enthusiasts, researchers, and the global community will gain an unprecedented level of insight into the VOC's expansive influence and interactions. This objective will be achieved by transforming the archives into digitised and searchable text using handwritten text recognition. Additionally, GLOBALISE will employ historic and semantic contextualisation to enhance research possibilities and allow for richer representations of history. And finally it will develop versatile interfaces, designed to cater to a diverse range of users. 
 
 2. **Linked Open Data** We will model, publish, and host our data as Linked Open Data (LOD) to promote a holistic comprehension of the materials, link them to external datasets and thesauri, and allow for easy re-use of our data. Our approach connects well with other LOD initiatives in the GLAM sector. 
