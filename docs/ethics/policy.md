@@ -1,9 +1,9 @@
 # GLOBALISE Ethics Policy
 
 **Date:** 19th February, 2024  
-**Version:** 1.0
+**Version:** 1.0  
+**Author:** Mrinalini Luthra &nbsp;<a href="https://orcid.org/0000-0001-5348-3673" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a>
 
-[TOC]
 
 ## I. Introduction 
 
@@ -99,7 +99,7 @@ GLOBALISE will consider the environmental footprint of the project throughout it
 
 > The last 2 apply to AI systems:
 
-## 5. Robustness
+### 5. Robustness
 
 > **Robustness** focuses on the stability and reliability of the AI systems in the GLOBALISE infrastructure. Additionally, they should be socially robust, implying they should consider potential unintended consequences and harms that may arise from their use.
 
@@ -107,7 +107,7 @@ This includes addressing questions such as:
 
 **Accuracy** Ensuring system reliability in unforeseen circumstances and minimising potential harms from inaccuracies.
 
-## 6. Privacy and Data Governance
+### 6. Privacy and Data Governance
 
 > **Privacy** is the right of individuals to control or influence what infomration related to them may be collected and stored, and regulate who may have access to that information.
 >
@@ -123,7 +123,7 @@ We prioritise privacy, data protection, and data governance ensuring the quality
 
 **Privacy** We prioritize informed consent and transparency in our data practices, ensuring users are aware of how their data is used. Moreover, as far as possible, GLOBALISE intends to minimise the collection of user data. When the collection of data is necessary for enhancing user experience or for research purposes, we limit the scope to non-sensitive information that does not directly identify individuals.
 
-## IV. References 
+### IV. References 
 
 CARE Principles for Indigneous Data Governance, [https://www.gida-global.org/care](https://www.gida-global.org/care)
 
