@@ -4,7 +4,6 @@
 **Version:** 1.0  
 **Author:** Mrinalini Luthra &nbsp;<a href="https://orcid.org/0000-0001-5348-3673" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a>
 
-
 ## I. Introduction 
 
 This policy document governs and guides GLOBALISE’s work and ethos. We created it because we believe that articulating our values and obligations to one another reinforces the respect and care among the team and in our work. Having a policy also provides us with clear avenues to correct our culture should it ever stray from course. 
@@ -125,21 +124,27 @@ We prioritise privacy, data protection, and data governance ensuring the quality
 
 ### IV. References 
 
-CARE Principles for Indigneous Data Governance, [https://www.gida-global.org/care](https://www.gida-global.org/care)
+- ‘CARE Principles for Indigenous Data Governance’, [https://www.gida-global.org/care](https://www.gida-global.org/care](https://www.gida-global.org/care).
 
-Chilcott, Alicia. "Towards protocols for describing racially offensive language in UK public archives." In _Archives in a Changing Climate-Part I & Part II_, pp. 151-168. Cham: Springer Nature Switzerland, 2022.
+- Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, et al. ‘The CARE Principles for Indigenous Data Governance’. Data Science Journal 19 (4 November 2020): 43–43. [https://doi.org/10.5334/dsj-2020-043](https://doi.org/10.5334/dsj-2020-043).
 
-Colored Conventions Project, [https://coloredconventions.org](https://coloredconventions.org)
+- Chilcott, Alicia. ‘Towards Protocols for Describing Racially Offensive Language in UK Public Archives’. In Archives in a Changing Climate - Part I &amp; Part II, edited by Viviane Frings-Hessami and Fiorella Foscarini, 151–68. Cham: Springer Nature Switzerland, 2022. [https://doi.org/10.1007/978-3-031-19289-0\_10](https://doi.org/10.1007/978-3-031-19289-0\_10).
 
-D’Ignazio, Catherine, and Lauren F. Klein. Data Feminism. Cambridge, MA: The MIT Press, 2020.
+- ‘Colored Conventions Project’, [https://coloredconventions.org](https://coloredconventions.org). 
 
-EU Commission. “[Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai).” 2019.
+- D’ignazio, Catherine, and Lauren F. Klein. Data Feminism. MIT press, 2020. 
 
-Indigenous Archives Collective Position Statement on the right of Reply to Indigenous Knowledges and Information Held in Archvies, [https://indigenousarchives.net/indigenous-archives-collective-position-statement-on-the-right-of-reply-to-indigenous-knowledges-and-information-held-in-archives/](https://indigenousarchives.net/indigenous-archives-collective-position-statement-on-the-right-of-reply-to-indigenous-knowledges-and-information-held-in-archives/)
+- ‘Ethics Guidelines for Trustworthy AI | Shaping Europe’s Digital Future’, 8 April 2019. [Ethics guidelines for trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai). 
 
-Linked Infrastructure for Networked Cultural Scholarship, [https://lincsproject.ca/](https://lincsproject.ca/)
+- Indigenous Archives Collective. ‘Indigenous Archives Collective Position Statement on the Right of Reply to Indigenous Knowledges and Information Held in Archives’, 9 August 2021. https://indigenousarchives.net/indigenous-archives-collective-position-statement-on-the-right-of-reply-to-indigenous-knowledges-and-information-held-in-archives/. 
 
-Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
+- ‘Linked Infrastructure for Networked Cultural Scholarship’. Accessed 19 February 2024. https://lincsproject.ca/. Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 
+
+- ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. https://doi.org/10.1038/sdata.2016.18.
+
+- Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
+
+
 
 ## V. Licence
 
