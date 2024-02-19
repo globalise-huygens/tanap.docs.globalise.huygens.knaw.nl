@@ -140,8 +140,6 @@ We prioritise privacy, data protection, and data governance ensuring the quality
 
 - ‘Linked Infrastructure for Networked Cultural Scholarship’. Accessed 19 February 2024. https://lincsproject.ca/. Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 
 
-- ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. https://doi.org/10.1038/sdata.2016.18.
-
 - Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
 
