@@ -33,43 +33,46 @@ Our mission can be encapsulated in the following core commitments:
 
 **7. Diversity, Inclusion, Equity, and Decolonisation** This commitment extends across all aspects of the project, from the selection of datasets to resource allocation, community engagement, and team composition. 
 
-
 ## III. Ethics Guidelines
 
 The GLOBALISE initiative places ethical adherence at the forefront throughout its lifecycle, including work packages, future plans, and governance frameworks. Regular evaluations will identify any aspect of the project falling short of these standards, prompting necessary restructuring to align with our ethics guidelines.
 
 ### 1. Diversity, Equity, and Inclusion (DEI) 
-GLOBALISE is dedicated to advancing DEI in every part of the project: people, governance, perspectives, datasets, algorithms, and interfaces. 
+GLOBALISE is dedicated to advancing DEI in every part of the project: people, governance, perspectives, datasets, algorithms, and interfaces. We define DEI as follows:
 
-**Diversity** encompasses a wide range of differences and variations within any given environment or system. Diversity may include variations in not 	only individual characteristics like ethnicity, age, gender identity, religion, physical abilities and disabilities, cultural background, and education but also extends to encompass differences in ideas, perspectives, datasets, algorithms, infrastructural elements, and any other factors that contribute to the overall complexity and richness of the system in question. Embracing diversity means recognizing, appreciating, and harnessing the breadth and depth of distinctions.
+> **Diversity** encompasses a wide range of differences and variations within any given environment or system. Diversity may include variations in not 	only individual characteristics like ethnicity, age, gender identity, religion, physical abilities and disabilities, cultural background, and education but also extends to encompass differences in ideas, perspectives, datasets, algorithms, infrastructural elements, and any other factors that contribute to the overall complexity and richness of the system in question. Embracing diversity means recognizing, appreciating, and harnessing the breadth and depth of distinctions.
 
-**Equity** strives to rectify disparities and create a level playing field for all elements within a system. 
+> **Equity** strives to rectify disparities and create a level playing field for all elements within a system. 
 
-**Inclusion** refers to the behaviours, attitudes, and social norms within our project that ensures that there is space for multiple identities, groups and expressions.
+> **Inclusion** refers to the behaviours, attitudes, and social norms within our project that ensures that there is space for multiple identities, groups and expressions.
 
 The way in which we advance DEI is visible in the following points:
 
-   **Countering Bias** We pay attention to situations involving vulnerable groups and those that have been historically disadvantaged or at a risk of exclusion and to situations characterised by asymmetries of power.
+**Countering Bias** We pay attention to situations involving vulnerable groups and those that have been historically disadvantaged or at a risk of exclusion and to situations characterised by asymmetries of power.
 
-   **Education and Training** We provide regular training and workshops to increase awareness and sensitivity about diversity, equity, and inclusion both in our project and in our work.
+**Education and Training** We provide regular training and workshops to increase awareness and sensitivity about diversity, equity, and inclusion both in our project and in our work.
 
-   **Accessibility and Design** Our infrastructure design approach acknowledges and addresses advantages and challenges faced by different social groups. 
+**Accessibility and Design** Our infrastructure design approach acknowledges and addresses advantages and challenges faced by different social groups. 
 
-   **Stakeholder Participation** GLOBALISE finds it critical to work with stakeholders who may directly or indirectly be affected by the infrastructure. We do so by having a large steering team and external advisors, as well as organising regular workshops to share our work, collaborate with and get feedback from stakeholders. Furthermore, we are working on setting up longer term mechanisms for stakeholder participation.
+**Stakeholder Participation** GLOBALISE finds it critical to work with stakeholders who may directly or indirectly be affected by the infrastructure. We do so by having a large steering team and external advisors, as well as organising regular workshops to share our work, collaborate with and get feedback from stakeholders. Furthermore, we are working on setting up longer term mechanisms for stakeholder participation.
 
-   **Documentation** Finally we include all our interventions and strategies to promote DEI in extensive documentation and reports.
+**Documentation** We include all our interventions and strategies to promote DEI in extensive documentation and reports.
 
 ### 2. Transparency
-Transparency refers to open disclosure about our project’s data sources, algorithms, decisions, and governance structures. This entails:
+
+> Transparency refers to open disclosure about our project’s data sources, algorithms, decisions, and governance structures.
+
+This entails:
 
 **Documentation** of different parts of the GLOBALISE infrastructure to aid transparency and explainability. This includes data cards/sheets for datasets, model cards for NLP models, thesaurus for terminology, reports on stakeholder participation, etc. 
 
 **Communication** of the characteristics, limitations, and potential shortcomings of the system to users and stakeholders, through interface design and user guides.  
 
-
 ### 3. Accountability
 
-Accountability refers to the project’s ownership of its decisions and outcomes, adherence to laws and policies, and its obligation to address consequences. This includes:
+> Accountability refers to the project’s ownership of its decisions and outcomes, adherence to laws and policies, and its obligation to address consequences.
+
+This includes:
 
 **Auditability** It is important to establish mechanisms that facilitate the infrastructure’s auditability. This will include providing extensive provenance on the data produced and provided by GLOBALISE and any other authoritative layers that we add, creating meticulous data sheets for every dataset produced and publishing datasets and research in peer-reviewed journals. 
 
@@ -84,16 +87,19 @@ GLOBALISE should benefit society and ensure that it is sustainable and minimises
 
 **Ecological Impact** GLOBALISE will consider the environmental footprint of the project throughout its entire lifecycle, from development to implementation. 
 	
-**Data and Infrastructure** Choices When building and maintaining our infrastructure, we opt for energy-efficient solutions without compromising on performance or    reliability.
+**Data and Infrastructure** Choices When building and maintaining our infrastructure, we opt for energy-efficient solutions without compromising on performance or reliability.
 
 **Resource-Efficient Alternatives** Acknowledging the diverse capabilities of our users, we will provide alternative, lighter versions of our models and datasets. This approach ensures that our resources are accessible to a broader audience, including those without access to high-end computing facilities. 
 
 **Publishing for Accessibility** In publishing our data and tooling, we ensure that our deliverables are optimised for varied computational environments. We provide clear documentation and support for both our full-scale and minimal models, ensuring that users can choose the most suitable option for their specific context.
 
-	The last 2 apply to AI systems:
+> The last 2 apply to AI systems:
 
 ## 5. Robustness
-Technical robustness focuses on the stability and reliability of the AI systems in the GLOBALISE infrastructure. Additionally, they should be socially robust, implying they should consider potential unintended consequences and harms that may arise from their use. This includes addressing questions such as:
+
+> Technical robustness focuses on the stability and reliability of the AI systems in the GLOBALISE infrastructure. Additionally, they should be socially robust, implying they should consider potential unintended consequences and harms that may arise from their use.
+
+This includes addressing questions such as:
 
 **Accuracy** Ensuring system reliability in unforeseen circumstances and minimising potential harms from inaccuracies.
 
