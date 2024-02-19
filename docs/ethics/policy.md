@@ -124,7 +124,7 @@ We prioritise privacy, data protection, and data governance ensuring the quality
 
 ### IV. References 
 
-- ‘CARE Principles for Indigenous Data Governance’, [https://www.gida-global.org/care](https://www.gida-global.org/care](https://www.gida-global.org/care).
+- ‘CARE Principles for Indigenous Data Governance’, [https://www.gida-global.org/care](https://www.gida-global.org/care).
 
 - Carroll, Stephanie Russo, Ibrahim Garba, Oscar L. Figueroa-Rodríguez, Jarita Holbrook, Raymond Lovett, Simeon Materechera, Mark Parsons, et al. ‘The CARE Principles for Indigenous Data Governance’. Data Science Journal 19 (4 November 2020): 43–43. [https://doi.org/10.5334/dsj-2020-043](https://doi.org/10.5334/dsj-2020-043).
 
@@ -138,11 +138,9 @@ We prioritise privacy, data protection, and data governance ensuring the quality
 
 - Indigenous Archives Collective. ‘Indigenous Archives Collective Position Statement on the Right of Reply to Indigenous Knowledges and Information Held in Archives’, 9 August 2021. https://indigenousarchives.net/indigenous-archives-collective-position-statement-on-the-right-of-reply-to-indigenous-knowledges-and-information-held-in-archives/. 
 
-- ‘Linked Infrastructure for Networked Cultural Scholarship’. Accessed 19 February 2024. https://lincsproject.ca/. Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 
+- ‘Linked Infrastructure for Networked Cultural Scholarship’. Accessed 19 February 2024. https://lincsproject.ca/. 
 
 - Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
-
-
 
 ## V. Licence
 
