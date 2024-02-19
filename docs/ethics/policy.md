@@ -1,6 +1,6 @@
 # GLOBALISE Ethics Policy
 
-**Date:** February, 2024  
+**Date:** 19th February, 2024  
 **Version:** 1.0
 
 [TOC]
@@ -74,7 +74,7 @@ This entails:
 
 This includes:
 
-**Auditability** It is important to establish mechanisms that facilitate the infrastructure’s auditability. This will include providing extensive provenance on the data produced and provided by GLOBALISE and any other authoritative layers that we add, creating meticulous data sheets for every dataset produced and publishing datasets and research in peer-reviewed journals. 
+**Auditability** This will include providing extensive provenance on the data produced and provided by GLOBALISE and any other authoritative layers that we add, creating meticulous datasheets for every dataset produced, and publishing datasets and research in peer-reviewed journals. 
 
 **Training and Education** to help develop accountability practices. 
 
@@ -83,11 +83,15 @@ This includes:
 ### 4. Societal and Environmental Wellbeing
 GLOBALISE should benefit society and ensure that it is sustainable and minimises environmental impact. 
 
-**Societal Wellbeing** involves recognizing how the project can affect various communities. This entails understanding the social and cultural dimensions of the content within the archive. Archives contain materials that use language or express views that are now considered offensive or inappropriate. It’s important to address this issue sensitively. GLOBALISE will warn users of such content in the VOC archives and will contextualise records of contentious or violent past events with sensitivity toward affected groups.
+> **Societal Wellbeing** involves recognizing how the project can affect various communities.
 
-**Ecological Impact** GLOBALISE will consider the environmental footprint of the project throughout its entire lifecycle, from development to implementation. 
+This entails understanding the social and cultural dimensions of the content within the archive. Archives contain materials that use language or express views that are now considered offensive or inappropriate. GLOBALISE will warn users of such content in the VOC archives and will contextualise records of contentious or violent past events with sensitivity toward affected groups.
+
+> **Ecological Impact** involves consideration of the environmental footprint.
+
+GLOBALISE will consider the environmental footprint of the project throughout its entire lifecycle, from development to implementation. 
 	
-**Data and Infrastructure** Choices When building and maintaining our infrastructure, we opt for energy-efficient solutions without compromising on performance or reliability.
+**Data and Infrastructure Choices** When building and maintaining our infrastructure, we opt for energy-efficient solutions without compromising on performance or reliability.
 
 **Resource-Efficient Alternatives** Acknowledging the diverse capabilities of our users, we will provide alternative, lighter versions of our models and datasets. This approach ensures that our resources are accessible to a broader audience, including those without access to high-end computing facilities. 
 
@@ -97,20 +101,31 @@ GLOBALISE should benefit society and ensure that it is sustainable and minimises
 
 ## 5. Robustness
 
-> Technical robustness focuses on the stability and reliability of the AI systems in the GLOBALISE infrastructure. Additionally, they should be socially robust, implying they should consider potential unintended consequences and harms that may arise from their use.
+> **Robustness** focuses on the stability and reliability of the AI systems in the GLOBALISE infrastructure. Additionally, they should be socially robust, implying they should consider potential unintended consequences and harms that may arise from their use.
 
 This includes addressing questions such as:
 
 **Accuracy** Ensuring system reliability in unforeseen circumstances and minimising potential harms from inaccuracies.
 
 ## 6. Privacy and Data Governance
-We prioritise privacy and data protection, ensuring the quality and integrity of data, controlling data access, etc. 
 
-**Oversight mechanisms** for data collection, storage, processing and use. GLOBALISE will store their data with institutes such as the IISG which have acquired the [Core Trust Seal](https://www.coretrustseal.org/), making them a reliable and sustainable repository for digital materials. 
+> **Privacy** is the right of individuals to control or influence what infomration related to them may be collected and stored, and regulate who may have access to that information.
+>
+> **Data Protection** includes measures and practices implemented to ensure that personal data is handled in compliance with data protection laws and regulations, safeguarding the rights and freedoms of individuals.
+>
+> **Data Governance** refers to the overall management of the availability, usability, integrity, and security of the data employed our project, including the policies, processes, standards, and metrics that ensure the effective and efficient use of the data.  
 
-**Privacy** Assessing who can access users’ data, and under what circumstances.
+We prioritise privacy, data protection, and data governance ensuring the quality and integrity of data and controlling data access, in the following ways:
+
+**Ensuring Data Quality and Integrity** We implement rigorous procedures to ensure the accuracy, reliability, and completeness of the data we collect, process, and make available. This includes regular audits, validation processes, and updates to reflect the most accurate historical interpretations and data representations.
+
+**Data Storage** GLOBALISE will store their data with institutes such as the IISG which have acquired the [Core Trust Seal](https://www.coretrustseal.org/), making them a reliable and sustainable repository for digital materials. 
+
+**Privacy** We prioritize informed consent and transparency in our data practices, ensuring users are aware of how their data is used. Moreover, as far as possible, GLOBALISE intends to minimise the collection of user data. When the collection of data is necessary for enhancing user experience or for research purposes, we limit the scope to non-sensitive information that does not directly identify individuals.
 
 ## IV. References 
+
+CARE Principles for Indigneous Data Governance, [https://www.gida-global.org/care](https://www.gida-global.org/care)
 
 Chilcott, Alicia. "Towards protocols for describing racially offensive language in UK public archives." In _Archives in a Changing Climate-Part I & Part II_, pp. 151-168. Cham: Springer Nature Switzerland, 2022.
 
@@ -122,11 +137,10 @@ EU Commission. “[Ethics guidelines for trustworthy AI](https://digital-strateg
 
 Indigenous Archives Collective Position Statement on the right of Reply to Indigenous Knowledges and Information Held in Archvies, [https://indigenousarchives.net/indigenous-archives-collective-position-statement-on-the-right-of-reply-to-indigenous-knowledges-and-information-held-in-archives/](https://indigenousarchives.net/indigenous-archives-collective-position-statement-on-the-right-of-reply-to-indigenous-knowledges-and-information-held-in-archives/)
 
-[LINCS](https://lincsproject.ca/docs/about-lincs/policies), [https://lincsproject.ca/](https://lincsproject.ca/)
+Linked Infrastructure for Networked Cultural Scholarship, [https://lincsproject.ca/](https://lincsproject.ca/)
 
-[VOX Media](https://code-of-conduct.voxmedia.com/) 
-
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. ‘The FAIR Guiding Principles for Scientific Data Management and Stewardship’. Scientific Data 3, no. 1 (15 March 2016): 160018. [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
 ## V. Licence
 
-This document has been made available under a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licence. We extend an invitation to customise and utilise this material for your own project. We recommend modifying it to align with your project’s mission and identity, and we appreciate credit for building on our work. 
+This document has been made available under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) licence. We extend an invitation to customise and utilise this material for your own project. We recommend modifying it to align with your project’s mission and identity, and we appreciate credit for building on our work. 
