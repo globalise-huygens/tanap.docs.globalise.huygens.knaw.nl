@@ -17,10 +17,10 @@ The aim of the [GLOBALISE project](https://globalise.huygens.knaw.nl/) is to dev
 
 ## Table of Contents
 
-### GLOBALISE Mission, Research Themes and Research Queries
+### GLOBALISE Guiding Principles
 
-- [Mission and Research Themes](mission/mission_researchthemes_questions.md)
-- [Guiding Key Research Queries](mission/mission_researchthemes_questions.md)
+- [Mission and Research Themes](mission/mission_researchthemes.md)
+- [Guiding Key Research Questions](mission/themes-questions.md)
 
 ### GLOBALISE Ethics Guidelines
 
