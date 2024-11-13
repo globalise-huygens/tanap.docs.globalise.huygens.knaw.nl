@@ -33,12 +33,12 @@ Shaping our vision based on the three interventions described above, we have for
 
 To answer these questions, we have identified a series of themes and sub-themes that can stimulate a wide range of research into the social, political, economic, and cultural history of European expansion, non-Western societies, early globalisation, and related interactions. The key thematic domains we have defined are:
 
-1. [Political](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#political)  
-2. [Economic](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#economic)  
-3. [Social](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#social)  
-4. [Cultural](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#cultural)  
-5. [Environmental](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#environmental)  
-6. [Other](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#other)
+1. [Political](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#political)  
+2. [Economic](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#economic)  
+3. [Social](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#social)  
+4. [Cultural](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#cultural)  
+5. [Environmental](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#environmental)  
+6. [Other](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#other)
 
 These themes will guide the development of a research infrastructure allowing extraction of useful historical observations from the *Overgekomen Brieven en Papieren*. While we recognise that any selection is inherently subjective, we have based our choices on several factors: the content of the source material (what appears most frequently), the relevance of themes for the widest range of research interests (which domains and information are most essential for diverse questions and research types), and the potential for contributing new perspectives and histories (especially for studying local and non-Western societies, globalisation, and histories of colonisation and encounter).
 
@@ -62,7 +62,7 @@ Key infrastructure components that allow querying on entities and events, and pr
 3. **Ontology**  
    The ontology structures relations between entities, concepts, and events.
 
-The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](mission/mission/themes-queries.md) help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
+The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](mission/mission/themes-questions.md) help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
 
 ## Reflections on Project Implications for the Historical Method
 
@@ -98,7 +98,7 @@ For the research questions mentioned here, we classify polities and rulerships i
 3.	**Annotations and Ontology**
 We tag all mentions of polities in the archive and our event detection process identifies events that involve actions such as attacking (which includes sub-classes such as starting a war, ending a war, besieging and invasion), destroying and relationship-change. This enables us to plot all such events that are suggestive of troubled interactions which involve actors such as the polities Banten and the VOC, together with other relevant information such as when and where these events occurred. Users will therefore be able to sift through the archive and search for precisely those passages which signal conflict or conquest. 
 
-In the [overview of our guiding key research questions](mission/themes-queries.md), we will for each question indicate how these are related to different domains of our historical reference data for entities (and conversions and events), as well as for different sections of the thesauri and event ontology.
+In the [overview of our guiding key research questions](mission/themes-questions.md), we will for each question indicate how these are related to different domains of our historical reference data for entities (and conversions and events), as well as for different sections of the thesauri and event ontology.
 
 ## Current Status
 
