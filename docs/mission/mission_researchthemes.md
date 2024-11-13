@@ -1,4 +1,4 @@
-# Mission, Research Themes, and Questions as Guiding Principles for the GLOBALISE Infrastructure
+# GLOBALISE Guiding Principles
 
 **[Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)**
 
@@ -33,12 +33,12 @@ Shaping our vision based on the three interventions described above, we have for
 
 To answer these questions, we have identified a series of themes and sub-themes that can stimulate a wide range of research into the social, political, economic, and cultural history of European expansion, non-Western societies, early globalisation, and related interactions. The key thematic domains we have defined are:
 
-1. [Political](mission/themes-queries.md#political)  
-2. [Economic](#economic)  
-3. [Social](#social)  
-4. [Cultural](#cultural)  
-5. [Environmental](#environmental)  
-6. [Other](#other)
+1. [Political](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#political)  
+2. [Economic](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#economic)  
+3. [Social](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#social)  
+4. [Cultural](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#cultural)  
+5. [Environmental](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#environmental)  
+6. [Other](https://docs.globalise.huygens.knaw.nl/mission/themes-queries/#other)
 
 These themes will guide the development of a research infrastructure allowing extraction of useful historical observations from the *Overgekomen Brieven en Papieren*. While we recognise that any selection is inherently subjective, we have based our choices on several factors: the content of the source material (what appears most frequently), the relevance of themes for the widest range of research interests (which domains and information are most essential for diverse questions and research types), and the potential for contributing new perspectives and histories (especially for studying local and non-Western societies, globalisation, and histories of colonisation and encounter).
 
