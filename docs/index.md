@@ -17,7 +17,12 @@ The aim of the [GLOBALISE project](https://globalise.huygens.knaw.nl/) is to dev
 
 ## Table of Contents
 
-### GLOBALISE Ethics Guidelins
+### GLOBALISE Mission, Research Themes and Research Queries
+
+- [Mission and Research Themes](mission/mission_researchthemes_questions.md)
+- [Guiding Key Research Queries](mission/mission_researchthemes_questions.md)
+
+### GLOBALISE Ethics Guidelines
 
 - [Ethics Policy](ethics/policy.md)
 - [Ethical Review of Work Processes](ethics/workflow-review.md).
