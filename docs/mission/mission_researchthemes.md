@@ -1,12 +1,10 @@
 # Mission and Research Themes
 
-Authors: [Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)
-Version: October 2024
-
--------
-
-
-The creation of this mission and research themes document has been enriched by the valuable advice of Arno Bosse, Lodewijk Petram, and Leon van Wissen as team leads of the different work packages in the GLOBALISE project. Other team members, including Sophie Arnoult, Mrinalini Luthra, Kay Pepping, Brecht Nijman, Merve Tosun, Henrike Vellinga, and Stella Verkijk, also provided constructive input. We also thank the many participants in the Globalise researcher panels for discussing and providing critical feedback on the themes document in the early stages of the project.
+**Date:** October 18, 2024  
+**Version:** 1.0  
+**Status:** Work in progress   
+**Authors:** [Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)  
+**Input received from:** Sophie Arnoult, Arno Bosse, Mrinalini Luthra, Brecht Nijman, Kay Pepping, Lodewijk Petram, Merve Tosun, Henrike Vellinga, Stella Verkijk, Leon van Wissen; participants in the GLOBALISE researcher panel meetings
 
 --------
 
