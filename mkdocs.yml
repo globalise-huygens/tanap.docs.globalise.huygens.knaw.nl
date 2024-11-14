@@ -1,6 +1,7 @@
 site_name: GLOBALISE Docs
 repo_name: "globalise-huygens/docs.globalise.huygens.knaw.nl/"
 repo_url: "https://github.com/globalise-huygens/docs.globalise.huygens.knaw.nl/"
+site_url: "https://docs.globalise.huygens.knaw.nl/"
 
 theme:
   name: material
@@ -23,7 +24,7 @@ nav:
       - "Guiding Key Research Questions": mission/themes-questions.md
   - "GLOBALISE Ethics Guidelines":
       - "Ethics Policy": ethics/policy.md
-      - "Ethical Review of Work Processes": ethics/workflow-review.md
+<!--      - "Ethical Review of Work Processes": ethics/workflow-review.md -->
 markdown_extensions:
   - toc:
       permalink: True

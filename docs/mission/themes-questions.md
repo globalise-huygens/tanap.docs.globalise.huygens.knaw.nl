@@ -1,7 +1,11 @@
-
 # **GLOBALISE Guiding Key Research Questions**
 
-## **Political** 
+## Introduction
+
+<p style="text-align: center;"><a href="/static/img/GLOBALISE-ResearchThemes_bg.png" target="_blank"><img src="/static/img/GLOBALISE-ResearchThemes.png" alt="GLOBALISE Research Themes diagram"><br>
+Click image to enlarge</a></p>
+
+## Political 
 
 ### Scope
 
@@ -27,7 +31,7 @@
 | What were the effects of polities expansion (VOC/other polity)? How, where and when did the VOC (or other polities) politically engage with local populations?  | Polities (entity); Places (entity); Temporal expressions (entity); Events (entity) | Actors (type); Actor roles (type); Relations (type) Statuses (type) Temporal units (type) Places (type)  \+ Political Terminology | Conquest, subjugation, policy making, treaty events, treaty conditions, |
 | Which polities (or rulers)  ruled over what locations or over whom? \[Political Governance\] | Polities (entity) Persons (entity) Places (entity) Temporal expressions (entity)  | Actors (type); Actor roles (type); Relations (type) Statuses (type) Temporal units (type) Places (type)  | Appointments |
 
-## **Economic**
+## Economic
 
 ### Scope
 
@@ -55,7 +59,7 @@
 
  
 
-## **Social** 
+## Social
 
 ### Scope
 
@@ -90,7 +94,7 @@ Gender History:
 | Who resisted/revolted where and when? In relation to what work/obligation/polity/event did the resistance take place? |  Persons (entity) Temporal expressions (entity) Places (entity) Ships (entity) Polities (entity)  | Statuses (type) Actors (type) Relations (type) Commodities (type) Temporal units (type) Places (type)  | Revolt  |
 | What mentions of gender can we recover from the archive? How are genders written about? What roles, work or actions were gendered and how were they written about?    Gender History | Persons (entity) Temporal expressions (entity) Places (entity) Polities (entity) \[NB: queens, female merchants\] | Statuses (type) Relations (type) Actors (type) Commodities (type) Temporal units (type) Places (type)  \[NB: gender invisible categories), roles (housewives, ‘slave woman’)\] | Events like marriage, conditions like being widowed. Any (work-related) event |
 
-## **Cultural** 
+## Cultural 
 
 ### Scope
 
@@ -119,7 +123,7 @@ History of Knowledge Circulation (scientific knowhow, flora and fauna, religion,
 | Where and when were what religions followed or spread?  \[Religious history\] |  Persons (entity) Temporal expressions (entity) Places (entity) Polities (entity)  | Relations (type) Actors (type) Statuses (type) Places (type) Temporal units (type) \[NB: Also includes: Religious concepts and terminology \+ religious professions (priests etc)\] | Events like conversion, preaching, religious instruction |
 | Where and when were natural (botanical, live animals, animal products) or scientific objects transported in the context of gift giving/ knowledge production? Where and when were natural or scientific objects reported on in different documents? History of Knowledge Circulation (scientific knowhow, flora and fauna, religion, literacy) | Persons (entity) Places (entity) Temporal expressions (entity) \[NB: Persons, Groups (like doctors, surgeons, engineers, diamond cutters, religious orders, priests, teachers, artists), polities\] | Actors (type) Commodities (type) Documents (type) Places (type) Temporal units (type) Actor roles (type) Statuses (type) Occupations (type) Events (type) \[NB: Commodities (maps, books, spectacles, compasses, guns, medicinal plants etc)\] |  Event types concerning transportation |
 
-## **Environmental**
+## Environmental
 
 ### Scope
 
@@ -141,7 +145,7 @@ History of Knowledge Circulation (scientific knowhow, flora and fauna, religion,
 | How did humans interact with animals?  |   | Commodities, persons, groups, | Events relating to trade, diplomacy in the form of gifts, death, destruction, hunting, domestication, use of animals as draught animals |
 | When and where did famines occur? What information can be drawn about related phenomena in the form of war, food scarcity, impairment of food supply and extreme weather? | Commodities, groups, persons, locations, polities | Commodities, locations, groups, professions, concepts relating to agriculture, taxation, finance | Events relating to death, destruction, scarcity, shortage, drought, pestilence |
 
-## **Other**
+## Other
 
 ### Scope
 

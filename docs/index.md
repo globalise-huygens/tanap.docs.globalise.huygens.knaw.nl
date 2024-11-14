@@ -25,6 +25,6 @@ The aim of the [GLOBALISE project](https://globalise.huygens.knaw.nl/) is to dev
 ### GLOBALISE Ethics Guidelines
 
 - [Ethics Policy](ethics/policy.md)
-- [Ethical Review of Work Processes](ethics/workflow-review.md).
+<!-- - [Ethical Review of Work Processes](ethics/workflow-review.md) -->
     
 

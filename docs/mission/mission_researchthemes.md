@@ -1,6 +1,6 @@
 # GLOBALISE Guiding Principles
 
-**[Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)**
+[Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)
 
 The creation of this mission and research themes document has been enriched by the valuable advice of Arno Bosse, Lodewijk Petram, and Leon van Wissen as team leads of the different work packages in the GLOBALISE project. Other team members, including Sophie Arnoult, Mrinalini Luthra, Kay Pepping, Brecht Nijman, Merve Tosun, Henrike Vellinga, and Stella Verkijk, also provided constructive input. We also thank the many participants in the Globalise researcher panels for discussing and providing critical feedback on the themes document in the early stages of the project.
 
@@ -102,15 +102,11 @@ In the [overview of our guiding key research questions](mission/themes-questions
 
 ## Current Status
 
-Our goal is to deliver high-quality relevant data for the five prioritised domains. Datasets have been created or are in the making for polities (and rulers and dynasties), commodities, units of measurement, locations  and persons. We publish datasets as soon as first versions are ready for the public: https://datasets.iisg.amsterdam/dataverse/globalise. The social domain will be next on our list, after which we will explore what we can do to work on the environmental and cultural domains. The thesaurus for different domains is currently work in progress with colleagues from all over the globe. The entity recognition and event detection models are in full development, with the quality the first output of the entity recognition for a wide variety of classes now being evaluated. 
+Our goal is to deliver high-quality relevant data for the five prioritised domains. Datasets have been created or are in the making for polities (and rulers and dynasties), commodities, units of measurement, locations  and persons. We publish datasets as soon as first versions are ready for the public on [our Dataverse](https://datasets.iisg.amsterdam/dataverse/globalise). The social domain will be next on our list, after which we will explore what we can do to work on the environmental and cultural domains. The thesaurus for different domains is currently work in progress with colleagues from all over the globe. The entity recognition and event detection models are in full development, with the quality the first output of the entity recognition for a wide variety of classes now being evaluated. 
 For more information, visit our websites:  
-- [https://globalise.huygens.knaw.nl/](https://globalise.huygens.knaw.nl/)  
-- [https://github.com/globalise-huygens/](https://github.com/globalise-huygens/)
+- [GLOBALISE project website](https://globalise.huygens.knaw.nl/)  
+- [GLOBALISE GitHub environment](https://github.com/globalise-huygens/)
 
 Please note that this document is not a final statement but a plan for developing themes, reference data, and queries over time based on project demands, infrastructure, and user interaction. We welcome any input, advice, and questions to improve our work.
-
-For a visual overview, see the **research themes and infrastructure diagram** by Leon van Wissen and Lodewijk Petram: [INCLUDE]  
-[https://app.diagrams.net/#G145A75NuKebJUvHlYUf29potdjF_cGIrO](https://app.diagrams.net/#G145A75NuKebJUvHlYUf29potdjF_cGIrO)
-
 
 [^1]: The ‘General Letters’ We have since widened the scope of our project to include a significantly larger corpus - the Overgekomen Brieven en Papieren (the letters received from the VOC in the Dutch Republic) of which the General Letters are a small part. We think this better fit the aims of the project, as also described in this statement.

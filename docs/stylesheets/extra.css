@@ -52,13 +52,13 @@ body {
 }
 
 /* Increase font size on screens smaller than 768px */
-@media (max-width: 768px) {
+@media screen (max-width: 768px) {
   body {
-      font-size: 1.1em; /* Adjust as needed */
+      font-size: 5em; /* Adjust as needed */
   }
   /* Adjust other elements as needed */
   h1, h2, h3, h4, h5, h6 {
-      font-size: 1.2em; /* Adjust heading font sizes */
+      font-size: 5em; /* Adjust heading font sizes */
   }
   /* Additional adjustments */
 }
