@@ -3,7 +3,7 @@
 **Date:** October 18, 2024  
 **Version:** 1.0  
 **Status:** Work in progress   
-**Authors:** Matthias van Rossum &nbsp;<a href="https://orcid.org/0000-0002-9567-5654" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a> and Manjusha Kuruppath &nbsp;<a href="https://orcid.org/0009-0002-8032-7013" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a> 
+**Authors:** Matthias van Rossum <a href="https://orcid.org/0000-0002-9567-5654" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a> and Manjusha Kuruppath <a href="https://orcid.org/0009-0002-8032-7013" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a>   
 **Input received from:** Sophie Arnoult, Arno Bosse, Mrinalini Luthra, Brecht Nijman, Kay Pepping, Lodewijk Petram, Merve Tosun, Henrike Vellinga, Stella Verkijk, Leon van Wissen; participants in the GLOBALISE researcher panel meetings
 
 --------
