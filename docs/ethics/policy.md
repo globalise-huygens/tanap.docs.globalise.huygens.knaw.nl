@@ -1,6 +1,6 @@
 # GLOBALISE Ethics Policy
 
-**Date:** 19th February, 2024  
+**Date:** February 19, 2024  
 **Version:** 1.0  
 **Author:** Mrinalini Luthra &nbsp;<a href="https://orcid.org/0000-0001-5348-3673" target="_blank"><img src="https://info.orcid.org/wp-content/uploads/2020/12/orcid_16x16.gif" alt="ORCID"/></a>
 
