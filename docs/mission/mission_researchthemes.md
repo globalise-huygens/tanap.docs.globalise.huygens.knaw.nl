@@ -1,8 +1,14 @@
-# GLOBALISE Guiding Principles
+# Mission and Research Themes
 
-[Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)
+Authors: [Matthias van Rossum](https://iisg.amsterdam/en/about/staff/matthias-van-rossum) and [Manjusha Kuruppath](https://www.huygens.knaw.nl/medewerkers/manjusha-kuruppath/)
+Version: October 2024
+
+-------
+
 
 The creation of this mission and research themes document has been enriched by the valuable advice of Arno Bosse, Lodewijk Petram, and Leon van Wissen as team leads of the different work packages in the GLOBALISE project. Other team members, including Sophie Arnoult, Mrinalini Luthra, Kay Pepping, Brecht Nijman, Merve Tosun, Henrike Vellinga, and Stella Verkijk, also provided constructive input. We also thank the many participants in the Globalise researcher panels for discussing and providing critical feedback on the themes document in the early stages of the project.
+
+--------
 
 ## Introduction: Our Position and Contributions
 
@@ -33,12 +39,12 @@ Shaping our vision based on the three interventions described above, we have for
 
 To answer these questions, we have identified a series of themes and sub-themes that can stimulate a wide range of research into the social, political, economic, and cultural history of European expansion, non-Western societies, early globalisation, and related interactions. The key thematic domains we have defined are:
 
-1. [Political](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#political)  
-2. [Economic](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#economic)  
-3. [Social](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#social)  
-4. [Cultural](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#cultural)  
-5. [Environmental](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#environmental)  
-6. [Other](https://docs.globalise.huygens.knaw.nl/mission/themes-questions/#other)
+- Political
+- Economic
+- Social
+- Cultural
+- Environmental
+- Other
 
 These themes will guide the development of a research infrastructure allowing extraction of useful historical observations from the *Overgekomen Brieven en Papieren*. While we recognise that any selection is inherently subjective, we have based our choices on several factors: the content of the source material (what appears most frequently), the relevance of themes for the widest range of research interests (which domains and information are most essential for diverse questions and research types), and the potential for contributing new perspectives and histories (especially for studying local and non-Western societies, globalisation, and histories of colonisation and encounter).
 
@@ -46,7 +52,7 @@ Given the prominent place of political and economic history, it may appear that 
 
 ## From Themes to Research Practice
 
-The GLOBALISE infrastructure enables both simple and sophisticated text searches on the resource corpus. Our temporary, though basic, transcription viewer already allows for this ([https://transcriptions.globalise.huygens.knaw.nl](https://transcriptions.globalise.huygens.knaw.nl)). In our future user interface, researchers will be able to query combinations of entities and events that yield results with contextual information. Notably, while these queries are descriptive (what, where, and when), researchers must further analyse and interpret results to answer explanatory research questions (how and why).
+The GLOBALISE infrastructure enables both simple and sophisticated text searches on the resource corpus. Our temporary, basic, [transcription viewer](https://transcriptions.globalise.huygens.knaw.nl) already allows for this. In our future user interface, researchers will be able to query combinations of entities and events that yield results with contextual information. Notably, while these queries are descriptive (what, where, and when), researchers must further analyse and interpret results to answer explanatory research questions (how and why).
 
 Key infrastructure components that allow querying on entities and events, and provide contextualised results, include:
 
@@ -62,7 +68,7 @@ Key infrastructure components that allow querying on entities and events, and pr
 3. **Ontology**  
    The ontology structures relations between entities, concepts, and events.
 
-The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](mission/mission/themes-questions.md) help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
+The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](mission/mission/themes-questions.md) for each of the thematic domains help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
 
 ## Reflections on Project Implications for the Historical Method
 
@@ -77,9 +83,9 @@ Similarly, a critical perspective is required when using the project’s curated
 
 This discussion of the potential drawbacks or shortcomings of our infrastructure is not intended as an excuse, but rather as a reminder and call to action: to engage with the archive responsibly, to design our infrastructure in an open and reflective manner, to check and improve the quality of its content, and to instruct, educate, and challenge users to fully explore its potential (while remaning aware of the limitations), and continuing to develop our source and methodological criticism.
 
-### The Convenience of Big Data and the Necessity of Critical Methods
+### Harnessing Big Data Responsibly
 
-As researchers engage with the new possibilities of digital archives, we emphasise the need for critical methods when interpreting digital sources. Researchers should reflect on each document's type, context, authorship, and purpose. The archives do not provide unfiltered historical truths; they offer fragmented observations and interpretations that require careful contextualisation. Advanced search functions enable researchers to extract snippets of information, but these should be understood as representations of historical realities shaped by the document's context.
+As researchers engage with the new possibilities of digital archives, we emphasise the need for critical methods when interpreting digital sources. Researchers should reflect on each document’s type, context, authorship, and purpose. The archives do not provide unfiltered historical truths; they offer fragmented observations and interpretations that require careful contextualisation. Advanced search functions enable researchers to extract snippets of information, but these should be understood as representations of historical realities shaped by the document’s context.
 
 While the infrastructure project remains transparent about the processes, tools, and methods used, we cannot anticipate all forms of future usage. We call on users to engage responsibly and contextually, and we will work to provide guidance on how to do so.
 
@@ -109,4 +115,4 @@ For more information, visit our websites:
 
 Please note that this document is not a final statement but a plan for developing themes, reference data, and queries over time based on project demands, infrastructure, and user interaction. We welcome any input, advice, and questions to improve our work.
 
-[^1]: The ‘General Letters’ We have since widened the scope of our project to include a significantly larger corpus - the Overgekomen Brieven en Papieren (the letters received from the VOC in the Dutch Republic) of which the General Letters are a small part. We think this better fit the aims of the project, as also described in this statement.
+[^1]: The ‘General Letters’ are summarising reports within the *Overgekomen Brieven en Papieren* (OBP) archival document series. Early in the project, we have widened the scope to include the full OBP series. We think this better fit the aims of the project, as also described in this statement.
