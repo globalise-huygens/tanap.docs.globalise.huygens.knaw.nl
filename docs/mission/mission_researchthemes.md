@@ -66,7 +66,7 @@ Key infrastructure components that allow querying on entities and events, and pr
 3. **Ontology**  
    The ontology structures relations between entities, concepts, and events.
 
-The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](themes-questions.md) for each of the thematic domains help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
+The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [guiding key research queries](themes-questions.md) for each of the thematic domains help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
 
 ## Reflections on Project Implications for the Historical Method
 
