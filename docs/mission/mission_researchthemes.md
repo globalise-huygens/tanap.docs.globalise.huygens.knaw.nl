@@ -66,7 +66,7 @@ Key infrastructure components that allow querying on entities and events, and pr
 3. **Ontology**  
    The ontology structures relations between entities, concepts, and events.
 
-The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](mission/mission/themes-questions.md) for each of the thematic domains help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
+The labour-intensive development of these components, especially high-quality reference data and ontologies, requires strategic choices about the scope and coverage of themes and contextualisation efforts. A set of [Guiding key research queries](themes-questions.md) for each of the thematic domains help direct this work, ensuring we provide the necessary elements to support a wide range of research questions.
 
 ## Reflections on Project Implications for the Historical Method
 
@@ -102,7 +102,7 @@ For the research questions mentioned here, we classify polities and rulerships i
 3.	**Annotations and Ontology**
 We tag all mentions of polities in the archive and our event detection process identifies events that involve actions such as attacking (which includes sub-classes such as starting a war, ending a war, besieging and invasion), destroying and relationship-change. This enables us to plot all such events that are suggestive of troubled interactions which involve actors such as the polities Banten and the VOC, together with other relevant information such as when and where these events occurred. Users will therefore be able to sift through the archive and search for precisely those passages which signal conflict or conquest. 
 
-In the [overview of our guiding key research questions](mission/themes-questions.md), we will for each question indicate how these are related to different domains of our historical reference data for entities (and conversions and events), as well as for different sections of the thesauri and event ontology.
+In the [overview of our guiding key research questions](themes-questions.md), we will for each question indicate how these are related to different domains of our historical reference data for entities (and conversions and events), as well as for different sections of the thesauri and event ontology.
 
 ## Current Status
 
