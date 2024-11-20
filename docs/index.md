@@ -19,8 +19,7 @@ The [GLOBALISE project](https://globalise.huygens.knaw.nl/) aims to develop an o
 
 ### GLOBALISE Mission and Scope
 
-- [Mission and Research Themes](mission/mission_researchthemes.md)
-- [Guiding Key Research Questions](mission/themes-questions.md)
+- [Mission, Research Themes and Guiding Questions](mission/mission_researchthemes.md)
 
 ### GLOBALISE Ethics Guidelines
 
