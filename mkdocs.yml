@@ -19,10 +19,10 @@ theme:
 nav:
   - Home: index.md
   #- About: about.md
-  - "GLOBALISE Mission and Scope":
-      - "Mission, Research Themes and Guiding Questions": mission/mission_researchthemes.md
-  - "GLOBALISE Ethics Guidelines":
-      - "Ethics Policy": ethics/policy.md
+  - "GLOBALISE Mission and Scope": mission/mission_researchthemes.md
+  #    - "Mission, Research Themes and Guiding Questions": mission/mission_researchthemes.md
+  - "GLOBALISE Ethics Policy": ethics/policy.md
+  #    - "Ethics Policy": ethics/policy.md
 <!--      - "Ethical Review of Work Processes": ethics/workflow-review.md -->
 markdown_extensions:
   - toc:
