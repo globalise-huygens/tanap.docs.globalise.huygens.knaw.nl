@@ -15,7 +15,7 @@ This is a living document which we will revisit and revise. We encourage anyone 
 
 ## II. Ethics Guidelines
 
-In GLOBALISE, , ethical adherence is a cornerstone throughout the project lifecycle, encompassing work packages, future plans, and governance. Reflexivity is a core principle of the project: should any aspect fall short of these ethical standards during periodic evaluations, it is imperative to restructure it to conform to the following core principles.
+In GLOBALISE, ethical adherence is a cornerstone throughout the project lifecycle, encompassing work packages, future plans, and governance. Reflexivity is a core principle of the project: should any aspect fall short of these ethical standards during periodic evaluations, it is imperative to restructure it to conform to the following core principles.
 
 ### 1. Diversity, Equity, and Inclusion (DEI) 
 GLOBALISE is dedicated to advancing DEI in every part of the project: people, governance, perspectives, datasets, algorithms, and interfaces. 
@@ -36,7 +36,7 @@ The way in which we advance DEI is visible in the following points:
 
 **Stakeholder Participation** GLOBALISE finds it critical to work with stakeholders who may directly or indirectly be affected by the infrastructure. Our approach is built on three pillars: a diverse steering team supported by external advisors, regular interactive workshops for knowledge sharing and feedback, and dedicated community engagement. Through our outreach manager, we continuously establish new partnerships and maintain open channels of communication with GLOBALISE users, ensuring their needs, critques, and insights shape our development.
 
-**Safe Digital Space** Through our work, we strive to create a digital infrastructure where everyone can feel safe doing research. We acknowledge the sources GLOBALISE focuses on include offensive language, as well as harmful metadata descriptions and opaque indexing practices: discriminating, erasing and belittling marginalised peoples. Through our careful and expert-led historical contextualisation, documentation and interface design we aim to redress this hurt present in these historical sources. 
+**Safe Digital Space** Through our work, we strive to create a digital infrastructure where everyone can feel safe doing research. We acknowledge the sources GLOBALISE focuses on include offensive language, as well as harmful metadata descriptions and opaque indexing practices: discriminating, erasing and belittling marginalised peoples. Through our careful and expert-led historical contextualisation, documentation and interface design we aim to address these safety concerns by providing clear warnings and improved metadata.
 
 **Respecting Ownership** Community experts hold knowledge invaluable to our project. In order to maintain and respect where this ownership is located, we aim for fair compensation to community experts for insights into our work. 
 
@@ -60,7 +60,7 @@ This entails:
 
 This includes:
 
-**Auditability** It is important to establish mechanisms that facilitate the infrastructure’s auditability. This will include providing extensive provenance on the data produced and provided by GLOBALISE and any other authoritative layers that we add, creating meticulous datasheets and data-envelopes for every dataset produced and publishing datasets and research in peer-reviewed journals. 
+**Auditability** It is important to establish mechanisms that facilitate the infrastructure’s auditability. This will include providing extensive provenance on the data produced and provided by GLOBALISE and any other authoritative layers that we add, creating meticulous data-envelopes for every dataset produced and publishing datasets and research in peer-reviewed journals. 
 
 **Training and Education** to help develop accountability practices. 
 
@@ -112,9 +112,6 @@ GLOBALISE prioritises social robustness of the models it employs.
 We prioritize data protection and commit to not collecting or storing personal user information. For research data, our governance framework includes comprehensive oversight mechanisms for collection, storage, processing, and access control. All research data is stored with certified trusted repositories, ensuring long-term sustainability and security. 
 
 
-
-
-
 ## III. Ethics Report 
 
 In this section, we provide a template for implementing and applying the ethics guidelines to the GLOBALISE project. Rather than presenting a complete report for GLOBALISE, we offer the Ethics Report template and two detailed workflow examples that demonstrate how to evaluate project components against our ethical principles. 
@@ -127,19 +124,46 @@ This template serves multiple purposes:
 
 Each project component should be evaluated against the following ethical dimensions outlined in Figure 1.
 
-<p style="text-align: center;"><img src="/static/img/ethics_table_Template.png" alt="Ethics Report Template" style="max-width: 100%; height: auto;"><br>
-Figure 1: Ethics Report Template</a></p>
+<p style="text-align: center;">
+    <a href="/static/img/table_template_ethics.PNG" target="_blank">
+        <img src="/static/img/table_template_ethics.PNG" alt="Ethics Report Template">
+    </a><br>
+    Figure 1: Ethics Report Template 
+    <a href="/static/img/table_template_ethics.PNG" target="_blank">(Click image to enlarge)</a>
+</p>
 
 Below we provide ethics reports of two workflows:
 
 ### Primary Sources
 
-**Author:** Lodewijk Petram
-
+**Author:** Lodewijk Petram  
 **Last updated:** 14 February 2025
 
-<p style="text-align: center;"><img src="/static/img/primarysources_ethicsasses.png" alt="Ethics Report Primary Sources" style="max-width: 100%; height: auto;"><br>
-Figure 2: Ethics Reporting Primary Sources</a></p>
+
+
+<p style="text-align: center;">
+    <a href="/static/img/sources-ethics.png" target="_blank">
+        <img src="/static/img/sources-ethics.png" alt="Ethics Report Primary Sources">
+    </a><br>
+    Figure 2: Ethics Report - Primary Sources 
+    <a href="/static/img/table_places_ethics.PNG" target="_blank">(Click image to enlarge)</a>
+</p>
+
+### Places Dataset
+
+**Author:** Ruben Land and Manjusha Kurrupath  
+**Last updated:** 14 February 2025
+
+<p style="text-align: center;">
+    <a href="/static/img/table_places_ethics.PNG" target="_blank">
+        <img src="/static/img/table_places_ethics.PNG" alt="Ethics Report Places Dataset">
+    </a><br>
+    Figure 3: Ethics Report - Places Dataset 
+    <a href="/static/img/table_places_ethics.PNG" target="_blank">(Click image to enlarge)</a>
+</p>
+
+These ethics reports serve as monitoring tools rather than as static documents. We actively use them to track our progress, identify areas for improvement, and ensure our work aligns with our core values and policies. Through regular review and updates of these assessments, we maintain accountability and adapt our practices as needed. Looking ahead, we are committed to expanding our transparency and accountability by publishing comprehensive ethics reports for each component of our work. 
+
 
 ## IV. Licence
 
