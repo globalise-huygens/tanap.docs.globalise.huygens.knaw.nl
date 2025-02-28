@@ -1,7 +1,7 @@
-site_name: GLOBALISE Docs
-repo_name: "globalise-huygens/docs.globalise.huygens.knaw.nl/"
-repo_url: "https://github.com/globalise-huygens/docs.globalise.huygens.knaw.nl/"
-site_url: "https://docs.globalise.huygens.knaw.nl/"
+site_name: GLOBALISE TANAP
+repo_name: "globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/"
+repo_url: "https://github.com/globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/"
+site_url: "https://docs.globalise.huygens.knaw.nl/tanap/"
 
 theme:
   name: material
@@ -18,12 +18,10 @@ theme:
 
 nav:
   - Home: index.md
-  #- About: about.md
-  - "GLOBALISE Mission and Scope": mission/mission_researchthemes.md
-  #    - "Mission, Research Themes and Guiding Questions": mission/mission_researchthemes.md
-  - "GLOBALISE Ethics Policy": ethics/policy.md
-  #    - "Ethics Policy": ethics/policy.md
-<!--      - "Ethical Review of Work Processes": ethics/workflow-review.md -->
+  - "TANAP archival inventories": archival-inventories/index.md
+  - "TANAP settlement reconstructions": settlement-reconstructions/index.md
+  - "TANAP Cape of Good Hope transcriptions": cape-transcriptions/index.md
+  
 markdown_extensions:
   - toc:
       permalink: True

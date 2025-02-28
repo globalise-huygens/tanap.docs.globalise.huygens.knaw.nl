@@ -13,12 +13,9 @@ hide:
 
 
 
-The [GLOBALISE project](https://globalise.huygens.knaw.nl/) aims to develop an online infrastructure to unlock key VOC documents and reports for advanced research. This Docs page provides background on the project, including sections on our [Mission and scope](mission/mission_researchthemes.md), and [Ethics policy](ethics/policy.md). Future additions will include documentation of the GLOBALISE ontology, a description of source corpus, and guiding principles for interface design. We welcome your feedback through our [contact form](https://globalise.huygens.knaw.nl/contact-us/).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit facilisis eros. Vestibulum non erat eget tortor laoreet varius. Donec lacinia congue arcu, ut aliquet ante tincidunt non. Maecenas bibendum mauris eu sem tempor, at iaculis augue facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis porta libero. Proin a sagittis elit, quis faucibus magna. Pellentesque tempor nunc ut nisi vehicula vulputate. Donec vel purus a lorem tincidunt faucibus sed sed diam. Vestibulum condimentum sem molestie, bibendum urna porttitor, ultrices arcu. Donec non accumsan diam.
 
 ## Table of Contents
-<!-- ### GLOBALISE Mission and Scope-->
-<!--ml: commenting out until there're more files underneath-->
-- ### [Mission, Research Themes, and Guiding Questions](mission/mission_researchthemes.md)
-- ### [Ethics Policy](ethics/policy.md)
-    
-
+- ### [TANAP archival inventories](archival-inventories/index.md)
+- ### [TANAP settlement reconstructions](settlement-reconstructions/index.md)
+- ### [TANAP Cape of Good Hope transcriptions](cape-transcriptions/index.md)
