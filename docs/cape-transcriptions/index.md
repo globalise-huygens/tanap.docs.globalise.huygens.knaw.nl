@@ -3,6 +3,7 @@
 ## Orphan Chamber
 
 - [MOOC8_1-5](Orphan-Chamber/MOOC8-XML/MOOC8_1-5_XML.md)
+- [MOOC8_6-10](Orphan-Chamber/MOOC8-XML/MOOC8_6-10_XML.md)
 - [MOOC8_11-15](Orphan-Chamber/MOOC8-XML/MOOC8_11-15_XML.md)
 - [MOOC8_16-20](Orphan-Chamber/MOOC8-XML/MOOC8_16-20_XML.md)
 - [MOOC8_21-30](Orphan-Chamber/MOOC8-XML/MOOC8_21-30_XML.md)
@@ -10,7 +11,6 @@
 - [MOOC8_41-45](Orphan-Chamber/MOOC8-XML/MOOC8_41-45_XML.md)
 - [MOOC8_46-50](Orphan-Chamber/MOOC8-XML/MOOC8_46-50_XML.md)
 - [MOOC8_51-60](Orphan-Chamber/MOOC8-XML/MOOC8_51-60_XML.md)
-- [MOOC8_6-10](Orphan-Chamber/MOOC8-XML/MOOC8_6-10_XML.md)
 - [MOOC8_71-75](Orphan-Chamber/MOOC8-XML/MOOC8_71-75_XML.md)
 
 ## Council of Policy
