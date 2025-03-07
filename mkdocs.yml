@@ -1,4 +1,4 @@
-site_name: GLOBALISE TANAP resources
+site_name: TANAP resources
 repo_name: "globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/"
 repo_url: "https://github.com/globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/"
 site_url: "https://docs.globalise.huygens.knaw.nl/tanap/"
@@ -18,9 +18,9 @@ theme:
 
 nav:
   - Home: index.md
-  - "TANAP archival inventories": archival-inventories/index.md
-  - "TANAP settlement reconstructions": settlement-reconstructions/index.md
-  - "TANAP Cape of Good Hope transcriptions": cape-transcriptions/index.md
+  - "TANAP Archival Inventories": archival-inventories/index.md
+  - "TANAP Settlement Reconstructions": settlement-reconstructions/index.md
+  - "TANAP Cape of Good Hope Transcriptions": cape-transcriptions/index.md
   
 markdown_extensions:
   - toc:

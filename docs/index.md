@@ -6,14 +6,14 @@ hide:
 # Home 
 
 <!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
-<p style="display: flex; justify-content: center; align-items: center; gap: 40px; text-align: center;">
-    <img src="static/img/logo/globalise_g.svg" alt="GLOBALISE Logo" style="width: 30%; max-width: 200px;">
-    <img src="static/img/logo/tanap.png" alt="TANAP Logo" style="width: 30%; max-width: 200px;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 100px; text-align: center;">
+    <img src="static/img/logo/globalise_g.svg" alt="GLOBALISE Logo" style="width: 30%; max-width: 75px;">
+    <img src="static/img/logo/tanap.png" alt="TANAP Logo" style="width: 30%; max-width: 75px;">
 </p>
 
 ## Preserving TANAP’s Legacy
 
-On this website, the GLOBALISE project presents a selection of materials that were once available on the TANAP website, ensuring continued access to important resources for researchers and the public. While the [TANAP index of the *Overgekomen Brieven en Papieren* section of the VOC archives](https://www.nationaalarchief.nl/en/research/index/nt00348) remains accessible through the Nationaal Archief, this website provides the following resources:
+On this website, the [GLOBALISE project](https://globalise.huygens.knaw.nl/) presents a selection of materials that were once available on the TANAP website, ensuring continued access to important resources for researchers and the public. While the [TANAP index of the *Overgekomen Brieven en Papieren* section of the VOC archives](https://www.nationaalarchief.nl/en/research/index/nt00348) remains accessible through the Nationaal Archief, this website provides the following resources:
 
 - [Archival inventories of VOC-related collections worldwide](archival-inventories/index.md)
 - [Settlement reconstructions, listing VOC archival materials related to specific settlements](settlement-reconstructions/index.md)
