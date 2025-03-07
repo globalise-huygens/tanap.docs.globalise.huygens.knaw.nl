@@ -51,14 +51,19 @@ body {
   }
 }
 
-.md-typeset table {
+.md-typeset__table {
+  display: table !important; /* Override inline-block */
   margin-left: auto;
   margin-right: auto;
   width: 100%;
 }
 
 @media (min-width: 768px) {
-  .md-typeset table {
+  .md-typeset__table {
+      display: table !important; /* Override inline-block */
+      margin-left: auto;
+      margin-right: auto;
+      min-width: 75%;
       width: 75%;
   }
 }
