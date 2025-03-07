@@ -2,7 +2,7 @@
 
 ## Orphan Chamber
 
-The links below point to transcriptions of papers from deceased estates administered by the Orphan Chamber at the Cape, created by the TEPC Transcription Project. Please consult the [Introduction by the TEPC Transcription Team](pdf/introduction_to_the_inventories_of_the_orphan_chamber.pdf) for more information.
+The links below point to transcriptions of papers from deceased estates administered by the Orphan Chamber at the Cape, created by the TEPC Transcription Project (2004-2008), executed in the Western Cape Archives and Records Service in Cape Town. Please consult the [Introduction by the TEPC Transcription Team](pdf/introduction_to_the_inventories_of_the_orphan_chamber.pdf) for more information.
 
 The GLOBALISE project converted the original XML files containing the transcriptions to Markdown. Date values from the XML files were enclosed in curly brackets ({}), while dotted underlining was used to distinguish entity types: green for person names (testators and enslaved persons), red for geographical names, and blue for ship names.
 
@@ -21,15 +21,28 @@ The GLOBALISE project converted the original XML files containing the transcript
 ## Council of Policy
 
 The links below point to transcriptions of the Resolutions of the Council of Policy, the highest authority of the VOC at the Cape of Good Hope. The series covers the period 1651-1743. Please consult the Introduction by Dr. Helena Liebenberg for more information:
+
 - [English version](pdf/introduction_english_resolutions_of_the_council_of_policy_of_cape_of_good_hope.pdf)
 - [Afrikaans version](pdf/introduction_afrikaans_resolutions_of_the_council_of_policy_of_cape_of_good_hope.pdf) 
+
+### Digitization process
+
+During the Dutch funded TANAP Transcription Project (2001-2003) the Resolutions of the Council of Policy of the Cape of Good Hope were transcribed, edited, tagged and converted into XML, while the already printed Resolutions were scanned, edited, tagged and likewise converted into XML. This project consisting of 11 million words, covers the Cape VOC period 1651 to 1795.
+
+Chronologically the digitization process happened as follows:
+
+1. Prior to the TANAP Project part of the Resolutions series (1651-1743) was published at an earlier stage (10 volumes, each with its own Glossary compiled by Drs. Anna Böeseken and Con de Wet respectively). The printed Resolutions were provided with footnotes, included in the present digital presentation.
+
+2. The support of the TANAP Programme made it possible to transcribe the remaining volumes of the Resolutions (1744-1795) and to digitise them along with the already printed Resolutions in order to make the whole set digitally available. However, due to a lack of financial means, it was not possible to annotate the remaining text (1744-1795) and for the same reason there was no expansion of the existing glossaries.
+
+3. After completion of the project, Dr. Pieter Koenders, Head of Collections at the Nationaal Archief, asked Helena Liebenberg to compile the Introductions (English and Afrikaans) and also to consolidate the glossaries into a comprehensive list, all of which were completed in 2003/4. The contents of the original ten glossaries were merged, duplicate entries removed, the text thoroughly edited and eventually converted into a searchable XML format.
+
+4. The GLOBALISE project converted the original XML files containing the reference materials and transcriptions to Markdown. Date values from the XML files were enclosed in curly brackets ({}), while dotted underlining was used to distinguish entity types: green for person names, red for geographical names, and blue for ship names.
 
 ### Reference sources
 - [Bibliography](Council-of-Policy/Biblio+glos/Bibliografie_xml_v1.0.md)
 - [Glossary](Council-of-Policy/Biblio+glos/Glos_xml_v1.1.md)
 - [Bilingual Word List](Council-of-Policy/Bilingual-Word-List.pdf)
-
-The GLOBALISE project converted the original XML files containing the transcriptions to Markdown. Date values from the XML files were enclosed in curly brackets ({}), while dotted underlining was used to distinguish entity types: green for person names, red for geographical names, and blue for ship names.
 
 ### List of available transcriptions
 - [C001](Council-of-Policy/2006-01-31-Kaapse_Resoluties__XML_051124_HN_aangepast-door-Hic-et-Nunc/Kaapse_Resoluties__XML_051124_HN_aangepast/TKF3_C001-C010/C001_xml_v1.20.md)

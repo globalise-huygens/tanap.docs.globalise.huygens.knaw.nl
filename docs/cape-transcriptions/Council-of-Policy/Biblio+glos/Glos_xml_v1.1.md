@@ -1,3 +1,7 @@
+# Glossary
+
+*Originally compiled by Anna Böeseken and Con de Wet, revised and edited by Helena Liebenberg (2004).*
+
 ## A
 
 **a costi, *ook* *costi*, *costij***: daar, by u, op die plek; waarheen die brief gerig is.
