@@ -55,7 +55,6 @@ body {
   display: table !important; /* Override inline-block */
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
 }
 
 @media (min-width: 768px) {
@@ -63,7 +62,7 @@ body {
       display: table !important; /* Override inline-block */
       margin-left: auto;
       margin-right: auto;
-      min-width: 75%;
-      width: 75%;
+      min-width: 50%;
+      max-width: 75%;
   }
 }
