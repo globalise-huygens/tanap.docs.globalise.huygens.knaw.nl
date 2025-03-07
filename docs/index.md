@@ -7,8 +7,8 @@ hide:
 
 <!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
 <p style="display: flex; justify-content: center; align-items: center; gap: 100px; text-align: center;">
-    <img src="static/img/logo/globalise_g.svg" alt="GLOBALISE Logo" style="width: 30%; max-width: 75px;">
-    <img src="static/img/logo/tanap.png" alt="TANAP Logo" style="width: 30%; max-width: 75px;">
+    <img src="static/img/logo/globalise_g.svg" alt="GLOBALISE Logo" style="width: 30%; max-width: 125px;">
+    <img src="static/img/logo/tanap.png" alt="TANAP Logo" style="width: 30%; max-width: 125px;">
 </p>
 
 ## Preserving TANAP’s Legacy
