@@ -37,12 +37,7 @@ plugins:
   - git-revision-date-localized
 extra_css:
   - stylesheets/extra.css
-extra:
-  social:
-    - icon: material/web
-      name: Website
-      link: https://globalise.huygens.knaw.nl/
-  generator: false
+
 copyright: <p>
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License"
   style="border-width:0" src="https://licensebuttons.net/i/l/by-sa/transparent/ff/ff/ff/88x31.png" /></a><br/>
