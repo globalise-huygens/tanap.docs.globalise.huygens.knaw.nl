@@ -50,3 +50,15 @@ body {
     margin: 2em 0;
   }
 }
+
+.md-typeset table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .md-typeset table {
+      width: 75%;
+  }
+}
