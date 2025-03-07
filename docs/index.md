@@ -6,16 +6,22 @@ hide:
 # Home 
 
 <!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
-<p style="text-align: center">
-<img src="static/img/logo/globalise.svg" alt="GLOBALISE Logo" width="80%"/> <br>
+<p style="display: flex; justify-content: center; align-items: center; gap: 40px; text-align: center;">
+    <img src="static/img/logo/globalise_g.svg" alt="GLOBALISE Logo" style="width: 30%; max-width: 200px;">
+    <img src="static/img/logo/tanap.png" alt="TANAP Logo" style="width: 30%; max-width: 200px;">
 </p>
 
+## Preserving TANAP’s Legacy
 
+On this website, the GLOBALISE project presents a selection of materials that were once available on the TANAP website, ensuring continued access to important resources for researchers and the public. While the [TANAP index of the *Overgekomen Brieven en Papieren* section of the VOC archives](https://www.nationaalarchief.nl/en/research/index/nt00348) remains accessible through the Nationaal Archief, this website provides the following resources:
 
+- [Archival inventories of VOC-related collections worldwide](archival-inventories/index.md)
+- [Settlement reconstructions, listing VOC archival materials related to specific settlements](settlement-reconstructions/index.md)
+- [Cape of Good Hope transcriptions, a collection of manually transcribed documents from the Orphan Chamber and Council of Policy](cape-transcriptions/index.md)
+- [A Web Archive snapshot of the TANAP website from 2018 for local browsing](static/tanap-website.zip)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit facilisis eros. Vestibulum non erat eget tortor laoreet varius. Donec lacinia congue arcu, ut aliquet ante tincidunt non. Maecenas bibendum mauris eu sem tempor, at iaculis augue facilisis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam quis porta libero. Proin a sagittis elit, quis faucibus magna. Pellentesque tempor nunc ut nisi vehicula vulputate. Donec vel purus a lorem tincidunt faucibus sed sed diam. Vestibulum condimentum sem molestie, bibendum urna porttitor, ultrices arcu. Donec non accumsan diam.
+## TANAP
 
-## Table of Contents
-- ### [TANAP archival inventories](archival-inventories/index.md)
-- ### [TANAP settlement reconstructions](settlement-reconstructions/index.md)
-- ### [TANAP Cape of Good Hope transcriptions](cape-transcriptions/index.md)
+TANAP (Towards a New Age of Partnership) was an international initiative launched in the late 1990s to preserve and improve access to the archives of the Dutch East India Company (VOC). Led by the National Archives of the Netherlands and Leiden University, TANAP collaborated with archival institutions across Asia and South Africa to safeguard this shared historical heritage and support new research. The programme worked to provide scholarships, support archival training, and promote international cooperation through workshops and conferences. It also contributed to the successful nomination of the VOC archives to UNESCO’s Memory of the World Register.
+
+Although the original TANAP website is no longer online, its objectives remain relevant. As the GLOBALISE project continues efforts to enhance access to VOC archives and develop new research tools, we have made these materials available here to ensure that TANAP’s contributions remain accessible.

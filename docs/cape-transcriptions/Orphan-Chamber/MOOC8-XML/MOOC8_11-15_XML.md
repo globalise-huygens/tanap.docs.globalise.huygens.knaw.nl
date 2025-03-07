@@ -1,12 +1,12 @@
 ## MOOC8/11.1
 
  {17640515} 15 Maij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Elisabeth
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth
 	 Engela Esterhuijsen</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door Elisabeth Engela Esterhuijsen huijsvrouw van
-	 den burger Hendrik Meijer van, ten
+	 den burger Hendrik Meijer van <span style="border-bottom: 2px dotted #FF0000;">Breemen</span> , ten
 	 voordeele van haar eevengem:e man ter eenree, mitsgaders hunne bij den anderen
 	 in huwelijk verwekte kinderen, met naamen:
 
@@ -192,10 +192,10 @@ In een huurhuijs zijnde het sterfhuijs en aldaar
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van Timor</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Philida van
+      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -234,7 +234,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.2a
 
- {17640522} 22 Maij 1764 <span style="border-bottom: 2px dotted #008000;">Anna Catharina Kuuhn</span> 
+ {17640522} 22 Maij 1764 <span style="border-bottom: 2px dotted #00FF00;">Anna Catharina Kuuhn</span> 
 
 Van Reede
 
@@ -284,15 +284,15 @@ Sodanig ende indiervoegen, als deselve door de meede landbouwers Ernst van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal genaamt degeleegen over de</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Lange Rug</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Breede Rivier</span></td>
       <td>333:16</td>
     </tr>
     <tr>
-      <td>een opstal genaamtgeleegen over de</td>
+      <td>een opstal genaamt <span style="border-bottom: 2px dotted #FF0000;">Norrée</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Hexerivier</span></td>
       <td>266:32</td>
     </tr>
     <tr>
-      <td>een opstal genaamt degeleegen aan deover de, in dubio</td>
+      <td>een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Koele Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Mauritsrug</span> over de <span style="border-bottom: 2px dotted #FF0000;">Hexerivier</span> , in dubio</td>
     </tr>
     <tr>
       <td>7 paarden in zoort</td>
@@ -492,34 +492,34 @@ Sodanig ende indiervoegen, als deselve door de meede landbouwers Ernst van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">December van
 		Madag:</span></td>
       <td rowspan='8' style='vertical-align: middle;'>800</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Coridon van Ingole</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Coridon van Ingole</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van Bougis</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Bougis</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">December van
 		Bougis</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jatme van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jatme van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Pretorius van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Pretorius van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Husar van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Husar van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 salve mijd genaamt <span style="border-bottom: 2px dotted #008000;">Philida van
+      <td>1 salve mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Philida van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -562,7 +562,7 @@ Sodanig ende indiervoegen, als deselve door de meede landbouwers Ernst van
     </tr>
     <tr>
       <td>aan d' E: Comp:e over agterstallige recognitie
-		penn:e op de plaats genaamt</td>
+		penn:e op de plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Norrée</span></td>
       <td>36:--</td>
     </tr>
     <tr>
@@ -590,7 +590,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.2b
 
- {17640522} 22 Maij 1764 <span style="border-bottom: 2px dotted #008000;">Anna Catharina Kuuhn</span> 
+ {17640522} 22 Maij 1764 <span style="border-bottom: 2px dotted #00FF00;">Anna Catharina Kuuhn</span> 
 
 Opgescrevene goederen van mij Gerrit Cloeten Jan zoon of infontaeris aende
 	 agtbaer heer Viescael en Presedent en de Heer Weesmester
@@ -598,7 +598,7 @@ Opgescrevene goederen van mij Gerrit Cloeten Jan zoon of infontaeris aende
 <table>
   <tbody>
     <tr>
-      <td>7 <span style="border-bottom: 2px dotted #008000;">slaewen</span> en 1 <span style="border-bottom: 2px dotted #008000;">slawin</span></td>
+      <td>7 <span style="border-bottom: 2px dotted #00FF00;">slaewen</span> en 1 <span style="border-bottom: 2px dotted #00FF00;">slawin</span></td>
     </tr>
     <tr>
       <td>en 2 plaesen in leningh vaen de Edel
@@ -755,7 +755,7 @@ Miegiel de Plooij
 
 ## MOOC8/11.3a
 
- {17640605} 5 Junij 1764 <span style="border-bottom: 2px dotted #008000;">Jan
+ {17640605} 5 Junij 1764 <span style="border-bottom: 2px dotted #00FF00;">Jan
 	 Pienaar</span> 
 
 Van Reede
@@ -802,11 +802,11 @@ Sodanig ende indiervoegen als deselve door de meede landb:rs P: H: Ferrera
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal genaamt degeleegen over deagter de berg in 't</td>
+      <td>1 opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Buffels Rivier</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Gaurits Rivier</span> agter de berg in 't <span style="border-bottom: 2px dotted #FF0000;">Kannland</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 opstal genaamt degeleegen aan de</td>
+      <td>1 opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Gansecraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Lange Cloof</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -1095,7 +1095,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.3b
 
- {17640605} 5 Junij 1764 <span style="border-bottom: 2px dotted #008000;">Jan Pienaar</span> 
+ {17640605} 5 Junij 1764 <span style="border-bottom: 2px dotted #00FF00;">Jan Pienaar</span> 
 
 <table>
   <tbody>
@@ -1295,7 +1295,7 @@ P:t:r H: Ferrera, Johannes Barent van Zaxxe
 
 ## MOOC8/11.4
 
- {17640614} 14 Junij 1764 <span style="border-bottom: 2px dotted #008000;">Simon van Mandhar</span> 
+ {17640614} 14 Junij 1764 <span style="border-bottom: 2px dotted #00FF00;">Simon van Mandhar</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door den verongelukten vrijswart Simon van Mandhar
@@ -1405,7 +1405,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.5
 
- {17640427} 27 April 1764 <span style="border-bottom: 2px dotted #008000;">Mathijs Platman</span> 
+ {17640427} 27 April 1764 <span style="border-bottom: 2px dotted #00FF00;">Mathijs Platman</span> 
 
 Inventaris van alle sodanige goederen, als op den 24:e Maart deeses jaars
 	 ab intestato metter dood zijn ontruijmt ende naargelaaten door den burger
@@ -1507,7 +1507,7 @@ Inventaris van alle sodanige goederen, als op den 24:e Maart deeses jaars
   </tbody>
 </table>
 
-Aldus g'inventariseert op de plaats ofte hofsteede gen:tden 27:e April 1764.
+Aldus g'inventariseert op de plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Rust en Werk</span> den 27:e April 1764.
 
 Als getuigen: J:a Joubert, Jan Seliee
 
@@ -1541,13 +1541,13 @@ Reecq: wegens begravinge van den overleede burger Matthys Plaatman
   </tbody>
 </table>
 
-den 15 April 1764.
+ <span style="border-bottom: 2px dotted #FF0000;">Drakenstyn</span> den 15 April 1764.
 
 H:P: Jonker, kost:r
 
 ## MOOC8/11.6a
 
- {17640622} 22 Junij 1764 <span style="border-bottom: 2px dotted #008000;">Engela Erasmus</span> 
+ {17640622} 22 Junij 1764 <span style="border-bottom: 2px dotted #00FF00;">Engela Erasmus</span> 
 
 Van Reede
 
@@ -1593,15 +1593,15 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers Jochem
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal aan de, geleegen in 't</td>
+      <td>Een opstal aan de <span style="border-bottom: 2px dotted #FF0000;">Klippe Fonteijn</span> , geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
       <td>50:--</td>
     </tr>
     <tr>
-      <td>een opstal genaamt de</td>
+      <td>een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kanarij Fonteijn</span></td>
       <td>33:10</td>
     </tr>
     <tr>
-      <td>een opstal genaamt degeleegen in de</td>
+      <td>een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Rietkuijl</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Karro</span></td>
       <td>20:--</td>
     </tr>
     <tr>
@@ -1733,19 +1733,19 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers Jochem
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bengalen</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Rottije</span></td>
     </tr>
     <tr>
-      <td>1 slavekind gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slavekind gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -1807,7 +1807,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.6b
 
- {17640622} 22 Junij 1764 <span style="border-bottom: 2px dotted #008000;">Engela Erasmus</span> 
+ {17640622} 22 Junij 1764 <span style="border-bottom: 2px dotted #00FF00;">Engela Erasmus</span> 
 
 Dit is den boedel van Johannis Esterhuijsen
 
@@ -1823,13 +1823,13 @@ Dit is den boedel van Johannis Esterhuijsen
       <td>8 paerden</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">manslaven</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">manslaven</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slaafin</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slaafin</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slaffen
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slaffen
 		  kint</span></td>
     </tr>
     <tr>
@@ -1922,7 +1922,7 @@ Wij als getuijgen onder getekent: Jochim Schols, Johannes Diederick
 ## MOOC8/11.7a
 
  {17640709} 9 Julij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Maria Francina
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Maria Francina
 	 Mijhuijsen</span> 
 
 Van Reede
@@ -1964,7 +1964,8 @@ Sodanig ende indiervoegen, als deselve blijkens ingediende door eenige der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal genaamtgeleegen onder de</td>
+      <td>1 opstal genaamt <span style="border-bottom: 2px dotted #FF0000;">Kerserivier</span> geleegen onder de <span style="border-bottom: 2px dotted #FF0000;">Elands
+		  Kloof</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -2066,7 +2067,7 @@ Sodanig ende indiervoegen, als deselve blijkens ingediende door eenige der
       <td>4:--</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		  Bougies</span></td>
       <td>100:--</td>
     </tr>
@@ -2147,7 +2148,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.7b
 
- {17640709} 9 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Maria Francina
+ {17640709} 9 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Maria Francina
 	 Mijhuijsen</span> 
 
 Opgaaf van de boedel van mons:r Johannis Swart Jansz:
@@ -2155,7 +2156,7 @@ Opgaaf van de boedel van mons:r Johannis Swart Jansz:
 <table>
   <tbody>
     <tr>
-      <td>De plaats genaamtgelegen onder</td>
+      <td>De plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Kersrivier</span> gelegen onder <span style="border-bottom: 2px dotted #FF0000;">Elands Kloof</span></td>
     </tr>
     <tr>
       <td>1 halfsleete wagens</td>
@@ -2236,7 +2237,7 @@ Opgaaf van de boedel van mons:r Johannis Swart Jansz:
       <td>1 snaphaan en dan nog wat rommelreij</td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van Bougis</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van Bougis</span></td>
     </tr>
     <tr>
       <td>9 paarde</td>
@@ -2293,7 +2294,7 @@ Dit is de merkt + van Andries Beijer en juffrouw Niemand
 ## MOOC8/11.8
 
  {17640702} 2 Julij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Jan Koster</span> 
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Jan Koster</span> 
 
 Inventaris van den inboel van den overleedenen matroos, in dienst der
 	 Edele Compagnie Jan Koster.
@@ -2377,7 +2378,7 @@ Wij ondergeschreeven, bekennen de naergelaaten goederen van den
 	 rijksdaalders, tog dat de wed:w Anna Maria Zaijman nog eenige klijne schulden
 	 heeft van den overleedenen bovengemeld het welk ons bekent is.
 
-den 2: Julij 1764.
+ <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> den 2: Julij 1764.
 
 Christophl Heijschke, Jan Grijling
 
@@ -2414,7 +2415,7 @@ Christophl Heijschke, Jan Grijling
 ## MOOC8/11.9
 
  {17640531} 31 Maij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Pieter Jansz:
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Pieter Jansz:
 	 de Villiers</span> 
 
 Inventaris mitsg:s taxatie van alle sodanige goederen, als ab intestato
@@ -2452,7 +2453,7 @@ Sodanig ende in diervoegen, als deselve door de ondergeteekende gecomm:e
     </tr>
     <tr>
       <td>Een stuk huijs erff en thuijnland geleegen
-		  aan deonder 't district vanblijkens laatste transport van
+		  aan de <span style="border-bottom: 2px dotted #FF0000;">Paarlberg</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> blijkens laatste transport van
 		  dato 1:e Maart 1759 getaxeert op</td>
       <td>666:32</td>
     </tr>
@@ -2938,15 +2939,15 @@ Op evengem:e plaats en aldaar
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #008000;">Pateer van
+      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pateer van
 		Bougies</span></td>
       <td rowspan='3' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Pieternel van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieternel van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -3169,7 +3170,7 @@ Nota werd hier nog bekend gestelt dat den overleedene seekere erffenisse
   </tbody>
 </table>
 
-Aldus g'inventariseert ende getaxeert op voorsz:e plaats aan deden 31:e Maij 1764.
+Aldus g'inventariseert ende getaxeert op voorsz:e plaats aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> den 31:e Maij 1764.
 
 Als gecommitt:e Weesmeest:n: J:J: Faasen, H:O: Müller
 
@@ -3181,7 +3182,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.10
 
- {17640718} 18 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Samuel Gutskij</span> 
+ {17640718} 18 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Samuel Gutskij</span> 
 
 Van Reede
 
@@ -3947,20 +3948,20 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Onton van Mandaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Onton van Mandaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Solon van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Solon van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Galant van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Galant van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">November van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -4001,7 +4002,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.11
 
- {17640921} 21 September 1764 <span style="border-bottom: 2px dotted #008000;">Daniel Pruijsen</span> 
+ {17640921} 21 September 1764 <span style="border-bottom: 2px dotted #00FF00;">Daniel Pruijsen</span> 
 
 Copia
 
@@ -4099,7 +4100,7 @@ Inventaris van alle soodanige goederen, als op den 7:e Augustus deses
 
 /:onderstond:/
 
-Aldus g'inventariseert op de plaats ofte hofsteede genaamt deden 14:e Augustus 1764. /:in
+Aldus g'inventariseert op de plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kijkuijt</span> den 14:e Augustus 1764. /:in
 	 margine:/ Als getuijgen /:is getekent:/ Giliam du Toit en Carel Marais.
 
 <table>
@@ -4145,7 +4146,7 @@ Accordeert: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.12
 
- {17640924} 24 September 1764 <span style="border-bottom: 2px dotted #008000;">Pieter Booijs</span> 
+ {17640924} 24 September 1764 <span style="border-bottom: 2px dotted #00FF00;">Pieter Booijs</span> 
 
 Copia
 
@@ -4244,7 +4245,7 @@ Inventaris der goederen dewelk door den burger Pieter Booijs met er dood
 
 /:onderstond:/
 
-Aldus g'inventariseert op de plaatsgeleegen aanden 1:e September 1764 /:in margine:/
+Aldus g'inventariseert op de plaats <span style="border-bottom: 2px dotted #FF0000;">Nieuwendorp</span> geleegen aan <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span> den 1:e September 1764 /:in margine:/
 	 Als getuijgen /:is geteekent:/ Gerrit van Dijk en Willem Roggeveen
 
 Geregistreert den 24 7:br 1764.
@@ -4253,7 +4254,7 @@ Accordeert: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.13
 
- {17640921} 21 September 1764 <span style="border-bottom: 2px dotted #008000;">Pieter Slabber</span> 
+ {17640921} 21 September 1764 <span style="border-bottom: 2px dotted #00FF00;">Pieter Slabber</span> 
 
 Copia
 
@@ -4469,8 +4470,8 @@ Inventaris van den boedel van den overleedene Pieter Slabber: 26 Aug:s
       <td>6:--</td>
     </tr>
     <tr>
-      <td>Gidion Slabber voor 1 jonge genaamt <span style="border-bottom: 2px dotted #008000;">Samboo</span> mids dat Gidion
-		  Slabber gehouden zal sijn om die 2 blinde <span style="border-bottom: 2px dotted #008000;">jongens</span> te onderhoude soo lang sij
+      <td>Gidion Slabber voor 1 jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Samboo</span> mids dat Gidion
+		  Slabber gehouden zal sijn om die 2 blinde <span style="border-bottom: 2px dotted #00FF00;">jongens</span> te onderhoude soo lang sij
 		  leeven</td>
       <td>&nbsp;</td>
       <td>150:--</td>
@@ -4720,7 +4721,7 @@ Accordeert: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.14a
 
- {17640927} 27 September 1764 <span style="border-bottom: 2px dotted #008000;">Rachel Jourdaan</span> 
+ {17640927} 27 September 1764 <span style="border-bottom: 2px dotted #00FF00;">Rachel Jourdaan</span> 
 
 Van Reede
 
@@ -4756,7 +4757,7 @@ Sodanig ende in diervoegen als deselve door de meede landbouwers Jan
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal geleegen agter degen:t de</td>
+      <td>1 opstal geleegen agter de <span style="border-bottom: 2px dotted #FF0000;">Piquetberg</span> gen:t de <span style="border-bottom: 2px dotted #FF0000;">Wagendrift</span></td>
       <td>60:--</td>
     </tr>
     <tr>
@@ -4803,7 +4804,7 @@ Sodanig ende in diervoegen als deselve door de meede landbouwers Jan
       <td>eenige andere huijs meubilen</td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Goliath van de
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Goliath van de
 		  Caab</span></td>
       <td>75:--</td>
     </tr>
@@ -4857,7 +4858,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.14b
 
- {17640927} 27 September 1764 <span style="border-bottom: 2px dotted #008000;">Rachel Jourdaan</span> 
+ {17640927} 27 September 1764 <span style="border-bottom: 2px dotted #00FF00;">Rachel Jourdaan</span> 
 
 Enfetaris van mijn boedel
 
@@ -4897,7 +4898,7 @@ Enfetaris van mijn boedel
       <td>en nog wat huijsmuwel</td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">mans slaven
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">mans slaven
 		  jonge kint</span></td>
     </tr>
   </tbody>
@@ -4912,7 +4913,7 @@ Als getuijgen seijde: Jan Hendrik Badenhorst, Aldert Hanekom
 <table>
   <tbody>
     <tr>
-      <td>1 leeningsplaats agtergeleegen gen:t deover de</td>
+      <td>1 leeningsplaats agter <span style="border-bottom: 2px dotted #FF0000;">Piquetbergen</span> geleegen gen:t de <span style="border-bottom: 2px dotted #FF0000;">Wagendrift</span> over de <span style="border-bottom: 2px dotted #FF0000;">Piquetbergen</span></td>
     </tr>
   </tbody>
 </table>
@@ -4920,8 +4921,8 @@ Als getuijgen seijde: Jan Hendrik Badenhorst, Aldert Hanekom
 ## MOOC8/11.15
 
  {17641107} 7 November
-	 1764 <span style="border-bottom: 2px dotted #008000;">Oloff Abraham
-	 Bergh</span> , <span style="border-bottom: 2px dotted #008000;">Johanna
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Oloff Abraham
+	 Bergh</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Margaretha Groenewald</span> 
 
 Van Reede
@@ -4956,7 +4957,7 @@ sodaanig ende indiervoegen als deselve agtervolgens resol: van den 7:e
     </tr>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deeseuijtwijsens laaste
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> uijtwijsens laaste
 		  transport van dato 22:e December 1755 getaxeert op</td>
       <td>600</td>
     </tr>
@@ -5321,27 +5322,27 @@ In het door den wed:r bewoond werdende huijs van den oud heemraad Joh:s
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jonathan van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jonathan van
 		Maccasser</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Dormida van
+      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dormida van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Candasa van de
+      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave kind <span style="border-bottom: 2px dotted #008000;">Cicilia van de
+      <td>1 slave kind <span style="border-bottom: 2px dotted #00FF00;">Cicilia van de
 		Caab</span></td>
     </tr>
     <tr>
       <td>Nota werdende nog in den boedel bevonden drie slave
-		jongens met naamen <span style="border-bottom: 2px dotted #008000;">Jan van de
-		Caab</span> , <span style="border-bottom: 2px dotted #008000;">Julij van de
-		Caab</span> en <span style="border-bottom: 2px dotted #008000;">Carolus van de
+		jongens met naamen <span style="border-bottom: 2px dotted #00FF00;">Jan van de
+		Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Julij van de
+		Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Carolus van de
 		Caab</span> alle van de Caab, aan dewelke door juff:w Anna de Kooning wed:e
 		wijlen de heer capitain Oloff Bergh vrijigheijd gelaaten zijnde te verkiesen
 		bij wien haarer erfgenaamen deselve sullen willen woonen en dienen, alwaar
@@ -5402,7 +5403,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.16
 
- {17650122} 22 Januarij 1765 <span style="border-bottom: 2px dotted #008000;">Maria Buree</span> 
+ {17650122} 22 Januarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Maria Buree</span> 
 
 Van Reede
 
@@ -5452,7 +5453,7 @@ Sodanig ende in diervoegen als deselve door de meede landb:rs Dirk
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal genaamt degeleegen aan de</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kerserivier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Kerserivier</span></td>
       <td>33:16</td>
     </tr>
   </tbody>
@@ -5512,20 +5513,20 @@ Sodanig ende in diervoegen als deselve door de meede landb:rs Dirk
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slammad v:
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammad v:
 		Bochis</span></td>
       <td rowspan='3' style='vertical-align: middle;'>&nbsp;</td>
       <td rowspan='5' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mancha v: Bochis</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mancha v: Bochis</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus v:
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus v:
 		Mallabar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April v:
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April v:
 		Madagascar</span></td>
       <td>dewijl den nevengem:e slaaf April gedrost is,
 		heeft denselven versogt dat wanneer denselver weeder gevangen mogte werden dien
@@ -5534,7 +5535,7 @@ Sodanig ende in diervoegen als deselve door de meede landb:rs Dirk
 		inventaris niet getaxeert.</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Eva v: Mallabar</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Eva v: Mallabar</span></td>
     </tr>
   </tbody>
 </table>
@@ -5583,7 +5584,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.17a
 
- {17650208} 8 Februarij 1765 <span style="border-bottom: 2px dotted #008000;">Pieter Christ:n de Jaager</span> 
+ {17650208} 8 Februarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Pieter Christ:n de Jaager</span> 
 
 Van Reede
 
@@ -5700,7 +5701,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.17b
 
- {17650208} 8 Februarij 1765 <span style="border-bottom: 2px dotted #008000;">Pieter Christ:n de Jaager</span> 
+ {17650208} 8 Februarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Pieter Christ:n de Jaager</span> 
 
 't Opnemen van mijn goederen
 
@@ -5783,7 +5784,7 @@ Borgen
   <tbody>
     <tr>
       <td>Laurens de Jager</td>
-      <td rowspan='2' style='vertical-align: middle;'>oud heemraden tot</td>
+      <td rowspan='2' style='vertical-align: middle;'>oud heemraden tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
       <td>Harmanus Steijn</td>
@@ -5794,7 +5795,7 @@ Borgen
 ## MOOC8/11.18a
 
  {17650208} 8 Februarij
-	 1765 <span style="border-bottom: 2px dotted #008000;">Willem Botha</span> 
+	 1765 <span style="border-bottom: 2px dotted #00FF00;">Willem Botha</span> 
 
 Van Reede
 
@@ -5847,12 +5848,12 @@ sodanig ende in diervoegen als deselve door de meede landbouwers Jan van
       <td>3</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Abraham van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Abraham van
 		  Mallabaar</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Berkat van Bougis</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Berkat van Bougis</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -5890,7 +5891,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.18b
 
- {17650208} 8 Februarij 1765 <span style="border-bottom: 2px dotted #008000;">Willem Botha</span> 
+ {17650208} 8 Februarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Willem Botha</span> 
 
 Gesie Smit de weduwe Wellim Bota heeft
 
@@ -5903,7 +5904,7 @@ Gesie Smit de weduwe Wellim Bota heeft
       <td>vijf hondert twee en seventig schapen</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slawen</span></td>
     </tr>
     <tr>
@@ -5924,10 +5925,10 @@ Willem Adriaen Nel Adriaens:
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abraham van Mallabaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abraham van Mallabaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Berkat van Bougis</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Berkat van Bougis</span></td>
     </tr>
   </tbody>
 </table>
@@ -5935,7 +5936,7 @@ Willem Adriaen Nel Adriaens:
 ## MOOC8/11.18 1/2
 
  {17641228} 28
-	 December 1764 <span style="border-bottom: 2px dotted #008000;">Pieter
+	 December 1764 <span style="border-bottom: 2px dotted #00FF00;">Pieter
 	 Swart</span> 
 
 Aan den E:E: Aghtbaaren Heer Preesident beenevens d' EE, Heere
@@ -5962,7 +5963,7 @@ Alsoo, het den almoogende Godt behaaght heeft, mijn huijsvrouw, door de
       <td>50:--:--</td>
     </tr>
     <tr>
-      <td>vier <span style="border-bottom: 2px dotted #008000;">manslaave</span> 1 gedrost, een <span style="border-bottom: 2px dotted #008000;">slaavinne</span></td>
+      <td>vier <span style="border-bottom: 2px dotted #00FF00;">manslaave</span> 1 gedrost, een <span style="border-bottom: 2px dotted #00FF00;">slaavinne</span></td>
       <td>500:--:--</td>
     </tr>
     <tr>
@@ -6016,7 +6017,7 @@ Alsoo, het den almoogende Godt behaaght heeft, mijn huijsvrouw, door de
   </tbody>
 </table>
 
-Aan hetdeesen 28: Decemb:r
+Aan het <span style="border-bottom: 2px dotted #FF0000;">Kerserivier</span> deesen 28: Decemb:r
 	 a:o 1764.
 
 Dit merk + teeken is door Pieter Swardt Pieterz: eigenhandigh
@@ -6080,7 +6081,7 @@ Dit merk teken + is door Pieter Swardt Pietersz eijgenhandigh
 ## MOOC8/11.19
 
  {17611022} 22
-	 October 1761 <span style="border-bottom: 2px dotted #008000;">Gerrit van
+	 October 1761 <span style="border-bottom: 2px dotted #00FF00;">Gerrit van
 	 der Port</span> 
 
 Staat en inventaris van alle soodanige goederen als op den 18:e deeser
@@ -6092,7 +6093,7 @@ Staat en inventaris van alle soodanige goederen als op den 18:e deeser
   <tbody>
     <tr>
       <td>1) Alida van der Port getrouwt met Hendrik van Helden woonagtig
-		  totin zijn eerste huwelijk bij wijlen
+		  tot <span style="border-bottom: 2px dotted #FF0000;">Veere</span> in zijn eerste huwelijk bij wijlen
 		  Catharina Zeegers verwekt</td>
     </tr>
     <tr>
@@ -6148,12 +6149,12 @@ Soodanig ende in diervoegen als alle deselve ter opgeeving en aanwijsing
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaar het grootste gedeelte vanblijkens seeker transport en daar
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Block E:E:</span> en aldaar het grootste gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:r 3</span> blijkens seeker transport en daar
 		  booven staande caart de dato 16:e Augus:s 1739.</td>
     </tr>
     <tr>
       <td>twee huijsjes met een pakhuijsje staande ende
-		  geleegen in deesein 'ten aldaar het klijnste gedeelte vanblijkens laatste transport van den 16:e
+		  geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok E:E:</span> en aldaar het klijnste gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:r 3</span> blijkens laatste transport van den 16:e
 		  Maij 1744.</td>
     </tr>
   </tbody>
@@ -7124,20 +7125,20 @@ In 't eerstgem:e huijs
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van Java</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van Java</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pasop van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pasop van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Castoerie van Java</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Castoerie van Java</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Constantie van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Constantie van
 		Riodelagoa</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -7265,7 +7266,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.20
 
- {17620216} 16 Februarij 1762 <span style="border-bottom: 2px dotted #008000;">Johannes Louw</span> 
+ {17620216} 16 Februarij 1762 <span style="border-bottom: 2px dotted #00FF00;">Johannes Louw</span> 
 
 Inventaris van alle soodanige goederen als op den 14:e Febr: 1762 ab
 	 intestato metter dood zijn ontruijmt ende naargelaaten door den oud heemraad
@@ -7303,33 +7304,33 @@ Soodanig ende indiervoegen, als deselve door voorsz: Jacobus Louw zijn
 <table>
   <tbody>
     <tr>
-      <td>Een plaats ofte hofsteede gen:t de, geleegen onder 't district
-		  vanblijkens laatste transport
+      <td>Een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Babilonische Toorn</span> , geleegen onder 't district
+		  van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> blijkens laatste transport
 		  van den 22:e 8:br 1744.</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede gen:tmeede onder 't district vangeleegen, blijkens laatste
+      <td>een plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Cuijlenborgh</span> meede onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> geleegen, blijkens laatste
 		  transport van den [ ..... ]</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede genaamt degeleegen in deonder 't district vanblijkens erfgrondbrief de dato
+      <td>een plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Voorsorgh</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Goudenie</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> blijkens erfgrondbrief de dato
 		  18:e Maart 1756, ten behoeven van den overleedene en desselfs broeder Adriaan
 		  Louw, vergunt.</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede gen:t demeede geleegen in deblijkens erfgrondbrief de dato 18:e
+      <td>een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Dassenboschrivier</span> meede geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Goudenie</span> blijkens erfgrondbrief de dato 18:e
 		  Maart 1756 verleent.</td>
     </tr>
     <tr>
-      <td>een opstal gen:t degeleegen aan deonder 't district van.</td>
+      <td>een opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Groote Vlakte</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Hantoms Berg</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> .</td>
     </tr>
     <tr>
-      <td>een opstal gen:t demeede aan degeleegen.</td>
+      <td>een opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Drie Kuijlen</span> meede aan de <span style="border-bottom: 2px dotted #FF0000;">Hantoms Berg</span> geleegen.</td>
     </tr>
   </tbody>
 </table>
 
-Op de eerstgem:e plaats ofte hofsteede de
+Op de eerstgem:e plaats ofte hofsteede de <span style="border-bottom: 2px dotted #FF0000;">Babilonische Toorn</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In de caamer ter regterhand</td></tr></thead>
@@ -8109,7 +8110,7 @@ Op de eerstgem:e plaats ofte hofsteede de
   </tbody>
 </table>
 
-Op de plaats gen:t
+Op de plaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Cuijlenborgh</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In 't voorhuijs</td></tr></thead>
@@ -8537,7 +8538,7 @@ Op de plaats gen:t
   </tbody>
 </table>
 
-Op de plaatsen in de
+Op de plaatsen in de <span style="border-bottom: 2px dotted #FF0000;">Goudiene</span> 
 
 <table>
   <tbody>
@@ -8552,7 +8553,7 @@ Op de plaatsen in de
   </tbody>
 </table>
 
-Op de veeplaatsen in 't
+Op de veeplaatsen in 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> 
 
 <table>
   <tbody>
@@ -8573,20 +8574,21 @@ Op de veeplaatsen in 't
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>Op de hofsteede de</td>
+      <td>Op de hofsteede de <span style="border-bottom: 2px dotted #FF0000;">Babilonische
+		Toorns</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Silvester van de
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvester van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arij van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arij van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cornelis van de
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cornelis van de
 		Caab</span></td>
       <td rowspan='5' style='vertical-align: middle;'>neevenstaande vijf leijfeijgenen zijn door den
 		overleedene bij desselfs aanteekening bekent gestelt vermaakt, als aan Jacobus,
@@ -8594,131 +8596,131 @@ Op de veeplaatsen in 't
 		Piet</td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Claas van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Claas van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Isaak van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Isaak van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Piet van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mercuur van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mercuur van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Platje van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Platje van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Paul van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Paul van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Marcus van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Marcus van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van de
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van de
 		Cust</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Titus van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Titus van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Matthijs van de
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Matthijs van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arend van de Caab</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arend van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Lijs van de Caab</span></td>
+      <td>een slaave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Lijs van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Stijn van de Caab</span> met haar
-		kind <span style="border-bottom: 2px dotted #008000;">Clara van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Stijn van de Caab</span> met haar
+		kind <span style="border-bottom: 2px dotted #00FF00;">Clara van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Dorinda van de Caab</span> met
-		haar drie kinderen, <span style="border-bottom: 2px dotted #008000;">Lijsje</span> , <span style="border-bottom: 2px dotted #008000;">Romana</span> en <span style="border-bottom: 2px dotted #008000;">Frans van de
+      <td>1 slaave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dorinda van de Caab</span> met
+		haar drie kinderen, <span style="border-bottom: 2px dotted #00FF00;">Lijsje</span> , <span style="border-bottom: 2px dotted #00FF00;">Romana</span> en <span style="border-bottom: 2px dotted #00FF00;">Frans van de
 		Caap</span></td>
-      <td>nevenstaande slave mijsje in naame <span style="border-bottom: 2px dotted #008000;">Romana van de Caab</span> is
+      <td>nevenstaande slave mijsje in naame <span style="border-bottom: 2px dotted #00FF00;">Romana van de Caab</span> is
 		volg:s Heeren Weesm:rens resolutie van den 7:e April 1762 overgegeeven aan den
 		landb:r Philip de Vos</td>
     </tr>
     <tr>
-      <td>Op de hofsteede</td>
+      <td>Op de hofsteede <span style="border-bottom: 2px dotted #FF0000;">Cuijlenborg</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Zeesar van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Zeesar van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave gonge gen:t <span style="border-bottom: 2px dotted #008000;">Narson van
+      <td>1 slaave gonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Narson van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Junij van Bengalen</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Junij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">November van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>Op de plaatsen in de</td>
+      <td>Op de plaatsen in de <span style="border-bottom: 2px dotted #FF0000;">Goudiene</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Joseph van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Joseph van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jone gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jone gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van Bengalen</span></td>
     </tr>
     <tr>
-      <td>Op de veeplaats aan de</td>
+      <td>Op de veeplaats aan de <span style="border-bottom: 2px dotted #FF0000;">Hantomsberg</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Barcat van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Barcat van Bougies</span></td>
     </tr>
   </tbody>
 </table>
@@ -8753,11 +8755,11 @@ Nota: werd alhier bekend gestelt dat den overleedene bij desselfs broeder
 
 Hier op betaalt 1762. 15. Junij zijn aandeel in de 1. paaij.
 
-Aldus g'inventariseert op de hofsteede de, enden 16,17,18 en 19:e Febr: 1762 en
+Aldus g'inventariseert op de hofsteede de <span style="border-bottom: 2px dotted #FF0000;">Babilonische Toorn</span> , en <span style="border-bottom: 2px dotted #FF0000;">Cuijlenborg</span> den 16,17,18 en 19:e Febr: 1762 en
 	 betuijgde voorsz: Jacobus Louw, alles getrouwelijk opgegeeven en aangeweesen te
 	 hebben, sonder sijnes weetens iets versweegen ofte agter gehouden te hebben,
 	 onder belofte dat wanneer namaals door hem iets mogte werden ontdekt, tot
-	 deesen boedel gehoorende, als dan deselve soo wel als van de, sig in deen in 'tbevindende goederen, nader verantwoordinge
+	 deesen boedel gehoorende, als dan deselve soo wel als van de, sig in de <span style="border-bottom: 2px dotted #FF0000;">Goudine</span> en in 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> bevindende goederen, nader verantwoordinge
 	 te sullen doen.
 
 Als gecomm:e Weesm:ren: C:l Adleda, Joh:s van Sittert
@@ -8770,7 +8772,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.21
 
- {17640309} 9 Maart 1764 <span style="border-bottom: 2px dotted #008000;">Pieter Lans</span> 
+ {17640309} 9 Maart 1764 <span style="border-bottom: 2px dotted #00FF00;">Pieter Lans</span> 
 
 Inventaris van alle sodanige goederen, als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door den burger Pieter Lans, /:bij 's Edele Comp:s
@@ -8800,16 +8802,17 @@ Sodanig ende indiervoegen, als deselve door d' onderget:e gecomm:e
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaar een gedeelte vanblijkens laatste transport de
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:N:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:r 11 en 12</span> blijkens laatste transport de
 		  dato 1:e September 1745.</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaar een gedeelte van, blijkens transport van den 7:e Junij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:N:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:r 11</span> , blijkens transport van den 7:e Junij
 		  1760.</td>
     </tr>
     <tr>
-      <td>een stuk huijs erff geleegen in deesein 'ten aldaaruijtwijsens erffgrondbrief sub dat 11:e Jann:e 1752</td>
+      <td>een stuk huijs erff geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok Z:Z:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:r
+		  1</span> uijtwijsens erffgrondbrief sub dat 11:e Jann:e 1752</td>
     </tr>
   </tbody>
 </table>
@@ -9261,10 +9264,10 @@ In het eerstgem:e huijs zijnde het sterfhuijs
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">November van Nias</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">November van Nias</span></td>
     </tr>
     <tr>
-      <td>1 slave mijsje genaamt <span style="border-bottom: 2px dotted #008000;">Delila van de Caab</span></td>
+      <td>1 slave mijsje genaamt <span style="border-bottom: 2px dotted #00FF00;">Delila van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -9315,7 +9318,7 @@ In het eerstgem:e huijs zijnde het sterfhuijs
     </tr>
     <tr>
       <td>voldaan</td>
-      <td>nog heeft den overleedene bij den coster derKerk Nicolaas van Wieligh te
+      <td>nog heeft den overleedene bij den coster der <span style="border-bottom: 2px dotted #FF0000;">Swartlandsche</span> Kerk Nicolaas van Wieligh te
 		goed behouden een vragt garst</td>
     </tr>
     <tr>
@@ -9437,7 +9440,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.22
 
- {17631214} 14 December 1763 <span style="border-bottom: 2px dotted #008000;">Jacobus Louw</span> , <span style="border-bottom: 2px dotted #008000;">Willemina van Zijl</span> 
+ {17631214} 14 December 1763 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Louw</span> , <span style="border-bottom: 2px dotted #00FF00;">Willemina van Zijl</span> 
 
 Inventaris van alle sodanige goederen, als zijn behoorende tot den
 	 gemeenschappelijken boedel van den landbouwer Jacobus Louw d' oude, en zijne op
@@ -9473,7 +9476,7 @@ Inventaris van alle sodanige goederen, als zijn behoorende tot den
 		  Jonathan Durand</td>
     </tr>
     <tr>
-      <td>5) Wilhemina Christina Durand gehuwt met den boekhouder tot, Pieter van Grol</td>
+      <td>5) Wilhemina Christina Durand gehuwt met den boekhouder tot <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> , Pieter van Grol</td>
     </tr>
     <tr>
       <td>6) Pieter Johannes Louw</td>
@@ -9502,7 +9505,7 @@ Sodanig ende in diervoegen, als agtervolgens Heeren Weesmeesteren
   <tbody>
     <tr>
       <td>Op een bij voorsz:e Petrus Johannes Louw van
-		  d' E: Comp:e in leening beseeten werdende plaats genaamt degeleegen aan de, alwaar opgem:e weduwenaar
+		  d' E: Comp:e in leening beseeten werdende plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Doornfonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Klijne Paarde Berg</span> , alwaar opgem:e weduwenaar
 		  Jacobus Louw d' oude woonachtig is.</td>
     </tr>
   </tbody>
@@ -9843,7 +9846,7 @@ De opstallen en gebouwen
 <table>
   <tbody>
     <tr>
-      <td>Een leningsplaats genaamt degeleegen tusschen deen de</td>
+      <td>Een leningsplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hercules Fonteijn</span> geleegen tusschen de <span style="border-bottom: 2px dotted #FF0000;">Piquetberg</span> en de <span style="border-bottom: 2px dotted #FF0000;">Cardau</span></td>
     </tr>
     <tr>
       <td>aldaar</td>
@@ -9876,54 +9879,54 @@ De opstallen en gebouwen
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Oranje van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Oranje van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Titus van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Titus van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">September d' oude van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">September d' oude van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slammad van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammad van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September de jonge
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September de jonge
 		van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Filander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Filander van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">December van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bengalen</span> bijgen:t Oost</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn
 		van Bengalen</span> bijgen:t Zuijd Oost</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arij van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arij van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Lena van de Caab</span> met haare
-		twee kinderen gen:t <span style="border-bottom: 2px dotted #008000;">Joost</span> en <span style="border-bottom: 2px dotted #008000;">Schipper</span> beijde meede
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Lena van de Caab</span> met haare
+		twee kinderen gen:t <span style="border-bottom: 2px dotted #00FF00;">Joost</span> en <span style="border-bottom: 2px dotted #00FF00;">Schipper</span> beijde meede
 		van de Caab</td>
       <td>het eene kind gen:t Schipper, overleeden</td>
     </tr>
@@ -10003,7 +10006,7 @@ Nota: werd nog door de twee in den hoofde deeses gen:e zoons Nicolaas en
 	 of minder bedragende, over en weeder sal werden afbetaalt - zijnde zuijver
 	 ingeoegst 358 1/4 mudden tarw
 
-Aldus g'inventariseert op voorsz:e plaats deden 14:e December 1763, en betuijgde den weduwn:r Jacobus
+Aldus g'inventariseert op voorsz:e plaats de <span style="border-bottom: 2px dotted #FF0000;">Doornfonteijn</span> den 14:e December 1763, en betuijgde den weduwn:r Jacobus
 	 Louw na zijn best weeten alles trouw ende opregt opgegeeven en aangeweesen te
 	 hebben, zonder met voorweeten iets versweegen ofte agtergehouden te hebben,
 	 belovende dat wanneer namaals mogte werden ontwaard iets te veel ofte te min,
@@ -10025,7 +10028,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.23
 
- {17631108} 8 November 1763 <span style="border-bottom: 2px dotted #008000;">Willemina van Zijl</span> 
+ {17631108} 8 November 1763 <span style="border-bottom: 2px dotted #00FF00;">Willemina van Zijl</span> 
 
 Inventaris der nagelatene goederen van de op den 1:e deeser maand November
 	 overleedene Willemina van Zijl huijsvrouw van den landbouwer Jacobus Louw d'
@@ -10614,7 +10617,7 @@ Inventaris der nagelatene goederen van de op den 1:e deeser maand November
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Tjatjoe van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Tjatjoe van
 		Mandhaar</span></td>
     </tr>
   </tbody>
@@ -10695,7 +10698,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.24
 
- {17640316} 16 Maart 1764 <span style="border-bottom: 2px dotted #008000;">Maria Anna Grove</span> 
+ {17640316} 16 Maart 1764 <span style="border-bottom: 2px dotted #00FF00;">Maria Anna Grove</span> 
 
 Inventaris van alle sodanige goederen als op den 12:e deeser maand Maart,
 	 metter dood zijn ontruijmt ende naargelaaten door juff:w Maria Anna Grove
@@ -10753,7 +10756,7 @@ Sodanig ende in diervoegen als deselve goederen door voorsz:e Godlieb
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarblijkens laatste transport de dato 26:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok L:L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">No: 5</span> blijkens laatste transport de dato 26:e
 		  October 1746</td>
     </tr>
   </tbody>
@@ -11453,30 +11456,30 @@ In het evengem:e huijs
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jongetjie gen:t <span style="border-bottom: 2px dotted #008000;">Mentor van de Caab</span></td>
+      <td>1 slave jongetjie gen:t <span style="border-bottom: 2px dotted #00FF00;">Mentor van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van de Caab</span></td>
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Jonathan van de
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Jonathan van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Lea van Madagascar</span> met
-		haar kind genaamt <span style="border-bottom: 2px dotted #008000;">Julij van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Lea van Madagascar</span> met
+		haar kind genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Dina van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dina van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
     <tr>
       <td>Nota: nog is in den boedel gevonden een slave mijsje
-		genaamt <span style="border-bottom: 2px dotted #008000;">Spasi van de Caab</span> ,
+		genaamt <span style="border-bottom: 2px dotted #00FF00;">Spasi van de Caab</span> ,
 		welke door juff:w de wed:e Grove betuijgt werd, bij haare opgeregte uijtterste
 		wille aan de overleedene vermaak te zijn, dog is haare begeerte thans dat gem:e
 		slave mijsje ter woon sal gaan bij haaren klijnzoon den bovengem:e Godlieb
@@ -11590,7 +11593,7 @@ Cabo den 14 Maart 1764
 
 ## MOOC8/11.25
 
- {17640329} 29 Maart 1764 <span style="border-bottom: 2px dotted #008000;">Maria Anna Grove</span> 
+ {17640329} 29 Maart 1764 <span style="border-bottom: 2px dotted #00FF00;">Maria Anna Grove</span> 
 
 Specificatie van alle sodanige kleederen, linnen en kindergoed, als 'er
 	 gevonden zijn in den boedel van wijlen Maria Anna Grove huijsvrouw van den
@@ -11779,7 +11782,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.26
 
- {17620403} 3 April 1762 <span style="border-bottom: 2px dotted #008000;">Louisa Adriana
+ {17620403} 3 April 1762 <span style="border-bottom: 2px dotted #00FF00;">Louisa Adriana
 	 Slotsboo</span> 
 
 Van Reede
@@ -11791,7 +11794,7 @@ Inventaris van alle soodanige goederen en effecten, roerende en onroerende
 	 naargelaaten en metter dood ontruijmt door juff:w Louisa Adriana Slotsboo,
 	 wed:e wijlen den coopman mitsg:rs oud lidt en secretaris van den E: agtbaren
 	 Politicquer Raad deeser plaats d' heer Josephus de Grandpreez, ten voordeele
-	 van haare drie thans inzijnde neeven,
+	 van haare drie thans in <span style="border-bottom: 2px dotted #FF0000;">Europa</span> zijnde neeven,
 	 met naamen
 
 <table>
@@ -11817,7 +11820,7 @@ soodanig ende in diervoegen als deselve door Johanna Elisabeth Spelling
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deeseblijkens transport brief
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> blijkens transport brief
 		  de dato 7 April 1740 zijnde annex deselve nog drie huijsen getimmert, waar van
 		  een volgens testament is gelegateert aan Johanna Elisabeth Spelling en haar
 		  dogter Johanna Elisabeth Muller, mitsg:rs de twee andere aan voorsz:e Johanna
@@ -11826,17 +11829,17 @@ soodanig ende in diervoegen als deselve door Johanna Elisabeth Spelling
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deese, uijtwijsens transportbrief
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> , uijtwijsens transportbrief
 		  de dato 20:e Maart 1761</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarvolgens laatste transport van de dato 8:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok W:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">No: 1</span> volgens laatste transport van de dato 8:e
 		  Julij 1742</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarblijkens laatste transportbrief de dato 17:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok L:L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">No: 6</span> blijkens laatste transportbrief de dato 17:e
 		  November 1757</td>
     </tr>
   </tbody>
@@ -13560,71 +13563,71 @@ Kleederen door d' overleedene gedragen, mitsg:rs lijwaten tot het
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Daniel van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Daniel van de
 		Caab</span></td>
       <td>volgens testament in vrijdom gestelt</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gent: <span style="border-bottom: 2px dotted #008000;">Zeesar van
+      <td>1 slave jonge gent: <span style="border-bottom: 2px dotted #00FF00;">Zeesar van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mentor van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mentor van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Agillis van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Agillis van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Lodewijk van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Lodewijk van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>2 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>2 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Dafni van Bali</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dafni van Bali</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Roselijn van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Roselijn van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Juliana van de Caab</span> met
-		haar drie kindern gen:t <span style="border-bottom: 2px dotted #008000;">Susanna
-		van de Caab</span> , <span style="border-bottom: 2px dotted #008000;">Candasa van
-		de Caab</span> en <span style="border-bottom: 2px dotted #008000;">Jacob van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Juliana van de Caab</span> met
+		haar drie kindern gen:t <span style="border-bottom: 2px dotted #00FF00;">Susanna
+		van de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Candasa van
+		de Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Jacob van de
 		Caab</span> alle van de Caab</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Christijn van de Caab</span> met haar drie kinderen gen:t <span style="border-bottom: 2px dotted #008000;">Magdalena van de Caab</span> , <span style="border-bottom: 2px dotted #008000;">Pamela van de Caab</span> en <span style="border-bottom: 2px dotted #008000;">Marie van de Caab</span> van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Christijn van de Caab</span> met haar drie kinderen gen:t <span style="border-bottom: 2px dotted #00FF00;">Magdalena van de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Pamela van de Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Marie van de Caab</span> van de
 		Caab</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Manuar van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Manuar van
 		Mandhar</span></td>
       <td>door d' heer Josephus de Grandpreez aan J:a
 		Elisabeth Muller bij testament vermaakt</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Clara van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Clara van
 		Mandhar</span></td>
       <td>volg:s testament, door de juff:w overleedene aan
 		Johanna El: Spelling en haar dogter Johanna Elisabeth Muller gelegateert</td>
@@ -13694,7 +13697,7 @@ Kleederen door d' overleedene gedragen, mitsg:rs lijwaten tot het
     </tr>
     <tr>
       <td>voldaan</td>
-      <td>van wijlen d' heer Jacob van der Slijden totover eenige gedroogde
+      <td>van wijlen d' heer Jacob van der Slijden tot <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> over eenige gedroogde
 		vrugten</td>
       <td>37:24</td>
     </tr>
@@ -13718,7 +13721,7 @@ Kleederen door d' overleedene gedragen, mitsg:rs lijwaten tot het
 		  soldij boeken deeses gouvernements op reekening te vooren staat ƒ552 en
 		  dewelke door d' heer Oloff Martini Bergh ter incasseering is overgesonden aan
 		  juff:w Aaltje Swart wed:e wijlen d' heer Lambertus Swaan en d' heer Steeven
-		  Swart tot, dog waar op antwoord
+		  Swart tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> , dog waar op antwoord
 		  verwagt werd</td>
     </tr>
   </tbody>
@@ -13769,7 +13772,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.27
 
- {17640514} 14 Meij 1764 <span style="border-bottom: 2px dotted #008000;">Isaak van den Bank</span> 
+ {17640514} 14 Meij 1764 <span style="border-bottom: 2px dotted #00FF00;">Isaak van den Bank</span> 
 
 Inventaris van alle sodanige goederen roerende en onroerende schulden en
 	 inneschulden als ab intestato sijn naargelaten en metter dood ontruijmt door
@@ -13810,7 +13813,7 @@ Soo ende in diervoegen als deselve door mij gesw: clercq en ondertenoeme
 <table>
   <tbody>
     <tr>
-      <td>1 opstal gen:t degeleg: aan d'</td>
+      <td>1 opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Swarte Rivier</span> geleg: aan d' <span style="border-bottom: 2px dotted #FF0000;">Swarte Berg</span></td>
       <td>agterstal bij d' E:
 		  Comp:e 5 jaaren</td>
     </tr>
@@ -14066,13 +14069,13 @@ Soo ende in diervoegen als deselve door mij gesw: clercq en ondertenoeme
       <td>4 koornschoppen</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arend van Wajowa</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arend van Wajowa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge <span style="border-bottom: 2px dotted #008000;">Teunis v: Mallabaar</span></td>
+      <td>1 slave jonge <span style="border-bottom: 2px dotted #00FF00;">Teunis v: Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge <span style="border-bottom: 2px dotted #008000;">August van
+      <td>1 slave jonge <span style="border-bottom: 2px dotted #00FF00;">August van
 		  Mallabaar</span></td>
       <td>niet vercogt</td>
     </tr>
@@ -14097,7 +14100,7 @@ Soo ende in diervoegen als deselve door mij gesw: clercq en ondertenoeme
   </tbody>
 </table>
 
-Aldus g'inventariseert op voorn: opstal gen:t deden 14 Meij 1764.
+Aldus g'inventariseert op voorn: opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Swarterivier</span> den 14 Meij 1764.
 
 Als getuijgen: dit is + het merk van Lucas Martin Marais, Carolus
 		Muijden
@@ -14108,7 +14111,7 @@ Mij present: J:n Stenvers, gesw: Clerq
   <tbody>
     <tr>
       <td>Werd hier nog bekent gestelt dat den
-		  overleedene is gehoorende een leenings plaats gen:t degeleegen in deop deese zijde van deop de naam van Jan Roux
+		  overleedene is gehoorende een leenings plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Witte Vijgebooms Rivier</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Fortuijntjeshoek</span> op deese zijde van de <span style="border-bottom: 2px dotted #FF0000;">Botte Riviers Berg</span> op de naam van Jan Roux
 		  Psz: staande van hem Roux Psz: gekogt en betaalt is ten agteren 5 jaaren 3
 		  maanden tot den 27:e deeser maand Meij 1764 gereekent.</td>
     </tr>
@@ -14118,7 +14121,7 @@ Mij present: J:n Stenvers, gesw: Clerq
 ## MOOC8/11.28
 
  {17640514} 14 Maij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Fredrik
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Fredrik
 	 Spaman</span> 
 
 Nota, deesen is door s:r Johan Nicolaas Schott ter Weescamer overgegeeven,
@@ -14142,7 +14145,7 @@ Inventaris van alle soodanige losse en vaste goederen, huijs meubulen,
   <tbody>
     <tr>
       <td>Een huijs en erf, groot twee morgen gelegen
-		  aandegenaamt de</td>
+		  aande <span style="border-bottom: 2px dotted #FF0000;">Perel</span> genaamt de <span style="border-bottom: 2px dotted #FF0000;">Roosefontijn</span></td>
     </tr>
   </tbody>
 </table>
@@ -14747,13 +14750,13 @@ Inventaris van alle soodanige losse en vaste goederen, huijs meubulen,
       <td>een bier pijp bij Steven du Toit de jonge</td>
     </tr>
     <tr>
-      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Passerar</span> v:</td>
+      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Passerar</span> v:</td>
     </tr>
     <tr>
-      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Timor</span></td>
+      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Timor</span></td>
     </tr>
     <tr>
-      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Januarij</span></td>
+      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij</span></td>
     </tr>
   </tbody>
 </table>
@@ -15122,7 +15125,7 @@ Alle het voorenstaande, betuijgde de wed:e Spaman voormeld, den suijveren
 	 opgaaf van alle haren besit te wesen, met presentatie, des vereijscht werdende,
 	 sulx met eede te sullen bevestigen.
 
-Actumden 14 Maij
+Actum <span style="border-bottom: 2px dotted #FF0000;">Rose Fontijn</span> den 14 Maij
 	 1764.
 
 Als getuijgen: J: Blignaut, A: Seitz
@@ -15131,7 +15134,7 @@ Dirckie Knoetze de wedewe Spaman
 
 ## MOOC8/11.29a
 
- {17640710} 10 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Jan Raak</span> 
+ {17640710} 10 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Jan Raak</span> 
 
 Van Reede
 
@@ -15161,7 +15164,7 @@ Sodanig ende in diervoegen, als deselve door de ondergetekende
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein de, blijkens laatste transport van
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in de <span style="border-bottom: 2px dotted #FF0000;">Zee Straat</span> , blijkens laatste transport van
 		  dato 4:e November 1763</td>
     </tr>
   </tbody>
@@ -16383,32 +16386,32 @@ In het eevengem: huijs
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Aaron van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Aaron van
 		Bougis</span></td>
       <td rowspan='2' style='vertical-align: middle;'>onverkogt</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Herodes van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Herodes van de
 		Cust</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Machteld van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Machteld van de
 		Caab</span></td>
       <td rowspan='2' style='vertical-align: middle;'>onverkogt</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Delila van de Cust</span> , met
-		haar kind <span style="border-bottom: 2px dotted #008000;">Christina van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Delila van de Cust</span> , met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Christina van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van de
 		Cust</span></td>
       <td>behoort aan Florentina Raak</td>
     </tr>
@@ -16457,7 +16460,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.29b
 
- {17650528} 28 Maij 1765 <span style="border-bottom: 2px dotted #008000;">Jan Raak</span> 
+ {17650528} 28 Maij 1765 <span style="border-bottom: 2px dotted #00FF00;">Jan Raak</span> 
 
 Wij ondergeteekendens Maria Johanna en Florentina Raak, bekennen mits
 	 deesen uijt handen van Heeren Weesmeesteren deeser steede ontfangen te hebben,
@@ -16581,7 +16584,7 @@ Florentiena Raeck
 
 ## MOOC8/11.29c
 
- {17650528} 28 Maij 1765 <span style="border-bottom: 2px dotted #008000;">Jan Raak</span> 
+ {17650528} 28 Maij 1765 <span style="border-bottom: 2px dotted #00FF00;">Jan Raak</span> 
 
 Zijnde de voorengemelde juweelen etc:ra ten versoeke van voorsz:e Maria
 	 Johanna en Florentina Raak met voorkennisse van den E: agtb:re Heer Preesident
@@ -16706,7 +16709,7 @@ Cabo de Goede Hoop den 28:e Maij 1765.
 
 ## MOOC8/11.29d
 
- {17661111} 11 November 1766 <span style="border-bottom: 2px dotted #008000;">Jan
+ {17661111} 11 November 1766 <span style="border-bottom: 2px dotted #00FF00;">Jan
 	 Raak</span> 
 
 Specificatie van het geene de jonge dogter Maria Johanna Raak in
@@ -16780,7 +16783,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.29e
 
- {17661111} 11 November 1766 <span style="border-bottom: 2px dotted #008000;">Jan
+ {17661111} 11 November 1766 <span style="border-bottom: 2px dotted #00FF00;">Jan
 	 Raak</span> 
 
 Specificatie van het geene den vaandrig ten deezen Casteele Johan Willem
@@ -16866,7 +16869,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.30
 
- {17640317} 17 Maart 1764 <span style="border-bottom: 2px dotted #008000;">Hans Harmensz:e</span> 
+ {17640317} 17 Maart 1764 <span style="border-bottom: 2px dotted #00FF00;">Hans Harmensz:e</span> 
 
 Inventaris van alle sodanige goederen, als naar voorgaande sub dato 20:e
 	 April 1762 ondershands opgeregte uijtterste wille, metter dood ontruijmt ende
@@ -16895,7 +16898,7 @@ Sodanig ende indiervoegen, als deselve door Anna Maria Bruijning
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein hetblijkens laatste transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in het <span style="border-bottom: 2px dotted #FF0000;">Blok V:V:</span> blijkens laatste transport de dato
 		  14 April 1763</td>
     </tr>
   </tbody>
@@ -17594,32 +17597,32 @@ In het evengem:e huijs
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Madagascar</span></td>
       <td rowspan='6' style='vertical-align: middle;'>alle welke neevens gem:e lijfeijgenen
 		volgens testament van den overleedene niet mogen werden verkogt, maar onder de
 		kinderen moeten verblijven</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Geduld van Rio
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Geduld van Rio
 		delagoa</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gent: <span style="border-bottom: 2px dotted #008000;">Candasa van Madagascar</span> met haare drie kinderen <span style="border-bottom: 2px dotted #008000;">Isacq van
-		de Caab</span> , <span style="border-bottom: 2px dotted #008000;">Jacob van de
-		Caab</span> en <span style="border-bottom: 2px dotted #008000;">Sara van de
+      <td>1 slave mijd gent: <span style="border-bottom: 2px dotted #00FF00;">Candasa van Madagascar</span> met haare drie kinderen <span style="border-bottom: 2px dotted #00FF00;">Isacq van
+		de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Jacob van de
+		Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Sara van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Alainda van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Alainda van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Aurora van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Aurora van
 		Riodelagoa</span></td>
     </tr>
     <tr>
-      <td>1 Madagascarse inboorling gen:t <span style="border-bottom: 2px dotted #008000;">Sophia</span></td>
+      <td>1 Madagascarse inboorling gen:t <span style="border-bottom: 2px dotted #00FF00;">Sophia</span></td>
     </tr>
   </tbody>
 </table>
@@ -17633,7 +17636,7 @@ In het evengem:e huijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>van Johannes Sweetman over koop van een <span style="border-bottom: 2px dotted #008000;">slave jonge</span> blijkens onderh: obligatie
+      <td>van Johannes Sweetman over koop van een <span style="border-bottom: 2px dotted #00FF00;">slave jonge</span> blijkens onderh: obligatie
 		de dato 7:e April 1757 ƒ400 ofte</td>
       <td>&nbsp;</td>
       <td>133:16</td>
@@ -17706,10 +17709,10 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 <table>
   <tbody>
     <tr>
-      <td>van de slavinne <span style="border-bottom: 2px dotted #008000;">Alinda</span> een jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Abraham</span></td>
+      <td>van de slavinne <span style="border-bottom: 2px dotted #00FF00;">Alinda</span> een jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Abraham</span></td>
     </tr>
     <tr>
-      <td>van de slavinne <span style="border-bottom: 2px dotted #008000;">Candasa</span> een jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Adam</span></td>
+      <td>van de slavinne <span style="border-bottom: 2px dotted #00FF00;">Candasa</span> een jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam</span></td>
     </tr>
   </tbody>
 </table>
@@ -17717,14 +17720,14 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 ## MOOC8/11.31a
 
  {17650308} 8 Maart
-	 1765 <span style="border-bottom: 2px dotted #008000;">Eva Catharina
+	 1765 <span style="border-bottom: 2px dotted #00FF00;">Eva Catharina
 	 Kriel</span> 
 
 Van Reede
 
 Inventaris mitsgaders taxatie van alle sodanige goederen als ab intestato
 	 metter dood zijn ontruijmt ende naargelaaten door Eva Catharina Kriel
-	 huijsvrouw van den oud heemraad totFredrik Potgieter, ten voordeele van haaren evengem:e man ter eenree,
+	 huijsvrouw van den oud heemraad tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> Fredrik Potgieter, ten voordeele van haaren evengem:e man ter eenree,
 	 mitsgaders haare bij hem in huwelijk verwekte seeven kinderen, met naamen
 
 <table>
@@ -17768,11 +17771,11 @@ Sodanig ende indiervoegen als deselve door de landbouwers Jacobus Botha
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal genaamt degeleegen over de</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Klipfonteijn</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Gourits Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>een opstal genaamt degeleegen over de</td>
+      <td>een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Leeuwenkloof</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Gourits Rivier</span></td>
       <td>10:--</td>
     </tr>
     <tr>
@@ -18005,28 +18008,28 @@ Sodanig ende indiervoegen als deselve door de landbouwers Jacobus Botha
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jager van Balij</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jager van Balij</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400:--</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samuel van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samuel van
 		Macassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Macassar</span></td>
     </tr>
     <tr>
-      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #008000;">Roselijn van de
+      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Roselijn van de
 		Caab</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200:--</td>
     </tr>
     <tr>
-      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #008000;">Jalinda van de
+      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Jalinda van de
 		Caab</span></td>
     </tr>
     <tr>
@@ -18105,26 +18108,26 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
       <td>4 mans slaaven</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jaager
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jaager
 		  van Balij</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Alexander van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Alexander van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Samuel van Maccassar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samuel van Maccassar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Baatjoe van Maccassar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Maccassar</span></td>
     </tr>
     <tr>
       <td>2 slavinnen</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Roselijn van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Roselijn van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jalinda van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jalinda van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -18146,7 +18149,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 ## MOOC8/11.31b
 
  {17650308} 8 Maart
-	 1765 <span style="border-bottom: 2px dotted #008000;">Eva Catharina
+	 1765 <span style="border-bottom: 2px dotted #00FF00;">Eva Catharina
 	 Kriel</span> 
 
 Inventaris van den boedel van den oud heemraad Frederik Potgieter
@@ -18158,20 +18161,20 @@ Inventaris van den boedel van den oud heemraad Frederik Potgieter
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>De opstal</td>
+      <td>De opstal <span style="border-bottom: 2px dotted #FF0000;">Klipfonteijn</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>de opstal</td>
+      <td>de opstal <span style="border-bottom: 2px dotted #FF0000;">Leuwekloof</span></td>
       <td>10:--</td>
     </tr>
     <tr>
-      <td>vier <span style="border-bottom: 2px dotted #008000;">mans
+      <td>vier <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaave</span></td>
       <td>400:--</td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -18398,11 +18401,11 @@ Jacobus Johannis Boota
 
 ## MOOC8/11.32a
 
- {17650111} 11 Januarij 1765 <span style="border-bottom: 2px dotted #008000;">Aurora van Sambouna</span> 
+ {17650111} 11 Januarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Aurora van Sambouna</span> 
 
 Inventaris der nagelaten goederen van Aurora van Sambouna, overleden den
 	 16 November 1764 op 't schipnalatende
-	 een onmondig kind met naame Catharina geboor: inin de maand Jan:rij 1764.
+	 een onmondig kind met naame Catharina geboor: in <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> in de maand Jan:rij 1764.
 
 <table>
   <tbody>
@@ -18582,7 +18585,7 @@ Waarvan getuygen zijn: Jan Stekling
 
 ## MOOC8/11.32b
 
- {17650111} 11 Jannuarij 1765 <span style="border-bottom: 2px dotted #008000;">Aurora van Sambouna</span> 
+ {17650111} 11 Jannuarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Aurora van Sambouna</span> 
 
 Ik onderget:e Anna Kleijns wed:e Cornelis Doesen bekenne mits deesen, in
 	 steede der bij ommestaande inventaris gespecificeerd staande goederen, voor
@@ -18717,7 +18720,7 @@ A:a Heijns w:d Doessen
 
 ## MOOC8/11.33a
 
- {17650410} 10 April 1765 <span style="border-bottom: 2px dotted #008000;">Johannes Vosloo</span> 
+ {17650410} 10 April 1765 <span style="border-bottom: 2px dotted #00FF00;">Johannes Vosloo</span> 
 
 Van Reede
 
@@ -18852,11 +18855,11 @@ Sodanig ende indiervoegen als deselve door d' onderget:e gecomm:e
       <td>20:--</td>
     </tr>
     <tr>
-      <td>een opstal geleegen aande, over de</td>
+      <td>een opstal geleegen aande <span style="border-bottom: 2px dotted #FF0000;">Holle Bak</span> , over de <span style="border-bottom: 2px dotted #FF0000;">Duijvenhoks Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>een opstal gen:t degeleegen aan 't</td>
+      <td>een opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Uijtvlugt</span> geleegen aan 't <span style="border-bottom: 2px dotted #FF0000;">Warmebad</span></td>
       <td>50:--</td>
     </tr>
   </tbody>
@@ -18870,12 +18873,12 @@ Sodanig ende indiervoegen als deselve door d' onderget:e gecomm:e
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses v:
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses v:
 		Bengalen</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Mallabaar</span></td>
     </tr>
     <tr>
@@ -18895,12 +18898,12 @@ Sodanig ende indiervoegen als deselve door d' onderget:e gecomm:e
     </tr>
     <tr>
       <td>aan d' E: Comp:e over 6 1/2 jaaren
-		agterstallige recognitie penn:e op de plaats aan de</td>
+		agterstallige recognitie penn:e op de plaats aan de <span style="border-bottom: 2px dotted #FF0000;">Holle Bak</span></td>
       <td>162:24</td>
     </tr>
     <tr>
       <td>aan d' E: Comp:e over 14 jaar: 3/m:d
-		agterstallige recognitie penn:e op de plaats gen:t de</td>
+		agterstallige recognitie penn:e op de plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Uijtvlugt</span></td>
       <td>396:--</td>
     </tr>
     <tr>
@@ -18939,7 +18942,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.33b
 
- {17650410} 10 April 1765 <span style="border-bottom: 2px dotted #008000;">Johannes Vosloo</span> 
+ {17650410} 10 April 1765 <span style="border-bottom: 2px dotted #00FF00;">Johannes Vosloo</span> 
 
 <table>
   <tbody>
@@ -18959,11 +18962,11 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
       <td>2 man slaaven</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Moses
+      <td><span style="border-bottom: 2px dotted #00FF00;">Moses
 		  van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">October van Mallabaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">October van Mallabaar</span></td>
     </tr>
     <tr>
       <td>2 boter vaaten</td>
@@ -19029,11 +19032,12 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
       <td>4 onbeslaagen wiellen</td>
     </tr>
     <tr>
-      <td>degeleegen over de</td>
+      <td>de <span style="border-bottom: 2px dotted #FF0000;">Holle Bak</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Duijvenhoks
+		  Rivier</span></td>
       <td>6 1/2 jaar</td>
     </tr>
     <tr>
-      <td>degeleegen aan 't</td>
+      <td>de <span style="border-bottom: 2px dotted #FF0000;">Uijtvlugt</span> geleegen aan 't <span style="border-bottom: 2px dotted #FF0000;">Warmebad</span></td>
       <td>14 j:r
 		  3/m:</td>
     </tr>
@@ -19072,11 +19076,12 @@ Borgen: Ockert Brits en Stephanus Gausch
     </tr>
     <tr>
       <td>d' E: Comp:e over 6 1/2 jaaren recognitie op de
-		plaats aan de</td>
+		plaats aan de <span style="border-bottom: 2px dotted #FF0000;">Holle
+		Bak</span></td>
       <td>162:24</td>
     </tr>
     <tr>
-      <td>over 14 j:r 3/m: op de plaats de</td>
+      <td>over 14 j:r 3/m: op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Uijtvlugt</span></td>
       <td>396:--</td>
     </tr>
     <tr>
@@ -19089,7 +19094,7 @@ Borgen: Ockert Brits en Stephanus Gausch
 ## MOOC8/11.34a
 
  {17650907} 7 September
-	 1765 <span style="border-bottom: 2px dotted #008000;">Johanna Louw</span> 
+	 1765 <span style="border-bottom: 2px dotted #00FF00;">Johanna Louw</span> 
 
 Inventaris mitsg:rs taxatie van alle sodanige goederen als ab intestato
 	 metter dood zijn ontruijmt ende naargelaaten door Johanna Louw Jacobsd:r ten
@@ -19118,7 +19123,7 @@ sodanig ende in diervoegen als dezelve door de landb:rs Albertus Nel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een lening plaats ofte opstal gen:t de</td>
+      <td>Een lening plaats ofte opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Zakrivier</span></td>
       <td>33:16</td>
     </tr>
     <tr>
@@ -19201,7 +19206,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.34b
 
- {17650805} 5 Augustus 1765 <span style="border-bottom: 2px dotted #008000;">Johanna Louw</span> 
+ {17650805} 5 Augustus 1765 <span style="border-bottom: 2px dotted #00FF00;">Johanna Louw</span> 
 
 Aan gande de boetel van Willem van Zijl Bartsoon
 
@@ -19229,7 +19234,7 @@ Den 5 Agustus ano 1765
 <table>
   <tbody>
     <tr>
-      <td>1 leeningsplaats over de</td>
+      <td>1 leeningsplaats over de <span style="border-bottom: 2px dotted #FF0000;">Sakrevier</span></td>
     </tr>
   </tbody>
 </table>
@@ -19269,7 +19274,7 @@ De overleedene huijsvr: gen:t Johanna Louw Jacobsd:r en 't kind, Albertus
 
 ## MOOC8/11.35a
 
- {17651113} 13 November 1765 <span style="border-bottom: 2px dotted #008000;">Petronella Marseveen</span> 
+ {17651113} 13 November 1765 <span style="border-bottom: 2px dotted #00FF00;">Petronella Marseveen</span> 
 
 Van Reede
 
@@ -19307,7 +19312,7 @@ zodanig ende in diervoegen als dezelve, door de meede landbouwers Pieter
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal geleegen aan degenaamt de</td>
+      <td>Een opstal geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Breede Rivier</span> genaamt de <span style="border-bottom: 2px dotted #FF0000;">Klippe Drift</span></td>
       <td>100</td>
     </tr>
   </tbody>
@@ -19608,32 +19613,32 @@ zodanig ende in diervoegen als dezelve, door de meede landbouwers Pieter
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">September v:
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">September v:
 		Bengalen</span></td>
       <td rowspan='8' style='vertical-align: middle;'>800</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Claas v: Mallabar</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Claas v: Mallabar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Madagascar van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Madagascar van
 		Madagasc:</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rebecca van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rebecca van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gent: <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>1 slavinne gent: <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Sara van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Sara van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -19683,7 +19688,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.35b
 
- {17650829} 29 Augustus 1765 <span style="border-bottom: 2px dotted #008000;">Pitronella Marseveen</span> 
+ {17650829} 29 Augustus 1765 <span style="border-bottom: 2px dotted #00FF00;">Pitronella Marseveen</span> 
 
 Inventaris van sodanige goederen als den burger Abraham Leroe in huwelijk
 	 gehad hebbende met Pitronella Marseveen aan ons ondergetekenden heeft op
@@ -19692,14 +19697,14 @@ Inventaris van sodanige goederen als den burger Abraham Leroe in huwelijk
 <table>
   <tbody>
     <tr>
-      <td>Een plaats in lening genaamt degelegen aan de</td>
+      <td>Een plaats in lening genaamt de <span style="border-bottom: 2px dotted #FF0000;">Klippe Drift</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Brederevier</span></td>
     </tr>
     <tr>
-      <td>vier <span style="border-bottom: 2px dotted #008000;">man
+      <td>vier <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>vier <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>vier <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>vijf paarde</td>
@@ -19950,7 +19955,7 @@ Zal in de aanstaande m:d 9:br opkomen, met de borgen om 't bewijs te
 ## MOOC8/11.36
 
  {17651024} 24 October
-	 1765 <span style="border-bottom: 2px dotted #008000;">Fokke Barense
+	 1765 <span style="border-bottom: 2px dotted #00FF00;">Fokke Barense
 	 Tikkenburgh</span> 
 
 Invintaris van alle sodanige goederen naargelaten door den overleedene
@@ -20012,7 +20017,7 @@ Invintaris van alle sodanige goederen naargelaten door den overleedene
 Dit aldus geinventariseerd ten overstaan van den burger Adolph Jonker en
 	 Daniel Duurengh als getuijgen versogt
 
-den 24 October 1765.
+ <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span> den 24 October 1765.
 
 A: Jonker
 
@@ -20022,7 +20027,7 @@ Daniel du Plesie
 
 ## MOOC8/11.37
 
- {17651213} 13 December 1765 <span style="border-bottom: 2px dotted #008000;">Philander van de Caap</span> 
+ {17651213} 13 December 1765 <span style="border-bottom: 2px dotted #00FF00;">Philander van de Caap</span> 
 
 Inventaris der nalaatenschap van den overleedene onlangs uijt den boedel
 	 van wijlen Agatha Admiraals wed:e Barend Artoijs uijt slaverneij
@@ -20072,7 +20077,7 @@ J:s W: Blanckenberg, Scriba
 
 ## MOOC8/11.38a
 
- {17660121} 21 Januarij 1766 <span style="border-bottom: 2px dotted #008000;">Jan le Roux Pietersz:</span> 
+ {17660121} 21 Januarij 1766 <span style="border-bottom: 2px dotted #00FF00;">Jan le Roux Pietersz:</span> 
 
 Van Reede
 
@@ -20108,7 +20113,7 @@ zodanig ende indiervoegen, als dezelve goederen door de meede landbouwers
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede genaamt, geleegen in de</td>
+      <td>Een plaats ofte hofsteede genaamt <span style="border-bottom: 2px dotted #FF0000;">Opperherst</span> , geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Wagenmakers Valleij</span></td>
       <td>1333:16</td>
     </tr>
     <tr>
@@ -20252,16 +20257,16 @@ zodanig ende indiervoegen, als dezelve goederen door de meede landbouwers
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jephta van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jephta van
 		Mallabaar</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Galant van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Galant van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van Mallabar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van Mallabar</span></td>
     </tr>
   </tbody>
 </table>
@@ -20333,7 +20338,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.38b
 
- {17651213} 13 Desember 1765 <span style="border-bottom: 2px dotted #008000;">Jan Leroux</span> 
+ {17651213} 13 Desember 1765 <span style="border-bottom: 2px dotted #00FF00;">Jan Leroux</span> 
 
 Inventaris der goederen van mijn, Lowisa Jacobs en mijn overleden man Jan
 	 Leroex Pieterzoon
@@ -20341,11 +20346,11 @@ Inventaris der goederen van mijn, Lowisa Jacobs en mijn overleden man Jan
 <table>
   <tbody>
     <tr>
-      <td>Mijn plaats genaamt, groot in syn grond dertig morgen en
+      <td>Mijn plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Opperherst</span> , groot in syn grond dertig morgen en
 		  hondert een en dertig roede</td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">man
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaaven</span></td>
     </tr>
     <tr>
@@ -20456,7 +20461,7 @@ Inventaris der goederen van mijn, Lowisa Jacobs en mijn overleden man Jan
 Wij ondergetekende getuijgen, als dat vooren staande inventaris door ons
 	 esperes versogte persoone ten nausten is naar gesien en opgeschreven.
 
-, den 13 Desember
+ <span style="border-bottom: 2px dotted #FF0000;">Wagenmakersfallije</span> , den 13 Desember
 	 1765.
 
 Carel van der Merwe
@@ -20531,7 +20536,7 @@ Teegens 21 Jan:ij 1766 met de borgen opkoomen
 
 ## MOOC8/11.39
 
- {17650225} 25 Februarij 1765 <span style="border-bottom: 2px dotted #008000;">Pieter Willemse van Heerde</span> 
+ {17650225} 25 Februarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Pieter Willemse van Heerde</span> 
 
 Inventaaris van den boedel van den landbouweresse de weeduwe weijle Pieter
 	 Willemse van Heerde presend de naar genoemde getuijge beneevens de
@@ -20543,59 +20548,59 @@ Inventaaris van den boedel van den landbouweresse de weeduwe weijle Pieter
       <td>de slaave zoo als volgt,</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Daavit van de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Daavit van de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Koobus van de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Koobus van de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April
+      <td><span style="border-bottom: 2px dotted #00FF00;">April
 		  van de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jefta
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jefta
 		  van de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Kleijn Kupido van de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Kleijn Kupido van de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Februareij van Mallebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Februareij van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Kupedo van Mallebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Kupedo van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April
+      <td><span style="border-bottom: 2px dotted #00FF00;">April
 		  van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Pieter Sambaaba</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Pieter Sambaaba</span></td>
     </tr>
     <tr>
       <td>slavinne</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jannetje de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jannetje de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Griedt de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Griedt de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rosiena de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rosiena de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Diyaana de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Diyaana de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Treijn de Kaap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Treijn de Kaap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Anna de
+      <td><span style="border-bottom: 2px dotted #00FF00;">Anna de
 		  Kaap</span> en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">oude Katreijn</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">oude Katreijn</span></td>
     </tr>
     <tr>
       <td>43 beeste</td>
@@ -20844,7 +20849,7 @@ Als getuijge: G:t H:k Meijer Jansz:, Hercules du
 ## MOOC8/11.40
 
  {17641020} 20
-	 October 1764 <span style="border-bottom: 2px dotted #008000;">Johannes
+	 October 1764 <span style="border-bottom: 2px dotted #00FF00;">Johannes
 	 Godert van Gent</span> 
 
 Van Reede
@@ -20975,7 +20980,7 @@ Inventaris van alle sodanige goederen als op gisteren ab intestato metter
   <thead><tr><td colspan='100%'>Lijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bougies</span> ter
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bougies</span> ter
 		plaatse van mons:r Johannes Groenewald</td>
     </tr>
   </tbody>
@@ -21019,7 +21024,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.41
 
- {17641121} 21 November 1764 <span style="border-bottom: 2px dotted #008000;">Jan Adolff
+ {17641121} 21 November 1764 <span style="border-bottom: 2px dotted #00FF00;">Jan Adolff
 	 Schiltmijer</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
@@ -21314,7 +21319,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.42
 
- {17650102} 2 Januarij 1765 <span style="border-bottom: 2px dotted #008000;">Pieter Willem
+ {17650102} 2 Januarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Pieter Willem
 	 Regnault</span> 
 
 Van Reede
@@ -21323,7 +21328,7 @@ Inventaris van alle sodanige goederen, als naar voorgaande testamentaire
 	 dispositie, sub dato 31:e December 1764 voor den gesw: clercq ter Secretarije
 	 van Justitie alhier d' edele Lucas Sigismundus Faber en getuijgen gepasseert,
 	 's daags daaraan metter dood zijn ontruijmt ende naargelaaten door den onder
-	 afgeschreeven gagie gestelden baas van d' Edele Comp:s thuijn hetPieter Willem Regnault ten
+	 afgeschreeven gagie gestelden baas van d' Edele Comp:s thuijn het <span style="border-bottom: 2px dotted #FF0000;">Rondebosje</span> Pieter Willem Regnault ten
 	 voordeele van desselfs huijsvrouw Maria Amelia van der Werff in cas van
 	 vooroverleijden, zijn bij haar in huwelijk verwekte zoon Coenraad Stephanus
 	 Regnault, sodanig ende indiervoegen als deselve door Heeren Weesmeesteren
@@ -22009,9 +22014,9 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Macassar</span> en 1
-		slave mijd genaamt <span style="border-bottom: 2px dotted #008000;">Mina van
-		Samboua</span> met haar kind <span style="border-bottom: 2px dotted #008000;">Simareij van de Caab</span> welke evengem:e slave
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Macassar</span> en 1
+		slave mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Mina van
+		Samboua</span> met haar kind <span style="border-bottom: 2px dotted #00FF00;">Simareij van de Caab</span> welke evengem:e slave
 		kind volgens begeerte van den overleedene in vrijdom moet werden
 		gestelt.</td>
       <td>bijde neevens aangehaalde slaaven moeten ingevolge 't
@@ -22019,7 +22024,7 @@ In een huurhuijs
 		werden gesepareert</td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Mentor van
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Mentor van
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -22091,7 +22096,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.43
 
- {17650213} 13 Februarij 1765 <span style="border-bottom: 2px dotted #008000;">Johannes Rabe</span> 
+ {17650213} 13 Februarij 1765 <span style="border-bottom: 2px dotted #00FF00;">Johannes Rabe</span> 
 
 Van Reede
 
@@ -22122,7 +22127,7 @@ Sodanig ende indiervoegen, als deselve door opgem:e wed:e zijn opgegeeven
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarblijkens transport de dato 20:e September
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">No: 11</span> blijkens transport de dato 20:e September
 		  1763</td>
     </tr>
   </tbody>
@@ -22423,7 +22428,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.44
 
- {17640911} 11 September 1764 <span style="border-bottom: 2px dotted #008000;">Albert Lokman</span> 
+ {17640911} 11 September 1764 <span style="border-bottom: 2px dotted #00FF00;">Albert Lokman</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door den oud commissaris van Huwelijkse en Civiele
@@ -22593,8 +22598,8 @@ In een gehuurde caamer ten huijse van Maria Johanna
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #008000;">Mietje van de Caab</span> met
-		haar kind <span style="border-bottom: 2px dotted #008000;">Hendrik van de
+      <td>1 slavemijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Mietje van de Caab</span> met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Hendrik van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -22628,7 +22633,7 @@ Mij preesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.45a
 
- {17640624} 24 Junij 1764 <span style="border-bottom: 2px dotted #008000;">Jacob van Renen</span> 
+ {17640624} 24 Junij 1764 <span style="border-bottom: 2px dotted #00FF00;">Jacob van Renen</span> 
 
 Inventaris van alle sodanige goederen ende inneschulden als des nagts
 	 tusschen den 6 en 7 deeser maand Junij ab intestato metter dood zijn ontruijmt
@@ -22652,7 +22657,7 @@ Inventaris van alle sodanige goederen ende inneschulden als des nagts
     </tr>
     <tr>
       <td>3) Jacob Hendrik Wilhelmij bij plaatsvullinge van desselfs
-		  moeder Beatrix Cornelia van Renen, gehuwt geweest met den van hier naargerepatrieerden burger Diederick
+		  moeder Beatrix Cornelia van Renen, gehuwt geweest met den van hier naar <span style="border-bottom: 2px dotted #FF0000;">Stokholm</span> gerepatrieerden burger Diederick
 		  Wilhelmij</td>
     </tr>
     <tr>
@@ -22692,7 +22697,7 @@ Sodanig ende indiervoegen als alle deselve effecten, nadat de in dato 7:e
   <tbody>
     <tr>
       <td>Een huijs en erff, staande ende geleegen in
-		  deeseop de,
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> op de <span style="border-bottom: 2px dotted #FF0000;">hoek van de Tweede Bergdwars- en Heere Straat</span> ,
 		  blijkens laatste transport van den 17 Januarij 1758</td>
       <td rowspan='2' style='vertical-align: middle;'>welke
 		  bijde hierneevensgen:e huijsen, bij seekere door den overleedene sub dato 30:e
@@ -22702,12 +22707,12 @@ Sodanig ende indiervoegen als alle deselve effecten, nadat de in dato 7:e
 		  getransporteert</td>
     </tr>
     <tr>
-      <td>een huijs en erff staande ende geleegen in 'tannex het evengem:e en aldaar een
-		  gedeelte vanuijtwijsens laatste
+      <td>een huijs en erff staande ende geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Blok J:</span> annex het evengem:e en aldaar een
+		  gedeelte van <span style="border-bottom: 2px dotted #FF0000;">No: 5</span> uijtwijsens laatste
 		  transport van dato 7:e Februarij 1759</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede genaamt degeleegen in de, blijkens laatste transport van den
+      <td>een plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Voorzorg</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Gaudine</span> , blijkens laatste transport van den
 		  7:e Julij 1762</td>
       <td>neevens aangehaalde plaats bij voorsz:e geschrift
 		  aan Adriaan en 't overleedene kind Jan vermaakt zijnde voor ƒ1900 is op
@@ -23969,38 +23974,38 @@ In het eerstgem:e huijs zijnde het woonhuijs, en aldaar
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van Macassar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van Macassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mosis van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mosis van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Rosetta van de Kaap</span> met
-		haare drie kinderen <span style="border-bottom: 2px dotted #008000;">Marthinus</span>  <span style="border-bottom: 2px dotted #008000;">Arend</span> en <span style="border-bottom: 2px dotted #008000;">Roselijn</span> , alle van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosetta van de Kaap</span> met
+		haare drie kinderen <span style="border-bottom: 2px dotted #00FF00;">Marthinus</span>  <span style="border-bottom: 2px dotted #00FF00;">Arend</span> en <span style="border-bottom: 2px dotted #00FF00;">Roselijn</span> , alle van de
 		Caab</td>
       <td rowspan='2' style='vertical-align: middle;'>van neevensgen:e ses slaven kinderen is door den
 		overleedene aan zijne kinderen Adriaan en Jan van Reenen vier vermaakt, dog
 		vermits 't vooroverleijden van voorsz:e Jan van Renen, werd hij vervangen door
 		zijn zuster Maria Jacoba Christina van Renen, zulx als nu aan Adriaan
-		toebehoord, <span style="border-bottom: 2px dotted #008000;">Catrijn van de
-		Caab</span> en <span style="border-bottom: 2px dotted #008000;">Arend van de
-		Caab</span> , en aan M:a J:a Christ:a de twee slave kinderen <span style="border-bottom: 2px dotted #008000;">Amelia van de Caab</span> en <span style="border-bottom: 2px dotted #008000;">Jonas van de Caab</span> meede van
+		toebehoord, <span style="border-bottom: 2px dotted #00FF00;">Catrijn van de
+		Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Arend van de
+		Caab</span> , en aan M:a J:a Christ:a de twee slave kinderen <span style="border-bottom: 2px dotted #00FF00;">Amelia van de Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Jonas van de Caab</span> meede van
 		de Caab</td>
     </tr>
     <tr>
-      <td>1 slave mijd <span style="border-bottom: 2px dotted #008000;">Philida</span> met haare drie
-		kinderen <span style="border-bottom: 2px dotted #008000;">Catrijn van de
-		Caab</span> , <span style="border-bottom: 2px dotted #008000;">Amelia van de
-		Caab</span> en <span style="border-bottom: 2px dotted #008000;">Jonas van de
+      <td>1 slave mijd <span style="border-bottom: 2px dotted #00FF00;">Philida</span> met haare drie
+		kinderen <span style="border-bottom: 2px dotted #00FF00;">Catrijn van de
+		Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Amelia van de
+		Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Jonas van de
 		Caab</span> , alle meede van de Caab</td>
     </tr>
   </tbody>
@@ -24016,7 +24021,7 @@ In het eerstgem:e huijs zijnde het woonhuijs, en aldaar
   </tbody>
 </table>
 
-Bevindende sig op de plaats de
+Bevindende sig op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Voorsorg</span> 
 
 <table>
   <tbody>
@@ -24030,19 +24035,19 @@ Bevindende sig op de plaats de
       <td>6 kalveren</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		  Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cesar van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cesar van
 		  Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jonas van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jonas van
 		  Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Casper van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Casper van
 		  Madagascar</span></td>
     </tr>
   </tbody>
@@ -24429,7 +24434,7 @@ Bevindende sig op de plaats de
       <td>voldaan de 6 Febr: 1765</td>
       <td>Johannes
 		Struijwig volgens onderh: oblig: de dato 25:e Novemb:r 1761 over coop van een
-		slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van de
+		slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van de
 		Caab</span> , omme binnen den tijd van 3 à 4 jaaren te
 		betaalen</td>
       <td>42:--</td>
@@ -24437,7 +24442,7 @@ Bevindende sig op de plaats de
     <tr>
       <td>&nbsp;</td>
       <td>over soo veel door wijlen s:r Jacob van Renen
-		  voor reekening van hem Struijwig is betaalt voor een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+		  voor reekening van hem Struijwig is betaalt voor een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		  Bougies</span></td>
       <td>128:--</td>
     </tr>
@@ -24574,7 +24579,7 @@ Weijders zijn de volgende aan deezen boedel debet, dog het geene als
     <tr>
       <td>voldaan met den intrest</td>
       <td>aan de heer Frans Adam
-		Carelson totvolgens sub dato 7:e
+		Carelson tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> volgens sub dato 7:e
 		Februarij 1764 geslooten reekening courant ƒ711:17 Hollands courant
 		ofte</td>
       <td>296:29</td>
@@ -24583,7 +24588,7 @@ Weijders zijn de volgende aan deezen boedel debet, dog het geene als
       <td>vereffent</td>
       <td>aan de Weescaamer deeser steede, over de
 		tweede ofte laatste paij over custingbrief de dato 7:e Julij 1762 weegens de
-		plaats debovengem:t</td>
+		plaats de <span style="border-bottom: 2px dotted #FF0000;">Voorsorg</span> bovengem:t</td>
       <td>211:--</td>
     </tr>
     <tr>
@@ -24614,7 +24619,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.45b
 
- {17640711} 11 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Jacob van Renen</span> 
+ {17640711} 11 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Jacob van Renen</span> 
 
 Specificatie van sodanige roerende en onroerende goederen als agtervolgens
 	 Heeren Weesmeesteren resolutie van den 22:e Junij a:c: soo in opvolginge van
@@ -24633,14 +24638,14 @@ Aan opgem:e juff:w de wed:e Van Renen
     </tr>
     <tr>
       <td>Het huijs en erff staande ende geleegen in
-		  deeseop de,
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> op de <span style="border-bottom: 2px dotted #FF0000;">hoek van de Tweede Berg Dwars- en Heerestraat</span> ,
 		  bij opgem:e geschrift aan haar vermaakt voor ƒ12300
 		  ofte</td>
       <td>4100:--</td>
     </tr>
     <tr>
       <td>het huijs en erff staande ende geleegen annex
-		  het evengem:op debij opgem:e geschrift aan haar vermaakt voor ƒ3000 ofte</td>
+		  het evengem: <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> op de <span style="border-bottom: 2px dotted #FF0000;">hoek van de Tweede Bergdwars- en Heerestraat</span> bij opgem:e geschrift aan haar vermaakt voor ƒ3000 ofte</td>
       <td>1000:--</td>
     </tr>
     <tr>
@@ -24672,7 +24677,7 @@ Aan de twee kinderen van wijlen opgem:e s:r Jacob van Renen in naame
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>de plaats ofte hofsteede genaamt degeleegen in de, bij opgem:e geschrift door wijlen s:r
+      <td>de plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Voorsorg</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Goudine</span> , bij opgem:e geschrift door wijlen s:r
 		  Jacob van Renen aan zijne twee kinderen Adriaan en Jan vermaakt voor ƒ1900 dog
 		  't laastgen:e kind Jan voor desselfs vader zijnde koomen aflijvig te worden,
 		  soo is ten versoeke van dikwils gen:e juff:w de wed:e Van Renen volgens opgem:e
@@ -24696,20 +24701,20 @@ De volgende lijfeijgenen en beestiaal dewelke sig op evengem:e plaats
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		  Malabar</span></td>
       <td rowspan='4' style='vertical-align: middle;'>533:16</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cesar van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cesar van
 		  Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jonas van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jonas van
 		  Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Casper van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Casper van
 		  Madagascar</span></td>
     </tr>
     <tr>
@@ -24740,7 +24745,7 @@ Mij praesent: J:s H:s Blanckenbert, Secret:s
 ## MOOC8/11.45c
 
  {17640711} 11
-	 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Jacob van
+	 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Jacob van
 	 Renen</span> 
 
 Specificatie van sodanige kleederen, mitsgaders goud- en silverwerk als
@@ -24929,16 +24934,16 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/11.46
 
- {17650331} 31 Maart 1765 <span style="border-bottom: 2px dotted #008000;">Jan Christoffel
+ {17650331} 31 Maart 1765 <span style="border-bottom: 2px dotted #00FF00;">Jan Christoffel
 	 Hartwich</span> 
 
 Inventaris van alle soodanige goederen, meubilen, beestialen en slaven,
 	 als er in den metter dood ontruijmten en nagelaaten boedel van den op den 19:e
-	 der jongstgepasseerde maand Februarij op desselfs aan degeleegen plaats genaamt, ab intestato overleedenen
+	 der jongstgepasseerde maand Februarij op desselfs aan de <span style="border-bottom: 2px dotted #FF0000;">Potteberg</span> geleegen plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Wijtgeleegen</span> , ab intestato overleedenen
 	 landbouwer Jan Christoffel Hartwich in waaren weesen zijn gevonden en dewelke
 	 ingevolge het hooggeagte aanschrijven van 't Eerwaarde Collegie van Heeren
 	 Weesmeesteren deeses Caabschen gouvernements in dato 7:e deeser loopende maand
-	 Maart door mij Joachim Frederik Mentz, secretaris der Colonie vanten overstaan van de naargen:
+	 Maart door mij Joachim Frederik Mentz, secretaris der Colonie van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> ten overstaan van de naargen:
 	 getuijgen, zijn geinventariseerd geworden om ingevolge het bij welopgem: Heeren
 	 Weesmeesteren in derselver voorsz: missive geordonneerde, ten behoeve van des
 	 overleedenen nagelaatene minderjarige jonge dogter
@@ -24956,7 +24961,7 @@ verkogt te werden.
 <table>
   <tbody>
     <tr>
-      <td>Een opstal geleegen aan degen:t</td>
+      <td>Een opstal geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Potteberg</span> gen:t <span style="border-bottom: 2px dotted #FF0000;">Wijtgeleegen</span></td>
     </tr>
   </tbody>
 </table>
@@ -25501,7 +25506,7 @@ In 't huijs en eerst
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>Een mansslaaf <span style="border-bottom: 2px dotted #008000;">Aaron van Sambouwe</span> gen:t</td>
+      <td>Een mansslaaf <span style="border-bottom: 2px dotted #00FF00;">Aaron van Sambouwe</span> gen:t</td>
     </tr>
   </tbody>
 </table>
@@ -25593,7 +25598,7 @@ In 't huijs en eerst
   </tbody>
 </table>
 
-Aldus gedaan ende geinventariseert op de plaatsvoorm: den 31:e Maart 1765 in 't
+Aldus gedaan ende geinventariseert op de plaats <span style="border-bottom: 2px dotted #FF0000;">Wijtgeleegen</span> voorm: den 31:e Maart 1765 in 't
 	 bijwesen van de landbouwers Pieter Grobbelaar en Stephanus Kuun als
 	 getuijgen
 
@@ -25603,7 +25608,7 @@ In kennisse van mij: J:F: Mentz, Secret:s
 
 ## MOOC8/12.1
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Jan Dirksz van Eeden</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Jan Dirksz van Eeden</span> 
 
 Inventarium van den boedel des landbouwer Jan Dirksz van Eeden, als
 	 volgt
@@ -25675,7 +25680,7 @@ Het merk + van Jacob van Deventer.
 
 ## MOOC8/12.2
 
- {17660505} 5 Maij 1766 <span style="border-bottom: 2px dotted #008000;">Maria Weijers</span> 
+ {17660505} 5 Maij 1766 <span style="border-bottom: 2px dotted #00FF00;">Maria Weijers</span> 
 
 Inventaris van alle sodaanige goederen als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door Maria Weijers, ten voordeele van haaren
@@ -25773,7 +25778,7 @@ J:H: Redelinghuijs, Boode
 
 ## MOOC8/12.3
 
- {17660521} 21 Maij 1766 <span style="border-bottom: 2px dotted #008000;">Maria Jacomina Vivié</span> 
+ {17660521} 21 Maij 1766 <span style="border-bottom: 2px dotted #00FF00;">Maria Jacomina Vivié</span> 
 
 Inventaris mitsgaders taxatie van alle zodanige goederen als ab intestato
 	 metter dood zijn ontruijmd ende naargelaten door Maria Jacomina Vivié ten
@@ -25800,7 +25805,7 @@ zodanig ende indiervoegen als dezelve door gem:e Claasz: aan de onderget:e
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal genaamt degeleegen onder het district van</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Langetouw</span> geleegen onder het district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -25865,7 +25870,7 @@ zodanig ende indiervoegen als dezelve door gem:e Claasz: aan de onderget:e
       <td>100</td>
     </tr>
     <tr>
-      <td>aan Claas Claasz van</td>
+      <td>aan Claas Claasz van <span style="border-bottom: 2px dotted #FF0000;">Delft</span></td>
       <td>30</td>
     </tr>
     <tr>
@@ -25941,7 +25946,7 @@ Den 12 October a:o 1765.
 
 ## MOOC8/12.4
 
- {17660603} 3 Junij 1766 <span style="border-bottom: 2px dotted #008000;">Anna Margaretha Hugo</span> 
+ {17660603} 3 Junij 1766 <span style="border-bottom: 2px dotted #00FF00;">Anna Margaretha Hugo</span> 
 
 Inventaris mitsg:rs taxatie van alle sodaanige goederen soo roerende als
 	 onroerende als ab intestato metter dood sijn ontruijmt ende naargelaaten door
@@ -25985,22 +25990,24 @@ Sodaanig ende indiervoegen als deselve door opgem: weduwenaar zijn
     </tr>
     <tr>
       <td>Twee plaatsen ofte hofsteedens annex den
-		  anderen geleegen de eene gen:t deen d’ andere gen:t, blijkens transport d’ dato 12:e
-		  Augustus 1752 geleegen onder ’t district van</td>
+		  anderen geleegen de eene gen:t de <span style="border-bottom: 2px dotted #FF0000;">Drie
+		  Fonteijnen</span> en d’ andere gen:t <span style="border-bottom: 2px dotted #FF0000;">Nabijgeleegen</span> , blijkens transport d’ dato 12:e
+		  Augustus 1752 geleegen onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
       <td>2166:5</td>
     </tr>
     <tr>
-      <td>1 opstal gen:t d’geleegen aan d’</td>
+      <td>1 opstal gen:t d’ <span style="border-bottom: 2px dotted #FF0000;">Uijtvlugt</span> geleegen aan d’ <span style="border-bottom: 2px dotted #FF0000;">Breederievier</span></td>
       <td>33:3</td>
     </tr>
     <tr>
-      <td>1 opstal gen:t d’geleegen aan d’</td>
+      <td>1 opstal gen:t d’ <span style="border-bottom: 2px dotted #FF0000;">Goede Verwagting</span> geleegen aan d’ <span style="border-bottom: 2px dotted #FF0000;">Swarteberg</span></td>
       <td>33:3</td>
     </tr>
   </tbody>
 </table>
 
-Op de woonplaats d’:
+Op de woonplaats d’ <span style="border-bottom: 2px dotted #FF0000;">Drie
+	 Fonteijnen</span> :
 
 <table>
   <thead><tr><td colspan='100%'>In de kaamer ter regterhand</td></tr></thead>
@@ -26750,53 +26757,53 @@ Op de woonplaats d’:
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
       <td rowspan='7' style='vertical-align: middle;'>700</td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Tacitus van Bougies</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Tacitus van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">April van Bougies</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Onton van Bougies</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Onton van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Darius van Bougies</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Darius van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Maij van Bougies</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Maij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bengaalen</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Ternaten</span></td>
       <td rowspan='7' style='vertical-align: middle;'>1100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Oranie van Rio de la
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Oranie van Rio de la
 		goa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Ram van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Ram van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van d’
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Junij van d’ Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Junij van d’ Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Sara</span> met haare 4 kinderen, <span style="border-bottom: 2px dotted #008000;">December</span> , <span style="border-bottom: 2px dotted #008000;">Adam</span> , <span style="border-bottom: 2px dotted #008000;">Jephta</span> en <span style="border-bottom: 2px dotted #008000;">Africa</span> alle van de
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Sara</span> met haare 4 kinderen, <span style="border-bottom: 2px dotted #00FF00;">December</span> , <span style="border-bottom: 2px dotted #00FF00;">Adam</span> , <span style="border-bottom: 2px dotted #00FF00;">Jephta</span> en <span style="border-bottom: 2px dotted #00FF00;">Africa</span> alle van de
 		Caab</td>
     </tr>
   </tbody>
@@ -26871,7 +26878,7 @@ Op de woonplaats d’:
 </table>
 
 Aldus geinventariseert en getaxeert op de plaats van bovengem: Paul Roux
-	 gen:t d’op den 3:e Junij
+	 gen:t d’ <span style="border-bottom: 2px dotted #FF0000;">Drie Fonteijnen</span> op den 3:e Junij
 	 1766 en betuijgde hij boedelhouder alles naa zijn beste weeten getrouwelijk
 	 opgegeeven en aangeweesen te hebben sonder dat door hem met voordagt iets
 	 versweegen ofte agter gehouden te sijn, met belofte dat soo wanneer door hem
@@ -26887,7 +26894,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.5a
 
- {17661008} 8 October 1766 <span style="border-bottom: 2px dotted #008000;">Martha van der Merwe</span> 
+ {17661008} 8 October 1766 <span style="border-bottom: 2px dotted #00FF00;">Martha van der Merwe</span> 
 
 Cloppenburg
 
@@ -26921,11 +26928,11 @@ zodanig ende indiervoegen, als dezelve door de meede landbouwers Johannes
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal gen:t d’geleegen onder ’t district van</td>
+      <td>Een opstal gen:t d’ <span style="border-bottom: 2px dotted #FF0000;">Elandsrivier</span> geleegen onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>50:--</td>
     </tr>
     <tr>
-      <td>een opstal gen:tgeleegen onder gen:t district aan ’t</td>
+      <td>een opstal gen:t <span style="border-bottom: 2px dotted #FF0000;">Karkagoe</span> geleegen onder gen:t district aan ’t <span style="border-bottom: 2px dotted #FF0000;">Witte Water</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -27070,16 +27077,16 @@ zodanig ende indiervoegen, als dezelve door de meede landbouwers Johannes
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavejonge genaamd <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slavejonge genaamd <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Ternaten</span></td>
       <td rowspan='3' style='vertical-align: middle;'>465</td>
     </tr>
     <tr>
-      <td>1 slavejonge genaamd <span style="border-bottom: 2px dotted #008000;">December v:
+      <td>1 slavejonge genaamd <span style="border-bottom: 2px dotted #00FF00;">December v:
 		Mallabar</span></td>
     </tr>
     <tr>
-      <td>1 slavejonge genaamd <span style="border-bottom: 2px dotted #008000;">David v: Mallabar</span></td>
+      <td>1 slavejonge genaamd <span style="border-bottom: 2px dotted #00FF00;">David v: Mallabar</span></td>
     </tr>
   </tbody>
 </table>
@@ -27142,7 +27149,7 @@ T welk ik getuijge: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.5b
 
- {17660523} 23 Mij 1766 <span style="border-bottom: 2px dotted #008000;">Martha van der Merwe</span> 
+ {17660523} 23 Mij 1766 <span style="border-bottom: 2px dotted #00FF00;">Martha van der Merwe</span> 
 
 Hendrik Klopper
 
@@ -27152,7 +27159,7 @@ Bekendtmakinge aan de Heere Weesmeesteren wegens het overlijden van mijn
 <table>
   <tbody>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">mansslave</span></td>
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">mansslave</span></td>
     </tr>
     <tr>
       <td>achtienhonderd een en tachentig schape</td>
@@ -27268,9 +27275,9 @@ Als getuijge: Johannes Lagransie, Coert Grobler
   </tbody>
 </table>
 
-2 j:r 5 m:e d’
+2 j:r 5 m:e d’ <span style="border-bottom: 2px dotted #FF0000;">Elandsrevier</span> 
 
-6 j:r 6 m:eaan ‘tonder
+6 j:r 6 m:e <span style="border-bottom: 2px dotted #FF0000;">Carrekegoe</span> aan ‘t <span style="border-bottom: 2px dotted #FF0000;">Wittewater</span> onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> 
 
 Voorig kinderbewijs rd:s660
 
@@ -27278,7 +27285,7 @@ Agterstal bij d’ E: Comp: rd:s
 
 ## MOOC8/12.6a
 
- {17661022} 22 October 1766 <span style="border-bottom: 2px dotted #008000;">Burgert Mulder</span> 
+ {17661022} 22 October 1766 <span style="border-bottom: 2px dotted #00FF00;">Burgert Mulder</span> 
 
 Cloppenburg
 
@@ -27309,7 +27316,8 @@ Zodanig ende indiervoegen als dezelve door de oud heemraaden David de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Twee plaatzen ofte hofsteedens genaamdenbijde geleegen aangetaxeert op ƒ7000</td>
+      <td>Twee plaatzen ofte hofsteedens genaamd <span style="border-bottom: 2px dotted #FF0000;">Lamotte</span> en <span style="border-bottom: 2px dotted #FF0000;">Fredriks
+		  Berg</span> bijde geleegen aan <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> getaxeert op ƒ7000</td>
       <td>2333:16</td>
     </tr>
     <tr>
@@ -27635,48 +27643,48 @@ Zodanig ende indiervoegen als dezelve door de oud heemraaden David de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jan van Macassar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jan van Macassar</span></td>
       <td rowspan='12' style='vertical-align: middle;'>1200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Ternate</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van Boegies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van Boegies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pasquil van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pasquil van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jnge gen:t <span style="border-bottom: 2px dotted #008000;">Coree van Bengalen</span></td>
+      <td>1 slave jnge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coree van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 save jonge gen:t <span style="border-bottom: 2px dotted #008000;">La Fleur van
+      <td>1 save jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">La Fleur van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Juliana van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Juliana van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">October van de
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">October van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van de
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Afrika van de Caab</span></td>
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Afrika van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -27788,7 +27796,7 @@ Mij praesent: J:s H:s Blackenberg, Secret:s
 
 ## MOOC8/12.6b
 
- {17661022} 22 October 1766 <span style="border-bottom: 2px dotted #008000;">Burgert Mulder</span> 
+ {17661022} 22 October 1766 <span style="border-bottom: 2px dotted #00FF00;">Burgert Mulder</span> 
 
 Inventaris van de nagelaate goederen van den ooverleede Burgert Muller
 	 ’t welke wij ondergeteekende bij derselve weduwe bevonden hebbe, als daer
@@ -27798,43 +27806,43 @@ Inventaris van de nagelaate goederen van den ooverleede Burgert Muller
   <tbody>
     <tr>
       <td>Twee plaatse eijder groot 60 morge den eenne
-		  genaamt, de tweede</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Lamote</span> , de tweede <span style="border-bottom: 2px dotted #FF0000;">Fredriksberge</span></td>
     </tr>
     <tr>
       <td>agt slaave jongens met naame</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jan van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jan van
 		  Makasser</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Fortuijn van Tarnati</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Fortuijn van Tarnati</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Februwari van Bengale</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Februwari van Bengale</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupudo van Boegis</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupudo van Boegis</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Paskuel van Malebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Paskuel van Malebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adonis van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Core
+      <td><span style="border-bottom: 2px dotted #00FF00;">Core
 		  van Bengale</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lafleur van Malebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lafleur van Malebaar</span></td>
     </tr>
     <tr>
-      <td>een slavinne <span style="border-bottom: 2px dotted #008000;">Juliane van de
+      <td>een slavinne <span style="border-bottom: 2px dotted #00FF00;">Juliane van de
 		  Caap</span></td>
     </tr>
     <tr>
-      <td>3 slaave jongeties <span style="border-bottom: 2px dotted #008000;">October van de Caap</span> , <span style="border-bottom: 2px dotted #008000;">Ougustus van de Caap</span> , <span style="border-bottom: 2px dotted #008000;">Africa van de Caap</span></td>
+      <td>3 slaave jongeties <span style="border-bottom: 2px dotted #00FF00;">October van de Caap</span> , <span style="border-bottom: 2px dotted #00FF00;">Ougustus van de Caap</span> , <span style="border-bottom: 2px dotted #00FF00;">Africa van de Caap</span></td>
     </tr>
     <tr>
       <td>paarde, 3 ruijns en 3 merris</td>
@@ -28098,7 +28106,7 @@ Schulde van de boedel van den overleede Burgert Muller volgens opgaaf van
 ## MOOC8/12.7a
 
  {17661022} 22 October
-	 1766 <span style="border-bottom: 2px dotted #008000;">Sara de Buijs</span> 
+	 1766 <span style="border-bottom: 2px dotted #00FF00;">Sara de Buijs</span> 
 
 Cloppenburg
 
@@ -28139,11 +28147,11 @@ Zodanig ende indiervoegen als dezelve door d’ onderget:e gecommitteerde
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal aan degeleegen over de klijne</td>
+      <td>1 opstal aan de <span style="border-bottom: 2px dotted #FF0000;">Rietvalleij</span> geleegen over de klijne <span style="border-bottom: 2px dotted #FF0000;">Palmite Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 opstal genaamt degeleegen in de</td>
+      <td>1 opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Klipkuijl</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Soetemelks Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -28408,12 +28416,12 @@ Zodanig ende indiervoegen als dezelve door d’ onderget:e gecommitteerde
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Magdagascar</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Regina van Madagascar</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Regina van Madagascar</span></td>
     </tr>
   </tbody>
 </table>
@@ -28470,7 +28478,7 @@ Zodanig ende indiervoegen als dezelve door d’ onderget:e gecommitteerde
     </tr>
     <tr>
       <td>aan d’ E: Comp: over twee jaaren
-		agterstallige recogn:e penn: op de plaats aan de</td>
+		agterstallige recogn:e penn: op de plaats aan de <span style="border-bottom: 2px dotted #FF0000;">Rietvalleij</span></td>
       <td>50:--</td>
     </tr>
     <tr>
@@ -28497,7 +28505,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.7b
 
- {17661022} 22 October 1766 <span style="border-bottom: 2px dotted #008000;">Sara de Buijs</span> 
+ {17661022} 22 October 1766 <span style="border-bottom: 2px dotted #00FF00;">Sara de Buijs</span> 
 
 Cabo de Goede Hoop
 
@@ -28513,11 +28521,11 @@ De inventaris van mij Johannes Laas bestaat in volgende effecten
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">mansclaav</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">mansclaav</span></td>
       <td>1</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">schlavin</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">schlavin</span></td>
       <td>1</td>
     </tr>
     <tr>
@@ -28901,7 +28909,7 @@ Pieter Besuijdenhout
 
 ## MOOC8/12.8
 
- {17661121} 21 November 1766 <span style="border-bottom: 2px dotted #008000;">Juri Appel</span> 
+ {17661121} 21 November 1766 <span style="border-bottom: 2px dotted #00FF00;">Juri Appel</span> 
 
 Wij benne versoegt van de weduwe van den overleeden Juri Appel om haar
 	 inboel op te schrijven, namentlijk
@@ -28987,7 +28995,7 @@ kinderen:
 ## MOOC8/12.9
 
  {17670111} 11 Jannuarij
-	 1767 <span style="border-bottom: 2px dotted #008000;">Hendrik Rudolph
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Rudolph
 	 van Elwe</span> 
 
 A:o 1767 den 11 Jann: is bij mijn Pieter Theron, komen te overlijden (naar
@@ -29073,7 +29081,7 @@ Notitie van ’t geene hij heeft nae gelaaten bestaat in:
   </tbody>
 </table>
 
-Actumden 20 Jann: 1767.
+Actum <span style="border-bottom: 2px dotted #FF0000;">Waveren</span> den 20 Jann: 1767.
 
 Wij ondergeteekende getuijgen verklaaren door deesen de bovenstaande
 		nae-latenschap van den overleedenen Hendrik van Elwe, alsoo hier bevonden te
@@ -29155,7 +29163,7 @@ Hendrik Arnoldus Bruggeman, Schott Smit Prins
 ## MOOC8/12.10
 
  {17660523} 23
-	 Maij 1766 <span style="border-bottom: 2px dotted #008000;">Matthijs
+	 Maij 1766 <span style="border-bottom: 2px dotted #00FF00;">Matthijs
 	 Lagerberg</span> 
 
 Inventaris van alle zodanige goederen, als zijn naargelaten en metter dood
@@ -29376,28 +29384,28 @@ ende zulx in gevolge zijne sub dato 4:e October 1759 voor den gesw:e
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>de neevens aangehaalde twee slaven zijn bij
 		de in den hoofde deeses gem: testament aan Catharina Lagerberg gelegateert</td>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van de
 		Caab</span></td>
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>de neevens aangehaalde twee slaven zijn bij
 		de in den hoofde deeses gem: testament aan Sara Lagerberg
 		gelegateert</td>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Dina van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dina van de Caab</span></td>
     </tr>
     <tr>
       <td>moet bij de kinderen blijven wonen tot dat dezelve
 		mondig zijn, en als dan in vrijdom gestelt werden.</td>
       <td>1 slave mijd
-		gen:t <span style="border-bottom: 2px dotted #008000;">Marij van
+		gen:t <span style="border-bottom: 2px dotted #00FF00;">Marij van
 		Sambouwa</span></td>
     </tr>
   </tbody>
@@ -29412,7 +29420,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.11
 
- {17651228} 28 December 1765 <span style="border-bottom: 2px dotted #008000;">Johan Hendrik Vos</span> 
+ {17651228} 28 December 1765 <span style="border-bottom: 2px dotted #00FF00;">Johan Hendrik Vos</span> 
 
 Inventaris van alle zodanige goederen, als des nagts tusschen den 27 en
 	 28:e December 1765 ab intestato metter dood zijn ontruijmt ende naargelaten
@@ -29448,7 +29456,7 @@ zodanigende indiervoegen als dezelve door de ondergetek:e gecommitteerde
   <tbody>
     <tr>
       <td>Een huijs en stukje thuijnland staande ende
-		  geleegen in deeze, uijtwijzens
+		  geleegen in deeze <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> , uijtwijzens
 		  laatste transport van dato 25:e November 1748</td>
     </tr>
   </tbody>
@@ -29841,25 +29849,25 @@ In het voorsz: huijs
 		kinderen, en Angana met haar kind gehoorens onder de fidei commissaire
 		erfgoederen der kinderen van Jan Hend:k Vos, resol: van den 7 Maart
 		1766</td>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn v:
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn v:
 		Malacca</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Martha van de Caab</span> haar
-		drie kinderen, <span style="border-bottom: 2px dotted #008000;">Marietje</span> , <span style="border-bottom: 2px dotted #008000;">Antje</span> en <span style="border-bottom: 2px dotted #008000;">Christoffel van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Martha van de Caab</span> haar
+		drie kinderen, <span style="border-bottom: 2px dotted #00FF00;">Marietje</span> , <span style="border-bottom: 2px dotted #00FF00;">Antje</span> en <span style="border-bottom: 2px dotted #00FF00;">Christoffel van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Angana van de Caab</span> met
-		haar kind genaamt <span style="border-bottom: 2px dotted #008000;">Jacob van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Angana van de Caab</span> met
+		haar kind genaamt <span style="border-bottom: 2px dotted #00FF00;">Jacob van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Sara van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Sara van
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -29893,7 +29901,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.12
 
- {17660109} 9 Jannuarij 1766 <span style="border-bottom: 2px dotted #008000;">Justus Amelong</span> 
+ {17660109} 9 Jannuarij 1766 <span style="border-bottom: 2px dotted #00FF00;">Justus Amelong</span> 
 
 Van Reede
 
@@ -29932,7 +29940,7 @@ sodanig en indiervoegen als deselve door de ondergeteekende gecommitteerde
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deese, in ’ten aldaarblijkens laaste transport van dato 6 Jannuarij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> , in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok O:O:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> blijkens laaste transport van dato 6 Jannuarij
 		  1762</td>
     </tr>
   </tbody>
@@ -30689,10 +30697,10 @@ In eevengem: huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Isacq van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Isacq van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Manda van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Manda van Bougies</span></td>
     </tr>
   </tbody>
 </table>
@@ -30715,12 +30723,12 @@ Mij praesent: J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/12.13
 
- {17660610} 10 Junij 1766 <span style="border-bottom: 2px dotted #008000;">George Lodewijk Ernst</span> 
+ {17660610} 10 Junij 1766 <span style="border-bottom: 2px dotted #00FF00;">George Lodewijk Ernst</span> 
 
 Van Reede
 
 Inventaris van alle zodanige goederen, als ab intestato metter dood zijn
-	 ontruijmt ende naargelaten door den burger George Lodewijk Ernst vanin, ten voordeele van zijn uijtlandige
+	 ontruijmt ende naargelaten door den burger George Lodewijk Ernst van <span style="border-bottom: 2px dotted #FF0000;">Esbeck</span> in <span style="border-bottom: 2px dotted #FF0000;">Hanover</span> , ten voordeele van zijn uijtlandige
 	 onbekende erfgenamen, zodanig ende indiervoegen als dezelve door den meede
 	 burger August Christoph Kok bij wien denzelven woonachtig is geweest, zijn
 	 opgegeeven en aangeweezen, mitsg:rs bij d’ ondergetek:e gecommitteerde
@@ -30916,7 +30924,7 @@ Inventaris van alle zodanige goederen, als ab intestato metter dood zijn
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -30949,16 +30957,16 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.14
 
- {17650809} 9 Augustus 1765 <span style="border-bottom: 2px dotted #008000;">Carel Pietersz de
+ {17650809} 9 Augustus 1765 <span style="border-bottom: 2px dotted #00FF00;">Carel Pietersz de
 	 Jager</span> 
 
 Van Reede
 
 Inventaris van alle soodanige goederen, meubilen, beestialen en slaven,
 	 als er in den metter dood ontruijmt en nagelatenen boedel van den op den 26:e
-	 der jongstgepasseerde maand Julij op desselfs in ’t district vangeleegene plaats degenaamt, overleedenen oud burger
+	 der jongstgepasseerde maand Julij op desselfs in ’t district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> geleegene plaats de <span style="border-bottom: 2px dotted #FF0000;">Spiegelrivier</span> genaamt, overleedenen oud burger
 	 capitain mons:r Carel Pietersz de Jager in waaren weesen zijn gevonden en
-	 dewelke door mij Joachim Frederik Mentz, Secretaris der Colonie vanvoorn: ten versoeke en op het op en
+	 dewelke door mij Joachim Frederik Mentz, Secretaris der Colonie van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> voorn: ten versoeke en op het op en
 	 aangeeven van de burgers Pieter Christiaan de Jager en Gidion de Jager, ten
 	 overstaan van de naargen: getuijgen, zijn geinventariseert geworden,
 	 namentlijk
@@ -30966,12 +30974,12 @@ Inventaris van alle soodanige goederen, meubilen, beestialen en slaven,
 <table>
   <tbody>
     <tr>
-      <td>Een opstal genaamt de</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kracha</span></td>
     </tr>
   </tbody>
 </table>
 
-Op de plaats de
+Op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Spiegelrivier</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In het voorhuijs</td></tr></thead>
@@ -31913,7 +31921,7 @@ Op de plaats de
   </tbody>
 </table>
 
-Op de
+Op de <span style="border-bottom: 2px dotted #FF0000;">Kracha</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In de camer</td></tr></thead>
@@ -31991,44 +31999,44 @@ Op de
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Manuel
+      <td><span style="border-bottom: 2px dotted #00FF00;">Manuel
 		van Mallabaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Augustus van Mallabaar</span> : voor de vendutie
+      <td><span style="border-bottom: 2px dotted #00FF00;">Augustus van Mallabaar</span> : voor de vendutie
 		overleeden</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">October
+      <td><span style="border-bottom: 2px dotted #00FF00;">October
 		van Timor</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">September van Timor</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">September van Timor</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Fortuijn van Madagascar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Fortuijn van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Pedro
+      <td><span style="border-bottom: 2px dotted #00FF00;">Pedro
 		van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Goliath van Cabo</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Goliath van Cabo</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van Cabo</span> absent</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Flora
+      <td><span style="border-bottom: 2px dotted #00FF00;">Flora
 		van Cabo</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Diana
+      <td><span style="border-bottom: 2px dotted #00FF00;">Diana
 		van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupido
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupido
 		van Bengalen</span></td>
     </tr>
   </tbody>
@@ -32118,7 +32126,7 @@ Op de
   </tbody>
 </table>
 
-Aldus gedaan ende geinventariseert op de plaats deden 9:e en 10:e Augustus 1765
+Aldus gedaan ende geinventariseert op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Spiegel Rivier</span> den 9:e en 10:e Augustus 1765
 	 op het aangeeven van bovengem: Pieter Christiaan en Gidion de Jager, dewelke
 	 verklaarden sig getrouw en opregt gedragen te hebben sonder iets bij hun weeten
 	 agtergehouden of versweegen te hebben, beloovende dat soo sij namaals nog iets
@@ -32157,8 +32165,8 @@ Aldus gedaan ende geinventariseert op de plaats deden 9:e en 10:e Augustus 1765
 ## MOOC8/12.15a
 
  {17640616} 16 Junij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Sergius
-	 Swellengrebel</span> , <span style="border-bottom: 2px dotted #008000;">Anna
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Sergius
+	 Swellengrebel</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna
 	 Fothergill</span> 
 
 Inventaris van alle sodanige goederen ende effecten, mitsgaders actien
@@ -32180,7 +32188,7 @@ Inventaris van alle sodanige goederen ende effecten, mitsgaders actien
   </tbody>
 </table>
 
-thans Ondercoopman en resident teentot universeelen erfgenaam g’institueert
+thans Ondercoopman en resident te <span style="border-bottom: 2px dotted #FF0000;">Boelocomba</span> en <span style="border-bottom: 2px dotted #FF0000;">Bonthain</span> tot universeelen erfgenaam g’institueert
 	 te hebben.
 
 Sodanig ende indiervoegen als deselve door d’ ondergeteekende
@@ -32192,13 +32200,13 @@ Sodanig ende indiervoegen als deselve door d’ ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deeseen aldaar een gedeelte van
-		  hetblijkens transport de dato 25
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> en aldaar een gedeelte van
+		  het <span style="border-bottom: 2px dotted #FF0000;">Blok G:G:</span> blijkens transport de dato 25
 		  Februarij 1762</td>
     </tr>
     <tr>
       <td>een huijs en erff de daarop staande gebouwen
-		  meede in deese, uijtwijsens
+		  meede in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> , uijtwijsens
 		  transport, sub evengem:e dato gepasseert</td>
     </tr>
   </tbody>
@@ -33982,42 +33990,42 @@ In het woonhuijs en aldaar
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Zesar van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Zesar van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Sifax van Madagascar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Sifax van Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Afer van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Afer van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Hannibal van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Hannibal van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Agoa van Rio de la
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Agoa van Rio de la
 		goa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Bougies</span></td>
       <td rowspan='3' style='vertical-align: middle;'>welke drie neevens aangehaalde lijfeijgenen
 		naar luijd van meergem:e codicille in vrijdom moeten werden gestelt</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Balij van Balij</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Balij van Balij</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #008000;">Regina van Balij</span></td>
+      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Regina van Balij</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #008000;">Amarie van Balij</span></td>
+      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Amarie van Balij</span></td>
       <td>mag volgens gevonden acte niet verkogt werden</td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Harlequin van de
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Harlequin van de
 		Caab</span></td>
       <td>het neevens gen:e slave jongetje is door Regina op de
 		bij codicille van dato 30:e Maart 1764 aan haar gelaate keuse g’accepteert in
@@ -34448,7 +34456,7 @@ Juweelen, goud-en silverwerk mitsgaders gemaakte linnengoed en kleederen
 </table>
 
 Aan der overleedene suster Jennij Raper weduwe van wijlen haaren broeder
-	 George Fothergill woonachtig tot
+	 George Fothergill woonachtig tot <span style="border-bottom: 2px dotted #FF0000;">London</span> 
 
 <table>
   <tbody>
@@ -34730,19 +34738,19 @@ Aan der overleedene suster Jennij Raper weduwe van wijlen haaren broeder
 
 Nota: blijkens attestatie door den notaris Benjamin Bonnet sub dato 3:e
 	 9b:r 1763 verleeden, is op de naam van de juff:w overleedene een actie bekend
-	 in de fonds van amnuitijt teter groote
+	 in de fonds van amnuitijt te <span style="border-bottom: 2px dotted #FF0000;">London</span> ter groote
 	 van vijff duijsend en vijff hondert ponden sterlings a drie p:o c:o
 
 En is blijkens reekening courant van dato 4:e November 1763 onder de
-	 heeren Bartholomew Burton en John Forbes teberustende een somma van drie hondert ses en
+	 heeren Bartholomew Burton en John Forbes te <span style="border-bottom: 2px dotted #FF0000;">London</span> berustende een somma van drie hondert ses en
 	 ’t negentig pond: sterl: en 123 als meede onder de heeren Pije Rich en
-	 Wilkieson cooplieden totmeede
+	 Wilkieson cooplieden tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> meede
 	 blijkens sub dato 25:e 8b:r 1763 geslootene reekening courant p:r saldo ƒ88
 	 Holl:s court:
 
 Over sooveel wijlen den E: Agtb:ren heer Sergius Swellengrebel op desselfs
 	 soldijreekening bij d’ E: Comp: heeft te goed behouden ƒ1526:13 thans onder
-	 directie ende ter bestieringe van d’ heer Frans Adam Carelson tot.
+	 directie ende ter bestieringe van d’ heer Frans Adam Carelson tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> .
 
 <table>
   <thead><tr><td colspan='100%'>Lasten des boedels</td></tr></thead>
@@ -34759,7 +34767,7 @@ Over sooveel wijlen den E: Agtb:ren heer Sergius Swellengrebel op desselfs
     </tr>
     <tr>
       <td>voldaan</td>
-      <td>aan soo veel den mattroos Ricotto vanblijkens gevondene journaaltje over
+      <td>aan soo veel den mattroos Ricotto van <span style="border-bottom: 2px dotted #FF0000;">Madagascar</span> blijkens gevondene journaaltje over
 		van tijd tot tijd voor sijn reekening ontfangene penningen heeft te goed
 		behouden</td>
     </tr>
@@ -34801,13 +34809,13 @@ Over sooveel wijlen den E: Agtb:ren heer Sergius Swellengrebel op desselfs
     </tr>
     <tr>
       <td>voldaan</td>
-      <td>aan de twee lijfeijgenen <span style="border-bottom: 2px dotted #008000;">Cupido</span> en <span style="border-bottom: 2px dotted #008000;">Balij</span> bovengem: ieder rx100
+      <td>aan de twee lijfeijgenen <span style="border-bottom: 2px dotted #00FF00;">Cupido</span> en <span style="border-bottom: 2px dotted #00FF00;">Balij</span> bovengem: ieder rx100
 		ofte t’ samen</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>hebbende de slavinne <span style="border-bottom: 2px dotted #008000;">Regina</span> in plaatse van ’t
-		  legaat, het slave jongetje <span style="border-bottom: 2px dotted #008000;">Harlequin</span> gekoosen</td>
+      <td>hebbende de slavinne <span style="border-bottom: 2px dotted #00FF00;">Regina</span> in plaatse van ’t
+		  legaat, het slave jongetje <span style="border-bottom: 2px dotted #00FF00;">Harlequin</span> gekoosen</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -34816,28 +34824,28 @@ Over sooveel wijlen den E: Agtb:ren heer Sergius Swellengrebel op desselfs
     </tr>
     <tr>
       <td rowspan='7' style='vertical-align: middle;'>voldaan</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Zesar van Madagascar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Zesar van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sifax
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sifax
 		van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Afer
+      <td><span style="border-bottom: 2px dotted #00FF00;">Afer
 		van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Hannibal van Madagascar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hannibal van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Agoa van Rio de la goa</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Agoa van Rio de la goa</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Amarie van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Amarie van
 		Balij</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Harlequin van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Harlequin van de Caab</span></td>
     </tr>
     <tr>
       <td>Dus de legaten te saamen
@@ -34857,7 +34865,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.15b
 
- {17660414} 14 April 1766 <span style="border-bottom: 2px dotted #008000;">Sergius Swellengrebel</span> , <span style="border-bottom: 2px dotted #008000;">Anna Fothergill</span> 
+ {17660414} 14 April 1766 <span style="border-bottom: 2px dotted #00FF00;">Sergius Swellengrebel</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Fothergill</span> 
 
 Specificatie van alle sodanige effecten bestaande in juweelen, goud-,
 	 silverwerken, boeken, kleederen en andere klijnodien etc:a als ingevolge het
@@ -35335,7 +35343,7 @@ J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.15c
 
- {17640727} 27 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Sergius Swellengrebel</span> , <span style="border-bottom: 2px dotted #008000;">Anna Fothergill</span> 
+ {17640727} 27 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Sergius Swellengrebel</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Fothergill</span> 
 
 Specificatie van sodaanige ongemaakte goed en kleederen, als ’er door de
 	 E:E: Lodewijk Christoffel Warneck en Johannes Josua Faasen als vaceerende
@@ -35346,7 +35354,7 @@ Specificatie van sodaanige ongemaakte goed en kleederen, als ’er door de
 	 ingevolge wijl haare Ed:s sub dato 1:e Maart 1764 opgeregte codicillaire
 	 dispositie, mitsgaders haare onder dato 30:e derselver maand Maart gemaakte
 	 aanhang tot haaren met wijlen haar opgem:e man gepasseerde mutueel testament
-	 overgesonden te werden aan de heer Sergius Swellengrebel resident open, te weeten
+	 overgesonden te werden aan de heer Sergius Swellengrebel resident op <span style="border-bottom: 2px dotted #FF0000;">Boeloeamba</span> en <span style="border-bottom: 2px dotted #FF0000;">Bonthain</span> , te weeten
 
 <table>
   <tbody>
@@ -35464,7 +35472,7 @@ J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.15d
 
- {17640727} 27 Julij 1764 <span style="border-bottom: 2px dotted #008000;">Sergius Swellengrebel</span> , <span style="border-bottom: 2px dotted #008000;">Anna Fothergill</span> 
+ {17640727} 27 Julij 1764 <span style="border-bottom: 2px dotted #00FF00;">Sergius Swellengrebel</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Fothergill</span> 
 
 Specificatie van sodanige ongemaakt goed en kleederen als ’er door de
 	 E:E: Lodewijk Christoffel Warneck en Johannes Josua Faasen als vaceerende
@@ -35475,7 +35483,7 @@ Specificatie van sodanige ongemaakt goed en kleederen als ’er door de
 	 ingevolge wijlen haare Ed:s sub dato 1: Maart 1764 opgeregte codicillaire
 	 dispositie mitsg:rs haare onder dato 30:e derselver maand Maart gemaakte
 	 aanhang tot haaren met wijlen haar opgem:e man gepasseerde mutueel testament
-	 overgesonden te werden aan de heer Sergius Swellengrebel resident open, te weeten
+	 overgesonden te werden aan de heer Sergius Swellengrebel resident op <span style="border-bottom: 2px dotted #FF0000;">Boeloeamba</span> en <span style="border-bottom: 2px dotted #FF0000;">Bonthian</span> , te weeten
 
 <table>
   <tbody>
@@ -35722,8 +35730,8 @@ J:s H:s Blanckenberg, Secret:s
 ## MOOC8/12.15e
 
  {17640727} 27 Julij
-	 1764 <span style="border-bottom: 2px dotted #008000;">Sergius
-	 Swellengrebel</span> , <span style="border-bottom: 2px dotted #008000;">Anna
+	 1764 <span style="border-bottom: 2px dotted #00FF00;">Sergius
+	 Swellengrebel</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna
 	 Fothergill</span> 
 
 Specificatie van sodaanige kleederen als ’er door de E:E: Lodewijk
@@ -35735,7 +35743,7 @@ Specificatie van sodaanige kleederen als ’er door de E:E: Lodewijk
 	 haare Ed:s sub dato 1 Maart 1764 opgeregte codicillaire dipositie, mitsg:rs
 	 haare onder dato 30:e derselver maand Maart gemaakte aanhang tot haaren met
 	 wijlen haar opgem:e man gepasseerde mutueel testament overgesonden te werden
-	 aan mejuff:w Jennij Raper wed:e van wijlen de heer George Fothergill tot, te weeten
+	 aan mejuff:w Jennij Raper wed:e van wijlen de heer George Fothergill tot <span style="border-bottom: 2px dotted #FF0000;">London</span> , te weeten
 
 <table>
   <tbody>
@@ -35941,7 +35949,7 @@ Cabo de Goede Hoop den 27:e Julij 1764.
 
 J:s H:s Blanckenberg, Secret:s
 
-De goederties om naarte
+De goederties om naar <span style="border-bottom: 2px dotted #FF0000;">Engelandt</span> te
 	 senden, bestaan in dese volgende voor eerst in een spaanderdoos gepakt
 
 <table>
@@ -36159,7 +36167,7 @@ De goederties om naarte
 ## MOOC8/12.16
 
  {17670107} 7 Januarij
-	 1767 <span style="border-bottom: 2px dotted #008000;">Jan de Vlieger</span> , <span style="border-bottom: 2px dotted #008000;">Magdalena
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Jan de Vlieger</span> , <span style="border-bottom: 2px dotted #00FF00;">Magdalena
 	 Adriaansz:e</span> 
 
 Inventaris van alle zodanige goederen als ingevolge sub dato 3:e April
@@ -36170,10 +36178,10 @@ Inventaris van alle zodanige goederen als ingevolge sub dato 3:e April
 	 zodanig als dezelve bij gem:e overledene en zijne weduwe in gemeenschap zijn
 	 beseeten geweest; dog dewelke vermits agtervolgens het g’eerde aanschrijven
 	 door d’ edele agtb:re Heeren Regenten van ’t Almoesseniers Weeshuijs der
-	 stad, sub dato 1:e October 1766 door
+	 stad <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> , sub dato 1:e October 1766 door
 	 gem:e overledene geen uijtkoop bij gerepte weeshuijs alwaar sedert den jaare
 	 1741 tot a:o 1754 g’alimenteert geworden zijnde, is geschied naar inhoude van
-	 het octroij door de Heeren Staten vanenaan meergem:e weeshuijs
+	 het octroij door de Heeren Staten van <span style="border-bottom: 2px dotted #FF0000;">Holland</span> en <span style="border-bottom: 2px dotted #FF0000;">West Vriesland</span> aan meergem:e weeshuijs
 	 verleend, voor d’ eene helfte komen te devolveeren ten behoeve van
 	 dikwilsgem:e weeshuijs, mitsgaders voor de wederhelfte aan meergeciteerde
 	 weduwe
@@ -36451,14 +36459,14 @@ In een gehuurde huijs
   <thead><tr><td colspan='100%'>Lijffeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Premi van de Cust</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Premi van de Cust</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Madagassar</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Ropia van Bougies</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Ropia van Bougies</span></td>
     </tr>
   </tbody>
 </table>
@@ -36479,7 +36487,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.17
 
- {17550820} 20 Augustus 1755 <span style="border-bottom: 2px dotted #008000;">Beatrix Needer</span> 
+ {17550820} 20 Augustus 1755 <span style="border-bottom: 2px dotted #00FF00;">Beatrix Needer</span> 
 
 Inventaris van alle sodanige goederen, als op den 12:e der maand Augustus
 	 deeses jaars 1755 des ’s morgens de klocke omtrent seeven uuren met er dood
@@ -36489,7 +36497,7 @@ Inventaris van alle sodanige goederen, als op den 12:e der maand Augustus
 	 12:e Augustus des ’s morgens d’ klocke omtrent vier uuren desgelijx
 	 overleedene huijsvrouw Alida Raams in huwelijk geprocreeert, zulx dat dan als
 	 nu de onder te specificeerene nalatenschap van bovengem: Beatrix Needer komt te
-	 devolveeren op de heer Isaac Cassa totals in huwelijk hebbende Catharina
+	 devolveeren op de heer Isaac Cassa tot <span style="border-bottom: 2px dotted #FF0000;">Schravenhagen</span> als in huwelijk hebbende Catharina
 	 Needer zijnde de eenigste moeij van voorm: overleeden kind van vaders zyde ter
 	 eenre, mitsgd:s ten behoeve van den burger
 
@@ -37058,14 +37066,14 @@ opgenoomen en in geschrifte gebragt door de ondertenoemene gecomm:e
   <thead><tr><td colspan='100%'>Leijfijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diana van Bengalen</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diana van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosette van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosette van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van d Caab</span></td>
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van d Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -37101,7 +37109,7 @@ Mij praesent: J:N: v: Dessin, Secret:s
 
 ## MOOC8/12.18a
 
- {17670413} 13 April 1767 <span style="border-bottom: 2px dotted #008000;">Levina Catharina
+ {17670413} 13 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Levina Catharina
 	 Appel</span> 
 
 Cloppenburg
@@ -37220,7 +37228,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.18b
 
- {17670413} 13 April 1767 <span style="border-bottom: 2px dotted #008000;">Levina Catharina
+ {17670413} 13 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Levina Catharina
 	 Appel</span> 
 
 Inventaaris van alle sodanige goederen als ab intestato metter dood zijn
@@ -37299,7 +37307,7 @@ Als weduwenaar voor den opgaaf: Jacobus Johannis
 ## MOOC8/12.19a
 
  {17670422} 22
-	 April 1767 <span style="border-bottom: 2px dotted #008000;">Susanna
+	 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Susanna
 	 Durand</span> 
 
 Cloppenburg
@@ -37344,11 +37352,11 @@ Sodanig ende indiervoegen als deselve door de meede landb:rs Johannes
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal staande op de leeningplaats degeleegen in ’t</td>
+      <td>1 opstal staande op de leeningplaats de <span style="border-bottom: 2px dotted #FF0000;">Vier Fontijnen</span> geleegen in ’t <span style="border-bottom: 2px dotted #FF0000;">Nieuwe Veld</span></td>
       <td>30:--</td>
     </tr>
     <tr>
-      <td>1 opstal op de leeningplaats de, geleegen in ’t</td>
+      <td>1 opstal op de leeningplaats de <span style="border-bottom: 2px dotted #FF0000;">2 Fontijnen</span> , geleegen in ’t <span style="border-bottom: 2px dotted #FF0000;">Nieuwe Veld</span></td>
       <td>30:--</td>
     </tr>
     <tr>
@@ -37463,7 +37471,7 @@ Mij praesent: J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/12.19b
 
- {17670422} 22 April 1767 <span style="border-bottom: 2px dotted #008000;">Susanna Durand</span> 
+ {17670422} 22 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Susanna Durand</span> 
 
 Boedel van Henning Viljoen
 
@@ -37524,7 +37532,7 @@ Susanna Durand en nagelatene Henning Viljoen.
 
 ## MOOC8/12.20
 
- {17670418} 18 April 1767 <span style="border-bottom: 2px dotted #008000;">David Fori</span> 
+ {17670418} 18 April 1767 <span style="border-bottom: 2px dotted #00FF00;">David Fori</span> 
 
 Inventarisie der goederen soo naargelaten is van mijn overleedene man
 	 David Fori
@@ -37542,7 +37550,7 @@ Alles ten nausten naa-gesien van de twee ondergeschrevene daartoe versogte
     </tr>
     <tr>
       <td>een leningplaats versogt aan de E: Compagnie
-		  over de berg aan denog
+		  over de berg aan de <span style="border-bottom: 2px dotted #FF0000;">Buffelsravier</span> nog
 		  onbebouwd</td>
     </tr>
     <tr>
@@ -37617,7 +37625,7 @@ Alles ten nausten naa-gesien van de twee ondergeschrevene daartoe versogte
   </tbody>
 </table>
 
-den 18 April
+ <span style="border-bottom: 2px dotted #FF0000;">Wagenmakers Fallije</span> den 18 April
 	 1767.
 
 Lowisa Erasmus wed: David Forie
@@ -37662,7 +37670,7 @@ En dan nog van welke de wed:e grof swanger gaat.
 
 ## MOOC8/12.21a
 
- {17670430} 30 April 1767 <span style="border-bottom: 2px dotted #008000;">Johannes Bruel</span> 
+ {17670430} 30 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Johannes Bruel</span> 
 
 Inventaris mitsg:rs taxatie van alle sodanige goederen, als ab intestato
 	 metter dood zijn ontruijmd ende nagelaten door den landbouwer Johannes Bruel,
@@ -37701,7 +37709,7 @@ Sodanig als deselve agtervolgens ter deeser Caamer opgebragten inventaris
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningplaats degeleegen aan de</td>
+      <td>Een opstal staande op de leeningplaats de <span style="border-bottom: 2px dotted #FF0000;">Zandrivier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Rietfontijn</span></td>
       <td>50:--</td>
     </tr>
     <tr>
@@ -37853,16 +37861,16 @@ Sodanig als deselve agtervolgens ter deeser Caamer opgebragten inventaris
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Patientie van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Patientie van
 		Sambawa</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jongegen:t <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jongegen:t <span style="border-bottom: 2px dotted #00FF00;">November van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Andries van Mallabaar</span> absent</td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Andries van Mallabaar</span> absent</td>
     </tr>
   </tbody>
 </table>
@@ -37922,7 +37930,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.21b
 
- {17670417} 17 April 1767 <span style="border-bottom: 2px dotted #008000;">Johannes Bruweer</span> 
+ {17670417} 17 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Johannes Bruweer</span> 
 
 Inventarium over de boetel des overleeden burgers Johannes Bruweer, welke
 	 wij ondergeteekende in effective bevonden en nagesien hebben, als volgt
@@ -37942,10 +37950,10 @@ Inventarium over de boetel des overleeden burgers Johannes Bruweer, welke
       <td>1 merrij met haar veulen</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">mansclaaven</span> zo present zijn</td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">mansclaaven</span> zo present zijn</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">mansclaav</span> absent</td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">mansclaav</span> absent</td>
     </tr>
     <tr>
       <td>1 wagen met zijn toebehoor</td>
@@ -38034,7 +38042,7 @@ Inventarium over de boetel des overleeden burgers Johannes Bruweer, welke
   </tbody>
 </table>
 
-den 17:h April anno
+ <span style="border-bottom: 2px dotted #FF0000;">Zandrivier</span> den 17:h April anno
 	 1767.
 
 J:L: Kok, Gert Nel
@@ -38042,7 +38050,7 @@ J:L: Kok, Gert Nel
 <table>
   <tbody>
     <tr>
-      <td>1 leeningsplaats degeleegen aan deonder</td>
+      <td>1 leeningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Sandrevier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Rietfonteijn</span> onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
       <td>1 legger wijn</td>
@@ -38056,7 +38064,7 @@ J:L: Kok, Gert Nel
 ## MOOC8/12.22a
 
  {17670507} 7 Maij
-	 1767 <span style="border-bottom: 2px dotted #008000;">Aletta van der
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Aletta van der
 	 Merwe</span> 
 
 Cloppenburg
@@ -38106,11 +38114,11 @@ Sodanig ende indiervoegen als deselve, door de meede landbouwers Jacobus
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede gen:t degeleegen aan deonder ’t district van</td>
+      <td>Een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Hartebeeste Craal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Bockerivier</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>333:16</td>
     </tr>
     <tr>
-      <td>een opstal staande op de leeningplaats deonder ’t district vangeleegen</td>
+      <td>een opstal staande op de leeningplaats de <span style="border-bottom: 2px dotted #FF0000;">Quartelfonteijn</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> geleegen</td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -38250,42 +38258,42 @@ Sodanig ende indiervoegen als deselve, door de meede landbouwers Jacobus
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">November van
 		Bougis</span></td>
       <td rowspan='10' style='vertical-align: middle;'>1000</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Compas van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Compas van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">December van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Lena van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Lena van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Catrijn van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Catrijn van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Amelia van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Amelia van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -38345,7 +38353,7 @@ Door den weduwenaar is na ’t sluijten van voorenstaande inventaris
 
 ## MOOC8/12.22b
 
- {17670422} 22 April 1767 <span style="border-bottom: 2px dotted #008000;">Aletta van der Merwe</span> 
+ {17670422} 22 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Aletta van der Merwe</span> 
 
 Inventaris van soo daanige goederen, beestiaal etc:a als door ons
 	 ondergeteekent in den boedel van den burger Pieter Hugo sijn bevonden, als
@@ -38353,12 +38361,12 @@ Inventaris van soo daanige goederen, beestiaal etc:a als door ons
 <table>
   <tbody>
     <tr>
-      <td>Een eijgendomsplaats genaamt degelegen aan</td>
+      <td>Een eijgendomsplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hertebeeste Kraal</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Bokrevier</span></td>
     </tr>
     <tr>
       <td>een opstal van seeker leenengplaats genaamt
-		  degeleegen onder het
-		  distrecsie</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Quartelvontijn</span> geleegen onder het
+		  distrecsie <span style="border-bottom: 2px dotted #FF0000;">Stelleng Bosch</span></td>
     </tr>
     <tr>
       <td>166 runderen</td>
@@ -38370,10 +38378,10 @@ Inventaris van soo daanige goederen, beestiaal etc:a als door ons
       <td>10 paarden</td>
     </tr>
     <tr>
-      <td>6 <span style="border-bottom: 2px dotted #008000;">slaaven</span></td>
+      <td>6 <span style="border-bottom: 2px dotted #00FF00;">slaaven</span></td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>2 wagens</td>
@@ -38472,7 +38480,7 @@ Schalk Willems van der Merwen P:soon
 ## MOOC8/12.23
 
  {17670629} 29
-	 Junij 1767 <span style="border-bottom: 2px dotted #008000;">Elsje Sophia
+	 Junij 1767 <span style="border-bottom: 2px dotted #00FF00;">Elsje Sophia
 	 Visser</span> 
 
 Mijn heer Johannes Hendrickcus Blankenberg, ik hebbe volgens uwe orders,
@@ -38482,10 +38490,10 @@ Mijn heer Johannes Hendrickcus Blankenberg, ik hebbe volgens uwe orders,
 <table>
   <tbody>
     <tr>
-      <td>Een man slaaf genamt <span style="border-bottom: 2px dotted #008000;">Louis van Bengaalen</span></td>
+      <td>Een man slaaf genamt <span style="border-bottom: 2px dotted #00FF00;">Louis van Bengaalen</span></td>
     </tr>
     <tr>
-      <td>een vrouwe slaaf <span style="border-bottom: 2px dotted #008000;">Zaali van Mallebaar</span></td>
+      <td>een vrouwe slaaf <span style="border-bottom: 2px dotted #00FF00;">Zaali van Mallebaar</span></td>
     </tr>
     <tr>
       <td>een p:s houte kleer kas</td>
@@ -38899,7 +38907,7 @@ Sijnde de nalatenschap van Elsje Sophia Visser ten voordeele van haar man
 ## MOOC8/12_no number 01
 
  {17670906} 6
-	 September 1767 <span style="border-bottom: 2px dotted #008000;">Johanna Margaretha Berkman</span> 
+	 September 1767 <span style="border-bottom: 2px dotted #00FF00;">Johanna Margaretha Berkman</span> 
 
 Goedt van den overledene juffrouw Overholster
 
@@ -38973,7 +38981,7 @@ De overleedene is genaamt geweest Johanna Margaretha Berkman gesepareerde
 
 ## MOOC8/12.24
 
- {17670812} 12 Augustus 1767 <span style="border-bottom: 2px dotted #008000;">Jan Heijns</span> 
+ {17670812} 12 Augustus 1767 <span style="border-bottom: 2px dotted #00FF00;">Jan Heijns</span> 
 
 Certificeere ende verclaare wij ondergeteekendens Floris Smith en Joh:s
 	 Ahasuerus Posthumus ter requesitie van Helena van Harrenstee wed:w wijle van
@@ -39002,7 +39010,7 @@ bij haar voorst: man Jan Heijns in huwelijk geprocreeert, nog is woonende,
 <table>
   <tbody>
     <tr>
-      <td>een oude <span style="border-bottom: 2px dotted #008000;">jonge</span> dien nu kort verleeden aan de pokjes overleeden
+      <td>een oude <span style="border-bottom: 2px dotted #00FF00;">jonge</span> dien nu kort verleeden aan de pokjes overleeden
 		  is</td>
     </tr>
   </tbody>
@@ -39016,7 +39024,7 @@ J:H: Posthumus
 
 ## MOOC8/12.25
 
- {17670804} 4 Augustus 1767 <span style="border-bottom: 2px dotted #008000;">Petronella Heijmans</span> 
+ {17670804} 4 Augustus 1767 <span style="border-bottom: 2px dotted #00FF00;">Petronella Heijmans</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door Petronella Heijmans huijsvrouw van den burger
@@ -39324,7 +39332,7 @@ In een huurhuijs
       <td>aan de wed:e Rugner over arbeijdsloon</td>
     </tr>
     <tr>
-      <td>aan Jan Roep over 3 maanden huur van 1 <span style="border-bottom: 2px dotted #008000;">slave jongen</span></td>
+      <td>aan Jan Roep over 3 maanden huur van 1 <span style="border-bottom: 2px dotted #00FF00;">slave jongen</span></td>
       <td>15:--</td>
     </tr>
     <tr>
@@ -39382,7 +39390,7 @@ Ter onser praesentie: J:s W:s Blanckenberg, A:L:
 ## MOOC8/12.26
 
  {17670930} 30
-	 September 1767 <span style="border-bottom: 2px dotted #008000;">Jan
+	 September 1767 <span style="border-bottom: 2px dotted #00FF00;">Jan
 	 Duval</span> 
 
 Inventaris van alle sodanige goederen, als ab intestato metter dood zijn
@@ -39594,7 +39602,7 @@ J:s W:s Blanckenberg, Scriba
 
 ## MOOC8/12.27
 
- {17670817} 17 Augustus 1767 <span style="border-bottom: 2px dotted #008000;">Johannes Gerhardus
+ {17670817} 17 Augustus 1767 <span style="border-bottom: 2px dotted #00FF00;">Johannes Gerhardus
 	 Uijs</span> 
 
 Inventaris van alle sodanige goederen als op den 2:e Julij deese jaars
@@ -39634,7 +39642,8 @@ Sodaanig ende indiervoegen als deselve door voorn:e wed:e ter Weescaamer
 <table>
   <tbody>
     <tr>
-      <td>Op de plaatsgeleegen in de,
+      <td>Op de plaats <span style="border-bottom: 2px dotted #FF0000;">Elsjes
+		  Craal</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Tijgerbergen</span> ,
 		  toegehoorende aan den oudweesmeester d’ E: Hendrik Oostwalt Eksteen waarop
 		  den overleedene gewoond heeft en zijn famielie nog woonagtig zijn</td>
     </tr>
@@ -39657,15 +39666,15 @@ Sodaanig ende indiervoegen als deselve door voorn:e wed:e ter Weescaamer
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Geswind van
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Geswind van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Cardoes van
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Cardoes van
 		Mosambicque</span></td>
     </tr>
   </tbody>
@@ -39694,7 +39703,7 @@ Voor den opgaaf: Catrina Nel wed: Uijs
 
 ## MOOC8/12.28
 
- {17670807} 7 Augustus 1767 <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span> 
+ {17670807} 7 Augustus 1767 <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span> 
 
 Inventaris van sodaanige kleederen, goud en silverwerk als ab intestato
 	 metter dood zijn ontruijmt ende naargelaaten door de vrijswartinne Rachel van
@@ -39890,7 +39899,7 @@ C: Lijbregt
 
 ## MOOC8/12.29
 
- {17671007} 7 October 1767 <span style="border-bottom: 2px dotted #008000;">Anna
+ {17671007} 7 October 1767 <span style="border-bottom: 2px dotted #00FF00;">Anna
 	 Monk</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
@@ -40211,7 +40220,7 @@ Ter onser praesentie: O:G: de Wet, J:s W:s
 
 ## MOOC8/12.30
 
- {17660516} 16 Maij 1766 <span style="border-bottom: 2px dotted #008000;">Johan Hendrik Bender</span> 
+ {17660516} 16 Maij 1766 <span style="border-bottom: 2px dotted #00FF00;">Johan Hendrik Bender</span> 
 
 Inventaris van alle zodanige goederen, als ab intestato zijn naargelaten
 	 door den op de hoeker degesneuvelden stuurman
@@ -40382,7 +40391,7 @@ zodanig als dezelve door de onderget:e gecomm:e Weesmeesteren bij het
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Dorilas van
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Dorilas van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -40397,7 +40406,7 @@ zodanig als dezelve door de onderget:e gecomm:e Weesmeesteren bij het
     </tr>
     <tr>
       <td>van den landbouwer Jacobus Hugo over het restant der
-		cooppenningen van een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Louis van Bengalen</span> , welke
+		cooppenningen van een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Louis van Bengalen</span> , welke
 		door den overleden aan denzelven is verkogt geworden onder conditie dat wanneer
 		gem:e slaav door ges:e Hugo bevonden wierd gezond te zijn, daar van een somma
 		van rd:s260 zoude werden betaalt, waarop dan ook reets rd:s200 voldaan zijnde,
@@ -40434,12 +40443,12 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.30 1/2
 
- {17660407} 7 April 1766 <span style="border-bottom: 2px dotted #008000;">Johan Hendrik Bender</span> 
+ {17660407} 7 April 1766 <span style="border-bottom: 2px dotted #00FF00;">Johan Hendrik Bender</span> 
 
 Inventaris van alle soodanige goederen, als er in der metter dood
 	 ontruijmt en nagelaten boedel van den op het hoeker schip degesneuvelden stuurman wijl: Johan Hendrik Bender in
 	 waaren weesen zijn gevonden en dewelke door mij Joachim Fredrik Mentz,
-	 Secretaris der colonie vanop het
+	 Secretaris der colonie van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> op het
 	 op en aanwijsen van den op gem: bodem gecommandeert gehad hebbenden gesaghebber
 	 d’ E: Gerrit Hendrik Muller en den adsistent mons:r Oloff Leij zijn
 	 geinventariseert geworden, namentlijk
@@ -40527,7 +40536,7 @@ Inventaris van alle soodanige goederen, als er in der metter dood
   </tbody>
 </table>
 
-Aldus gedaan ende geinventariseert aan ’t strand in deden 7:e April
+Aldus gedaan ende geinventariseert aan ’t strand in de <span style="border-bottom: 2px dotted #FF0000;">Baaij van Anguillos</span> den 7:e April
 	 1766.
 
 G:C: Muller, O: Leij
@@ -40536,7 +40545,7 @@ Mij praesent: J:F: Mentz, Secret:s
 
 ## MOOC8/12.31
 
- {17661122} 22 November 1766 <span style="border-bottom: 2px dotted #008000;">Rebecca le Roes</span> 
+ {17661122} 22 November 1766 <span style="border-bottom: 2px dotted #00FF00;">Rebecca le Roes</span> 
 
 Cloppenburg
 
@@ -41055,13 +41064,13 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Isacq van de Cust</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Isacq van de Cust</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jonas van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jonas van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Agatha van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Agatha van
 		Macassar</span></td>
     </tr>
   </tbody>
@@ -41326,7 +41335,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.32
 
- {17670423} 23 April 1767 <span style="border-bottom: 2px dotted #008000;">Ijda Rijnthaus</span> 
+ {17670423} 23 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Ijda Rijnthaus</span> 
 
 Inventaris van alle sodanige goederen, als in de jongst gepasseerde nagt,
 	 ab intestato metter dood zijn ontruijmd ende nagelaten door Ijda Rijnthaus
@@ -41341,7 +41350,7 @@ Inventaris van alle sodanige goederen, als in de jongst gepasseerde nagt,
       <td rowspan='2' style='vertical-align: middle;'>ter andere zijde</td>
     </tr>
     <tr>
-      <td>haar broeder Daniel Rijnthaus bijde wonende tot</td>
+      <td>haar broeder Daniel Rijnthaus bijde wonende tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span></td>
     </tr>
   </tbody>
 </table>
@@ -41354,7 +41363,7 @@ zodanig als deselve door opgem:e weduwenaar zijn opgegeeven en
   <tbody>
     <tr>
       <td>Een huijs en erff, staande ende geleegen in
-		  deesein ’ten aldaar een gedeelte vanblijkens transport van dato 4:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalley</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok N:N:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 7 en 9</span> blijkens transport van dato 4:e
 		  Junij 1762</td>
     </tr>
   </tbody>
@@ -41859,11 +41868,11 @@ In evengem: huijs
   <thead><tr><td colspan='100%'>Lijfijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">November van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">April van Boegies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">April van Boegies</span></td>
     </tr>
   </tbody>
 </table>
@@ -41914,7 +41923,7 @@ In evengem: huijs
       <td>400:--</td>
     </tr>
     <tr>
-      <td>aan Jan Anthonij Tonijn tot</td>
+      <td>aan Jan Anthonij Tonijn tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span></td>
       <td>208:--</td>
     </tr>
     <tr>
@@ -42053,9 +42062,9 @@ J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.33
 
- {17670213} 13 Februarij 1767 <span style="border-bottom: 2px dotted #008000;">Claas Claassen</span> 
+ {17670213} 13 Februarij 1767 <span style="border-bottom: 2px dotted #00FF00;">Claas Claassen</span> 
 
-Lijst van de goederen van mijn overleeden man Claas Claassen van, door twe getuijgen gesien, soo als
+Lijst van de goederen van mijn overleeden man Claas Claassen van <span style="border-bottom: 2px dotted #FF0000;">Delve</span> , door twe getuijgen gesien, soo als
 	 volgt
 
 <table>
@@ -42254,13 +42263,13 @@ Aan de wedewe juffrouw Cruijwaagen schuldig twe duijsend ses hondert
 
 Als getuijgen: Gerrit Oosthuijse, Daniel Pienaer
 
-den 13:t Febr:
+ <span style="border-bottom: 2px dotted #FF0000;">Gouritsravier</span> den 13:t Febr:
 	 1767
 
 ## MOOC8/12.34
 
  {17670727} 27 Julij
-	 1767 <span style="border-bottom: 2px dotted #008000;">Susanna
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Susanna
 	 Pietersz:e</span> 
 
 Inventaris van alle zodanige goederen als ab intestato metter dood zijn
@@ -42512,7 +42521,7 @@ In een gehuurde huijs
   <thead><tr><td colspan='100%'>Lijffeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Ferdinandus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Ferdinandus van
 		Madagascar</span></td>
       <td>onverkogt aan de dogter verbleeven</td>
     </tr>
@@ -42566,7 +42575,7 @@ Mij præsent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.35
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Johannes Bronkhorst</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Johannes Bronkhorst</span> 
 
 Nagelatene goederen van den overleedenen Johannes Bronkhorst Johannes
 	 soon
@@ -42653,7 +42662,7 @@ Getuijgen: Philip Raht, Henderick van Ek zijn merk +
 
 ## MOOC8/12.36a
 
- {17680408} 8 April 1768 <span style="border-bottom: 2px dotted #008000;">Catharina Klopper</span> 
+ {17680408} 8 April 1768 <span style="border-bottom: 2px dotted #00FF00;">Catharina Klopper</span> 
 
 Inventaris mitsg:rs taxatie van alle sodanige goederen als ab intestato
 	 metter dood zijn ontruijmt ende naargelaten door Catharina Klopper ten
@@ -42691,7 +42700,7 @@ Sodanig ende indiervoegen als deselve bij voorsz: Coert Grobbeler zijn
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal gen:t degeleegen over deonder ’t district van</td>
+      <td>1 opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Groote Vlakte</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Tausrevier</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -42906,15 +42915,15 @@ Sodanig ende indiervoegen als deselve bij voorsz: Coert Grobbeler zijn
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van
 		Ternaten</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maij van Java</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maij van Java</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Antonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Antonij van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -42961,28 +42970,28 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.36b
 
- {17670603} 3 Junij 1767 <span style="border-bottom: 2px dotted #008000;">Catharina Klopper</span> 
+ {17670603} 3 Junij 1767 <span style="border-bottom: 2px dotted #00FF00;">Catharina Klopper</span> 
 
 Van Coert Grobler
 
 <table>
   <tbody>
     <tr>
-      <td>Een leningsplaas degeleeg: over deonder</td>
+      <td>Een leningsplaas de <span style="border-bottom: 2px dotted #FF0000;">Groote Vlakte</span> geleeg: over de <span style="border-bottom: 2px dotted #FF0000;">Tausrevier</span> onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
       <td>een afgeslete wagen</td>
     </tr>
     <tr>
       <td rowspan='3' style='vertical-align: middle;'>drie mans slaven</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Maart van Ternaten</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Maart van Ternaten</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Meij van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Meij van
 		  Java</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Anthonij van Malabaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Anthonij van Malabaar</span></td>
     </tr>
     <tr>
       <td>ses en seventig beesten</td>
@@ -43155,7 +43164,7 @@ Borgen: Johannes Fredrik Botha, Joh:s Z: , Johannes Pienaar
 
 ## MOOC8/12.37a
 
- {17680421} 21 April 1768 <span style="border-bottom: 2px dotted #008000;">Anna Margaretha
+ {17680421} 21 April 1768 <span style="border-bottom: 2px dotted #00FF00;">Anna Margaretha
 	 Claassen</span> 
 
 Cloppenburg
@@ -43467,12 +43476,12 @@ Sodanig ende indiervoegen als deselve bij voorn:e Jacobus Rademijer zijn
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van
 		Bengalen</span></td>
       <td rowspan='2' style='vertical-align: middle;'>150</td>
     </tr>
     <tr>
-      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Silvia van
+      <td>1 slave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -43521,7 +43530,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.37b
 
- {17680421} 21 April 1768 <span style="border-bottom: 2px dotted #008000;">Anna Margaretha
+ {17680421} 21 April 1768 <span style="border-bottom: 2px dotted #00FF00;">Anna Margaretha
 	 Claassen</span> 
 
 Eventaaris van den boedel van de overleeden huijsvrouw van Jacobus
@@ -43530,10 +43539,10 @@ Eventaaris van den boedel van de overleeden huijsvrouw van Jacobus
 <table>
   <tbody>
     <tr>
-      <td>1 mans-slaaf <span style="border-bottom: 2px dotted #008000;">Pedro van Bengalen</span></td>
+      <td>1 mans-slaaf <span style="border-bottom: 2px dotted #00FF00;">Pedro van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaafven <span style="border-bottom: 2px dotted #008000;">Silvia van
+      <td>1 slaafven <span style="border-bottom: 2px dotted #00FF00;">Silvia van
 		  Bengalen</span></td>
     </tr>
     <tr>
@@ -43779,7 +43788,7 @@ Als getuijgen: Sarel du Pliesie, Coenraad Schepers
 ## MOOC8/12.38
 
  {17680719} 19 Julij
-	 1768 <span style="border-bottom: 2px dotted #008000;">Anna van der
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Anna van der
 	 Schijf</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
@@ -43991,7 +44000,7 @@ Mij praesent: J:n Stenvers, gesw:e Clercq
 
 ## MOOC8/12.39a
 
- {17680909} 9 September 1768 <span style="border-bottom: 2px dotted #008000;">Isaacq de Villiers</span> 
+ {17680909} 9 September 1768 <span style="border-bottom: 2px dotted #00FF00;">Isaacq de Villiers</span> 
 
 Cloppenburg
 
@@ -44029,7 +44038,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Pieter Loret,
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede genaamt de</td>
+      <td>Een plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Ruijtevalleij</span></td>
       <td>3334:--</td>
     </tr>
     <tr>
@@ -44507,58 +44516,58 @@ Sodanig ende indiervoegen als deselve door de landbouwers Pieter Loret,
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Philip van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Philip van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arend van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arend van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Plaisier van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Plaisier van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">November van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Balie van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Balie van
 		Balie</span></td>
       <td>1500</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Repa van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Repa van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Lea van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Lea van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne <span style="border-bottom: 2px dotted #008000;">Eva van Mosambicque</span></td>
+      <td>1 slavinne <span style="border-bottom: 2px dotted #00FF00;">Eva van Mosambicque</span></td>
     </tr>
   </tbody>
 </table>
@@ -44612,7 +44621,7 @@ Mij present: J:n Stenvers, gesw: Clercq
 
 ## MOOC8/12.39b
 
- {17671027} 27 October 1767 <span style="border-bottom: 2px dotted #008000;">Isaacq de Villiers</span> 
+ {17671027} 27 October 1767 <span style="border-bottom: 2px dotted #00FF00;">Isaacq de Villiers</span> 
 
 Bekentmakkenge
 
@@ -44623,14 +44632,14 @@ Aan de E:E: Heeren Weesmeesters de nagelaten goederen van den overleden
 <table>
   <tbody>
     <tr>
-      <td>Een plaats genaamt de</td>
+      <td>Een plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Ruijtevaleij</span></td>
     </tr>
     <tr>
-      <td>dertien <span style="border-bottom: 2px dotted #008000;">mans
+      <td>dertien <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">slaven
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">slaven
 		  meijden</span></td>
     </tr>
     <tr>
@@ -45007,7 +45016,7 @@ Aan de E:E: Heeren Weesmeesters de nagelaten goederen van den overleden
   </tbody>
 </table>
 
-den 27 October 1767.
+ <span style="border-bottom: 2px dotted #FF0000;">Ruijtevaleij</span> den 27 October 1767.
 
 Geinvantariseert dor ons ondergetekende
 
@@ -45032,7 +45041,7 @@ Nota volgens missive gehoord nog ten den boedel
 ## MOOC8/12.40a
 
  {17681007} 7 October
-	 1768 <span style="border-bottom: 2px dotted #008000;">Pieter
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Pieter
 	 Jacobsz:e</span> 
 
 Cloppenburg
@@ -45093,13 +45102,13 @@ Sodanig ende indiervoegen als deselve door de landbouwers Hendrik Botha en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een eijgendomsplaats genaamt degeleegen aan deonder het district van</td>
+      <td>Een eijgendomsplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Bokrevier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Verkeerde Valeij</span> onder het district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>266:32</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt degelegen onder ’t
-		  district van</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Carrekloof</span> gelegen onder ’t
+		  district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>33:16</td>
     </tr>
     <tr>
@@ -45244,27 +45253,27 @@ Sodanig ende indiervoegen als deselve door de landbouwers Hendrik Botha en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slamat van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slamat van
 		Samboua</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van Balij</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van Balij</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Mentor van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Mentor van
 		Mosambique</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Arij van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Arij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Present van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Present van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Floris van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Floris van
 		Madagascar</span></td>
     </tr>
     <tr>
@@ -45305,7 +45314,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.40b
 
- {17680915} 15 September 1768 <span style="border-bottom: 2px dotted #008000;">Pieter Jacobsz:e</span> 
+ {17680915} 15 September 1768 <span style="border-bottom: 2px dotted #00FF00;">Pieter Jacobsz:e</span> 
 
 Invontaris van soodanige goederen bestaat so als door ons ondergetekent in
 	 den boedel van Anna Forie weduwe van den overleeden Pieter Jacobs, sijn
@@ -45314,11 +45323,11 @@ Invontaris van soodanige goederen bestaat so als door ons ondergetekent in
 <table>
   <tbody>
     <tr>
-      <td>Een eijgendoms plaets genaamt degeleegen aan deonder het destrektie</td>
+      <td>Een eijgendoms plaets genaamt de <span style="border-bottom: 2px dotted #FF0000;">Bokrevier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Verkeerde Vlaij</span> onder het destrektie <span style="border-bottom: 2px dotted #FF0000;">Stellenbos</span></td>
     </tr>
     <tr>
       <td>en een opstal van seker lenigplaets genaamt
-		  deonder de destrektie</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Carekloof</span> onder de destrektie <span style="border-bottom: 2px dotted #FF0000;">Stellenbos</span></td>
     </tr>
   </tbody>
 </table>
@@ -45335,7 +45344,7 @@ Invontaris van soodanige goederen bestaat so als door ons ondergetekent in
       <td>10 paarde</td>
     </tr>
     <tr>
-      <td>6 <span style="border-bottom: 2px dotted #008000;">slaawe</span></td>
+      <td>6 <span style="border-bottom: 2px dotted #00FF00;">slaawe</span></td>
     </tr>
     <tr>
       <td>2 waagens</td>
@@ -45427,24 +45436,24 @@ Invontaris van soodanige goederen bestaat so als door ons ondergetekent in
 <table>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slamat van Sambawa</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slamat van Sambawa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van Balij</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van Balij</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mentor van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mentor van
 		  Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arij van Bougis</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arij van Bougis</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Present van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Present van
 		  Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Floris van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Floris van
 		  Madagascar</span></td>
     </tr>
   </tbody>
@@ -45496,7 +45505,7 @@ Hendrik Boota, Jacobus Hugo Pieter zoon
 ## MOOC8/12.41a
 
  {17681015} 15 October
-	 1768 <span style="border-bottom: 2px dotted #008000;">Abraham
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Abraham
 	 Mouton</span> 
 
 Cloppenburg
@@ -45530,7 +45539,7 @@ Sodanig ende indiervoegen als deselve door de mede landbouwers Johannes
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 opstal staande op de leeningsplaats gen:tgeleegen agter de</td>
+      <td>1 opstal staande op de leeningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Bergvalleij</span> geleegen agter de <span style="border-bottom: 2px dotted #FF0000;">Piquet bergen</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -45651,7 +45660,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.41b
 
- {17681015} 15 October 1768 <span style="border-bottom: 2px dotted #008000;">Abraham Mouton</span> 
+ {17681015} 15 October 1768 <span style="border-bottom: 2px dotted #00FF00;">Abraham Mouton</span> 
 
 Inventaris van den boedel van Maria Jacoba Lubbe weduwe wijlen den
 	 lantbouwer Abraham Mouton
@@ -45672,7 +45681,7 @@ Twee dogters genaamt
 <table>
   <tbody>
     <tr>
-      <td>Een plaats genaamt</td>
+      <td>Een plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Bergvallij</span></td>
     </tr>
     <tr>
       <td>119 beesten</td>
@@ -45736,7 +45745,7 @@ Johanes Arnoldus Botman, Barent Lubbe
 
 ## MOOC8/12.42a
 
- {17681122} 22 November 1768 <span style="border-bottom: 2px dotted #008000;">Theodorus Kriel</span> 
+ {17681122} 22 November 1768 <span style="border-bottom: 2px dotted #00FF00;">Theodorus Kriel</span> 
 
 Cloppenburg
 
@@ -46275,22 +46284,22 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers Jacobus
   <thead><tr><td colspan='100%'>Leijffeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Passeer van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Passeer van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Sitoe van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Sitoe van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Maria van Bengalen</span></td>
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Maria van Bengalen</span></td>
     </tr>
     <tr>
       <td>alle voorm: slaven op rd:s500</td>
@@ -46347,7 +46356,7 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers Jacobus
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>aan mejuff:w Christina Mulder wed:e J:T: Rhenius totaan capitaal volg:s scheepenkennisse van
+      <td>aan mejuff:w Christina Mulder wed:e J:T: Rhenius tot <span style="border-bottom: 2px dotted #FF0000;">Edam</span> aan capitaal volg:s scheepenkennisse van
 		den 24 Jann: 1765 groot rd:s1000 sege rd:</td>
       <td>1000</td>
     </tr>
@@ -46399,7 +46408,7 @@ Mij present: J:n Stenvers, gesw:e Clercq
 
 ## MOOC8/12.42b
 
- {17681122} 22 November 1768 <span style="border-bottom: 2px dotted #008000;">Theodorus Kriel</span> 
+ {17681122} 22 November 1768 <span style="border-bottom: 2px dotted #00FF00;">Theodorus Kriel</span> 
 
 Inventaris van alle mijne besittinge als volgt
 
@@ -46410,8 +46419,8 @@ Inventaris van alle mijne besittinge als volgt
 		  lang</td>
     </tr>
     <tr>
-      <td>vier <span style="border-bottom: 2px dotted #008000;">mans
-		  slaaven</span> , een <span style="border-bottom: 2px dotted #008000;">slavin</span></td>
+      <td>vier <span style="border-bottom: 2px dotted #00FF00;">mans
+		  slaaven</span> , een <span style="border-bottom: 2px dotted #00FF00;">slavin</span></td>
     </tr>
     <tr>
       <td>agt paarden, tien treckossen</td>
@@ -46766,8 +46775,8 @@ Present zynde getuygens by ’t opschryven der goederen: Jacobus Petrus
 ## MOOC8/12.43a
 
  {17681208} 8
-	 December 1768 <span style="border-bottom: 2px dotted #008000;">Jospeh van
-	 Eeden</span> , <span style="border-bottom: 2px dotted #008000;">Anna Francina
+	 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Jospeh van
+	 Eeden</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Francina
 	 Boijs</span> 
 
 Cloppenburg
@@ -46963,7 +46972,7 @@ Mij present: J:n Stenvers, gesw:e Clercq
 
 ## MOOC8/12.43b
 
- {17681126} 26 November 1768 <span style="border-bottom: 2px dotted #008000;">Joseph van Eden</span> , <span style="border-bottom: 2px dotted #008000;">Anna Francina
+ {17681126} 26 November 1768 <span style="border-bottom: 2px dotted #00FF00;">Joseph van Eden</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Francina
 	 Boijs</span> 
 
 Inventarium van wegens de boedel van de landbouwer Joseph van Eden en zijn
@@ -47078,7 +47087,7 @@ d’ E: Comp: 1 1/2 jaar agterstal
 
 ## MOOC8/12.44a
 
- {17681210} 10 December 1768 <span style="border-bottom: 2px dotted #008000;">Marthinus Botha</span> 
+ {17681210} 10 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Marthinus Botha</span> 
 
 Cloppenburg
 
@@ -47120,7 +47129,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Jan Christoffel
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats gen:tgeleegen in</td>
+      <td>Een opstal staande op de leeningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Voorbrug</span> geleegen in <span style="border-bottom: 2px dotted #FF0000;">Houteniqualand</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -47286,22 +47295,22 @@ Sodanig ende indiervoegen als deselve door de landbouwers Jan Christoffel
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Maij van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Maij van Bougies</span></td>
       <td rowspan='5' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Achilles van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Achilles van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jan van d’ Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jan van d’ Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave meijd genaamt <span style="border-bottom: 2px dotted #008000;">Marie van
+      <td>1 slave meijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Marie van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>zijnde een <span style="border-bottom: 2px dotted #008000;">slave
+      <td>zijnde een <span style="border-bottom: 2px dotted #00FF00;">slave
 		meijd</span> absent</td>
     </tr>
   </tbody>
@@ -47389,7 +47398,7 @@ Mij present: J:n Stenvers, gesw:e Clercq
 ## MOOC8/12.44b
 
  {17681114} 14 November
-	 1768 <span style="border-bottom: 2px dotted #008000;">Marthinus
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Marthinus
 	 Botha</span> 
 
 Inventaris van de nalatenschap van wylen den overleeden landbauer Martines
@@ -47411,15 +47420,15 @@ Inventaris van de nalatenschap van wylen den overleeden landbauer Martines
       <td>3 paarde</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slaven</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slaven</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">mans slave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">mans slave
 		  kind</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavin</span> ,
-		  een dito <span style="border-bottom: 2px dotted #008000;">slavin</span> absent</td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavin</span> ,
+		  een dito <span style="border-bottom: 2px dotted #00FF00;">slavin</span> absent</td>
     </tr>
     <tr>
       <td>2 halfsleete wagens</td>
@@ -47526,7 +47535,7 @@ Inventaris van de nalatenschap van wylen den overleeden landbauer Martines
   </tbody>
 </table>
 
-gelegen in, den 14 November 1768.
+ <span style="border-bottom: 2px dotted #FF0000;">Voorburg</span> gelegen in <span style="border-bottom: 2px dotted #FF0000;">Houteniqualand</span> , den 14 November 1768.
 
 Adam Barnard, Jan Christoffel Diedlof, Chrisdofel Meijer
 
@@ -47574,7 +47583,7 @@ Borgen: Adam Bernard, Jacobus Botha Jacobusz:
 
 ## MOOC8/12.45a
 
- {17681217} 17 December 1768 <span style="border-bottom: 2px dotted #008000;">Johannes Spies</span> 
+ {17681217} 17 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Johannes Spies</span> 
 
 Cloppenburg
 
@@ -47613,7 +47622,7 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers H: de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats degeleegen onder ’t</td>
+      <td>Een opstal staande op de leeningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Kruijsrievier</span> geleegen onder ’t <span style="border-bottom: 2px dotted #FF0000;">Groot Vaders Bosch</span></td>
       <td>50:--</td>
     </tr>
     <tr>
@@ -47745,14 +47754,14 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers H: de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave</span> jonge gen:t [ ..... ]</td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave</span> jonge gen:t [ ..... ]</td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave</span> jonge gen:t [ ..... ]</td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave</span> jonge gen:t [ ..... ]</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave</span> jonge gen:t [ ..... ]</td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave</span> jonge gen:t [ ..... ]</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -47803,14 +47812,14 @@ Mij present: J:n Stenvers, gesw:e Clercq
 
 ## MOOC8/12.45b
 
- {17681217} 17 December 1768 <span style="border-bottom: 2px dotted #008000;">Johannes Spies</span> 
+ {17681217} 17 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Johannes Spies</span> 
 
 De eventares van de weduwe van Johanis Spis
 
 <table>
   <tbody>
     <tr>
-      <td>dri <span style="border-bottom: 2px dotted #008000;">mans
+      <td>dri <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaave</span></td>
     </tr>
     <tr>
@@ -47902,7 +47911,7 @@ J:L: d Pree, Christoffel Beukman
 <table>
   <tbody>
     <tr>
-      <td>Een leeningsplaats deonder</td>
+      <td>Een leeningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Kruijsrevier</span> onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
   </tbody>
 </table>
@@ -47922,7 +47931,7 @@ J:L: d Pree, Christoffel Beukman
 ## MOOC8/12.46
 
  {17690102} 2 Jannuarij
-	 1769 <span style="border-bottom: 2px dotted #008000;">Abraham
+	 1769 <span style="border-bottom: 2px dotted #00FF00;">Abraham
 	 Schietekatte</span> 
 
 Cloppenburg
@@ -48138,16 +48147,16 @@ In een huurhuijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van
 		Bengalen</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Bengalen</span></td>
     </tr>
     <tr>
@@ -48155,13 +48164,13 @@ In een huurhuijs
 		3 kinderen de volgende leijfeijgenen in eijgendom heeft geschonken als:</td>
     </tr>
     <tr>
-      <td>aan Abraham Schietekatte 1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Piet van de Caab</span></td>
+      <td>aan Abraham Schietekatte 1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet van de Caab</span></td>
     </tr>
     <tr>
-      <td>aan Jacobus Corn:s Schietekatte 1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Claas van de Caab</span></td>
+      <td>aan Jacobus Corn:s Schietekatte 1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Claas van de Caab</span></td>
     </tr>
     <tr>
-      <td>aan Maria Adriana Schiettekatte 1 slave meijsje gen:t <span style="border-bottom: 2px dotted #008000;">Sara van de Caab</span></td>
+      <td>aan Maria Adriana Schiettekatte 1 slave meijsje gen:t <span style="border-bottom: 2px dotted #00FF00;">Sara van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -48329,7 +48338,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.47a
 
- {17690117} 17 Jannuarij 1769 <span style="border-bottom: 2px dotted #008000;">Johannes Fourie</span> 
+ {17690117} 17 Jannuarij 1769 <span style="border-bottom: 2px dotted #00FF00;">Johannes Fourie</span> 
 
 Cloppenburg
 
@@ -48536,13 +48545,13 @@ Sodanig ende in dier voegen als deselve door de landbouwers Jacobus
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Catrijn van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Catrijn van
 		Bengalen</span></td>
       <td rowspan='2' style='vertical-align: middle;'>250</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Spasie van Mallebaar</span> met
-		haar kind <span style="border-bottom: 2px dotted #008000;">Serina van d’
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Spasie van Mallebaar</span> met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Serina van d’
 		Caab</span></td>
     </tr>
   </tbody>
@@ -48578,7 +48587,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.47b
 
- {17680401} 1 April 1768 <span style="border-bottom: 2px dotted #008000;">Johannes Fourie</span> 
+ {17680401} 1 April 1768 <span style="border-bottom: 2px dotted #00FF00;">Johannes Fourie</span> 
 
 Inventaris van zodanige goederen beestiaal als door ons onderget:e in den
 	 boedel van den weduwem Johannis Forie
@@ -48586,7 +48595,7 @@ Inventaris van zodanige goederen beestiaal als door ons onderget:e in den
 <table>
   <tbody>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinne</span> , 1 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span> , 1 <span style="border-bottom: 2px dotted #00FF00;">slave
 		  kint</span></td>
     </tr>
     <tr>
@@ -48671,11 +48680,11 @@ Lowies Nel
   <thead><tr><td colspan='100%'>Namen der slavinnen</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Catrijn van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Catrijn van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Spasie
-		van Mallabaar</span> en haar kind <span style="border-bottom: 2px dotted #008000;">Serina van d Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Spasie
+		van Mallabaar</span> en haar kind <span style="border-bottom: 2px dotted #00FF00;">Serina van d Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -48692,7 +48701,7 @@ Lowies Nel
 ## MOOC8/12.48a
 
  {17690208} 8 Februarij
-	 1769 <span style="border-bottom: 2px dotted #008000;">Jacobus du
+	 1769 <span style="border-bottom: 2px dotted #00FF00;">Jacobus du
 	 Plessis</span> 
 
 Inventaris mitsg:rs taxatie van alle sodanige goederen als ’er ab
@@ -48734,7 +48743,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Pieter du
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede genaamt de</td>
+      <td>Een plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Namaquas Eijland</span></td>
       <td>666:32</td>
     </tr>
     <tr>
@@ -49051,22 +49060,22 @@ Sodanig ende in diervoegen als deselve door de landbouwers Pieter du
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van
 		Madagascar</span></td>
       <td rowspan='5' style='vertical-align: middle;'>600</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van Timor</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mallagassie van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mallagassie van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Lena van Bengalen</span></td>
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Lena van Bengalen</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -49104,7 +49113,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.48b
 
- {17670824} 24 August:s 1767 <span style="border-bottom: 2px dotted #008000;">Jacobus du Plessie</span> 
+ {17670824} 24 August:s 1767 <span style="border-bottom: 2px dotted #00FF00;">Jacobus du Plessie</span> 
 
 Inventaris van sodanige goederen als door ons ondergeschrevene ter ordere
 	 van de E: Heeren Weesmeesteren in den boedel van Anna Boijens weduwe wijle den
@@ -49136,13 +49145,13 @@ zijn opgeschreeven en bevonden, als namentlijck
 <table>
   <tbody>
     <tr>
-      <td>1 eijgendomsplaats genaamt de</td>
+      <td>1 eijgendomsplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Namaquas Eijland</span></td>
     </tr>
     <tr>
-      <td>5 <span style="border-bottom: 2px dotted #008000;">manslaaven</span></td>
+      <td>5 <span style="border-bottom: 2px dotted #00FF00;">manslaaven</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>ses en dertig beesten</td>
@@ -49317,7 +49326,7 @@ zijn opgeschreeven en bevonden, als namentlijck
   </tbody>
 </table>
 
-den 24 August:
+ <span style="border-bottom: 2px dotted #FF0000;">Amacquaseijlant</span> den 24 August:
 	 1767.
 
 Anna Boijens weduwe wijle, Jacobus du Plesie
@@ -49330,24 +49339,24 @@ Nota: rd:s59:37 bij de Weescamer te goed en aan Pieter du Plessies Jansz:
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jephta van Madagascar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jephta van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Saloman van Timor</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Saloman van Timor</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April
+      <td><span style="border-bottom: 2px dotted #00FF00;">April
 		  van Mallabaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Mallagassie van Madagascar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mallagassie van Madagascar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Isak
+      <td><span style="border-bottom: 2px dotted #00FF00;">Isak
 		  van Bengalen</span></td>
     </tr>
     <tr>
-      <td>slavin: <span style="border-bottom: 2px dotted #008000;">Lena van Bengalen</span></td>
+      <td>slavin: <span style="border-bottom: 2px dotted #00FF00;">Lena van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -49355,7 +49364,7 @@ Nota: rd:s59:37 bij de Weescamer te goed en aan Pieter du Plessies Jansz:
 ## MOOC8/12.49a
 
  {17690308} 8 Maart
-	 1769 <span style="border-bottom: 2px dotted #008000;">Isak Marais</span> 
+	 1769 <span style="border-bottom: 2px dotted #00FF00;">Isak Marais</span> 
 
 Cloppenburg
 
@@ -49401,7 +49410,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Daniel Marais en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een eijgendomsplaats geleegen in degen:t</td>
+      <td>Een eijgendomsplaats geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Wagenmakersvalleij</span> gen:t <span style="border-bottom: 2px dotted #FF0000;">De Hoop</span></td>
       <td>666:32</td>
     </tr>
     <tr>
@@ -49668,7 +49677,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Daniel Marais en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Nap van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Nap van
 		Madagascar</span></td>
       <td>100</td>
     </tr>
@@ -49684,7 +49693,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Daniel Marais en
     </tr>
     <tr>
       <td>aan de E: Comp:e over 2 jaaren agterstallige
-		recognitie penn: voor de afgedankte plaats gen:t degeleegen aan de</td>
+		recognitie penn: voor de afgedankte plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Snippe Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Gourits rievier</span></td>
       <td>50</td>
     </tr>
     <tr>
@@ -49707,12 +49716,12 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.49b
 
- {17680412} 12 April 1768 <span style="border-bottom: 2px dotted #008000;">Isak Marais</span> 
+ {17680412} 12 April 1768 <span style="border-bottom: 2px dotted #00FF00;">Isak Marais</span> 
 
 <table>
   <tbody>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Nap van Madagascar</span></td>
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Nap van Madagascar</span></td>
     </tr>
     <tr>
       <td>besten groot en klyn tesaame 81: waar onder zynde 16: treckossen
@@ -49806,12 +49815,12 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 Als getuijge hiervan: Daniel Marais, Pieter de Klerck
 
-ter plaatse van Daniel
+ <span style="border-bottom: 2px dotted #FF0000;">Gouritsrevier</span> ter plaatse van Daniel
 	 Marraais den 12 April 1768
 
 ## MOOC8/12.50
 
- {17690219} 19 Februarij 1769 <span style="border-bottom: 2px dotted #008000;">Stephanus Buijs</span> 
+ {17690219} 19 Februarij 1769 <span style="border-bottom: 2px dotted #00FF00;">Stephanus Buijs</span> 
 
 Invantaris van sodanige goederen als door wijlen Stephanus Buijs en sijn
 	 nagelaten huijsvrouw Maria Elisabeth de Vries met haar ses kinderen in
@@ -49878,7 +49887,7 @@ Dese navolgende goederen als volgt
       <td>en wat bouwgereetschap</td>
     </tr>
     <tr>
-      <td>1 slave jonge <span style="border-bottom: 2px dotted #008000;">Maart van Bingala</span></td>
+      <td>1 slave jonge <span style="border-bottom: 2px dotted #00FF00;">Maart van Bingala</span></td>
     </tr>
   </tbody>
 </table>
@@ -49939,14 +49948,14 @@ Dese navolgende goederen als volgt
   </tbody>
 </table>
 
-den 19 Februarij 1769 in
+ <span style="border-bottom: 2px dotted #FF0000;">Roggevelt</span> den 19 Februarij 1769 in
 	 presentie van de ondergetekende
 
 Pieter Ernst Kruger, Johannis Jacob Kruger
 
 ## MOOC8/12.51
 
- {17681114} 14 November 1768 <span style="border-bottom: 2px dotted #008000;">Johannes Potgieter</span> 
+ {17681114} 14 November 1768 <span style="border-bottom: 2px dotted #00FF00;">Johannes Potgieter</span> 
 
 Boedel van de weduwe Johannes Potgieter aen de Heere Weesmeesters
 
@@ -49956,7 +49965,7 @@ Boedel van de weduwe Johannes Potgieter aen de Heere Weesmeesters
       <td>een Bijbel</td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">manslave</span> , <span style="border-bottom: 2px dotted #008000;">twe
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">manslave</span> , <span style="border-bottom: 2px dotted #00FF00;">twe
 		  slavinne</span></td>
     </tr>
     <tr>
@@ -50044,7 +50053,7 @@ Als getuijge: Hermanis Steijn, Petrus Bootha
 <table>
   <tbody>
     <tr>
-      <td>Een leeningplaats gen:tgeleegen aan de mond van ’t</td>
+      <td>Een leeningplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Welbedagt</span> geleegen aan de mond van ’t <span style="border-bottom: 2px dotted #FF0000;">Buffeljagts revier</span></td>
     </tr>
   </tbody>
 </table>
@@ -50075,7 +50084,7 @@ d’ lasten bedragen volgens notitie rd:s1046:30
       <td>10:--</td>
     </tr>
     <tr>
-      <td>aan de heer Blankenberg, Secretaris van</td>
+      <td>aan de heer Blankenberg, Secretaris van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>26:--</td>
     </tr>
     <tr>
@@ -50120,7 +50129,7 @@ Alletta van Rooje wedewe Podtgieter
 
 ## MOOC8/12.52
 
- {17670714} 14 Julij 1767 <span style="border-bottom: 2px dotted #008000;">François de Nekker</span> 
+ {17670714} 14 Julij 1767 <span style="border-bottom: 2px dotted #00FF00;">François de Nekker</span> 
 
 Inventaris van alle zodanige goederen als op den 11 Juij 1767 ab intestato
 	 metter dood zijn ontruijmd ende nagelaten door Magdalena Jourdaan weduwe van
@@ -51038,25 +51047,25 @@ In een gehuurde huijs en aldaar
   <thead><tr><td colspan='100%'>Leijffeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Mandaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Mosis van Madagascar</span> aan
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Mosis van Madagascar</span> aan
 		Petrus Jacobus de Nekker vermaakt</td>
     </tr>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Asar van Batavia</span></td>
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Asar van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Debora van Mallabaar</span> met
-		haar twee kinderen <span style="border-bottom: 2px dotted #008000;">Malati</span> en <span style="border-bottom: 2px dotted #008000;">Jephta van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Debora van Mallabaar</span> met
+		haar twee kinderen <span style="border-bottom: 2px dotted #00FF00;">Malati</span> en <span style="border-bottom: 2px dotted #00FF00;">Jephta van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #008000;">Dela van Bengalen</span></td>
+      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Dela van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #008000;">Romana van de Caab</span> aan
+      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Romana van de Caab</span> aan
 		Johanna Susanna de Nekker gelegateert</td>
     </tr>
   </tbody>
@@ -51201,7 +51210,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.53
 
- {17670923} 23 September 1767 <span style="border-bottom: 2px dotted #008000;">Jan Hendrik Spiegelenberg</span> 
+ {17670923} 23 September 1767 <span style="border-bottom: 2px dotted #00FF00;">Jan Hendrik Spiegelenberg</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood sijn
 	 ontruijmt ende naargelaten door den burger Jan Hendrik Spiegelenberg ten
@@ -51407,7 +51416,7 @@ Ter onser presentie: J:s W:s Blanckenberg, J:
 
 ## MOOC8/12.54
 
- {17671003} 3 October 1767 <span style="border-bottom: 2px dotted #008000;">Adriana Strijdom</span> 
+ {17671003} 3 October 1767 <span style="border-bottom: 2px dotted #00FF00;">Adriana Strijdom</span> 
 
 Inventaris van alle sodanige goederen als ab intestato op den 16:e der
 	 gepasseerde maand September metter dood zijn ontruijmd ende nagelaten door
@@ -51443,7 +51452,7 @@ Zodanig ende indiervoegen als deselve door d’ onderget:e gecommitteerde
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende gelegen in
-		  deesein ’ten aldaar, uijtwijsens laatste transport van dato 20:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok N:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 8</span> , uijtwijsens laatste transport van dato 20:e
 		  December 1755</td>
     </tr>
   </tbody>
@@ -52162,20 +52171,20 @@ In evengem: huijs en aldaar
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van Bougis</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Bougis</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Joseph van Ceijlon</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Joseph van Ceijlon</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Moses van Bougis</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Moses van Bougis</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #008000;">Dina van Bengalen</span></td>
+      <td>1 slave mijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Dina van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -52258,7 +52267,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.55
 
- {17670809} 9 Augustus 1767 <span style="border-bottom: 2px dotted #008000;">Wellem Landman</span> 
+ {17670809} 9 Augustus 1767 <span style="border-bottom: 2px dotted #00FF00;">Wellem Landman</span> 
 
 Invantares van monsieur Wellem Landman, sey goederen door ons beijde
 	 ondergetekende opgeschreve
@@ -52663,11 +52672,11 @@ Invantares van monsieur Wellem Landman, sey goederen door ons beijde
       <td>4 paarde</td>
     </tr>
     <tr>
-      <td>6 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>6 <span style="border-bottom: 2px dotted #00FF00;">mans
 		slaave</span></td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
   </tbody>
 </table>
@@ -52680,7 +52689,7 @@ Johannes Jacobus Hattingh
 
 ## MOOC8/12.56
 
- {17661102} 2 November 1766 <span style="border-bottom: 2px dotted #008000;">Maria Magdalena Haak</span> 
+ {17661102} 2 November 1766 <span style="border-bottom: 2px dotted #00FF00;">Maria Magdalena Haak</span> 
 
 d’ overleedene vr: heeft geheeten Maria Magdalena Haak
 
@@ -52690,10 +52699,10 @@ Inventaris van de nagelate goederen van Jacobus van den Berg de oude in
 <table>
   <tbody>
     <tr>
-      <td>1 plaats in leneng genaamt degelegen an de</td>
+      <td>1 plaats in leneng genaamt de <span style="border-bottom: 2px dotted #FF0000;">Groot Eijlant</span> gelegen an de <span style="border-bottom: 2px dotted #FF0000;">Smalblaar refier</span></td>
     </tr>
     <tr>
-      <td>2 man slawe <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span> , <span style="border-bottom: 2px dotted #008000;">Bastiaan van Bengalen</span></td>
+      <td>2 man slawe <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Bastiaan van Bengalen</span></td>
     </tr>
     <tr>
       <td>102 beste</td>
@@ -53059,7 +53068,7 @@ Pieter Marais
 <table>
   <tbody>
     <tr>
-      <td>De opstal geleegen aan dein deaan ’t</td>
+      <td>De opstal geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Smalblaren rivier</span> in de <span style="border-bottom: 2px dotted #FF0000;">Du Toits Clooff</span> aan ’t <span style="border-bottom: 2px dotted #FF0000;">Groote Eijland</span></td>
     </tr>
   </tbody>
 </table>
@@ -53113,7 +53122,7 @@ Aan recognitie penningen ten agteren tot den 2:e November 1766 vier
 ## MOOC8/12.57
 
  {17660507} 7 Maij
-	 1766 <span style="border-bottom: 2px dotted #008000;">Pieter Boijens</span> , <span style="border-bottom: 2px dotted #008000;">Maria Marais</span> 
+	 1766 <span style="border-bottom: 2px dotted #00FF00;">Pieter Boijens</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Marais</span> 
 
 Inventaris van de goederen van den oudt heemradt Pieter Boijens en den
 	 nüü laatst overleedene huijsvrou Maria Marais alles ten nausten naagesiehn
@@ -53123,14 +53132,16 @@ Inventaris van de goederen van den oudt heemradt Pieter Boijens en den
   <tbody>
     <tr>
       <td>Twee eijgendoms plaatzen behorenden beij
-		  malkanderen, de wohnplatz genoemt deen de andere de</td>
+		  malkanderen, de wohnplatz genoemt de <span style="border-bottom: 2px dotted #FF0000;">Leuwen
+		  Valleij</span> en de andere de <span style="border-bottom: 2px dotted #FF0000;">Kromme
+		  Revier</span></td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">maans
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">maans
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavinn</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavinn</span></td>
     </tr>
   </tbody>
 </table>
@@ -53492,7 +53503,7 @@ Inventaris van de goederen van den oudt heemradt Pieter Boijens en den
   </tbody>
 </table>
 
-7 Maij a:o 1766
+ <span style="border-bottom: 2px dotted #FF0000;">Leuwen Revier</span> 7 Maij a:o 1766
 
 Door indispositie van den oud heemraad Pieter Boijens getekent in
 	 presentie van de onderstaande
@@ -53504,18 +53515,18 @@ Charel du Plesie Jansz:, Elsabeth Talifert weduwe Hendrick
   <thead><tr><td colspan='100%'>Naamen den Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1) <span style="border-bottom: 2px dotted #008000;">Moses
+      <td>1) <span style="border-bottom: 2px dotted #00FF00;">Moses
 		van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>2) <span style="border-bottom: 2px dotted #008000;">Coridon van Mallabaar</span></td>
+      <td>2) <span style="border-bottom: 2px dotted #00FF00;">Coridon van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>3) <span style="border-bottom: 2px dotted #008000;">Titus
+      <td>3) <span style="border-bottom: 2px dotted #00FF00;">Titus
 		van Bougis</span></td>
     </tr>
     <tr>
-      <td>1 slavin <span style="border-bottom: 2px dotted #008000;">Marie van Bengalen</span> ,
+      <td>1 slavin <span style="border-bottom: 2px dotted #00FF00;">Marie van Bengalen</span> ,
 		simpel</td>
     </tr>
   </tbody>
@@ -53558,7 +53569,7 @@ Charel du Plesie Jansz:, Elsabeth Talifert weduwe Hendrick
 ## MOOC8/12.58
 
  {17670902} 2 September
-	 1767 <span style="border-bottom: 2px dotted #008000;">Jacobus van
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Jacobus van
 	 Graan</span> 
 
 Inventaris van alle zodanige goederen als ab intestato metter dood zijn
@@ -53869,7 +53880,7 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Lijffeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 oude slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maij van Palembang</span></td>
+      <td>1 oude slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maij van Palembang</span></td>
     </tr>
   </tbody>
 </table>
@@ -53920,7 +53931,7 @@ Ter onser praesentie: J:s W:s Blanckenberg, J:
 
 ## MOOC8/12.59
 
- {17660310} 10 Maart 1766 <span style="border-bottom: 2px dotted #008000;">Willem Boomsaijer</span> 
+ {17660310} 10 Maart 1766 <span style="border-bottom: 2px dotted #00FF00;">Willem Boomsaijer</span> 
 
 Van Reede
 
@@ -53953,7 +53964,7 @@ Sodaanig ende indiervoegen als deselve door de ondergetek:e gecomm:e
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein ’ten aldaar een gedeelte vanuijtwijsens transport van dato 24:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok R:R:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> uijtwijsens transport van dato 24:e
 		  Maart 1755</td>
     </tr>
   </tbody>
@@ -55068,14 +55079,14 @@ In het evengem: huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Boean van Batavia</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Boean van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slaave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Philida van
+      <td>1 slaave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van
 		Ternate</span></td>
     </tr>
     <tr>
-      <td>1 slaave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Caatje van Java</span> zijnde
+      <td>1 slaave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Caatje van Java</span> zijnde
 		blind</td>
     </tr>
   </tbody>
@@ -55147,7 +55158,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.60
 
- {17670413} 13 April 1767 <span style="border-bottom: 2px dotted #008000;">Johannis Daniel Kriel</span> 
+ {17670413} 13 April 1767 <span style="border-bottom: 2px dotted #00FF00;">Johannis Daniel Kriel</span> 
 
 Inventaris van wijlen den overleede Johannis Daniel Kriel
 
@@ -55328,7 +55339,7 @@ Nog
   <thead><tr><td colspan='100%'>Vermaakt aan Johannes David Kriel</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Piet van de Caab</span></td>
+      <td>1 slaave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet van de Caab</span></td>
     </tr>
     <tr>
       <td>1 ledikant</td>
@@ -55444,7 +55455,7 @@ Nog
 ## MOOC8/12.61
 
  {17670217} 17 Februarij
-	 1767 <span style="border-bottom: 2px dotted #008000;">Elisabeth
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth
 	 Malang</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
@@ -55510,13 +55521,13 @@ Sodanig ende indiervoegen als deselve nalatenschap, in tegenwoordigheijd
   <tbody>
     <tr>
       <td>Een plaats ofte hofsteede geleegen onder ’t
-		  district vangenaamt de, blijkens laatste transport van
+		  district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> genaamt de <span style="border-bottom: 2px dotted #FF0000;">Paarl Diamant</span> , blijkens laatste transport van
 		  dato 10 November 1734</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt degeleegen agter
-		  den</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Bosjesmans Clooff</span> geleegen agter
+		  den <span style="border-bottom: 2px dotted #FF0000;">Fransche Hoeks Berg</span></td>
     </tr>
   </tbody>
 </table>
@@ -56235,69 +56246,69 @@ Op eerstgem: plaats
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Ziettoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Ziettoe van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Damon van Boegies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Damon van Boegies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Meij van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Meij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van Goa</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van Goa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van Rio de la
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van Rio de la
 		goa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Plaisier van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Plaisier van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Martha van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Martha van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Willem van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Willem van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Piet van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Kees van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Kees van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Festus van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Festus van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t van <span style="border-bottom: 2px dotted #008000;">Romana van de Caab</span> met
-		haar twee kinderen <span style="border-bottom: 2px dotted #008000;">Candasa</span> en <span style="border-bottom: 2px dotted #008000;">Willem</span> meede van de
+      <td>1 slave mijd gen:t van <span style="border-bottom: 2px dotted #00FF00;">Romana van de Caab</span> met
+		haar twee kinderen <span style="border-bottom: 2px dotted #00FF00;">Candasa</span> en <span style="border-bottom: 2px dotted #00FF00;">Willem</span> meede van de
 		Caab</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Madeleen van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Madeleen van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Pieternel van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieternel van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Diena van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Diena van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -56450,7 +56461,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.62
 
- {17671128} 28 November 1767 <span style="border-bottom: 2px dotted #008000;">Martin Godlieb Eckard</span> 
+ {17671128} 28 November 1767 <span style="border-bottom: 2px dotted #00FF00;">Martin Godlieb Eckard</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
 	 ontruijmd ende nagelaten door den boekhouder in ’s E: Comp:s hospitaal Martin
@@ -57131,7 +57142,7 @@ Zijnde geen contanten in den boedel gevonden.
       <td>16:30</td>
     </tr>
     <tr>
-      <td>aan mons:r Hendrik Pieter Warnick over huur van een <span style="border-bottom: 2px dotted #008000;">slave jongen</span> volgens
+      <td>aan mons:r Hendrik Pieter Warnick over huur van een <span style="border-bottom: 2px dotted #00FF00;">slave jongen</span> volgens
 		reekening</td>
       <td>17:36</td>
     </tr>
@@ -57140,13 +57151,13 @@ Zijnde geen contanten in den boedel gevonden.
 
 Nota: in den boedel is nog gevonden en aan des overleedens jongste dogter
 	 Petronella Jacoba Eckard toebehorende dertig p:s silver ducatonnen door de heer
-	 Cornelis Leever totgesonden, en
+	 Cornelis Leever tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> gesonden, en
 	 blijkens missive van dato 25:e Octob: 1760 aan deselve gegeeven.
 
 <table>
   <tbody>
     <tr>
-      <td>Een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Anthonia</span> die uijtwijsens
+      <td>Een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonia</span> die uijtwijsens
 		  transport van dato 8:e Jann: 1763 en daarbij gevoegden brief van den 10:e
 		  derselver maand door den heer Johan Gerard van Angelbeek uijt ’t provenu van
 		  een voor reekening van gem:e dogter verkogte stuk fluweel, gekogt en aan
@@ -57164,7 +57175,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/12.63
 
- {17690324} 24 Maart 1769 <span style="border-bottom: 2px dotted #008000;">Willem van Zijl</span> 
+ {17690324} 24 Maart 1769 <span style="border-bottom: 2px dotted #00FF00;">Willem van Zijl</span> 
 
 Inventaris mitsg:rs taxatie van alle sodanige goederen als ’er ab
 	 intestato metter dood zijn ontruijmt ende naargelaaten door den landbouwer
@@ -57202,7 +57213,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Elias Nel en Jan
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats gen:tgeleegen aan de</td>
+      <td>Een opstal staande op de leeningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Zijlzee</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Swarte Rivier</span></td>
       <td>50</td>
     </tr>
     <tr>
@@ -57265,7 +57276,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Elias Nel en Jan
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Debora van
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Debora van
 		Mallabaar</span></td>
       <td>100</td>
     </tr>
@@ -57310,7 +57321,7 @@ Nagelate goederen van mijn overledenen man heb ik nagesien en geteld en
 <table>
   <tbody>
     <tr>
-      <td>een baarse <span style="border-bottom: 2px dotted #008000;">slawin</span></td>
+      <td>een baarse <span style="border-bottom: 2px dotted #00FF00;">slawin</span></td>
     </tr>
     <tr>
       <td>een afgeloope wagen</td>
@@ -57334,7 +57345,7 @@ Jan Abraham Nel
 
 ## MOOC8/12.64
 
- {17690501} 1 Maij 1769 <span style="border-bottom: 2px dotted #008000;">Johannes Anthonij</span> 
+ {17690501} 1 Maij 1769 <span style="border-bottom: 2px dotted #00FF00;">Johannes Anthonij</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
 	 zijn ontruijmt ende naargelaten door Johannes Anthonij ten voordeele van zijn
@@ -57385,7 +57396,7 @@ Als getuijgen: J:s W:s Blanckenberg, J:H:
 
 ## MOOC8/13.1
 
- {17690629} 29 Junij 1769 <span style="border-bottom: 2px dotted #008000;">Pieter Christiaan de
+ {17690629} 29 Junij 1769 <span style="border-bottom: 2px dotted #00FF00;">Pieter Christiaan de
 	 Jager</span> 
 
 Cloppenburg
@@ -57422,12 +57433,12 @@ Sodanig ende in diervoegen als deselve door de landbouwer Lourens de
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats gen:t
-		  deonder 't district van</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Spiegel Rievier</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>200:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats gen:t
-		  degeleegen over de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Klip Krans</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Duijvenhox Rievier</span></td>
       <td>10:--</td>
     </tr>
     <tr>
@@ -57755,35 +57766,35 @@ Sodanig ende in diervoegen als deselve door de landbouwer Lourens de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bougies</span></td>
       <td rowspan='8' style='vertical-align: middle;'>800</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Hans van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Hans van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samuel van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samuel van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Diana van Mallabaar</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Diana van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -57819,15 +57830,15 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.2a
 
- {17690517} 17 Maij 1769 <span style="border-bottom: 2px dotted #008000;">Pieter du Plesie</span> 
+ {17690517} 17 Maij 1769 <span style="border-bottom: 2px dotted #00FF00;">Pieter du Plesie</span> 
 
 <table>
   <tbody>
     <tr>
-      <td>Een plaats gelegen aan degenaamt</td>
+      <td>Een plaats gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Wagenmakers Vallij</span> genaamt <span style="border-bottom: 2px dotted #FF0000;">Kromme Rievier</span></td>
     </tr>
     <tr>
-      <td>1 opstal genaamt deaan d' groote</td>
+      <td>1 opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Olijwe Heuvel</span> aan d' groote <span style="border-bottom: 2px dotted #FF0000;">Berg Revier</span></td>
     </tr>
   </tbody>
 </table>
@@ -57835,7 +57846,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 <table>
   <tbody>
     <tr>
-      <td>9 slaave als 8 <span style="border-bottom: 2px dotted #008000;">mansslaaven</span> en 1 <span style="border-bottom: 2px dotted #008000;">slaavin</span></td>
+      <td>9 slaave als 8 <span style="border-bottom: 2px dotted #00FF00;">mansslaaven</span> en 1 <span style="border-bottom: 2px dotted #00FF00;">slaavin</span></td>
     </tr>
   </tbody>
 </table>
@@ -58572,7 +58583,7 @@ J:n Blignaut, P:l Roux
 
 ## MOOC8/13.2b
 
- {17690517} 17 Maij 1769 <span style="border-bottom: 2px dotted #008000;">Pieter du Plesie</span> 
+ {17690517} 17 Maij 1769 <span style="border-bottom: 2px dotted #00FF00;">Pieter du Plesie</span> 
 
 <table>
   <tbody>
@@ -58580,14 +58591,14 @@ J:n Blignaut, P:l Roux
       <td>hondert en vier beesten</td>
     </tr>
     <tr>
-      <td>ses <span style="border-bottom: 2px dotted #008000;">man
+      <td>ses <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaaven</span></td>
     </tr>
     <tr>
-      <td>een ouwe afgeleefde <span style="border-bottom: 2px dotted #008000;">slaafenne</span></td>
+      <td>een ouwe afgeleefde <span style="border-bottom: 2px dotted #00FF00;">slaafenne</span></td>
     </tr>
     <tr>
-      <td>en een <span style="border-bottom: 2px dotted #008000;">slaaffe
+      <td>en een <span style="border-bottom: 2px dotted #00FF00;">slaaffe
 		  meijse</span></td>
     </tr>
     <tr>
@@ -58841,7 +58852,7 @@ J:A: Holtshausen
 
 ## MOOC8/13.2
 
- {17690708} 8 Julij 1769 <span style="border-bottom: 2px dotted #008000;">Pieter du Plessis</span> 
+ {17690708} 8 Julij 1769 <span style="border-bottom: 2px dotted #00FF00;">Pieter du Plessis</span> 
 
 Cloppenburg
 
@@ -58894,12 +58905,12 @@ Sodanig ende in diervoegen als deselve door de heemraaden mess:r Jan
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede gen:tgeleegen aan de</td>
+      <td>Een plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Kromme Rievier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Wagenmaakers Valleij</span></td>
       <td>2000</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats gen:
-		  degeleegen aan de grote</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Olijve Heuvel</span> geleegen aan de grote <span style="border-bottom: 2px dotted #FF0000;">Berg Rievier</span></td>
       <td>333</td>
     </tr>
   </tbody>
@@ -59883,37 +59894,37 @@ Op eerstgem: plaats
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arend van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arend van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Africa van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Africa van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Francis van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Francis van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Geduld van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Geduld van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">December van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Alima van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Alima van de Caab</span></td>
     </tr>
     <tr>
       <td>alle voorm: slaven op</td>
@@ -60039,7 +60050,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.3a
 
- {17691006} 6 October 1769 <span style="border-bottom: 2px dotted #008000;">Johanna Dorothea
+ {17691006} 6 October 1769 <span style="border-bottom: 2px dotted #00FF00;">Johanna Dorothea
 	 Debits</span> 
 
 Cloppenburg
@@ -60257,12 +60268,12 @@ Sodanig ende in diervoegen als deselve door de landbouwers Willem du Toit
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Julij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van
 		Bengalen</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Bougies</span></td>
     </tr>
   </tbody>
@@ -60292,7 +60303,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.3b
 
- {17690707} 7 Julij 1769 <span style="border-bottom: 2px dotted #008000;">Johanna Dorothea
+ {17690707} 7 Julij 1769 <span style="border-bottom: 2px dotted #00FF00;">Johanna Dorothea
 	 Debits</span> 
 
 Inventaris van soodanige goederen als den burger Willem van der Vijwen en
@@ -60403,7 +60414,7 @@ Inventaris van soodanige goederen als den burger Willem van der Vijwen en
   <thead><tr><td colspan='100%'>Aan slave</td></tr></thead>
   <tbody>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">mans</span> slave</td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">mans</span> slave</td>
     </tr>
   </tbody>
 </table>
@@ -60429,10 +60440,10 @@ Dese sijn als getuijge: Willem du Tooij Frans soon, Daniel
 <table>
   <tbody>
     <tr>
-      <td>1 slaaf <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>1 slaaf <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaaf <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slaaf <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		  Bougis</span></td>
     </tr>
   </tbody>
@@ -60444,7 +60455,7 @@ heeft geen plaats en woont bij zijn moeder
 
 ## MOOC8/13.4
 
- {17691009} 9 October 1769 <span style="border-bottom: 2px dotted #008000;">Jacobus van
+ {17691009} 9 October 1769 <span style="border-bottom: 2px dotted #00FF00;">Jacobus van
 	 Heerden</span> 
 
 Cloppenburg
@@ -60616,7 +60627,7 @@ Johanna Theron wedewe Jakowis van Heerde
 ## MOOC8/13.5
 
  {17681108} 8 November
-	 1768 <span style="border-bottom: 2px dotted #008000;">Johanna Sophia
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Johanna Sophia
 	 Grijling</span> 
 
 Inventaris van alle sodanige goederen, als 'er op den 2:e October 1768 ab
@@ -60665,7 +60676,7 @@ Sodanig ende in diervoegen als deselve door ons ondergeteekendes bij het
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarblijkens laaste transport van den 9:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 10</span> blijkens laaste transport van den 9:e
 		  November 1759</td>
     </tr>
   </tbody>
@@ -61157,11 +61168,11 @@ In evengemelde huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Mallabaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Mallabaar</span></td>
     </tr>
   </tbody>
 </table>
@@ -61253,7 +61264,7 @@ Eduardz C: Haumann
 
 ## MOOC8/13.6
 
- {17681231} 31 December 1768 <span style="border-bottom: 2px dotted #008000;">Maria Smuts</span> 
+ {17681231} 31 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Maria Smuts</span> 
 
 Inventaris van alle sodanige goederen, als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door Maria Smuts ten voordeele van haar
@@ -61293,28 +61304,28 @@ Sodanig ende in diervoegen als deselve door de onderget:e gecommitteerde
   <tbody>
     <tr>
       <td>Een huijs en stuk thuijnland staande ende
-		  geleegen in deeseonder aan de
-		  voet van deblijkens laatste
+		  geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> onder aan de
+		  voet van de <span style="border-bottom: 2px dotted #FF0000;">Tafelberg</span> blijkens laatste
 		  transport van den 8:e Jannuarij 1755</td>
     </tr>
     <tr>
       <td>een huijs en stuk thuijnland geleegen in
-		  deesevolgens laatste transport
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> volgens laatste transport
 		  de dato 1:e Junij 1767</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  desein 'tzynde een gedeelte vanvide transport van den 20:e Junij
+		  dese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok L:L:</span> zynde een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 10</span> vide transport van den 20:e Junij
 		  1763</td>
     </tr>
     <tr>
       <td>een huijs en erff geleegen als eevengem: in
-		  'tblijkens laatste transport de dato
+		  't <span style="border-bottom: 2px dotted #FF0000;">Blok G:</span> blijkens laatste transport de dato
 		  4:e Februarij 1763</td>
     </tr>
     <tr>
       <td>een huijs en erff geleegen als bovengem:
-		  gen:tblijkens transport van
+		  gen:t <span style="border-bottom: 2px dotted #FF0000;">Caabswelvaaren</span> blijkens transport van
 		  den 6:e September 1749</td>
     </tr>
   </tbody>
@@ -61800,52 +61811,52 @@ In eerstgem: thuijn
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Titus van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Titus van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van Timor</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adolph van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adolph van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van Eneas</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van Eneas</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cato van Zummatra</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cato van Zummatra</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Andries van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Andries van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Amelia van Ceijlon</span></td>
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Amelia van Ceijlon</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Hester van de Caap</span></td>
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Hester van de Caap</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Philida van de
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Philida van de
 		Caap</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Jannetje van de
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannetje van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Steijntje van de
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Steijntje van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -61969,7 +61980,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.7
 
- {17690424} 24 April 1769 <span style="border-bottom: 2px dotted #008000;">Aurora van Terra de
+ {17690424} 24 April 1769 <span style="border-bottom: 2px dotted #00FF00;">Aurora van Terra de
 	 Natal</span> 
 
 Inventaris van alle sodanige goederen, als 'er ab intestato metter dood
@@ -62512,7 +62523,7 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maij van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maij van Bougies</span></td>
     </tr>
   </tbody>
 </table>
@@ -62555,7 +62566,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.8
 
- {17680820} 20 Augustus 1768 <span style="border-bottom: 2px dotted #008000;">Adam Rencke</span> 
+ {17680820} 20 Augustus 1768 <span style="border-bottom: 2px dotted #00FF00;">Adam Rencke</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood sijn
 	 ontruijmt ende naargelaaten door den burger Adam Rencke ten voordeele van sijn
@@ -62592,7 +62603,7 @@ Sodanig ende in diervoegen als deselve door ons onderget: als daar toe
 <table>
   <tbody>
     <tr>
-      <td>Een plaats ofte hofsteede gen:tgeleegen in</td>
+      <td>Een plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Fortuijntje</span> geleegen in <span style="border-bottom: 2px dotted #FF0000;">Hottentots Holland</span></td>
     </tr>
   </tbody>
 </table>
@@ -62871,7 +62882,7 @@ In t woonhuijs
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -62913,7 +62924,7 @@ In t woonhuijs
 Aldus gedaan en geinventariseert door het op en aangeeven aan de in den
 	 hoofde deeses vorm: wed: Reneke, in 't bij weesen van den boekhouder Johannes
 	 Knockers en den burger Jan Godlieb Brink als getuygen hier toe versogt, op
-	 voorn: plaats ofte hofsteede gen:tden 20 Augustus 1768
+	 voorn: plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Fortuyntje</span> den 20 Augustus 1768
 
 Als getuijgen: Johannes Knockers, J:G: Brink
 
@@ -62921,8 +62932,8 @@ D: Malan
 
 ## MOOC8/13.9
 
- {17660715} 15 Julij 1766 <span style="border-bottom: 2px dotted #008000;">Jan
-	 Sillie</span> , <span style="border-bottom: 2px dotted #008000;">Sara
+ {17660715} 15 Julij 1766 <span style="border-bottom: 2px dotted #00FF00;">Jan
+	 Sillie</span> , <span style="border-bottom: 2px dotted #00FF00;">Sara
 	 Rossouw</span> 
 
 Inventaris der goederen van mijn ondergetekende Sara Rossouw en mijn
@@ -62931,14 +62942,14 @@ Inventaris der goederen van mijn ondergetekende Sara Rossouw en mijn
 <table>
   <tbody>
     <tr>
-      <td>Mijn eijgendoms plaats genaamt degelegen onder de distreckt van</td>
+      <td>Mijn eijgendoms plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kijkuijt</span> gelegen onder de distreckt van <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span></td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">man
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaaven</span></td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slaavinne</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slaavinne</span></td>
     </tr>
     <tr>
       <td>16 treck ossen</td>
@@ -63168,7 +63179,7 @@ Inventaris der goederen van mijn ondergetekende Sara Rossouw en mijn
 Alles ten nausten naargesien en an-noteert ter presentsie der
 	 ondergetekende getuijgen alhier versogt
 
-Deden 15 Julij 1766.
+De <span style="border-bottom: 2px dotted #FF0000;">Kijkuijt</span> den 15 Julij 1766.
 
 Als getuijgen: Charle Marais de oude, Gieliam du Toit
 
@@ -63223,7 +63234,7 @@ Sara Rossouw wed: Jan Sillie
     <tr>
       <td>afedaan</td>
       <td>an de edele Compagnie debid de achter
-		  stallige van een leening plaats, gelegen in de</td>
+		  stallige van een leening plaats, gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Slanghoek</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -63236,21 +63247,21 @@ Sara Rossouw wed: Jan Sillie
 <table>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van de
 		  Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Simpzon van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Simpzon van de
 		  Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Samna van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Samna van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Dorinda van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dorinda van de
 		  Caab</span></td>
     </tr>
   </tbody>
@@ -63259,15 +63270,15 @@ Sara Rossouw wed: Jan Sillie
 ## MOOC8/13.10
 
  {17660725} 25 Julij
-	 1766 <span style="border-bottom: 2px dotted #008000;">Jacob Haager</span> 
+	 1766 <span style="border-bottom: 2px dotted #00FF00;">Jacob Haager</span> 
 
 Cloppenburg
 
 Staat en inventaris van alle zodanige goederen, als door wylen den soldaat
-	 Jacob Haager vanmet er dood ontruymt
+	 Jacob Haager van <span style="border-bottom: 2px dotted #FF0000;">Fryburg</span> met er dood ontruymt
 	 en nagelaaten zijn ende door den landbouwer Jan Cillié als testamentaire
 	 executeur en erfgenaam zyn opgegeeven vervolgens bij mij Abraham Faure
-	 secretaris vanenter presentie van de nagen:e
+	 secretaris van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> en <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> ter presentie van de nagen:e
 	 getuygen in geschrift gesteld bestaande dezelve in de volgende, namentlijk
 
 <table>
@@ -63356,7 +63367,7 @@ Aldus door den in den hoofde deezes gem:e Jan Cillié onder presentatie
 	 namaals nog eenige goederen tot den boedel behorende mogte komen te ontdekken,
 	 dezelve insgelijks te zullen op geeven.
 
-Actum ter Secretarije aanden 21 Jannuarij 1766 ter presentie van den substituit Leonhard Brostman en den
+Actum ter Secretarije aan <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> den 21 Jannuarij 1766 ter presentie van den substituit Leonhard Brostman en den
 	 bode Johan Marten Smalberger als getuijgen ten deesen gerequireert, die de
 	 minute deezes beneevens den comparant en mij Secretaris meede behoorlijk hebben
 	 onderteekend /:onderstond:/ 't welk ik getuijge /:was geteekent:/ A: Faure
@@ -63374,7 +63385,7 @@ Accordeert: D: Westerhoff
 
 ## MOOC8/13.11
 
- {17690626} 26 Junij 1769 <span style="border-bottom: 2px dotted #008000;">Helena Valentijn</span> 
+ {17690626} 26 Junij 1769 <span style="border-bottom: 2px dotted #00FF00;">Helena Valentijn</span> 
 
 Inventaris van alle sodanige goederen, als ab intestato metter dood zijn
 	 ontruijmt ende naargelaaten door Helena Valentijn ten voordeele van haar
@@ -63419,7 +63430,7 @@ Sodanige ende in diervoegen als deselve naar voorafgedane verseegeling
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'tblijkens transport van den 3:e Maart
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok V:V:</span> blijkens transport van den 3:e Maart
 		  1762</td>
     </tr>
   </tbody>
@@ -63995,11 +64006,11 @@ In een huurhuijs toebehoorende den edele heere Otto Luder Hemmij
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Ontong van Bougies</span> , zijnde
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Ontong van Bougies</span> , zijnde
 		ten eenenmalen blind</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Salomen van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Salomen van
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -64259,7 +64270,7 @@ En welke voorn: kleederen vervolgens tot nader ordre ter bewaaringe zijn
 
 ## MOOC8/13.12
 
- {17690525} 25 Maij 1769 <span style="border-bottom: 2px dotted #008000;">Jan Fredrik
+ {17690525} 25 Maij 1769 <span style="border-bottom: 2px dotted #00FF00;">Jan Fredrik
 	 Israël</span> 
 
 Inventaris van alle sodanige goederen als 'er ab intestato metter dood
@@ -64295,7 +64306,7 @@ Sodanig ende indiervoegen als deselve door de onderget:e gecomm:
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarblijkens transport van den 30 Junij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok L:L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 6</span> blijkens transport van den 30 Junij
 		  1762</td>
     </tr>
   </tbody>
@@ -64545,7 +64556,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.13
 
- {17670512} 12 Maij 1767 <span style="border-bottom: 2px dotted #008000;">Aletta Hendrina van
+ {17670512} 12 Maij 1767 <span style="border-bottom: 2px dotted #00FF00;">Aletta Hendrina van
 	 den Heuvel</span> 
 
 Cloppenburg
@@ -64586,7 +64597,7 @@ Soo ende in diervoegen als deselve door de onderget:e gecommiteerde
 <table>
   <tbody>
     <tr>
-      <td>Een plaats ofte hofsteede genaamtgeleegen in deonder 't Caabse district blijkens
+      <td>Een plaats ofte hofsteede genaamt <span style="border-bottom: 2px dotted #FF0000;">Ronde Bosje</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Tijgerbergen</span> onder 't Caabse district blijkens
 		  transport de dato 5:e November 1750</td>
     </tr>
   </tbody>
@@ -64940,36 +64951,36 @@ Op eevengem: plaats
   <thead><tr><td colspan='100%'>Slaaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bougies</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van Bougies</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Abraham van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Abraham van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pieter van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieter van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cassem van Samboua</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cassem van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Manalje van Timor</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Manalje van Timor</span></td>
     </tr>
   </tbody>
 </table>
@@ -65079,8 +65090,8 @@ Op eevengem: plaats
     </tr>
     <tr>
       <td>werd alhier genoteert dat sig in den boedel nog
-		bevinden, een slavin gen:t <span style="border-bottom: 2px dotted #008000;">Isabella van de Caab</span> , met haare twee
-		kinderen <span style="border-bottom: 2px dotted #008000;">Candasa</span> en <span style="border-bottom: 2px dotted #008000;">Mattheus van de Caab</span> welke slavin door den gerepatrieerden heer Gerrit Pan bij zijn aanweesen
+		bevinden, een slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Isabella van de Caab</span> , met haare twee
+		kinderen <span style="border-bottom: 2px dotted #00FF00;">Candasa</span> en <span style="border-bottom: 2px dotted #00FF00;">Mattheus van de Caab</span> welke slavin door den gerepatrieerden heer Gerrit Pan bij zijn aanweesen
 		alhier, volgens sincere getuijgenisse van Bernardus van Nieuwkerken aan de
 		dogter Maria Cornelia van Nieuwkerken alleen, en niet aan de kinderen
 		gesaamentlijk mondeling vereert is, zijnde de voorn: slave kinderen na de gifte
@@ -65107,7 +65118,8 @@ Op eevengem: plaats
   </tbody>
 </table>
 
-Aldus g'inventariseerd op voorsz: plaatsgeleegen in deden
+Aldus g'inventariseerd op voorsz: plaats <span style="border-bottom: 2px dotted #FF0000;">Ronde
+	 Bosje</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Tijgerbergen</span> den
 	 12:e Maij 1767.
 
 Als gecomm: Weesmeest:n: L:S: Faber, M: v: Breda
@@ -65116,10 +65128,10 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.14
 
- {17670112} 12 Januarij 1767 <span style="border-bottom: 2px dotted #008000;">Charel Marais</span> , <span style="border-bottom: 2px dotted #008000;">Maria Rossouw</span> 
+ {17670112} 12 Januarij 1767 <span style="border-bottom: 2px dotted #00FF00;">Charel Marais</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Rossouw</span> 
 
 Inventaritie van sodanige goederen, als door ons ondergetekende erfgenamen
-	 op de plaats genaamt, leggende in, van onsen vader Charel Marais
+	 op de plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Rust en Werk</span> , leggende in <span style="border-bottom: 2px dotted #FF0000;">Dal Josaphats</span> , van onsen vader Charel Marais
 	 ende overledene moeder Maria Rossouw is bevonden geworden, als volgt
 
 <table>
@@ -65399,7 +65411,7 @@ Inventaritie van sodanige goederen, als door ons ondergetekende erfgenamen
       <td>51 beesten, 3 paarden</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">mans
 		slaaven</span></td>
     </tr>
     <tr>
@@ -65420,7 +65432,7 @@ D:d Theron, Johannis Stephanus Marais
 
 ## MOOC8/13.15
 
- {17700122} 22 Jannuarij 1770 <span style="border-bottom: 2px dotted #008000;">Jacobus Hugot</span> 
+ {17700122} 22 Jannuarij 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Hugot</span> 
 
 Cloppenburg
 
@@ -65461,12 +65473,12 @@ Sodanig ende in diervoegen als deselve door den burger A:s H:k Krugel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede gen:t degeleegen aan de</td>
+      <td>Een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Buffelskraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Hexrevier</span></td>
       <td>800:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt degeleegen aan de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Ezelsjagt</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Souterievier</span></td>
       <td>33:16</td>
     </tr>
     <tr>
@@ -65726,52 +65738,52 @@ Sodanig ende in diervoegen als deselve door den burger A:s H:k Krugel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Malgas van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Malgas van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Louis van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Louis van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van
 		Ternaten</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samson van Ternaten</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samson van Ternaten</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mars van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mars van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Batavia</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Lena van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Lena van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Katrijn van de
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Katrijn van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Sara van de Caap</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Sara van de Caap</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rosa van de Caap</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rosa van de Caap</span></td>
     </tr>
     <tr>
       <td>welke voorsz: slaven te samen zijn getaxeert
@@ -65817,7 +65829,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.16
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Jacobus Hugod</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Jacobus Hugod</span> 
 
 Invantaris van sodaniege goederen als Catharina Magdalena Hoppe, wed:we
 	 van wijlen den landbouwer Jacobus Hugod in huwelijk gehad hebbende aen ons
@@ -65827,21 +65839,21 @@ Invantaris van sodaniege goederen als Catharina Magdalena Hoppe, wed:we
 <table>
   <tbody>
     <tr>
-      <td>Een plaats gelegen aangenaamt dein eijgendom gemeten</td>
+      <td>Een plaats gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Hexravier</span> genaamt de <span style="border-bottom: 2px dotted #FF0000;">Buffels Kraal</span> in eijgendom gemeten</td>
     </tr>
     <tr>
-      <td>een plaats genaamd dein lening der E:
+      <td>een plaats genaamd de <span style="border-bottom: 2px dotted #FF0000;">Karbenaatjes Kraal</span> in lening der E:
 		  Compagnie</td>
     </tr>
     <tr>
-      <td>een plaats genaamt degelegen aanin lening der E: Compagnie</td>
+      <td>een plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Ezelsjagt</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Soutrevier</span> in lening der E: Compagnie</td>
     </tr>
     <tr>
-      <td>10 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>10 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slave</span></td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>240 beeste</td>
@@ -66026,7 +66038,7 @@ Als getuijge: A:s H:k Krugel, Gideon Joubert
 
 ## MOOC8/13.17
 
- {1769} [ ..... ] 1769 <span style="border-bottom: 2px dotted #008000;">Leendert de Bruijn</span> 
+ {1769} [ ..... ] 1769 <span style="border-bottom: 2px dotted #00FF00;">Leendert de Bruijn</span> 
 
 Inventarium van 't geen door den vrij-swart Leendert de Bruijn naargelaten
 	 is geworden, als
@@ -66106,13 +66118,13 @@ Inventarium van 't geen door den vrij-swart Leendert de Bruijn naargelaten
       <td>1 hoed</td>
     </tr>
     <tr>
-      <td>1 oud mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Pieter</span></td>
+      <td>1 oud mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieter</span></td>
     </tr>
   </tbody>
 </table>
 
 Juliana van Ternaten vrij slavin soude trouwen met den verongelukten
-	 Leendert de Bruijn van.
+	 Leendert de Bruijn van <span style="border-bottom: 2px dotted #FF0000;">Bengalen</span> .
 
 Versoekt de nalatenschap voor de schulden rd:s30 te mogen
 	 behouden.
@@ -66120,7 +66132,7 @@ Versoekt de nalatenschap voor de schulden rd:s30 te mogen
 ## MOOC8/13.18
 
  {17681016} 16 October
-	 1768 <span style="border-bottom: 2px dotted #008000;">Johannes
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Johannes
 	 Volraatd</span> 
 
 Inventaris van alle sodanige goederen, als 'er ab intestato metter dood
@@ -66147,7 +66159,7 @@ Sodanig ende in diervoegen als deselve door ons onderget: op 't op en
 <table>
   <tbody>
     <tr>
-      <td>Een huijs en stuk thuijnlands genaamt degeleegen in debij degroot twee morgen en drie hondert
+      <td>Een huijs en stuk thuijnlands genaamt de <span style="border-bottom: 2px dotted #FF0000;">Goede Gift</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Baaij Fals</span> bij de <span style="border-bottom: 2px dotted #FF0000;">Simons Baaij</span> groot twee morgen en drie hondert
 		  quadraat roeden blijkens erfgrondbrief de dato 26:e November 1745</td>
     </tr>
   </tbody>
@@ -66689,7 +66701,7 @@ In eevengem: huijs
   <tbody>
     <tr>
       <td>Werd alhier nog p:r memorie bekend gesteld dat op
-		  ult:o Maij 1767 2 <span style="border-bottom: 2px dotted #008000;">slave jongens</span> in den
+		  ult:o Maij 1767 2 <span style="border-bottom: 2px dotted #00FF00;">slave jongens</span> in den
 		  boedel gehoorende opgedrost zijn, van dewelke nog geen narigt is
 		  ingekoomen</td>
     </tr>
@@ -66726,7 +66738,7 @@ In eevengem: huijs
     </tr>
     <tr>
       <td>aan den onder afgeschreeven gagie gestelden boekhouder mons:r
-		Johan Nicolaas Schott, soo veel den overleedene op de pagt ina:o 1767 is te kort
+		Johan Nicolaas Schott, soo veel den overleedene op de pagt in <span style="border-bottom: 2px dotted #FF0000;">Baaij Fals</span> a:o 1767 is te kort
 		gekoomen</td>
       <td>112:--</td>
     </tr>
@@ -66794,7 +66806,7 @@ Mij present: J:n Stenvers, gesw: Clercq
 
 ## MOOC8/13.19
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Johanna Weijerse</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Johanna Weijerse</span> 
 
 Inventaris des boedels van wijlen Johanna Weijerse laast huijsvrouw van
 	 den landbouwer Christiaan Godlieb Lessing ten voordele van haar eevengem:
@@ -66850,10 +66862,10 @@ bestaande opgem: nalaatenschap in 't volgende namentl:
 <table>
   <tbody>
     <tr>
-      <td>Een opstal genaamt de</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Uijtkijk</span></td>
     </tr>
     <tr>
-      <td>een opstal genaamt de</td>
+      <td>een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Quagga Fonteijn</span></td>
     </tr>
   </tbody>
 </table>
@@ -67303,26 +67315,26 @@ bestaande opgem: nalaatenschap in 't volgende namentl:
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">September van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Maij van
+      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Maij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 mansslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slaven meijt genaamt <span style="border-bottom: 2px dotted #008000;">Catrijn van
+      <td>1 slaven meijt genaamt <span style="border-bottom: 2px dotted #00FF00;">Catrijn van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave kind genaamt <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>1 slave kind genaamt <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -67330,7 +67342,7 @@ bestaande opgem: nalaatenschap in 't volgende namentl:
 ## MOOC8/13.20
 
  {17670102} 2 Januarij
-	 1767 <span style="border-bottom: 2px dotted #008000;">Christiaan
+	 1767 <span style="border-bottom: 2px dotted #00FF00;">Christiaan
 	 Godlieb Lessing</span> 
 
 Inventarium des boedels van den burger Christiaan Godlieb Lessing,
@@ -67340,10 +67352,10 @@ Inventarium des boedels van den burger Christiaan Godlieb Lessing,
 <table>
   <tbody>
     <tr>
-      <td>Een lenings plaats genaamt devernieuwt tot den 15 Febr: 1765</td>
+      <td>Een lenings plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Uijtkijk</span> vernieuwt tot den 15 Febr: 1765</td>
     </tr>
     <tr>
-      <td>een lenings plaats genaamt devernieuwt tot den 2 Novemb:r
+      <td>een lenings plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Quagga Fonteijn</span> vernieuwt tot den 2 Novemb:r
 		  1763</td>
     </tr>
   </tbody>
@@ -67523,25 +67535,25 @@ Inventarium des boedels van den burger Christiaan Godlieb Lessing,
       <td>167 beesten</td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">September van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Mij van Madagascar</span></td>
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Mij van Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaven meijd gen: <span style="border-bottom: 2px dotted #008000;">Catrijn van
+      <td>1 slaven meijd gen: <span style="border-bottom: 2px dotted #00FF00;">Catrijn van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slaven kind van 3 jaar gen: <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>1 slaven kind van 3 jaar gen: <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -67595,7 +67607,7 @@ Mijn overleden vrouw haar zilver en goud die zij gedragen heeft, bestaat
 behalven haar kleeren die zij gedragen heeft thans niet opgeschreven,
 	 latende zulks over aan het goedvinden van de Heeren Weesmeesteren
 
-, den 2 Jannuarij anno
+ <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> , den 2 Jannuarij anno
 	 1767.
 
 Dit is + het handmerk van Frans Hendrik Campher
@@ -67608,10 +67620,10 @@ Hendrik Olivier
 
 ## MOOC8/13.21
 
- {17670102} 2 Jannuarij 1767 <span style="border-bottom: 2px dotted #008000;">Christiaan Godlieb
+ {17670102} 2 Jannuarij 1767 <span style="border-bottom: 2px dotted #00FF00;">Christiaan Godlieb
 	 Lessing</span> 
 
-De goederen van den boedel van Lessing dewelke op degebleven sijn navolgende
+De goederen van den boedel van Lessing dewelke op de <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> gebleven sijn navolgende
 
 <table>
   <tbody>
@@ -67659,7 +67671,7 @@ De goederen van den boedel van Lessing dewelke op degebleven sijn navolgende
       <td>1 degen sonder schee</td>
     </tr>
     <tr>
-      <td>2 spiegels, 1 aan de Caap bij Frans Bauman de andere in de</td>
+      <td>2 spiegels, 1 aan de Caap bij Frans Bauman de andere in de <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
     </tr>
     <tr>
       <td>2 houte sout vaatjes</td>
@@ -67860,20 +67872,20 @@ De goederen van den boedel van Lessing dewelke op degebleven sijn navolgende
     </tr>
     <tr>
       <td>122 beeste, 5 beeste agter uijt gelopen deselve lopen bij Dirk
-		Coetsee in de</td>
+		Coetsee in de <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
     </tr>
     <tr>
-      <td>1 koeij op de padt gekalft en loopt bij Pieter Terron op</td>
+      <td>1 koeij op de padt gekalft en loopt bij Pieter Terron op <span style="border-bottom: 2px dotted #FF0000;">Rooije Sand</span></td>
     </tr>
     <tr>
       <td>30 mudde koorn de mudde â 4 gulden verkoft aan Hermanus Lauw in
-		deook voldaan met 40 rixdaalders -
+		de <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> ook voldaan met 40 rixdaalders -
 		onder Lessing</td>
       <td>vold:n</td>
     </tr>
     <tr>
       <td>20 mudde koorn verkoft de mudde â 4 guldens aan Willem Steenkam
-		in de, nog niet betaalt</td>
+		in de <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> , nog niet betaalt</td>
     </tr>
   </tbody>
 </table>
@@ -67881,7 +67893,7 @@ De goederen van den boedel van Lessing dewelke op degebleven sijn navolgende
 ## MOOC8/13.22
 
  {17650731} 31 Julij
-	 1765 <span style="border-bottom: 2px dotted #008000;">Joh:s Stephanus
+	 1765 <span style="border-bottom: 2px dotted #00FF00;">Joh:s Stephanus
 	 Moller</span> 
 
 Inventaris van den boedel van Pieternella van Heerden, wed:w wijlen Joh:s
@@ -67892,11 +67904,11 @@ Inventaris van den boedel van Pieternella van Heerden, wed:w wijlen Joh:s
   <tbody>
     <tr>
       <td>Een plaats in vollen eijgendom, groot 60
-		  morgen land genaamt, geleegen
-		  in 't</td>
+		  morgen land genaamt <span style="border-bottom: 2px dotted #FF0000;">Wel te Vreeden</span> , geleegen
+		  in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span></td>
     </tr>
     <tr>
-      <td>een opstal geleegen aan de grooteonder de districten van, genaamt de</td>
+      <td>een opstal geleegen aan de groote <span style="border-bottom: 2px dotted #FF0000;">Berg Rivier</span> onder de districten van <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span> , genaamt de <span style="border-bottom: 2px dotted #FF0000;">Groote Gat</span></td>
     </tr>
     <tr>
       <td>vier hondert schaapen</td>
@@ -67908,12 +67920,12 @@ Inventaris van den boedel van Pieternella van Heerden, wed:w wijlen Joh:s
       <td>seven paarden</td>
     </tr>
     <tr>
-      <td>drie <span style="border-bottom: 2px dotted #008000;">mans
-		  slaaven</span> , 1 overl: <span style="border-bottom: 2px dotted #008000;">Arend van
+      <td>drie <span style="border-bottom: 2px dotted #00FF00;">mans
+		  slaaven</span> , 1 overl: <span style="border-bottom: 2px dotted #00FF00;">Arend van
 		  de Caab</span></td>
     </tr>
     <tr>
-      <td>en een <span style="border-bottom: 2px dotted #008000;">slaavin</span></td>
+      <td>en een <span style="border-bottom: 2px dotted #00FF00;">slaavin</span></td>
     </tr>
   </tbody>
 </table>
@@ -68076,7 +68088,7 @@ Inventaris van den boedel van Pieternella van Heerden, wed:w wijlen Joh:s
   </tbody>
 </table>
 
-Aldus gedaan in 'top
+Aldus gedaan in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> op
 	 datum als bovengem:t in de tegen woordighijd van
 
 Piternella van Heerde weduwe Moller
@@ -68091,7 +68103,7 @@ Als getuijgen: G:t H:k Meijer Jansz:, G:t H:k Meyer E:s zoon
 		rijxdaelders</td>
     </tr>
     <tr>
-      <td>aan de Diaconij of kerk vansomma een hondert rijxdaelders</td>
+      <td>aan de Diaconij of kerk van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> somma een hondert rijxdaelders</td>
     </tr>
     <tr>
       <td>aan Jacobus Theron Jac: zoon de somma van een hondert
@@ -68145,7 +68157,7 @@ Piternella van Heerde weduwe Moller
       <td>300:--</td>
     </tr>
     <tr>
-      <td>aan de Diaconij armen van</td>
+      <td>aan de Diaconij armen van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
       <td>&nbsp;</td>
       <td>100:--</td>
     </tr>
@@ -68229,7 +68241,7 @@ Piternella van Heerde weduwe Moller
 ## MOOC8/13.23
 
  {17691016} 16 October
-	 1769 <span style="border-bottom: 2px dotted #008000;">Rosetta van
+	 1769 <span style="border-bottom: 2px dotted #00FF00;">Rosetta van
 	 Bengalen</span> 
 
 Cloppenburg
@@ -68273,7 +68285,7 @@ Sodanig ende in diervoegen als deselve door ons ondergeteekende zijn
   <tbody>
     <tr>
       <td>Een huijs en erff staande en de geleegen in
-		  deeseblijkens transport van den
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Taffelvalleij</span> blijkens transport van den
 		  27:e December 1746</td>
     </tr>
   </tbody>
@@ -68612,7 +68624,7 @@ In eevengem: huijs
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">August van Ceijlon</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">August van Ceijlon</span></td>
     </tr>
   </tbody>
 </table>
@@ -68678,7 +68690,7 @@ J:H: Redelinghuijs
 
 ## MOOC8/13.24
 
- {17680503} 3 Meij 1768 <span style="border-bottom: 2px dotted #008000;">C:C: Rijkvoet</span> 
+ {17680503} 3 Meij 1768 <span style="border-bottom: 2px dotted #00FF00;">C:C: Rijkvoet</span> 
 
 Inventaris gedaan over den nagelaten boedel van C:C: Rijkvoet door de
 	 onderstaande buuren T:A: Theron en T: Roos
@@ -68689,10 +68701,10 @@ Den 3 Meij a:o 1768
   <tbody>
     <tr>
       <td>Als namentlijk een stuk huijs erffs en
-		  thuijnland gelegen onder het district van</td>
+		  thuijnland gelegen onder het district van <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span></td>
     </tr>
     <tr>
-      <td>een mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Lessan</span></td>
+      <td>een mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Lessan</span></td>
     </tr>
     <tr>
       <td>een apothekers winkel met de daartoe benodigde gereetschappe
@@ -68928,7 +68940,7 @@ Als getuijgen: T:s A:s Theron, T:n Roos
 
 ## MOOC8/13.25
 
- {17680706} 6 Julij 1768 <span style="border-bottom: 2px dotted #008000;">Gideon Smith</span> 
+ {17680706} 6 Julij 1768 <span style="border-bottom: 2px dotted #00FF00;">Gideon Smith</span> 
 
 Huyden den 6 July 1768
 
@@ -69193,7 +69205,7 @@ Van het geenege dat wij bij den overleedene Gidion Smith bevonden
       <td>23 beesten</td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span></td>
     </tr>
     <tr>
@@ -69220,10 +69232,10 @@ Als getuijge: Johannes Kotze
 
 ## MOOC8/13.26
 
- {17680104} 4 Jannuarij 1768 <span style="border-bottom: 2px dotted #008000;">Charl Marais</span> 
+ {17680104} 4 Jannuarij 1768 <span style="border-bottom: 2px dotted #00FF00;">Charl Marais</span> 
 
 Inventaris van alle sodanige goederen als op den 30:e December 1767 ab
-	 intestato metter dood ontruijmt ende nagelaten zijn door den oudheemraad aanmons:r Charl Marais de oude ten
+	 intestato metter dood ontruijmt ende nagelaten zijn door den oudheemraad aan <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> mons:r Charl Marais de oude ten
 	 voordeele van desselfs bij zijne voor overleedene huijsvr: Maria Rossouw in
 	 huwelijk verwekte kinderen, met naamen
 
@@ -69260,7 +69272,7 @@ door mij onderget:e David Theron opgenomen ende g'inventariseert,
 <table>
   <tbody>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave
 		  jonge</span></td>
     </tr>
     <tr>
@@ -69325,7 +69337,7 @@ D:d Theron
 
 ## MOOC8/13.27
 
- {17670711} 11 Julij 1767 <span style="border-bottom: 2px dotted #008000;">Henderina Monk</span> 
+ {17670711} 11 Julij 1767 <span style="border-bottom: 2px dotted #00FF00;">Henderina Monk</span> 
 
 Staat en inventaris van alle sodanige goederen, als ab intestato zijn
 	 nagelaaten en op den 11 Julij 1767 metter dood ontruijmt door Henderina Monk
@@ -69373,7 +69385,7 @@ Sodanig ende in diervoegen als deselve door gem: Hans Hendrik Marits bij
       <td>10 m:d tarwe</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van Mallabaar</span></td>
     </tr>
   </tbody>
 </table>
@@ -69480,12 +69492,12 @@ Sodanig ende in diervoegen als deselve door gem: Hans Hendrik Marits bij
 ## MOOC8/13.28
 
  {17680507} 7 Maij
-	 1768 <span style="border-bottom: 2px dotted #008000;">Salomon
+	 1768 <span style="border-bottom: 2px dotted #00FF00;">Salomon
 	 Bosch</span> 
 
 Inventaris van alle sodanige goederen, als 'er ab intestato metter dood
 	 zijn ontruijmt ende naargelaaten door den in den dienst der E: Comp:e op de
-	 post 'tals baas bescheijden geweest
+	 post 't <span style="border-bottom: 2px dotted #FF0000;">Paradijs</span> als baas bescheijden geweest
 	 zijn den Salomon Bosch ten voordeele van desselfs overgebleevene wed:e Gesina
 	 Martens ter eenree, mitsgaders zijne zoo in voorig huwelijk bij wijlen zijn
 	 eerste huijsvrouw Elisabeth de Nijs als staande dit huwelijk bij opgem:e Gesina
@@ -69523,7 +69535,7 @@ Sodanig ende in diervoegen als deselve door de onderget:e gecomm:
 	 Weesmeesteren op 't op en aangeeven van boovengen: wed:e zijn g'inventariseert
 	 mitsgaders bevonden te bestaan in 't volgende, namentlijk
 
-Op bovengen:e post 't
+Op bovengen:e post 't <span style="border-bottom: 2px dotted #FF0000;">Paradijs</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In de caamer ter regterhand</td></tr></thead>
@@ -70106,16 +70118,16 @@ Op bovengen:e post 't
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Baniesa van Mandaar</span> en
-		haar kind <span style="border-bottom: 2px dotted #008000;">Rebecca van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Baniesa van Mandaar</span> en
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Rebecca van de
 		Caab</span> oud 1 1/2 jaar</td>
     </tr>
   </tbody>
@@ -70258,7 +70270,7 @@ Nota, aan d' edele heer Berg eenig houtwerk geleeverd
   </tbody>
 </table>
 
-Aldus g'inventariseert op voorn: post 'tden 7:e Maij 1768.
+Aldus g'inventariseert op voorn: post 't <span style="border-bottom: 2px dotted #FF0000;">Paradijs</span> den 7:e Maij 1768.
 
 Voor den opgaaf: [ ..... ]
 
@@ -70268,7 +70280,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.29
 
- {17680402} 2 April 1768 <span style="border-bottom: 2px dotted #008000;">Pieter Heckenrood</span> 
+ {17680402} 2 April 1768 <span style="border-bottom: 2px dotted #00FF00;">Pieter Heckenrood</span> 
 
 Cloppenburg
 
@@ -70304,7 +70316,7 @@ Sodanige ende in diervoegen als deselve door de onderget:e gecomm:
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'tblijkens transport van den 27:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok K:K:</span> blijkens transport van den 27:e
 		  Maart 1761</td>
     </tr>
   </tbody>
@@ -70854,15 +70866,15 @@ In eevengem:e huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Benjamin van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Benjamin van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Lijs van Bengalen</span></td>
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Lijs van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -71046,7 +71058,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.30
 
- {17680829} 29 Augustus 1768 <span style="border-bottom: 2px dotted #008000;">Sophia Wurmer</span> 
+ {17680829} 29 Augustus 1768 <span style="border-bottom: 2px dotted #00FF00;">Sophia Wurmer</span> 
 
 Inventaris van alle sodanige goederen als ab intestato opheeden metter
 	 dood zijn ontruijmt ende naargelaaten door Sophia Wurmer laast wed:w en
@@ -71102,7 +71114,7 @@ Soodanig en de in diervoegen als deselve volgens aan weijsing van
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'tsijnde een gedeelte van</td>
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvallij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok M:M:</span> sijnde een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 10</span></td>
     </tr>
   </tbody>
 </table>
@@ -71522,14 +71534,14 @@ Soodanig en de in diervoegen als deselve volgens aan weijsing van
   <thead><tr><td colspan='100%'>Lijffeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philip van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philip van de
 		Caab</span></td>
       <td rowspan='2' style='vertical-align: middle;'>volgens testamentaire dispositie van den
 		overleedene soo soude deese twee genoemde slaven met believen van de overighijt
 		in vrijdom moeten gestelt worden</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -71639,7 +71651,7 @@ Mij present: J:n Stenvers, gesw: Clercq
 
 ## MOOC8/13.31
 
- {17690509} 9 Maij 1769 <span style="border-bottom: 2px dotted #008000;">Christoffel Lodewijk
+ {17690509} 9 Maij 1769 <span style="border-bottom: 2px dotted #00FF00;">Christoffel Lodewijk
 	 Bopp</span> 
 
 Inventaris van alle sodanige goederen, als 'er ab intestato metter dood
@@ -71955,7 +71967,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.32
 
- {17690731} 31 Julij 1769 <span style="border-bottom: 2px dotted #008000;">Jan de Buijs</span> 
+ {17690731} 31 Julij 1769 <span style="border-bottom: 2px dotted #00FF00;">Jan de Buijs</span> 
 
 Cloppenburg
 
@@ -72000,7 +72012,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Petrus Hendrik
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  gen:t de</td>
+		  gen:t de <span style="border-bottom: 2px dotted #FF0000;">Eselsjagt</span></td>
       <td>40:--</td>
     </tr>
     <tr>
@@ -72303,7 +72315,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.33a
 
- {17700421} 21 April 1770 <span style="border-bottom: 2px dotted #008000;">Willem van der
+ {17700421} 21 April 1770 <span style="border-bottom: 2px dotted #00FF00;">Willem van der
 	 Merve</span> 
 
 Cloppenburg
@@ -72414,7 +72426,7 @@ Mij present: J:s H:s Blackenberg, Secret:s
 
 ## MOOC8/13.33b
 
- {17700421} 21 April 1770 <span style="border-bottom: 2px dotted #008000;">Willem van der Merve</span> 
+ {17700421} 21 April 1770 <span style="border-bottom: 2px dotted #00FF00;">Willem van der Merve</span> 
 
 Een invintaris of tikkacie aan de E:E: Heeren Weesmeesters het geen mij is
 	 nagelaten, tee weten
@@ -72478,7 +72490,7 @@ David van der Merwe d' oude
 
 ## MOOC8/13.34
 
- {17690729} 29 Julij 1769 <span style="border-bottom: 2px dotted #008000;">Johannes de Buijs</span> 
+ {17690729} 29 Julij 1769 <span style="border-bottom: 2px dotted #00FF00;">Johannes de Buijs</span> 
 
 Deese onder geschrevene goedere hebbende de vernoemde opgenoome, namentlik
 	 Petherus Hend: Fereyre, Gerrit van Rooyen, Hendrik van Stade, van de weeduwe
@@ -72503,7 +72515,7 @@ Deese onder geschrevene goedere hebbende de vernoemde opgenoome, namentlik
       <td>1 waage</td>
     </tr>
     <tr>
-      <td>1 plaats in leeneng genamd deop de plaats 5 jaar agterstallig -
+      <td>1 plaats in leeneng genamd de <span style="border-bottom: 2px dotted #FF0000;">Eselsjagt</span> op de plaats 5 jaar agterstallig -
 		  29 Julij 1769 hier op 12 ossen geleevert blijft 1 jaar agterstal</td>
     </tr>
     <tr>
@@ -72693,7 +72705,7 @@ Deese onder geschrevene goedere hebbende de vernoemde opgenoome, namentlik
   <thead><tr><td colspan='100%'>De boedel is debet</td></tr></thead>
   <tbody>
     <tr>
-      <td>aan de burger Hendrik van Staade 232 rxs: voor de plaats genamtwaarop betaalt is 84 rxs: rest
+      <td>aan de burger Hendrik van Staade 232 rxs: voor de plaats genamt <span style="border-bottom: 2px dotted #FF0000;">Schoonenberg</span> waarop betaalt is 84 rxs: rest
 		143</td>
     </tr>
     <tr>
@@ -72751,7 +72763,7 @@ Deese onder geschrevene goedere hebbende de vernoemde opgenoome, namentlik
 ## MOOC8/13.35
 
  {17700316} 16 Maart
-	 1770 <span style="border-bottom: 2px dotted #008000;">Jacobus
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacobus
 	 Victor</span> 
 
 Cloppenburg
@@ -72790,7 +72802,7 @@ Sodanig ende in diervoegen als deselve door de mede landbouwers Willem
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  genaamt de, geleegen in de, agter de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hoop</span> , geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Rietrivier</span> , agter de <span style="border-bottom: 2px dotted #FF0000;">Roggeveldsberg</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -73045,16 +73057,16 @@ Sodanig ende in diervoegen als deselve door de mede landbouwers Willem
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses van
 		Mallabaar</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jan Fransman van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jan Fransman van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosie van Batavia</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosie van Batavia</span></td>
     </tr>
   </tbody>
 </table>
@@ -73134,7 +73146,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.36
 
- {17700123} 23 Januarij 1770 <span style="border-bottom: 2px dotted #008000;">Jacobus Victor</span> 
+ {17700123} 23 Januarij 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Victor</span> 
 
 Lyst van de plaats, slaven, slavinnen, vee, wagen, meubilien en
 	 gereetschap van wegen den overleedenen Jacobus Victor en zyn nagelaatene
@@ -73147,12 +73159,12 @@ Lyst van de plaats, slaven, slavinnen, vee, wagen, meubilien en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">mans
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span> 't stuk 100 rxs:</td>
       <td>200:--:--</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
       <td>100:--:--</td>
     </tr>
     <tr>
@@ -73396,13 +73408,13 @@ Lyst van de plaats, slaven, slavinnen, vee, wagen, meubilien en
 De plaats is droog en kan geen brood koorn gewonnen worden, een huys half
 	 klaar wardeeren voor de recognitie penningen aan de Ed: Compagnie
 
-den 23:e Jan: 1770.
+ <span style="border-bottom: 2px dotted #FF0000;">Riet Rivier</span> den 23:e Jan: 1770.
 
 + merk van Wellem van Wijk Wellem soon
 
 Joh: Hendr: Eyman
 
-De plaats van Jacobus Victor, genaamt de, geleegen in deagter de, is tot den 17 Febr:rij laatstl:
+De plaats van Jacobus Victor, genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hoop</span> , geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Rietrivier</span> agter de <span style="border-bottom: 2px dotted #FF0000;">Roggevelds Berg</span> , is tot den 17 Febr:rij laatstl:
 	 gereekend, agt jaren ten agteren.
 
 <table>
@@ -73486,17 +73498,17 @@ De plaats van Jacobus Victor, genaamt de, geleegen in deagter de, is tot den 17 
 <table>
   <tbody>
     <tr>
-      <td>De plaats gelegen in deagter 't</td>
+      <td>De plaats gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Riet Rivier</span> agter 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jan Fransman van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jan Fransman van
 		  Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosie van Batavia</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosie van Batavia</span></td>
     </tr>
   </tbody>
 </table>
@@ -73544,7 +73556,7 @@ Joh:s Hartog
 
 ## MOOC8/13.37
 
- {17700302} 2 Maart 1770 <span style="border-bottom: 2px dotted #008000;">Willemina van de
+ {17700302} 2 Maart 1770 <span style="border-bottom: 2px dotted #00FF00;">Willemina van de
 	 Caap</span> 
 
 Inventaris van sodanige goederen als door ab intestato is komen te
@@ -73683,7 +73695,7 @@ De uijt staande penninge die de overleedene Willemina van de Caap uijt
 ## MOOC8/13.38
 
  {17700308} 8 Maart
-	 1770 <span style="border-bottom: 2px dotted #008000;">Willemina
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Willemina
 	 Hameling</span> 
 
 <table>
@@ -73812,7 +73824,7 @@ H:k Stander
 
 ## MOOC8/13.39
 
- {17700507} 7 Maij 1770 <span style="border-bottom: 2px dotted #008000;">Hester du Toit</span> 
+ {17700507} 7 Maij 1770 <span style="border-bottom: 2px dotted #00FF00;">Hester du Toit</span> 
 
 Cloppenburg
 
@@ -73861,7 +73873,7 @@ Sodanig ende in diervoegen als deselve door d' landbouwers Fredrik Hendrik
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats gen:t degeleegen onder 't district van</td>
+      <td>Een plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Koo</span> geleegen onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>500:--</td>
     </tr>
     <tr>
@@ -73972,32 +73984,32 @@ Sodanig ende in diervoegen als deselve door d' landbouwers Fredrik Hendrik
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Samboua</span></td>
       <td rowspan='8' style='vertical-align: middle;'>800</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van Java</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van Java</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pluto van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pluto van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cedras van Africa</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cedras van Africa</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Philida van d'
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van d'
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Appelona van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Appelona van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Roselijn van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Roselijn van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -74043,7 +74055,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.40
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Hester du Toijt</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Hester du Toijt</span> 
 
 Inventaris van sodanige goederen als den burger Gidion Joubert in huwelijk
 	 gehad hebbende met Hester du Toijt aen ons ondergetekendens heeft opgegeven en
@@ -74052,11 +74064,11 @@ Inventaris van sodanige goederen als den burger Gidion Joubert in huwelijk
 <table>
   <tbody>
     <tr>
-      <td>5 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>5 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">slavinnen</span></td>
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">slavinnen</span></td>
     </tr>
     <tr>
       <td>270 beesten</td>
@@ -74139,7 +74151,7 @@ A:H: Krugel
 
 ## MOOC8/13_no number 01
 
- {17700624} 24 Junij 1770 <span style="border-bottom: 2px dotted #008000;">Josua Cillie</span> 
+ {17700624} 24 Junij 1770 <span style="border-bottom: 2px dotted #00FF00;">Josua Cillie</span> 
 
 Wij ondergetekende verklaere dat van den overleedene Josua Cillie niets
 	 naegelaten is
@@ -74150,7 +74162,7 @@ J: Rodewaldt, Francois du Toit
 
 ## MOOC8/13.41
 
- {17700627} 27 Junij 1770 <span style="border-bottom: 2px dotted #008000;">Christina Maria
+ {17700627} 27 Junij 1770 <span style="border-bottom: 2px dotted #00FF00;">Christina Maria
 	 Martens</span> 
 
 Cloppenburg
@@ -74189,7 +74201,7 @@ Sodanig ende in diervoegen als deselve door opgem: weduwenaar zijn
     </tr>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaar een gedeelte vanvolgens transport van den 16:e Augustus
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:o 2</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 4</span> volgens transport van den 16:e Augustus
 		  1769</td>
       <td>1333:16</td>
     </tr>
@@ -74574,12 +74586,12 @@ In eevengem: huijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Clarinda van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Clarinda van
 		Java</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">November van
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -74649,7 +74661,7 @@ J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.42
 
- {17700601} 1 Junij 1770 <span style="border-bottom: 2px dotted #008000;">Hendrik Godliep Myer</span> , <span style="border-bottom: 2px dotted #008000;">Anna van Beulinge</span> 
+ {17700601} 1 Junij 1770 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Godliep Myer</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna van Beulinge</span> 
 
 Wij ondergetekende door verzoek van d' E: Heeren Weesmeesteren benevens
 	 den respectiven heer Precident der zelver Camer als committerders den boedel
@@ -74835,7 +74847,7 @@ Michiel Otto
 
 Hendrik Geijser
 
-den 1 Junij a:o
+ <span style="border-bottom: 2px dotted #FF0000;">Cnofloogs koraal</span> den 1 Junij a:o
 	 1770.
 
 Ter Weescamer opgegeeven
@@ -74894,12 +74906,12 @@ Jacobus Coetse
 
 ## MOOC8/13.43
 
- {17680202} 2 Februarij 1768 <span style="border-bottom: 2px dotted #008000;">Jan de Waal</span> 
+ {17680202} 2 Februarij 1768 <span style="border-bottom: 2px dotted #00FF00;">Jan de Waal</span> 
 
 Cloppenburg
 
 Staat en inventaris des gantschen boedels van den alhier ter steede op den
-	 27:e Jannuarij 1768 overleeden burger lieutenant Jan de Waal van, sodanig deselve door hem met 'er
+	 27:e Jannuarij 1768 overleeden burger lieutenant Jan de Waal van <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> , sodanig deselve door hem met 'er
 	 dood is ontruijmt en nagelaaten, mitsgaders door de onderget:e gecommitteerdens
 	 uijt 't Eerw:e Collegie van Weesmeesteren als volgens testament door den
 	 aflijvige in dato 21:e Jannuarij 1768 gepasseert, aangestelde executeurs,
@@ -75039,42 +75051,45 @@ den 2:e Februarij 1768
   <tbody>
     <tr>
       <td>Een huijs en erff /:zijnde 't sterfhuijs:/
-		  staande ende geleegen in deesein
-		  'ten aldaarvolgens transport van den 13:e April
+		  staande ende geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in
+		  't <span style="border-bottom: 2px dotted #FF0000;">Blok W:W:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 8</span> volgens transport van den 13:e April
 		  1752 zijnde daar aan nog annex een stukje erfs blijkens transport van den 25:e
 		  Maart 1757</td>
     </tr>
     <tr>
-      <td>een huijs en erff staande als vooren in deesein 'ten aldaar een gedeelte vanblijkens transport van den 18:e Junij
+      <td>een huijs en erff staande als vooren in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 12</span> blijkens transport van den 18:e Junij
 		  1759</td>
       <td>aan de wed:e vermaakt</td>
     </tr>
     <tr>
-      <td>drie huijsen als vooren in deesegeleegen getimmert op 't erff in
-		  'ten aldaargen:t denvolg:s transport van den 5:e Maart
+      <td>drie huijsen als vooren in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> geleegen getimmert op 't erff in
+		  't <span style="border-bottom: 2px dotted #FF0000;">Blok L:L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 4</span> gen:t den <span style="border-bottom: 2px dotted #FF0000;">Schotsen Tempel</span> volg:s transport van den 5:e Maart
 		  1761</td>
     </tr>
     <tr>
       <td>vijf huijsen en erven mitsgaders nog een
-		  onbetimmert erff staande ende geleegen in deesein 'ten aldaar een gedeelte vanvolgens transport van den 15:e Maart 1766</td>
+		  onbetimmert erff staande ende geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok
+		  L:L:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 8</span> volgens transport van den 15:e Maart 1766</td>
     </tr>
     <tr>
-      <td>een huijs en erf staande als voorengem:ein 'ten aldaarvolgens transport van den 19:e Maij 1762</td>
+      <td>een huijs en erf staande als voorengem:e <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok H:H:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:os
+		  2, 3 en 4</span> volgens transport van den 19:e Maij 1762</td>
     </tr>
     <tr>
-      <td>twee huijsen en erven staande als voorenin 'ten aldaarblijkens transport van den 8:e Julij 1760</td>
+      <td>twee huijsen en erven staande als vooren <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Block Q:Q:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o
+		  2</span> blijkens transport van den 8:e Julij 1760</td>
     </tr>
     <tr>
       <td>twee huijsen en erven geleegen als boven
-		  gem:tin 'tblijkens transport van den 19:e
+		  gem:t <span style="border-bottom: 2px dotted #FF0000;">Tafelvallleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok P:P:</span> blijkens transport van den 19:e
 		  7:ber 1760</td>
     </tr>
     <tr>
-      <td>twee stucken erven geleegen onder dewaar op getimmerd staan 12
+      <td>twee stucken erven geleegen onder de <span style="border-bottom: 2px dotted #FF0000;">Schotse Cloof</span> waar op getimmerd staan 12
 		  huijsjes volgens erfgrondbrief de dato 2:e Februarij 1761</td>
     </tr>
     <tr>
-      <td>een opstal staande en de geleegen omtrent degen:t</td>
+      <td>een opstal staande en de geleegen omtrent de <span style="border-bottom: 2px dotted #FF0000;">Roode Blom</span> gen:t <span style="border-bottom: 2px dotted #FF0000;">Rheezigt</span></td>
     </tr>
   </tbody>
 </table>
@@ -76003,7 +76018,7 @@ In 't eerstgem: huijs /:zijnde 't woon en sterfhuijs:/
     <tr>
       <td>4 casten snuijf</td>
       <td>toebehoorende d' heere Harmanus de
-		Ruijter tot</td>
+		Ruijter tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span></td>
     </tr>
     <tr>
       <td>1 [casten] met wat ijserwerk</td>
@@ -76176,7 +76191,7 @@ Den 3:e Februarij 1768.
   </tbody>
 </table>
 
-In een huijs in de
+In een huijs in de <span style="border-bottom: 2px dotted #FF0000;">Schotse Cloof</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In de caamer ter regterhand</td></tr></thead>
@@ -76797,126 +76812,126 @@ In een huijs in de
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van Bouton</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van Bouton</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philip van de Kust</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philip van de Kust</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Agillis van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Agillis van
 		Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van Madagascar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van Madagascar</span></td>
       <td>door de wed:e verkoosen</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Aaron van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Aaron van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Gallap van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Gallap van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Dappat van Ternaten</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Dappat van Ternaten</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Absalon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Absalon van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Venus van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Venus van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Matthijs van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Matthijs van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Leander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Leander van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Aaron van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Aaron van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Manielie van Balij</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Manielie van Balij</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jasson van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jasson van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Ternaten</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Hector van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Hector van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Lakeij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Lakeij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Harlequin van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Harlequin van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Satoo van Maccassar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Satoo van Maccassar</span></td>
       <td>aan Willem de Waal vermaakt voor rd:s80:--</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
       <td>aan Daniel de Waal vermaakt voor rd:s80</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Leander van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Leander van de Caab</span></td>
       <td>aan Elisabeth de Waal vermaakt voor rd:s40</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jochem van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jochem van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van Bengalen</span></td>
       <td>overleeden</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Malatie van Nias</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Malatie van Nias</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosi van Bengalen</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosi van Bengalen</span></td>
       <td>door de wed:e verkoosen</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span></td>
       <td>aan Elisabeth de Waal vermaakt voor rd:s20</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Dina van Bengalen</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Dina van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -76957,7 +76972,7 @@ In een huijs in de
     <tr>
       <td>&nbsp;</td>
       <td>1765 29 Junij Jan Caspar Schultz volgens
-		  scheepenkennisse, hijpotheecq 2 huijsen en erven, ter zij den de, 1 gedeelte vanborgen Arend de Waal en Servaas de Kok
+		  scheepenkennisse, hijpotheecq 2 huijsen en erven, ter zij den de <span style="border-bottom: 2px dotted #FF0000;">Nieuwe gragt</span> , 1 gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> borgen Arend de Waal en Servaas de Kok
 		  â 5 p:r c:o den intr: vold:n tot 29 Junij
 		  1766</td>
       <td>7500:--</td>
@@ -76966,7 +76981,7 @@ In een huijs in de
     <tr>
       <td>&nbsp;</td>
       <td>1765 30 Julij Hendrina Janssen
-		  gesepareerde vr: van Pieter Theron, volgens scheepenkennisse hijpotheecq deen 2 huijsen in 'ten aldaar een gedeelte vanâ 5 p:r c:o den intr: vold:n tot Julij
+		  gesepareerde vr: van Pieter Theron, volgens scheepenkennisse hijpotheecq de <span style="border-bottom: 2px dotted #FF0000;">Schotse Kloof</span> en 2 huijsen in 't <span style="border-bottom: 2px dotted #FF0000;">Blok X:X:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> â 5 p:r c:o den intr: vold:n tot Julij
 		  1767</td>
       <td>8000:--</td>
       <td>2666:32</td>
@@ -76974,7 +76989,7 @@ In een huijs in de
     <tr>
       <td>insolvent</td>
       <td>1765 19 7:br Laars
-		Hultman volgens scheepenkennisse hijpotheecq zijn huijs en erff in 'ten aldaar een gedeelte vanâ 5 p:r c:o nog geen intr:
+		Hultman volgens scheepenkennisse hijpotheecq zijn huijs en erff in 't <span style="border-bottom: 2px dotted #FF0000;">Blok X</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 2 en 3</span> â 5 p:r c:o nog geen intr:
 		voldaan</td>
       <td>600:--</td>
       <td>200:--</td>
@@ -76982,7 +76997,7 @@ In een huijs in de
     <tr>
       <td>vold:n</td>
       <td>1766 15 Maart Hendrik Brand
-		volgens scheepenkennisse hijpotheecq zijn huijs en erff in 'tâ 6 p:r c:o ƒ2500</td>
+		volgens scheepenkennisse hijpotheecq zijn huijs en erff in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:o 1 en 5</span> â 6 p:r c:o ƒ2500</td>
     </tr>
     <tr>
       <td>vold:n</td>
@@ -77008,8 +77023,8 @@ In een huijs in de
     <tr>
       <td>&nbsp;</td>
       <td>1766 29:e 9:br Johannes le Roux de jonge
-		  volgens scheepenkennis hijpotheeq zijn plaats ofte hofsteedeonder 't Caabse district beoosten
-		  de: moetende voldaan werden voor
+		  volgens scheepenkennis hijpotheeq zijn plaats ofte hofsteede <span style="border-bottom: 2px dotted #FF0000;">Vreedenhoff</span> onder 't Caabse district beoosten
+		  de <span style="border-bottom: 2px dotted #FF0000;">Wijnberg</span> : moetende voldaan werden voor
 		  medio Jannuarij 1773 in sodanige termijnen als sal kunnen opbrengen, mits van
 		  't hoofd capitaal betaalen de 6 p:r
 		  c:o</td>
@@ -77019,7 +77034,7 @@ In een huijs in de
     <tr>
       <td>vold:n</td>
       <td>1766 20:e X:br Paulus Jansen
-		volg:s scheepenkennisse â 6 p:r c:o hijpotheecq zijn huijs en erf in 'ten aldaaren generaale
+		volg:s scheepenkennisse â 6 p:r c:o hijpotheecq zijn huijs en erf in 't <span style="border-bottom: 2px dotted #FF0000;">Blok H:H:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 3</span> en generaale
 		verband</td>
       <td>1500:--</td>
     </tr>
@@ -77135,7 +77150,7 @@ aan de 3 volgende rd:s12640:7 zijnde soo veel deselve competeeren van
     </tr>
     <tr>
       <td>vold:n</td>
-      <td>aan de heer Harmanus de Ruijter totrd:s138:5 voor sooveel men nagaan
+      <td>aan de heer Harmanus de Ruijter tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> rd:s138:5 voor sooveel men nagaan
 		  kan, als</td>
     </tr>
     <tr>
@@ -77156,7 +77171,7 @@ aan de 3 volgende rd:s12640:7 zijnde soo veel deselve competeeren van
     </tr>
     <tr>
       <td>ingen:</td>
-      <td>aan de heer Jacob Olzatie totrd:s1126:46 soo veel volgens
+      <td>aan de heer Jacob Olzatie tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> rd:s1126:46 soo veel volgens
 		  aanteekening van den overleeden uijt den boedel hebben moet aan restant
 		  ƒ2704:14 ofte behalven 1 jaar intrest van ƒ3757:1 st:vers sonder melding der
 		  p:r c:o</td>
@@ -77206,7 +77221,7 @@ aan de 3 volgende rd:s12640:7 zijnde soo veel deselve competeeren van
     <tr>
       <td>vold:n</td>
       <td>voor reekening van den geweesenen herbergier de
-		edele Jan Stein thans na devertrocken, door M: van der Spar volgens missive de dato14:e 9:ber 1767 p:r 't schipgesonden, sonder verdere mentie hoedanig
+		edele Jan Stein thans na de <span style="border-bottom: 2px dotted #FF0000;">Cust Cormandel</span> vertrocken, door M: van der Spar volgens missive de dato <span style="border-bottom: 2px dotted #FF0000;">Gale</span> 14:e 9:ber 1767 p:r 't schipgesonden, sonder verdere mentie hoedanig
 		daar meede te handelen:</td>
     </tr>
     <tr>
@@ -77219,7 +77234,7 @@ aan de 3 volgende rd:s12640:7 zijnde soo veel deselve competeeren van
     </tr>
     <tr>
       <td>vold:n</td>
-      <td>voor reekening van d' heer Jacob Olzatie totvolg:s missive de dato 21:e 7:br
+      <td>voor reekening van d' heer Jacob Olzatie tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> volg:s missive de dato 21:e 7:br
 		1767 gesonden p:r 't schip, om voor zijn
 		reekening te vercoopen, het provenu na aftrek der costen en provisie op zijn
 		reekening te crediteeren</td>
@@ -77244,7 +77259,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.44
 
- {17700201} 1 Februarij 1770 <span style="border-bottom: 2px dotted #008000;">Casper Schalker</span> 
+ {17700201} 1 Februarij 1770 <span style="border-bottom: 2px dotted #00FF00;">Casper Schalker</span> 
 
 Inventaris van alle sodanige goederen, als ab intestato metter dood zijn
 	 ontruijmt ende nagelaten door den burger Casper Schalker ten voordeele van zijn
@@ -77253,7 +77268,7 @@ Inventaris van alle sodanige goederen, als ab intestato metter dood zijn
 Opgenomen ende g'inventariseert bij ons onderget:s schrijver en bode der
 	 Weescaamer volgens het opgegeeven en aanwijsen van de burgers Johannes Nicolaas
 	 Buijs en Marthinus Ackerman, alwaar den overleeden ter plaatse van den oud
-	 heemraad m:r Jan Blignaut gen:tgeleegen aan deis woonagtig geweest,
+	 heemraad m:r Jan Blignaut gen:t <span style="border-bottom: 2px dotted #FF0000;">Bethel</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> is woonagtig geweest,
 	 als
 
 <table>
@@ -77613,14 +77628,14 @@ Opgenomen ende g'inventariseert bij ons onderget:s schrijver en bode der
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">December van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Flora van de Caab</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Flora van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -77640,7 +77655,7 @@ Opgenomen ende g'inventariseert bij ons onderget:s schrijver en bode der
 </table>
 
 Aldus g'inventariseert ter plaatse van opgem: mons:r Blignault geleegen
-	 aan deden 1 Februarij 1770.
+	 aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> den 1 Februarij 1770.
 
 Voor den opgaaf: Joh:s N:s Buijs, Martinis Akkerman
 
@@ -77649,7 +77664,7 @@ Voor het inventariseeren: J:s H:s Blanckenberg, J:
 
 ## MOOC8/13.45a
 
- {17700829} 29 Augustus 1770 <span style="border-bottom: 2px dotted #008000;">Rijnier van
+ {17700829} 29 Augustus 1770 <span style="border-bottom: 2px dotted #00FF00;">Rijnier van
 	 Rooijen</span> 
 
 Cloppenburg
@@ -77693,7 +77708,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Cornelis van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats genaamtaan deonder 't district van</td>
+      <td>Een plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Palmiet Revier</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Kruijsrivier</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>266:32</td>
     </tr>
     <tr>
@@ -77878,24 +77893,24 @@ Sodanig ende in diervoegen als deselve door de landbouwers Cornelis van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van Bengalen</span> zijnde oud en blind</td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van Bengalen</span> zijnde oud en blind</td>
       <td>25</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Orson van 'd
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Orson van 'd
 		Caab</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Philida van d'
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van d'
 		Caab</span></td>
     </tr>
   </tbody>
@@ -77978,7 +77993,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.45b
 
- {17700816} 16 Augustus 1770 <span style="border-bottom: 2px dotted #008000;">Renier van Rooijen</span> 
+ {17700816} 16 Augustus 1770 <span style="border-bottom: 2px dotted #00FF00;">Renier van Rooijen</span> 
 
 Inventaris
 
@@ -78100,15 +78115,15 @@ Der nagelatene goederen van den overleedenen Renier van Rooijen als
   <thead><tr><td colspan='100%'>4) Aan slaaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1) een oude afgeleefde slaaf, blind zijnde <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1) een oude afgeleefde slaaf, blind zijnde <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>2) drie andere mans-slaven <span style="border-bottom: 2px dotted #008000;">Orson van de Caab</span>  <span style="border-bottom: 2px dotted #008000;">Jan:rij van Bougis</span>  <span style="border-bottom: 2px dotted #008000;">Pedro van
+      <td>2) drie andere mans-slaven <span style="border-bottom: 2px dotted #00FF00;">Orson van de Caab</span>  <span style="border-bottom: 2px dotted #00FF00;">Jan:rij van Bougis</span>  <span style="border-bottom: 2px dotted #00FF00;">Pedro van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>3) een slavin <span style="border-bottom: 2px dotted #008000;">Filida van de Caab</span></td>
+      <td>3) een slavin <span style="border-bottom: 2px dotted #00FF00;">Filida van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -78188,13 +78203,13 @@ Cornelis van Roijen
 
 N: de Bruijn
 
-Een leenings plaats gen:taan deonderop de naam van Reijnier van
+Een leenings plaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Palmiet Revier</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Kruijsrevier</span> onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> op de naam van Reijnier van
 	 Rooijen.
 
 ## MOOC8/13.46a
 
  {17700922} 22
-	 September 1770 <span style="border-bottom: 2px dotted #008000;">Barend
+	 September 1770 <span style="border-bottom: 2px dotted #00FF00;">Barend
 	 Burgert</span> 
 
 Cloppenburg
@@ -78241,7 +78256,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Francois du
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  genaamt de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Brandwagt</span></td>
       <td>400:--</td>
     </tr>
     <tr>
@@ -78338,41 +78353,41 @@ Sodanig ende in diervoegen als deselve door de landbouwers Francois du
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Gedult van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Gedult van
 		Mallabaar</span></td>
       <td rowspan='11' style='vertical-align: middle;'>1100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Arend van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arend van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Absalon van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Absalon van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pieter van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieter van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samson van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samson van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosa van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosa van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Klara van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Klara van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Jolinda van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Jolinda van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Sara van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Sara van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Janiera van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Janiera van de
 		Caab</span></td>
     </tr>
     <tr>
@@ -78420,7 +78435,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.46b
 
- {17700922} 22 September 1770 <span style="border-bottom: 2px dotted #008000;">Barend Burger</span> 
+ {17700922} 22 September 1770 <span style="border-bottom: 2px dotted #00FF00;">Barend Burger</span> 
 
 Inventaris
 
@@ -78431,14 +78446,14 @@ Van sodanige goederen als Helena Smit wed:we van wylen den landbouer
 <table>
   <tbody>
     <tr>
-      <td>1 plaats genaamt dein lening der E: Compagnie</td>
+      <td>1 plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Brandwagt</span> in lening der E: Compagnie</td>
     </tr>
     <tr>
-      <td>6 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>6 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>5 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>5 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>90 beesten</td>
@@ -78506,41 +78521,41 @@ Als getuijge: Fransoos du Tooij, Daniel Hugo
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Gedult van Mallebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Gedult van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupiedo van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupiedo van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Arent
+      <td><span style="border-bottom: 2px dotted #00FF00;">Arent
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Apslon van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Apslon van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Pieter van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Pieter van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Samson van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samson van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rosa
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rosa
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Klara
+      <td><span style="border-bottom: 2px dotted #00FF00;">Klara
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jolinda van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jolinda van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jeniera van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jeniera van de Caap</span></td>
     </tr>
   </tbody>
 </table>
@@ -78571,8 +78586,8 @@ Als getuijge: Fransoos du Tooij, Daniel Hugo
 ## MOOC8/13.47a
 
  {17701008} 8 October
-	 1770 <span style="border-bottom: 2px dotted #008000;">Hendrick
-	 Swanepoel</span>  <span style="border-bottom: 2px dotted #008000;">Judith van
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Hendrick
+	 Swanepoel</span>  <span style="border-bottom: 2px dotted #00FF00;">Judith van
 	 Eeden</span> 
 
 Cloppenburg
@@ -78624,11 +78639,11 @@ Sodanig ende diervoegen als deselve door de landbouwers Jan Nel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een leenings plaats gen:t degeleegen aan de</td>
+      <td>Een leenings plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Swarte Berg</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Swarte Berg</span></td>
       <td>40:--</td>
     </tr>
     <tr>
-      <td>een leenings plaats gen:t degeleegen aan de</td>
+      <td>een leenings plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Klipbank</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Swarte Berg</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -78754,19 +78769,19 @@ Sodanig ende diervoegen als deselve door de landbouwers Jan Nel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">April van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">April van
 		Bengalen</span></td>
       <td rowspan='4' style='vertical-align: middle;'>330</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">November van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Moses van Mallabaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Moses van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Manna van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Manna van Bougies</span></td>
     </tr>
   </tbody>
 </table>
@@ -78829,7 +78844,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.47b
 
- {17701008} 8 October 1770 <span style="border-bottom: 2px dotted #008000;">Hendrick Swanepoel</span>  <span style="border-bottom: 2px dotted #008000;">Judith van Eeden</span> 
+ {17701008} 8 October 1770 <span style="border-bottom: 2px dotted #00FF00;">Hendrick Swanepoel</span>  <span style="border-bottom: 2px dotted #00FF00;">Judith van Eeden</span> 
 
 Inventarium
 
@@ -78848,7 +78863,7 @@ Van de naalatenschap tussen mijn Judith van Eeden, en mijn overleeden man
 		  Compagh:e</td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">man
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaaven</span> , waar onder een oud en afgeleeft</td>
     </tr>
     <tr>
@@ -78975,23 +78990,23 @@ Als getuijgen: Jan Nel, Stephanus Gouijs
 <table>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Novemb:r van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Novemb:r van
 		  Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Manna van Boegies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Manna van Boegies</span></td>
     </tr>
     <tr>
-      <td>een leenings plaats gen:t degeleegen aan de</td>
+      <td>een leenings plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Swarteberg</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Swarteberg</span></td>
     </tr>
     <tr>
-      <td>een leenings plaats gen:t degel: aan de</td>
+      <td>een leenings plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Klipbank</span> gel: aan de <span style="border-bottom: 2px dotted #FF0000;">Swarteberg</span></td>
     </tr>
   </tbody>
 </table>
@@ -79026,7 +79041,7 @@ Als getuijgen: Jan Nel, Stephanus Gouijs
 ## MOOC8/13.48a
 
  {17701022} 22 October
-	 1770 <span style="border-bottom: 2px dotted #008000;">Jacomina van
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacomina van
 	 Wijk</span> 
 
 Cloppenburg
@@ -79273,7 +79288,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Johannes Jurgen
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Philida van de
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Philida van de
 		Caab</span></td>
       <td>100</td>
     </tr>
@@ -79347,7 +79362,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.48b
 
- {17700816} 16 Augustus 1770 <span style="border-bottom: 2px dotted #008000;">Jacomina van Wijk</span> 
+ {17700816} 16 Augustus 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacomina van Wijk</span> 
 
 Heeden den 16 Augustus 1770
 
@@ -79361,7 +79376,7 @@ Ten
 <table>
   <tbody>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slavin</span> geb: van de Caap</td>
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slavin</span> geb: van de Caap</td>
     </tr>
     <tr>
       <td>twe hondert negen en twintig beesten</td>
@@ -79627,7 +79642,7 @@ Segt opheeden zijn leening plaats bij d' E: Comp: afgedankt en d'
 ## MOOC8/13.49a
 
  {17701031} 31 October
-	 1770 <span style="border-bottom: 2px dotted #008000;">Elisabeth van
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth van
 	 Wijk</span> 
 
 Cloppenburg
@@ -79673,11 +79688,13 @@ Sodanig ende indiervoegen, als deselve door de landbouwers Lowies Nel en
     </tr>
     <tr>
       <td>1 opstal staande op de leenings plaats
-		  genaamt, geleegen over d'</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Welgevonden</span> , geleegen over d' <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 opstal aan dein deaan de andere zijde van de</td>
+      <td>1 opstal aan de <span style="border-bottom: 2px dotted #FF0000;">Twee Rivieren</span> in de <span style="border-bottom: 2px dotted #FF0000;">Lange
+		  Cloof</span> aan de andere zijde van de <span style="border-bottom: 2px dotted #FF0000;">Wagenbooms
+		  Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -79938,28 +79955,28 @@ Sodanig ende indiervoegen, als deselve door de landbouwers Lowies Nel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van
 		Madagascar</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Frans van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Frans van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pasientie van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pasientie van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Clara van Mallabaar</span> en</td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Clara van Mallabaar</span> en</td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave kind gen:t <span style="border-bottom: 2px dotted #008000;">Geduld van de Caab</span></td>
+      <td>1 slave kind gen:t <span style="border-bottom: 2px dotted #00FF00;">Geduld van de Caab</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -79977,18 +79994,18 @@ Sodanig ende indiervoegen, als deselve door de landbouwers Lowies Nel en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>aan de E: Comp:e over agterstallige recogn: penn: van de plaatsten bedragen van 6 jaren en 9
+      <td>aan de E: Comp:e over agterstallige recogn: penn: van de plaats <span style="border-bottom: 2px dotted #FF0000;">Welgevonden</span> ten bedragen van 6 jaren en 9
 		maanden</td>
       <td>162</td>
     </tr>
     <tr>
       <td>aan de E: Comp:e over 4 jaaren en 10 maanden recogn: penn: over de
-		plaats de</td>
+		plaats de <span style="border-bottom: 2px dotted #FF0000;">Twee Rivieren</span></td>
       <td>116</td>
     </tr>
     <tr>
       <td>aan de E: Comp:e over 10 jaaren recogn: penn: het geene ged:
-		Scheepers over zijn in dato 15 April 1760 verlaaten plaats degenaamt, geleegen aan deten agteren is
+		Scheepers over zijn in dato 15 April 1760 verlaaten plaats de <span style="border-bottom: 2px dotted #FF0000;">Klipheuvel</span> genaamt, geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Gourits Rivier</span> ten agteren is
 		gebleeven</td>
       <td>240</td>
       <td>518</td>
@@ -80013,11 +80030,11 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.49b
 
- {17700715} 15 Julij 1770 <span style="border-bottom: 2px dotted #008000;">Elisabeth van Wijk</span> 
+ {17700715} 15 Julij 1770 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth van Wijk</span> 
 
 Inventaris van zodanige goederen, beestiaal als door ons onderget: in den
 	 boedel van den burger Jacobus Scheepers zijn bevonden als een zekere opstal van
-	 een leenig plaats genaemten een
+	 een leenig plaats genaemt <span style="border-bottom: 2px dotted #FF0000;">Welgevonde</span> en een
 	 vee plaats
 
 <table>
@@ -80031,7 +80048,7 @@ Inventaris van zodanige goederen, beestiaal als door ons onderget: in den
       <td>600:--</td>
     </tr>
     <tr>
-      <td>veijf <span style="border-bottom: 2px dotted #008000;">slaaven</span> , een <span style="border-bottom: 2px dotted #008000;">slaven
+      <td>veijf <span style="border-bottom: 2px dotted #00FF00;">slaaven</span> , een <span style="border-bottom: 2px dotted #00FF00;">slaven
 		  kint</span></td>
       <td>1800:--</td>
     </tr>
@@ -80336,26 +80353,26 @@ agterstal bij d' E: Comp:
   <thead><tr><td colspan='100%'>Lijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Frans van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Frans van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Patientie van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Patientie van
 		Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Clara van Mallabaar</span> en</td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Clara van Mallabaar</span> en</td>
     </tr>
     <tr>
-      <td>1 slave kind gen:t <span style="border-bottom: 2px dotted #008000;">Geduld van de Caab</span></td>
+      <td>1 slave kind gen:t <span style="border-bottom: 2px dotted #00FF00;">Geduld van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -80368,24 +80385,25 @@ Op de naam van Jacobus Scheepers staan ter Secretarye de volgende leenings
 <table>
   <tbody>
     <tr>
-      <td>genaamt, geleegen over d', waar op ten
+      <td>genaamt <span style="border-bottom: 2px dotted #FF0000;">Welgevonden</span> , geleegen over d' <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span> , waar op ten
 		  agteren</td>
       <td>6 jaren: 9 m:den</td>
     </tr>
     <tr>
-      <td>genaamt dein de, waar op ten agteren - door Scheepers
+      <td>genaamt de <span style="border-bottom: 2px dotted #FF0000;">Wagenbooms Rivier</span> in de <span style="border-bottom: 2px dotted #FF0000;">Lange Cloof</span> , waar op ten agteren - door Scheepers
 		  voor den agterstal over gedaan</td>
       <td>4 jaren: 10 m:den</td>
     </tr>
     <tr>
-      <td>genaamt dein deaan de
-		  andere zijde van de, waar op
+      <td>genaamt de <span style="border-bottom: 2px dotted #FF0000;">Twee
+		  Rivieren</span> in de <span style="border-bottom: 2px dotted #FF0000;">Lange Cloof</span> aan de
+		  andere zijde van de <span style="border-bottom: 2px dotted #FF0000;">Wagenbooms Rivier</span> , waar op
 		  ten agteren</td>
       <td>4 jaren: 10 m:den</td>
     </tr>
     <tr>
       <td>nog heeft ged:te Scheepers in dato 15 April
-		  1760 een plaats verlaten genaamt de, geleegen boven aan dewaarop doenmaals ten agteren
+		  1760 een plaats verlaten genaamt de <span style="border-bottom: 2px dotted #FF0000;">Klipheuvel</span> , geleegen boven aan de <span style="border-bottom: 2px dotted #FF0000;">Gourits Rivier</span> waarop doenmaals ten agteren
 		  gebleven</td>
       <td>10 jaren</td>
     </tr>
@@ -80402,7 +80420,7 @@ Op de naam van Jacobus Scheepers staan ter Secretarye de volgende leenings
 ## MOOC8/13.50a
 
  {17701031} 31 October
-	 1770 <span style="border-bottom: 2px dotted #008000;">Hendrik
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Hendrik
 	 Josephus Strijdom</span> 
 
 Cloppenburg
@@ -80448,8 +80466,8 @@ Zodanig ende in diervoegen als deselve goederen door de landbouwers
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  genaamt degeleegen aan
-		  de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Buffelsjagts Fontijn</span> geleegen aan
+		  de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -80636,22 +80654,22 @@ Zodanig ende in diervoegen als deselve goederen door de landbouwers
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Isaak van de
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Isaak van de
 		Caab</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Frans van de
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Frans van de
 		Caab</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Mallebaar</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van
 		Bougies</span></td>
       <td>100:--</td>
     </tr>
@@ -80704,7 +80722,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.50b
 
- {17701001} 1 October 1770 <span style="border-bottom: 2px dotted #008000;">Hendrik Josephus
+ {17701001} 1 October 1770 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Josephus
 	 Strijdom</span> 
 
 Inventaris van zodanige goederen, beestiaal, als door ons onderget: in den
@@ -80717,12 +80735,12 @@ Inventaris van zodanige goederen, beestiaal, als door ons onderget: in den
       <td>ƒ</td>
     </tr>
     <tr>
-      <td>Een opstal van zeeker leening plaats genaemta 16 st:
+      <td>Een opstal van zeeker leening plaats genaemt <span style="border-bottom: 2px dotted #FF0000;">Buffels Vonteijn</span> a 16 st:
 		  Caebs</td>
       <td>300</td>
     </tr>
     <tr>
-      <td>vier <span style="border-bottom: 2px dotted #008000;">slaaven</span></td>
+      <td>vier <span style="border-bottom: 2px dotted #00FF00;">slaaven</span></td>
       <td>1200</td>
     </tr>
     <tr>
@@ -80962,7 +80980,7 @@ Sara Delport wed:w Hendrik Josephus Strijdom 6 kinderen:
 ## MOOC8/13.51
 
  {17701121} 21 November
-	 1770 <span style="border-bottom: 2px dotted #008000;">Anna Sophia
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia
 	 van der Merve</span> 
 
 Cloppenburg
@@ -81005,7 +81023,7 @@ Sodanig ende in diervoegen als deselve door de ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 plaats gen:t degeleegen in 'tonder 't district van</td>
+      <td>1 plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Wageboom Rievier</span> geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -81098,12 +81116,12 @@ Sodanig ende in diervoegen als deselve door de ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Frans van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Frans van
 		Madagascar</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Asa van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Asa van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -81193,7 +81211,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
       <td>in een karing</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">jongen</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">jongen</span></td>
     </tr>
     <tr>
       <td>in 4 immers</td>
@@ -81245,7 +81263,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 ## MOOC8/13.52a
 
  {17701207} 7 December
-	 1770 <span style="border-bottom: 2px dotted #008000;">Gerrit van der
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Gerrit van der
 	 Merve</span> 
 
 Cloppenburg
@@ -81443,23 +81461,23 @@ Sodanig ende in dier voegen als deselve door de landbouwers Willem Minie
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bougies</span></td>
       <td rowspan='5' style='vertical-align: middle;'>500</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Ternaten</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -81500,7 +81518,7 @@ J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.52b
 
- {17701026} 26 October 1770 <span style="border-bottom: 2px dotted #008000;">Gert van der Merwe</span> 
+ {17701026} 26 October 1770 <span style="border-bottom: 2px dotted #00FF00;">Gert van der Merwe</span> 
 
 Cetestase op de opgaef over de boedel van de overleeden Gert van der
 	 Merwe, als volgt
@@ -81525,11 +81543,11 @@ Cetestase op de opgaef over de boedel van de overleeden Gert van der
 <table>
   <tbody>
     <tr>
-      <td>slaaffe <span style="border-bottom: 2px dotted #008000;">jonges</span> 3 oude</td>
+      <td>slaaffe <span style="border-bottom: 2px dotted #00FF00;">jonges</span> 3 oude</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">jonge</span> slaaffe</td>
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">jonge</span> slaaffe</td>
       <td>2</td>
     </tr>
   </tbody>
@@ -81622,14 +81640,14 @@ Den 26 8ctober anno 1770.
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Baatjoe van Bougis</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Bougis</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		  van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Februarij van Ternaaten</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Februarij van Ternaaten</span></td>
     </tr>
   </tbody>
 </table>
@@ -81638,10 +81656,10 @@ Den 26 8ctober anno 1770.
   <thead><tr><td colspan='100%'>Slave jongetjes</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Januarij van Mallabaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Januarij van Mallabaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">September van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">September van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -81649,7 +81667,7 @@ Den 26 8ctober anno 1770.
 ## MOOC8/13.53a
 
  {17701228} 28 December
-	 1770 <span style="border-bottom: 2px dotted #008000;">Jacoba de
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacoba de
 	 Villiers</span> 
 
 Cloppenburg
@@ -81691,7 +81709,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Isak Bosman
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede genaamt degeleegen onder 't district van</td>
+      <td>Een plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Groote Zalze</span> geleegen onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>2333:16</td>
     </tr>
     <tr>
@@ -82146,12 +82164,12 @@ Sodanig ende in diervoegen als deselve door de landbouwers Isak Bosman
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bougies</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -82250,7 +82268,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.53b
 
- {17701226} 26 Desember 1770 <span style="border-bottom: 2px dotted #008000;">Jacoba de Villiers</span> 
+ {17701226} 26 Desember 1770 <span style="border-bottom: 2px dotted #00FF00;">Jacoba de Villiers</span> 
 
 Inventaris van de nagelate goedere van wijle Jacoba de Villiers huijsvrouw
 	 van Willem Adolf Kriege, als volgt
@@ -82258,7 +82276,7 @@ Inventaris van de nagelate goedere van wijle Jacoba de Villiers huijsvrouw
 <table>
   <tbody>
     <tr>
-      <td>De plaats ofte hofsteede genaamt degelegen onder</td>
+      <td>De plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Groote Zalze</span> gelegen onder <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
     </tr>
   </tbody>
 </table>
@@ -82558,10 +82576,10 @@ Inventaris van de nagelate goedere van wijle Jacoba de Villiers huijsvrouw
   <thead><tr><td colspan='100%'>Slaave</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 jonge genaamt <span style="border-bottom: 2px dotted #008000;">September Boegies</span></td>
+      <td>1 jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">September Boegies</span></td>
     </tr>
     <tr>
-      <td>1 jonge gnaamt <span style="border-bottom: 2px dotted #008000;">Kooridon van
+      <td>1 jonge gnaamt <span style="border-bottom: 2px dotted #00FF00;">Kooridon van
 		Malbaare</span></td>
     </tr>
   </tbody>
@@ -82634,7 +82652,7 @@ Den 26 Desember 1770
 
 ## MOOC8/13_no number 02
 
- {17710129} 29 Jannuarij 1771 <span style="border-bottom: 2px dotted #008000;">Ari Viesasie</span> 
+ {17710129} 29 Jannuarij 1771 <span style="border-bottom: 2px dotted #00FF00;">Ari Viesasie</span> 
 
 De boedel van Ari Viesasie
 
@@ -82662,13 +82680,13 @@ Den 29 Jannuareij anno 1771
 
 Gieliam Viesasie
 
-Een leenings plaats deover deaan de23 jaaren agterstal
+Een leenings plaats de <span style="border-bottom: 2px dotted #FF0000;">Goeje Mans Craal</span> over de <span style="border-bottom: 2px dotted #FF0000;">24 Revieren</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Picquet Bergen</span> 23 jaaren agterstal
 	 rxs:575
 
 ## MOOC8/13.54a
 
  {17710216} 16
-	 Februarij 1771 <span style="border-bottom: 2px dotted #008000;">Johannes Burgert van Dijk</span> 
+	 Februarij 1771 <span style="border-bottom: 2px dotted #00FF00;">Johannes Burgert van Dijk</span> 
 
 Inventaris en taxatie van alle sodanige goederen, als er metter dood zijn
 	 ontruijmt ende naargelaten door den landbouwer Johannes Burgert van Dijk ten
@@ -82711,12 +82729,12 @@ Sodanig ende in diervoegen, als door opgemelde wed:w is opgegeeven en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede gen:t degeleegen tusschen deen de, volgens transport de dato 17
+      <td>Een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Lange Valleij</span> geleegen tusschen de <span style="border-bottom: 2px dotted #FF0000;">Parel Diamant</span> en de <span style="border-bottom: 2px dotted #FF0000;">Schinderkuijl</span> , volgens transport de dato 17
 		  September 1756</td>
       <td>2666:32</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede gen:t de, geleegen aan devolgens transport de dato
+      <td>een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Brouwers Cloof</span> , geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Kleijne Paarde Berg</span> volgens transport de dato
 		  13 August:s 1768</td>
       <td>400:--</td>
     </tr>
@@ -83166,40 +83184,40 @@ Op voorn: plaats. In 't woonhuijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Arij van
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Arij van
 		Madagascar</span></td>
       <td rowspan='10' style='vertical-align: middle;'>1000</td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Letwel van
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Letwel van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van Boegis</span></td>
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Boegis</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Forthuijn van
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Forthuijn van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Forthuijn van
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Forthuijn van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Slamat van Boegis</span></td>
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Slamat van Boegis</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Demas van Boegis</span></td>
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Demas van Boegis</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Silvester van de
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvester van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen: <span style="border-bottom: 2px dotted #008000;">Cila van de Caab</span></td>
+      <td>1 slavinne gen: <span style="border-bottom: 2px dotted #00FF00;">Cila van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen: <span style="border-bottom: 2px dotted #008000;">Candase van
+      <td>1 slavinne gen: <span style="border-bottom: 2px dotted #00FF00;">Candase van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -83259,7 +83277,7 @@ Op voorn: plaats. In 't woonhuijs
     </tr>
     <tr>
       <td>aan s:r Jan Serrurier volgens scheepen kenn: de
-		dato 7 Julij 1759 onder hijpotheecq van zijn plaats detusschen deen deƒ1000 ofte</td>
+		dato 7 Julij 1759 onder hijpotheecq van zijn plaats de <span style="border-bottom: 2px dotted #FF0000;">Lange Valleij</span> tusschen de <span style="border-bottom: 2px dotted #FF0000;">Paarl Diamant</span> en de <span style="border-bottom: 2px dotted #FF0000;">Schinderkuijl</span> ƒ1000 ofte</td>
       <td>333:16</td>
     </tr>
     <tr>
@@ -83279,7 +83297,7 @@ Op voorn: plaats. In 't woonhuijs
     </tr>
     <tr>
       <td>aan den eerw: heer Bode volg:s schepen kenn: de
-		dato 1767 zijne plaatsen deen, borgen Johannes Daniel en Jan
+		dato 1767 zijne plaatsen de <span style="border-bottom: 2px dotted #FF0000;">Lange Valleij</span> en <span style="border-bottom: 2px dotted #FF0000;">Schinderkuijl</span> , borgen Johannes Daniel en Jan
 		Jurgen Coetsee ƒ3000 ofte</td>
       <td>1000:--</td>
     </tr>
@@ -83304,7 +83322,8 @@ Op voorn: plaats. In 't woonhuijs
     </tr>
     <tr>
       <td>aan de E: Comp:e over agterstallige recognitie
-		penn: op de plaats de</td>
+		penn: op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Brouwers
+		Cloof</span></td>
       <td>75:--</td>
     </tr>
     <tr>
@@ -83326,7 +83345,7 @@ Op voorn: plaats. In 't woonhuijs
   </tbody>
 </table>
 
-Aldus g'inventariseert en getaxeert ter plaatse devoorn: op den 16:e Februarij
+Aldus g'inventariseert en getaxeert ter plaatse de <span style="border-bottom: 2px dotted #FF0000;">Lange Valleij</span> voorn: op den 16:e Februarij
 	 1771 ende betuijgde de in den hoofde deeses gen:t wed:e haar in deesen
 	 allesints trouw ende opregt gedragen mitsgad:s sonder met voordagt iets
 	 versweegen ofte agterhouden te hebben, beloovende dat wanneer namaals bevonden
@@ -83345,7 +83364,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.54b
 
- {17710216} 16 Februarij 1771 <span style="border-bottom: 2px dotted #008000;">Johannes Burgert van
+ {17710216} 16 Februarij 1771 <span style="border-bottom: 2px dotted #00FF00;">Johannes Burgert van
 	 Dijk</span> 
 
 Inventaris
@@ -83359,14 +83378,14 @@ Van sodanige goederen als Catharina Hillegonda Kotze wed:we van wijlen den
   <tbody>
     <tr>
       <td>2 plaatzen in ijgendom gemeten d' eene
-		  genaamdd' andre genaamd</td>
+		  genaamd <span style="border-bottom: 2px dotted #FF0000;">Lange Vallij</span> d' andre genaamd <span style="border-bottom: 2px dotted #FF0000;">Brouers Kloof</span></td>
     </tr>
     <tr>
-      <td>8 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>8 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>300 schapen</td>
@@ -83736,7 +83755,7 @@ Als getuijge: Tobias van Dijk, J:s Kotze
 
 ## MOOC8/13.55a
 
- {17710228} 28 Februarij 1771 <span style="border-bottom: 2px dotted #008000;">Carel van der
+ {17710228} 28 Februarij 1771 <span style="border-bottom: 2px dotted #00FF00;">Carel van der
 	 Merve</span> 
 
 Cloppenburg
@@ -83783,7 +83802,7 @@ Sodanig ende indiervoegen als deselve door de landbouwer Roelof van der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede genaamtgeleegen in deaan deonder 't district van</td>
+      <td>Een plaats ofte hofsteede genaamt <span style="border-bottom: 2px dotted #FF0000;">Patattas Cloof</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Wagenmaakers Valleij</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Habiquas Berg</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
       <td>500:--</td>
     </tr>
     <tr>
@@ -84037,17 +84056,17 @@ Sodanig ende indiervoegen als deselve door de landbouwer Roelof van der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Maij van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Maij van Bougies</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400:--</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Samson van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Samson van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave meijd genaamt <span style="border-bottom: 2px dotted #008000;">Sara van de Caab</span></td>
+      <td>1 slave meijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Sara van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave meijd genaamt <span style="border-bottom: 2px dotted #008000;">Lea van de Caab</span></td>
+      <td>1 slave meijd genaamt <span style="border-bottom: 2px dotted #00FF00;">Lea van de Caab</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -84082,19 +84101,19 @@ Zijnde door den overleedenen en de wed:e opgem: aan de volgende kinderen
 <table>
   <tbody>
     <tr>
-      <td>aan Willem Carel <span style="border-bottom: 2px dotted #008000;">Arend</span> van</td>
+      <td>aan Willem Carel <span style="border-bottom: 2px dotted #00FF00;">Arend</span> van</td>
     </tr>
     <tr>
-      <td>aan Jacobus Johannes <span style="border-bottom: 2px dotted #008000;">Adonis</span> van</td>
+      <td>aan Jacobus Johannes <span style="border-bottom: 2px dotted #00FF00;">Adonis</span> van</td>
     </tr>
     <tr>
-      <td>aan Anna Susanna <span style="border-bottom: 2px dotted #008000;">Cralonie</span> van</td>
+      <td>aan Anna Susanna <span style="border-bottom: 2px dotted #00FF00;">Cralonie</span> van</td>
     </tr>
     <tr>
-      <td>aan Roelof <span style="border-bottom: 2px dotted #008000;">Adriane</span> van</td>
+      <td>aan Roelof <span style="border-bottom: 2px dotted #00FF00;">Adriane</span> van</td>
     </tr>
     <tr>
-      <td>aan Petrus <span style="border-bottom: 2px dotted #008000;">Caatje</span> van</td>
+      <td>aan Petrus <span style="border-bottom: 2px dotted #00FF00;">Caatje</span> van</td>
     </tr>
   </tbody>
 </table>
@@ -84116,7 +84135,7 @@ Mij present: J:s H:s Blanckenberg, Secret:
 
 ## MOOC8/13.55b
 
- {17710228} 28 Februarij 1771 <span style="border-bottom: 2px dotted #008000;">Carel van der
+ {17710228} 28 Februarij 1771 <span style="border-bottom: 2px dotted #00FF00;">Carel van der
 	 Merve</span> 
 
 Francina Pienaar
@@ -84128,7 +84147,7 @@ Soo als wij ondergeteekene het bevonde heeft als volgt
 <table>
   <tbody>
     <tr>
-      <td>Een plaats geleege onder de districie vangenaemtgeleege aen deaen de, grood 30 morge</td>
+      <td>Een plaats geleege onder de districie van <span style="border-bottom: 2px dotted #FF0000;">Draakenstijn</span> genaemt <span style="border-bottom: 2px dotted #FF0000;">Patastas Cloof</span> geleege aen de <span style="border-bottom: 2px dotted #FF0000;">Waagemaakers Vaaleij</span> aen de <span style="border-bottom: 2px dotted #FF0000;">Haabiquas Bergh</span> , grood 30 morge</td>
     </tr>
   </tbody>
 </table>
@@ -84287,13 +84306,13 @@ Soo als wij ondergeteekene het bevonde heeft als volgt
       <td>een paerde waage en vier tuijge</td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">slaawe</span></td>
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">slaawe</span></td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slaawin</span></td>
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slaawin</span></td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slaawe
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slaawe
 		mijsie</span></td>
     </tr>
     <tr>
@@ -84620,18 +84639,18 @@ Jacob de Villiers J:P: zoon
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Maij
+      <td><span style="border-bottom: 2px dotted #00FF00;">Maij
 		  van Bougies</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Samson van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samson van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara
 		  van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lea van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lea van
 		  de Caab</span></td>
     </tr>
   </tbody>
@@ -84640,7 +84659,7 @@ Jacob de Villiers J:P: zoon
 ## MOOC8/13.56
 
  {17710323} 23 Maart
-	 1771 <span style="border-bottom: 2px dotted #008000;">Anna Sophia
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia
 	 van der Merwe</span> 
 
 J: v: Plettenberg
@@ -84695,7 +84714,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Hendrik van der
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats gen:
-		  de, geleegen aan dein 't</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Willegen Revier</span> , geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Caminasiesberg</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -84826,7 +84845,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Hendrik van der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slaave mijsje gen:t <span style="border-bottom: 2px dotted #008000;">Marta van de Caab</span> voor d'
+      <td>1 slaave mijsje gen:t <span style="border-bottom: 2px dotted #00FF00;">Marta van de Caab</span> voor d'
 		jongeste dogter Anna Sophia</td>
       <td>33:16</td>
     </tr>
@@ -84950,7 +84969,7 @@ Mij present: J:n Stenvers, gesw: Clercq
       <td>een ploeg scher</td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slawe
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slawe
 			 kint</span></td>
     </tr>
     <tr>
@@ -84996,7 +85015,7 @@ Als getuijge: Hendrik van der Merwe Wilm soon, Jan du Pliesies Pieter
 ## MOOC8/13.57
 
  {17700331} 31
-	 Maart 1770 <span style="border-bottom: 2px dotted #008000;">Anna
+	 Maart 1770 <span style="border-bottom: 2px dotted #00FF00;">Anna
 	 Heijns</span> 
 
 Inventaris van alle sodanige goederen als 'er op den 28 Maart 1770 ab
@@ -85350,7 +85369,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.58
 
- {17680506} 6 Maij 1768 <span style="border-bottom: 2px dotted #008000;">Burgert van Dijk</span> 
+ {17680506} 6 Maij 1768 <span style="border-bottom: 2px dotted #00FF00;">Burgert van Dijk</span> 
 
 Inventaris van alle sodanige goederen als 'er ab intestato metter dood
 	 zijn ontruijmt ende naargelaaten door den burger vaandrig Burgert van Dijk ten
@@ -85414,7 +85433,7 @@ Sodanig ende in diervoegen als deselve door de onderget:e gecomm:
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deese</td>
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span></td>
     </tr>
   </tbody>
 </table>
@@ -86124,11 +86143,11 @@ In eevengem: huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Hendrik van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Hendrik van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -86219,7 +86238,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.59
 
- {17680108} 8 Jannuarij 1768 <span style="border-bottom: 2px dotted #008000;">Jan Christiaan
+ {17680108} 8 Jannuarij 1768 <span style="border-bottom: 2px dotted #00FF00;">Jan Christiaan
 	 Roode</span> 
 
 Cloppenburg
@@ -86258,7 +86277,7 @@ Sodanig ende in diervoegen als deselve door ons onderget:e gecommitteerde
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein 'ten aldaarblijkens transport van den 2:e Junij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok J:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> blijkens transport van den 2:e Junij
 		  1758</td>
     </tr>
   </tbody>
@@ -87230,26 +87249,26 @@ In evengemelde huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jatij van Bima</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jatij van Bima</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van Java</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van Java</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mappon van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mappon van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Lea van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Lea van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Roselijn van de Caab</span> met
-		haar kind <span style="border-bottom: 2px dotted #008000;">David</span> meede van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Roselijn van de Caab</span> met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">David</span> meede van
 		de Caab</td>
     </tr>
   </tbody>
@@ -87319,7 +87338,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.60a
 
- {17700326} 26 Maart 1770 <span style="border-bottom: 2px dotted #008000;">Johannes Louw</span> 
+ {17700326} 26 Maart 1770 <span style="border-bottom: 2px dotted #00FF00;">Johannes Louw</span> 
 
 Aantening der goederen van den overledene h:r Johannes Louw Pz: op den 26
 	 Maart 1770 present der twe getuijge den burger Johannes du Pre en den burger
@@ -87844,10 +87863,10 @@ Aantening der goederen van den overledene h:r Johannes Louw Pz: op den 26
       <td>11 balke, 165 sparre</td>
     </tr>
     <tr>
-      <td>13 <span style="border-bottom: 2px dotted #008000;">mans slave</span> , 1 <span style="border-bottom: 2px dotted #008000;">slavin</span> , met 3 <span style="border-bottom: 2px dotted #008000;">kindere</span></td>
+      <td>13 <span style="border-bottom: 2px dotted #00FF00;">mans slave</span> , 1 <span style="border-bottom: 2px dotted #00FF00;">slavin</span> , met 3 <span style="border-bottom: 2px dotted #00FF00;">kindere</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave
 		jongetje</span></td>
     </tr>
   </tbody>
@@ -87863,66 +87882,66 @@ Johannes de Pree
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Piet van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Piet van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Valentijn van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Valentijn van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jacob van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jacob van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">April van Timor</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">April van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Lijer van Maccassar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Lijer van Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Maart van Mallabaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Maart van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Mallabaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">August van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">August van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Mattijs van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Mattijs van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Maart van Bengalen</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Maart van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rachel van d' Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rachel van d' Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Martha van d' Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Martha van d' Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Hendrijn van d'
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Hendrijn van d'
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Adonis van d' Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Adonis van d' Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jephta van d' Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jephta van d' Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt ouwe <span style="border-bottom: 2px dotted #008000;">Maart van Bengalen</span></td>
+      <td>1 slave jonge genaamt ouwe <span style="border-bottom: 2px dotted #00FF00;">Maart van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -87930,7 +87949,7 @@ Johannes de Pree
 ## MOOC8/13.60b
 
  {17700330} 30 Maart
-	 1770 <span style="border-bottom: 2px dotted #008000;">Johannes
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Johannes
 	 Louw</span> 
 
 Aentekening van het goedt van den overleden mons:r Johannes Louw P:z:
@@ -88039,7 +88058,7 @@ Den 30 Maart 1770
 Als getuijgen: Pieter van de Westhuijsen, Samuel Antonie
 		Walters
 
-De goederen die beij den plaats genaamtverkogt zijn als volgt
+De goederen die beij den plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Ongegunt</span> verkogt zijn als volgt
 
 <table>
   <tbody>
@@ -88137,62 +88156,62 @@ Notiese van goederen die aan den boedel hooren als volgt
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Januarij van Mosambiek</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Januarij van Mosambiek</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Piet
+      <td><span style="border-bottom: 2px dotted #00FF00;">Piet
 		  van Madegaskar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Valentijn van Madegaskar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Valentijn van Madegaskar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jacob van Madegaskar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jacob van Madegaskar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April
+      <td><span style="border-bottom: 2px dotted #00FF00;">April
 		  van Thimor</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leijjer van Makassar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leijjer van Makassar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Maart
+      <td><span style="border-bottom: 2px dotted #00FF00;">Maart
 		  van Malbaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Julij
+      <td><span style="border-bottom: 2px dotted #00FF00;">Julij
 		  van Malbaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Augustus van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Augustus van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Matijs van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Matijs van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Augustus</span> paarde wagter</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Augustus</span> paarde wagter</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Maart
+      <td><span style="border-bottom: 2px dotted #00FF00;">Maart
 		  van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Ragel
+      <td><span style="border-bottom: 2px dotted #00FF00;">Ragel
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Marta
+      <td><span style="border-bottom: 2px dotted #00FF00;">Marta
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adonis van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Hendrijn van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hendrijn van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jeftha van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jeftha van de Caap</span></td>
     </tr>
   </tbody>
 </table>
@@ -88200,7 +88219,7 @@ Notiese van goederen die aan den boedel hooren als volgt
 ## MOOC8/13.61
 
  {17700621} 21 Junij
-	 1770 <span style="border-bottom: 2px dotted #008000;">Catharina
+	 1770 <span style="border-bottom: 2px dotted #00FF00;">Catharina
 	 Erasmus</span> 
 
 Cloppenburg
@@ -88257,7 +88276,7 @@ Sodanig ende in dier voegen als deselve door de ondergeteekende
   <tbody>
     <tr>
       <td>Twee huijsen en erven staande ende geleegen
-		  in deesein 'tblijkens laatste transport van den
+		  in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok P:P:</span> blijkens laatste transport van den
 		  14:e Junij 1770</td>
     </tr>
   </tbody>
@@ -88621,25 +88640,25 @@ In een derselver huijsen
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Jannetje van de Caab</span> dewelke volgens begeerte van den overleedene in vrijdom moet werden
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannetje van de Caab</span> dewelke volgens begeerte van den overleedene in vrijdom moet werden
 		gesteld</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Petronella van de
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Petronella van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Caatje van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Caatje van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Lena van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Lena van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jephta van de Caab</span> gehoord
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jephta van de Caab</span> gehoord
 		eijgentlijk nog aan den gemeen geweest zijnde boedel van de overleedene en haar
 		vooroverleedene man Roelof van der Burg, welken aangaande bij den E: Agtb:re
 		geregte weegens een begaan delict is goed gevonden dat voor eerst niet mag
-		verkogt werden: als met kennisse van den edele Landdrost totenen approbatie van den E: Agtb:ren Heer
+		verkogt werden: als met kennisse van den edele Landdrost tot <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> en <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> en approbatie van den E: Agtb:ren Heer
 		President van Justitie</td>
     </tr>
   </tbody>
@@ -88683,7 +88702,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.62
 
- {1770} [ ..... ] 1770 <span style="border-bottom: 2px dotted #008000;">Stevaanus du Toit</span> 
+ {1770} [ ..... ] 1770 <span style="border-bottom: 2px dotted #00FF00;">Stevaanus du Toit</span> 
 
 Eeventaris van de naegelaaten goederen van den overleeden Stevaanus du
 	 Toit
@@ -88693,7 +88712,7 @@ Opgeschreeven door ons ondergeteekende
 <table>
   <tbody>
     <tr>
-      <td>De plaats genaemt</td>
+      <td>De plaats genaemt <span style="border-bottom: 2px dotted #FF0000;">Soetendal</span></td>
     </tr>
     <tr>
       <td>14 rackken</td>
@@ -89317,15 +89336,15 @@ Opgeschreeven door ons ondergeteekende
   <thead><tr><td colspan='100%'>Mans slaaven</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Piet van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Piet van
 		de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Martienis van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Martienis van de Caap</span></td>
     </tr>
   </tbody>
 </table>
@@ -89334,30 +89353,30 @@ Opgeschreeven door ons ondergeteekende
   <thead><tr><td colspan='100%'>Kleijne slave jongens</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abaraem van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abaraem van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adaem
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adaem
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sesar
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sesar
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April
+      <td><span style="border-bottom: 2px dotted #00FF00;">April
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Piet van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Piet van
 		de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Kupido
+      <td><span style="border-bottom: 2px dotted #00FF00;">Kupido
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van de Caap</span></td>
     </tr>
   </tbody>
@@ -89367,34 +89386,34 @@ Opgeschreeven door ons ondergeteekende
   <thead><tr><td colspan='100%'>Slave meyde</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Deiana
+      <td><span style="border-bottom: 2px dotted #00FF00;">Deiana
 		van Bengale</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Appeloon van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Appeloon van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Raegel
+      <td><span style="border-bottom: 2px dotted #00FF00;">Raegel
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Saara
+      <td><span style="border-bottom: 2px dotted #00FF00;">Saara
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Deiana
+      <td><span style="border-bottom: 2px dotted #00FF00;">Deiana
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sanna
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sanna
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leeia
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leeia
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Candasa van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Candasa van de Caap</span></td>
     </tr>
   </tbody>
 </table>
@@ -89447,7 +89466,7 @@ Francois du Toit
 
 ## MOOC8/13.63
 
- {17710503} 3 Maij 1771 <span style="border-bottom: 2px dotted #008000;">Maria Anna
+ {17710503} 3 Maij 1771 <span style="border-bottom: 2px dotted #00FF00;">Maria Anna
 	 Labuscagne</span> 
 
 Cloppenburg
@@ -89494,11 +89513,11 @@ Sodanige ende in diervoegen als deselve door de landbouwers Jacobus Botha
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 leenings plaats genaamt degeleegen onder</td>
+      <td>1 leenings plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Ijservarkens Fontijn</span> geleegen onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>50:--</td>
     </tr>
     <tr>
-      <td>1 leenings plaats genaamt deover degeleegen onder, niets waardig</td>
+      <td>1 leenings plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Sandfonteijn</span> over de <span style="border-bottom: 2px dotted #FF0000;">Touw</span> geleegen onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , niets waardig</td>
     </tr>
     <tr>
       <td>10 leepels</td>
@@ -89689,10 +89708,10 @@ Dit is het tijken van Piet van Wijk +
 <table>
   <tbody>
     <tr>
-      <td>1 leenings plaats d'</td>
+      <td>1 leenings plaats d' <span style="border-bottom: 2px dotted #FF0000;">Ijservarkens Fontijn</span></td>
     </tr>
     <tr>
-      <td>1 leenings plaats deover de, beijde onder</td>
+      <td>1 leenings plaats de <span style="border-bottom: 2px dotted #FF0000;">Sandfontijn</span> over de <span style="border-bottom: 2px dotted #FF0000;">Touw</span> , beijde onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
   </tbody>
 </table>
@@ -89700,7 +89719,7 @@ Dit is het tijken van Piet van Wijk +
 ## MOOC8/13.64a
 
  {17710508} 8 Maij
-	 1771 <span style="border-bottom: 2px dotted #008000;">Elisabeth van de
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth van de
 	 Caab</span> 
 
 1771 26 April Elisabeth van de Caab overleed:
@@ -89885,7 +89904,7 @@ Hendrik Stander
 
 ## MOOC8/13.64b
 
- {17710426} 26 April 1771 <span style="border-bottom: 2px dotted #008000;">Elisabeth van de Caab</span> 
+ {17710426} 26 April 1771 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth van de Caab</span> 
 
 <table>
   <tbody>
@@ -90030,7 +90049,7 @@ Hendrik Stander
 ## MOOC8/13.65
 
  {17710328} 28 Maart
-	 1771 <span style="border-bottom: 2px dotted #008000;">Sophia Brink</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Sophia Brink</span> 
 
 v: Plettenberg
 
@@ -90051,7 +90070,7 @@ Inventaris mitsgaders taxatie van alle zodanige goederen, als ab intestato
     </tr>
     <tr>
       <td>Een huijs en erff, staande ende geleegen in
-		  deezein 'ten aldaar een gedeelte vanblijkens laatste transport van den 3:e
+		  deeze <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok K</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 5</span> blijkens laatste transport van den 3:e
 		  November 1770 getaxeert op ƒ8000 of</td>
       <td>2666:32</td>
     </tr>
@@ -90777,19 +90796,19 @@ In evengem: huijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Tidor van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Tidor van
 		Bengalen</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave kind gen:t <span style="border-bottom: 2px dotted #008000;">Willem van de Caab</span></td>
+      <td>1 slave kind gen:t <span style="border-bottom: 2px dotted #00FF00;">Willem van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Malatie van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Malatie van
 		Batavia</span></td>
     </tr>
   </tbody>
@@ -90876,7 +90895,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.66
 
- {17681115} 15 November 1768 <span style="border-bottom: 2px dotted #008000;">Johan Nicolaas
+ {17681115} 15 November 1768 <span style="border-bottom: 2px dotted #00FF00;">Johan Nicolaas
 	 Schott</span> 
 
 Cloppenburg
@@ -90910,22 +90929,22 @@ Sodanig ende in diervoegen als deselve door de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesenin 'ten aldaarblijkens laaste transport van den 6:e
+		  deesen <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok G:G:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 12</span> blijkens laaste transport van den 6:e
 		  September 1752</td>
     </tr>
     <tr>
       <td>een pakhuijs en erff geleegen als eevengesegd
-		  in opgem: blok, en aldaarmitsgaders een
-		  gedeelte vanvolg:s transport de dato
+		  in opgem: blok, en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 3</span> mitsgaders een
+		  gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 6</span> volg:s transport de dato
 		  6:e October 1760</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleeven als
-		  vooren inin 'ten aldaar een gedeelte vanblijkens laatste transport de dato
+		  vooren in <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:o 1</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 2 en 5</span> blijkens laatste transport de dato
 		  18:e November 1763</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede gen:tzijnde twee gedeeltens vangenommert 2 en 3 blijkens transport
+      <td>een plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Bergvlied</span> zijnde twee gedeeltens van <span style="border-bottom: 2px dotted #FF0000;">Constantia</span> genommert 2 en 3 blijkens transport
 		  van den 3:e October 1764</td>
     </tr>
   </tbody>
@@ -93824,48 +93843,48 @@ In bovengem: tweede huijs bewoond werdende door den burger Jonas Wend
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jan van Balij</span> , dog bij testament <span style="border-bottom: 2px dotted #008000;">Jan van Maccassar</span> gen:t
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jan van Balij</span> , dog bij testament <span style="border-bottom: 2px dotted #00FF00;">Jan van Maccassar</span> gen:t
 		gedoopt</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Ploetjong van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Ploetjong van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jasson van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jasson van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Onverwagt van de
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Onverwagt van de
 		Westcust</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Babpatoea van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Babpatoea van
 		Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Leander van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Leander van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Frans van Mallabaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Frans van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Malacca</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Pasop van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Pasop van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Cassander van Java</span> met
-		haar 2 kinderen <span style="border-bottom: 2px dotted #008000;">Dina</span> en <span style="border-bottom: 2px dotted #008000;">Jan</span> beijde van de Caab</td>
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Cassander van Java</span> met
+		haar 2 kinderen <span style="border-bottom: 2px dotted #00FF00;">Dina</span> en <span style="border-bottom: 2px dotted #00FF00;">Jan</span> beijde van de Caab</td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span> met haar kind <span style="border-bottom: 2px dotted #008000;">Carolus</span> meede van de
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span> met haar kind <span style="border-bottom: 2px dotted #00FF00;">Carolus</span> meede van de
 		Caab</td>
     </tr>
   </tbody>
@@ -93917,7 +93936,7 @@ In bovengem: tweede huijs bewoond werdende door den burger Jonas Wend
     <tr>
       <td>&nbsp;</td>
       <td>aan juff:w Christina Mulder wed:e d' heer Johannes Thobias
-		  Rhenius totvolgens scheepenkennisse van
+		  Rhenius tot <span style="border-bottom: 2px dotted #FF0000;">Edam</span> volgens scheepenkennisse van
 		  den 3:e October 1764 â p:r c:o</td>
       <td>5666:32</td>
     </tr>
@@ -94082,14 +94101,14 @@ Mij present: J:n Stenvers: gesw: Clercq
 
 ## MOOC8/13.67
 
- {17681212} 12 December 1768 <span style="border-bottom: 2px dotted #008000;">Johan Nicolaas
+ {17681212} 12 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Johan Nicolaas
 	 Schott</span> 
 
 Cloppenburg
 
 Inventaris van alle sodanige goederen als door de ondergeteekene
 	 gecommitteerde Weesmeesteren aan Cabo de Goede Hoop op de plaats ofte hofsteede
-	 gen:tgeleegen aanzijn opgenoomen en
+	 gen:t <span style="border-bottom: 2px dotted #FF0000;">Bergvlied</span> geleegen aan <span style="border-bottom: 2px dotted #FF0000;">Constantia</span> zijn opgenoomen en
 	 g'inventariseert, naargelaaten en metter dood ontruijmt door den onder
 	 afgeschreeven gagie gestelde boekhouder mons:r Johan Nicolaas Schott,
 	 namentl:
@@ -95274,157 +95293,157 @@ In 't woonhuijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Antonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Antonij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van Bengaalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Appril van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Appril van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">November van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">November van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philis van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philis van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pieter van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieter van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philander van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Timor van Timor</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Timor van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van Bouton</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van Bouton</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Talij van Maccassar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Talij van Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Malacca</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Wimpel van Nias</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Wimpel van Nias</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Piembang van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Piembang van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Tawar van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Tawar van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van Timor</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Lakkeij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Lakkeij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Bastiaan van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Bastiaan van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Titus van Mallabaar</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Titus van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Lakkoeij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Lakkoeij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Februarij van de
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Februarij van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Slammat van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Slammat van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Mentor van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Mentor van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Hercules van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Hercules van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Romana van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Romana van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Clarinda van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Clarinda van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rosa van Bengalen</span> met haar
-		kind <span style="border-bottom: 2px dotted #008000;">Soenting van d'
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rosa van Bengalen</span> met haar
+		kind <span style="border-bottom: 2px dotted #00FF00;">Soenting van d'
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Theresia van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Theresia van
 		Bengaalen</span></td>
     </tr>
   </tbody>
 </table>
 
-Bevinden sig nog op de vheeplaats genaamt degeleegen in 'tde volgende goederen, namentlijk
+Bevinden sig nog op de vheeplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Rondevalleij</span> geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Swartland</span> de volgende goederen, namentlijk
 
 <table>
   <tbody>
@@ -95765,7 +95784,8 @@ Bevinden sig nog op de vheeplaats genaamt degeleegen in 'tde volgende goederen, 
       <td>14 kapsteijlen</td>
     </tr>
     <tr>
-      <td>1 vischschuijt in de</td>
+      <td>1 vischschuijt in de <span style="border-bottom: 2px dotted #FF0000;">Saldanha
+		  Baaij</span></td>
     </tr>
   </tbody>
 </table>
@@ -95799,50 +95819,50 @@ Bevinden sig nog op de vheeplaats genaamt degeleegen in 'tde volgende goederen, 
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Sijmen van d' Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Sijmen van d' Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van d'
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van d'
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Galland van d'
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Galland van d'
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Doll van d' Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Doll van d' Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Passeer van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Passeer van
 		Maccasser</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Appril van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Appril van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van Samboua</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van Samboua</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Patientia van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Patientia van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September</span> bij Hendrik
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September</span> bij Hendrik
 		Cruger Jacobsz:</td>
     </tr>
   </tbody>
 </table>
 
-Aldus g'inventariseert op voorn: hofsteededen 12:e, 13:e en 14:e December
+Aldus g'inventariseert op voorn: hofsteede <span style="border-bottom: 2px dotted #FF0000;">Bergvlied</span> den 12:e, 13:e en 14:e December
 	 1768.
 
 Als gecomm: Weesmeesteren: J:n Haszingh, J: Fischer
@@ -95851,7 +95871,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.68
 
- {17681213} 13 December 1768 <span style="border-bottom: 2px dotted #008000;">Johan Nicolaas Schott</span> , <span style="border-bottom: 2px dotted #008000;">Jurgen Wolfgang
+ {17681213} 13 December 1768 <span style="border-bottom: 2px dotted #00FF00;">Johan Nicolaas Schott</span> , <span style="border-bottom: 2px dotted #00FF00;">Jurgen Wolfgang
 	 Spengeler</span> 
 
 Inventaris van sodanige goederen als in maatschappeij gehoorende zijn aan
@@ -95861,13 +95881,13 @@ Inventaris van sodanige goederen als in maatschappeij gehoorende zijn aan
 <table>
   <tbody>
     <tr>
-      <td>Een opstal genaamt degeleegen aan de hoek van deover de</td>
+      <td>Een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Riet Fonteijn</span> geleegen aan de hoek van de <span style="border-bottom: 2px dotted #FF0000;">Picquetbergen</span> over de <span style="border-bottom: 2px dotted #FF0000;">Berg Rievier</span></td>
     </tr>
     <tr>
-      <td>een opstal gen:t degeleegen aan de</td>
+      <td>een opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Claver Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Verloore Valleij</span></td>
     </tr>
     <tr>
-      <td>een opstal gen:t de, dewelke nog bij de E: Comp:e loopt op
+      <td>een opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Groote Drift</span> , dewelke nog bij de E: Comp:e loopt op
 		  de naam van Gerrit Cloeten Jansz:</td>
     </tr>
   </tbody>
@@ -96022,19 +96042,19 @@ Inventaris van sodanige goederen als in maatschappeij gehoorende zijn aan
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jonas</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jonas</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jason</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jason</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cartouch</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cartouch</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">August</span> , opgedrost; deese
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August</span> , opgedrost; deese
 		slaaf door Schott ingebragt bevonden innocent</td>
     </tr>
   </tbody>
@@ -96048,7 +96068,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.69a
 
- {17710621} 21 Junij 1771 <span style="border-bottom: 2px dotted #008000;">Michiel Adriaan
+ {17710621} 21 Junij 1771 <span style="border-bottom: 2px dotted #00FF00;">Michiel Adriaan
 	 Basson</span> 
 
 v: Plettenberg
@@ -96164,28 +96184,28 @@ Sodanig ende indiervoegen als deselve door de landbouwers Pieter van der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bougies</span></td>
       <td rowspan='6' style='vertical-align: middle;'>600</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adam van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Rotterdam van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Rotterdam van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Francina can
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Francina can
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -96239,7 +96259,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.69b
 
- {17710617} 17 Junij 1771 <span style="border-bottom: 2px dotted #008000;">Miegiel Aderjan
+ {17710617} 17 Junij 1771 <span style="border-bottom: 2px dotted #00FF00;">Miegiel Aderjan
 	 Masson</span> 
 
 Inventaris van alle sodanige goederen, als door den landtbouwer Miegiel
@@ -96266,26 +96286,26 @@ nagelaten sodanigh als door den ondergetekende hier toe versogte getuijgen
 <table>
   <tbody>
     <tr>
-      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">September van
 		  Boekies</span></td>
     </tr>
     <tr>
-      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #008000;">David van
+      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">David van
 		  Madegaska</span></td>
     </tr>
     <tr>
-      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Adam van Madegaska</span></td>
+      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Adam van Madegaska</span></td>
     </tr>
     <tr>
-      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Aügüstüs van
+      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Aügüstüs van
 		  Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Rotterdam van
+      <td>1 manslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Rotterdam van
 		  Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slawin genaamt <span style="border-bottom: 2px dotted #008000;">Vransina van
+      <td>1 slawin genaamt <span style="border-bottom: 2px dotted #00FF00;">Vransina van
 		  Madegaska</span></td>
     </tr>
   </tbody>
@@ -96381,7 +96401,7 @@ Als getuijgen: P v:d: Bijl, Nicolaas Warnar Walters
 
 ## MOOC8/13.70a
 
- {17710626} 26 Junij 1771 <span style="border-bottom: 2px dotted #008000;">Pieter le Roux</span> 
+ {17710626} 26 Junij 1771 <span style="border-bottom: 2px dotted #00FF00;">Pieter le Roux</span> 
 
 v: Plettenberg
 
@@ -96434,7 +96454,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Pieter de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats genaamtgeleegen in deonder 't district van</td>
+      <td>Een plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Lamot</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Franse Hoek</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
       <td>1000:--</td>
     </tr>
     <tr>
@@ -96661,12 +96681,12 @@ Sodanig ende in diervoegen als deselve door de landbouwers Pieter de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Madagascar van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Madagascar van
 		Madag:</span> , gebrekkelik</td>
       <td>25:--</td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van Mallabaar</span> ,
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van Mallabaar</span> ,
 		blind</td>
       <td>10:--</td>
     </tr>
@@ -96686,7 +96706,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers Pieter de
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>aan de kerk vanƒ1000</td>
+      <td>aan de kerk van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> ƒ1000</td>
       <td>333:16</td>
     </tr>
     <tr>
@@ -96722,7 +96742,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/13.70b
 
- {17710626} 26 Junij 1771 <span style="border-bottom: 2px dotted #008000;">Pieter le Roux</span> 
+ {17710626} 26 Junij 1771 <span style="border-bottom: 2px dotted #00FF00;">Pieter le Roux</span> 
 
 Dat is het invantaris van het nalaatende goederen van mijn man
 
@@ -96732,12 +96752,12 @@ Dat is het invantaris van het nalaatende goederen van mijn man
       <td>De plaats</td>
     </tr>
     <tr>
-      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Madagascar van
+      <td>een mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Madagascar van
 		  Madagascar</span></td>
       <td rowspan='2' style='vertical-align: middle;'>bijde afgeleeft</td>
     </tr>
     <tr>
-      <td>een slaaffin [gen:t] <span style="border-bottom: 2px dotted #008000;">Rachel van
+      <td>een slaaffin [gen:t] <span style="border-bottom: 2px dotted #00FF00;">Rachel van
 		  Mallabaar</span></td>
     </tr>
     <tr>
@@ -96900,7 +96920,7 @@ Magdalena Cillie
 
 De getuijge: Pieter de Villiers Jacobz:, Ingenatius Maaree
 
-Een plaats gen:tgeleegen in deonder 't district van
+Een plaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Lamot</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Franse Hoek</span> onder 't district van <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span> 
 
 <table>
   <tbody>
@@ -96909,7 +96929,7 @@ Een plaats gen:tgeleegen in deonder 't district van
       <td>ƒ</td>
     </tr>
     <tr>
-      <td>aan de kerk van</td>
+      <td>aan de kerk van <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span></td>
       <td>1000</td>
     </tr>
     <tr>
@@ -96930,7 +96950,7 @@ Een plaats gen:tgeleegen in deonder 't district van
 ## MOOC8/14.1a
 
  {17710723} 23 Julij
-	 1771 <span style="border-bottom: 2px dotted #008000;">Susanna
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Susanna
 	 Rossouw</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
@@ -96970,7 +96990,7 @@ Sodanig ende in diervoegen als deselve door mij ondergeteekende zijn
 <table>
   <tbody>
     <tr>
-      <td>Een onbebouwde eijgendoms plaats genaamtgeleegen onder ’t district van</td>
+      <td>Een onbebouwde eijgendoms plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">De Hoop</span> geleegen onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
     </tr>
     <tr>
       <td>1 oude ossewagen</td>
@@ -97045,14 +97065,14 @@ Sodanig ende in diervoegen als deselve door mij ondergeteekende zijn
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Gallant van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Gallant van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fleur van Bengalen</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fleur van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Romana van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Romana van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -97082,7 +97102,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.1b
 
- {17710721} 21 Julij 1771 <span style="border-bottom: 2px dotted #008000;">Susanna Rossouw</span> 
+ {17710721} 21 Julij 1771 <span style="border-bottom: 2px dotted #00FF00;">Susanna Rossouw</span> 
 
 <table>
   <tbody>
@@ -97091,8 +97111,8 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 		  gebouw</td>
     </tr>
     <tr>
-      <td>Twee mans slaaven <span style="border-bottom: 2px dotted #008000;">Galant van Mallabaar</span> , <span style="border-bottom: 2px dotted #008000;">Fleur van Bengalen</span> , een
-		  slavin <span style="border-bottom: 2px dotted #008000;">Romana van d’
+      <td>Twee mans slaaven <span style="border-bottom: 2px dotted #00FF00;">Galant van Mallabaar</span> , <span style="border-bottom: 2px dotted #00FF00;">Fleur van Bengalen</span> , een
+		  slavin <span style="border-bottom: 2px dotted #00FF00;">Romana van d’
 		  Caab</span></td>
     </tr>
     <tr>
@@ -97165,13 +97185,13 @@ Als vader Daniel Rossouw de aude, Andries Brink junior, Marta Rossouw,
 
 Als getuijgen: Willem Nel Jansz:, Pieter Marais D:L:
 
-Actumden 23 Julij
+Actum <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> den 23 Julij
 	 1771
 
 ## MOOC8/14.2
 
  {17710724} 24 Julij
-	 1771 <span style="border-bottom: 2px dotted #008000;">Willem
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Willem
 	 Esterhuijsen</span> 
 
 Inventaris van de naeladenschap van Willem Esterhuijsen de oude, als
@@ -97341,7 +97361,7 @@ Inventaris van de naeladenschap van Willem Esterhuijsen de oude, als
   </tbody>
 </table>
 
-Aldus bevonden aen deden
+Aldus bevonden aen de <span style="border-bottom: 2px dotted #FF0000;">Batrijse vallij</span> den
 	 24 Julij 1771.
 
 Als getuijgen: Johan Jorge Hamman
@@ -97354,14 +97374,14 @@ Cloppenburg
 
 Copia: Huijden den 3:e Augustus 1762.
 
-Compareerden voor mij Abraham Faure Secretaris vanenpresent de nagen: getuijgen den burger
+Compareerden voor mij Abraham Faure Secretaris van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> en <span style="border-bottom: 2px dotted #FF0000;">Drakenstein</span> present de nagen: getuijgen den burger
 	 Willem Esterhuijsen d’ oude ter eene en den medeburger Willem Esterhuijsen de
 	 jonge ter andere zijde, dewelke verklaarden op de volgende wijse met
 	 malkanderen gecontracteert en overeen gekomen te zijn, namentlijk dat den
 	 eersten comp:t aan zijnen zoon den tweeden comp:t wel en deugdelijk heeft
 	 verkogt en mits deesen in vollen en vrijen eijgendom overgeeft, desselfs
-	 woonplaats gen:tgeleegen onder ’t
-	 district van, voor een somma van
+	 woonplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Onrust</span> geleegen onder ’t
+	 district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , voor een somma van
 	 drie hondert guldens Indische valuatie onder conditie nogthans dat den eersten
 	 comp:t aan zig was voorbehoudende het vrij en ongestoord gebruijk van seeker
 	 stukje lands ’t geen reeds beplant is met agt hondert wijnstokken en eenige
@@ -97386,7 +97406,7 @@ Tot nakominge van all ’t geenen voorsz: staat verbinden wederzijdse
 	 mij Secret:s, dat hier van mogte werden gemaakt acte in forma welk is
 	 deese.
 
-/:onderstond:/ Dat aldus passeerde op voorsz: plaatsgeleegen onder ’t Stellenbosche
+/:onderstond:/ Dat aldus passeerde op voorsz: plaats <span style="border-bottom: 2px dotted #FF0000;">Onrust</span> geleegen onder ’t Stellenbosche
 	 district in ’t bijweesen van den burger adjudant Pieter Gerhard Wium en den
 	 burger Johan George Hamman, als getuijgen hiertoe versogt /:was geteekend:/
 	 Willem Esterhuijsen en een kruijsje met ’t omschrift. Dit merk + heeft den
@@ -97398,7 +97418,7 @@ Accordeert: A: Faure, Secret:s
 
 ## MOOC8/14.3
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Kaspr Pester</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Kaspr Pester</span> 
 
 Tachxasie aan de Heeren Weesmeesteren van wegens deses meijnen
 	 ondergeschreven boedel
@@ -97410,12 +97430,12 @@ Tachxasie aan de Heeren Weesmeesteren van wegens deses meijnen
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Opstal van dese plats genaamt degelegen aan devan den overleeden Kaspr
+      <td>Opstal van dese plats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kwartelrivier</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Swarteberg</span> van den overleeden Kaspr
 		  Pester</td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 man slaf <span style="border-bottom: 2px dotted #008000;">Matthijs van
+      <td>1 man slaf <span style="border-bottom: 2px dotted #00FF00;">Matthijs van
 		  Madagascar</span> , swak van sinnen</td>
       <td>50:--</td>
     </tr>
@@ -97572,7 +97592,7 @@ Als getuijgen: Christoffel Groenewalt en als getuijgen Lucas Martinus
 ## MOOC8/14.4
 
  {17710713} 13 Julij
-	 1771 <span style="border-bottom: 2px dotted #008000;">Johan
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Johan
 	 Franciscus Ophuijsen</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
@@ -97825,11 +97845,11 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -97870,7 +97890,7 @@ Voor den opgaaf: Margaretha Adamse wedewen Ophuijse
 
 ## MOOC8/14.5a
 
- {17710828} 28 Augustus 1771 <span style="border-bottom: 2px dotted #008000;">Thobias Schalkwijk</span> 
+ {17710828} 28 Augustus 1771 <span style="border-bottom: 2px dotted #00FF00;">Thobias Schalkwijk</span> 
 
 v: Plettenberg
 
@@ -97954,7 +97974,7 @@ sodanig ende in dier voegen als deselve door de landbouwers Pieter van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Candasa van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Candasa van
 		Bengalen</span></td>
       <td>100</td>
     </tr>
@@ -97976,7 +97996,7 @@ Mij praesent: J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/14.5b
 
- {17710827} 27 Augustus 1771 <span style="border-bottom: 2px dotted #008000;">Tobias Schalkwijk</span> 
+ {17710827} 27 Augustus 1771 <span style="border-bottom: 2px dotted #00FF00;">Tobias Schalkwijk</span> 
 
 D’ inventaris van de weduwe van Tobias Schalkwijk aan de Heere
 	 Weesmeesters
@@ -97984,7 +98004,7 @@ D’ inventaris van de weduwe van Tobias Schalkwijk aan de Heere
 <table>
   <tbody>
     <tr>
-      <td>1 slaafin gen:t <span style="border-bottom: 2px dotted #008000;">Candasa van
+      <td>1 slaafin gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa van
 		  Bengalen</span></td>
     </tr>
     <tr>
@@ -98021,12 +98041,12 @@ Als getuijgen wegens het opnemen van de goederen: Pieter van
 
 ## MOOC8/14.6a
 
- {17710903} 3 September 1771 <span style="border-bottom: 2px dotted #008000;">Pieter Pienaar</span> 
+ {17710903} 3 September 1771 <span style="border-bottom: 2px dotted #00FF00;">Pieter Pienaar</span> 
 
 v: Plettenberg
 
 Inventaris mitsgaders taxatie van alle sodanige goederen als ’er ab
-	 intestato metter dood zijn ontruijmt en de naargelaten door den oudheemraad totmons:r Pieter Pienaar ten voordeele
+	 intestato metter dood zijn ontruijmt en de naargelaten door den oudheemraad tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> mons:r Pieter Pienaar ten voordeele
 	 van zijn overgebleevene wed:e Catharina Botha ter eenree, mitsgaders hunne bij
 	 den anderen in huwelijk verwekte 5 kinderen met namen
 
@@ -98066,22 +98086,23 @@ Sodanig ende in diervoegen als deselve door de landbouwers Daniel du
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamtgeleegen aan de</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Nero</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Palmiete Rivier</span></td>
       <td>50:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt deaan de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Doorn Kraal</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Vette Rivier</span></td>
       <td>100:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Kruijs
+		  Rivier</span></td>
       <td>25:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hogekraal</span></td>
       <td>400:--</td>
     </tr>
     <tr>
@@ -98349,80 +98370,80 @@ Sodanig ende in diervoegen als deselve door de landbouwers Daniel du
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philip van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philip van
 		Mallabaar</span></td>
       <td rowspan='21' style='vertical-align: middle;'>2100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Titus van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Titus van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Floris van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Floris van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jonas van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jonas van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Maccassar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Clara van Mallabaar</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Clara van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Eva van Madagascar</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Eva van Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Christiaan van
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Christiaan van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Philip van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Philip van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Adam van d’ Caab</span></td>
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Adam van d’ Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Jonathan van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Jonathan van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Samuel van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Samuel van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Orison van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Orison van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Rebecca van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Rebecca van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Hester van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Hester van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Victorie van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Victorie van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #008000;">Gallathee van d’
+      <td>1 slave jongetje genaamt <span style="border-bottom: 2px dotted #00FF00;">Gallathee van d’
 		Caab</span></td>
     </tr>
   </tbody>
@@ -98611,7 +98632,7 @@ J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/14.6b
 
- {17710727} 27 Julij 1771 <span style="border-bottom: 2px dotted #008000;">Pieter Pienaar</span> 
+ {17710727} 27 Julij 1771 <span style="border-bottom: 2px dotted #00FF00;">Pieter Pienaar</span> 
 
 Wij ondergeteekende hebben der boedel van wijlen den overleeden
 	 oudheemraad mons:r Pieter Pienaar, zijn naagelaaten goederen naa behooren
@@ -98620,16 +98641,16 @@ Wij ondergeteekende hebben der boedel van wijlen den overleeden
 <table>
   <tbody>
     <tr>
-      <td>Een woonplaats genambt d’</td>
+      <td>Een woonplaats genambt d’ <span style="border-bottom: 2px dotted #FF0000;">Vetrevier</span></td>
     </tr>
     <tr>
-      <td>een woonplaats genaambt d’</td>
+      <td>een woonplaats genaambt d’ <span style="border-bottom: 2px dotted #FF0000;">Hoogekraal</span></td>
     </tr>
     <tr>
-      <td>een woonplaats deaan de</td>
+      <td>een woonplaats de <span style="border-bottom: 2px dotted #FF0000;">Doorenkraal</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Vetrevier</span></td>
     </tr>
     <tr>
-      <td>een woonplaats de, get:</td>
+      <td>een woonplaats de <span style="border-bottom: 2px dotted #FF0000;">Cruijsrevier</span> , get: <span style="border-bottom: 2px dotted #FF0000;">Doorenkraal</span></td>
     </tr>
     <tr>
       <td>2400 schaapen</td>
@@ -98818,21 +98839,21 @@ Wij ondergeteekende hebben der boedel van wijlen den overleeden
       <td>1 bed met zijn toebehor</td>
     </tr>
     <tr>
-      <td>6 <span style="border-bottom: 2px dotted #008000;">slaavejons</span></td>
+      <td>6 <span style="border-bottom: 2px dotted #00FF00;">slaavejons</span></td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">slaavin</span></td>
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">slaavin</span></td>
     </tr>
     <tr>
-      <td>9 <span style="border-bottom: 2px dotted #008000;">slaave</span> kinders</td>
+      <td>9 <span style="border-bottom: 2px dotted #00FF00;">slaave</span> kinders</td>
     </tr>
     <tr>
-      <td>3 onbekwame <span style="border-bottom: 2px dotted #008000;">slaave</span></td>
+      <td>3 onbekwame <span style="border-bottom: 2px dotted #00FF00;">slaave</span></td>
     </tr>
   </tbody>
 </table>
 
-1771: 27 Julij
+ <span style="border-bottom: 2px dotted #FF0000;">Vetrevier</span> 1771: 27 Julij
 
 Als getuijgen: Daniel du Plesie, Daniel le Roe
 
@@ -98889,7 +98910,7 @@ Als getuijgen: Daniel du Plesie, Daniel le Roe
 ## MOOC8/14.7a
 
  {17710924} 24 September
-	 1771 <span style="border-bottom: 2px dotted #008000;">Jacobus Theron</span> , <span style="border-bottom: 2px dotted #008000;">Hesther Bignault</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Theron</span> , <span style="border-bottom: 2px dotted #00FF00;">Hesther Bignault</span> 
 
 v: Plettenberg
 
@@ -98937,11 +98958,12 @@ Sodanig ende indiervoegen als deselve door Jan Geijsbert Olivier en
     </tr>
     <tr>
       <td>Op de plaats van zijn moeder Elisabeth du
-		  Toit wed:e Jacob Theron geleegen uitalwaar sijn woonagtig is</td>
+		  Toit wed:e Jacob Theron geleegen uit <span style="border-bottom: 2px dotted #FF0000;">Land van
+		  Waveren</span> alwaar sijn woonagtig is</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats gen:t
-		  degeleegen aan de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Paarde Valleij</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Sneeuw Berg</span></td>
       <td>8:16</td>
     </tr>
     <tr>
@@ -99021,20 +99043,20 @@ Sodanig ende indiervoegen als deselve door Jan Geijsbert Olivier en
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Boegies</span></td>
       <td rowspan='4' style='vertical-align: middle;'>500</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Philida van de Caab</span> en
-		haar kind gen:t <span style="border-bottom: 2px dotted #008000;">Casper van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van de Caab</span> en
+		haar kind gen:t <span style="border-bottom: 2px dotted #00FF00;">Casper van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -99074,11 +99096,11 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.7b
 
- {17710917} 17 September 1771 <span style="border-bottom: 2px dotted #008000;">Jaobus Theron</span> , <span style="border-bottom: 2px dotted #008000;">Hester Blignault</span> 
+ {17710917} 17 September 1771 <span style="border-bottom: 2px dotted #00FF00;">Jaobus Theron</span> , <span style="border-bottom: 2px dotted #00FF00;">Hester Blignault</span> 
 
 Inventaris van den boedel van Jacobus Theron en de nalaatenschap van sijn
 	 overleeden huijsvrouw Hester Blignault. Inventariseert op sijn woonplaats in
-	 ’tden 17 7b:r 1771 -
+	 ’t <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> den 17 7b:r 1771 -
 	 gehoorende aan desselfs moeder Elisabeth du Toit wed:s Jacob Theron.
 
 In presentie van de eijgenhandig ondergeteekende getuijgen Jan Gijsbert
@@ -99124,7 +99146,7 @@ In presentie van de eijgenhandig ondergeteekende getuijgen Jan Gijsbert
     </tr>
     <tr>
       <td>1 plaats van de E: Comp:e in leen, geleege
-		  aan de, genaamt de</td>
+		  aan de <span style="border-bottom: 2px dotted #FF0000;">Sneeuw-berg</span> , genaamt de <span style="border-bottom: 2px dotted #FF0000;">Paarde-valleij</span></td>
     </tr>
     <tr>
       <td>1800 stuks anteel schaapen</td>
@@ -99136,11 +99158,11 @@ In presentie van de eijgenhandig ondergeteekende getuijgen Jan Gijsbert
       <td>20 stuks paarden</td>
     </tr>
     <tr>
-      <td>drie <span style="border-bottom: 2px dotted #008000;">mans
+      <td>drie <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaaven</span></td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slaave-mijt</span> met een <span style="border-bottom: 2px dotted #008000;">kint</span></td>
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slaave-mijt</span> met een <span style="border-bottom: 2px dotted #00FF00;">kint</span></td>
     </tr>
   </tbody>
 </table>
@@ -99184,19 +99206,19 @@ Jacobus Theron
   <thead><tr><td colspan='100%'>Naamen der slaaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van de
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 mans slaaf gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Filida van de Caab</span> en haar
-		kind <span style="border-bottom: 2px dotted #008000;">Casper van d’
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Filida van de Caab</span> en haar
+		kind <span style="border-bottom: 2px dotted #00FF00;">Casper van d’
 		Caab</span></td>
     </tr>
   </tbody>
@@ -99205,7 +99227,7 @@ Jacobus Theron
 ## MOOC8/14.8a
 
  {17711004} 4 October
-	 1771 <span style="border-bottom: 2px dotted #008000;">Johanna
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Becker</span> 
 
 Inventaris mitsg:rs taxatie van alle zodanige goederen als ab intestato
@@ -99246,7 +99268,7 @@ Sodanig ende indiervoegen als deselve goederen door de meede landbouwers
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamt degeleegen aan de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Wilge Houte Rievier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Camenaties berg</span></td>
       <td>50:--</td>
     </tr>
     <tr>
@@ -99413,11 +99435,11 @@ Sodanig ende indiervoegen als deselve goederen door de meede landbouwers
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Philander van Timor</span> onbekwaam door de docter verclaart</td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Philander van Timor</span> onbekwaam door de docter verclaart</td>
       <td rowspan='2' style='vertical-align: middle;'>100</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -99537,13 +99559,13 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 ## MOOC8/14.8b
 
  {17711004} 4 October
-	 1771 <span style="border-bottom: 2px dotted #008000;">Jan du
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Jan du
 	 Plessis</span> 
 
 <table>
   <tbody>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">manslaven</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">manslaven</span></td>
     </tr>
     <tr>
       <td>17 treckbeeste en een wagen</td>
@@ -99601,7 +99623,7 @@ Sy haamels verkogt voor 6 schellenge het stuck
 
 ## MOOC8/14_no number 01
 
- {1771} [ ..... ] 1771 <span style="border-bottom: 2px dotted #008000;">Anna Magdalena
+ {1771} [ ..... ] 1771 <span style="border-bottom: 2px dotted #00FF00;">Anna Magdalena
 	 Senecal</span> 
 
 Inventaris aan de heere Weesmeesteren
@@ -99698,7 +99720,7 @@ De overleedene vr: heet Anna Magdalena Senecal nalatene een kind gen:t
 ## MOOC8/14.9a
 
  {17711014} 14 October
-	 1771 <span style="border-bottom: 2px dotted #008000;">Anna
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Anna
 	 Bockelenberg</span> 
 
 Inventaris mitsgaders taxatie van alle zodanige goederen als ab intestato
@@ -99994,16 +100016,16 @@ Zodanig ende indiervoegen als dezelve door de meede landbouwers Carel van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van
 		Bougies</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van
 		Mallebaar</span></td>
     </tr>
     <tr>
@@ -100060,7 +100082,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.9b
 
- {17711014} 14 October 1771 <span style="border-bottom: 2px dotted #008000;">Anna Bockelenberg</span> 
+ {17711014} 14 October 1771 <span style="border-bottom: 2px dotted #00FF00;">Anna Bockelenberg</span> 
 
 Inventaris des boedels van wijl: Anna Bockelenberg en haar nagelaten man
 	 Petrus Lodevicus Theron
@@ -100173,7 +100195,7 @@ Inventaris des boedels van wijl: Anna Bockelenberg en haar nagelaten man
       <td>drie grawen</td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">slaven</span> met een <span style="border-bottom: 2px dotted #008000;">slawin</span></td>
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">slaven</span> met een <span style="border-bottom: 2px dotted #00FF00;">slawin</span></td>
     </tr>
     <tr>
       <td>een saal en toom</td>
@@ -100264,7 +100286,7 @@ Carel van der Merwen, Fransooijs du Tooit
 ## MOOC8/14.10a
 
  {177110} [ ..... ]
-	 October 1771 <span style="border-bottom: 2px dotted #008000;">Maria
+	 October 1771 <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Justina Rijkvoet</span> 
 
 v: Plettenberg
@@ -100297,7 +100319,7 @@ sodanig ende indiervoegen als deselve door de landbouwers Paul Roux en
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamt d’geleegen aan de</td>
+		  genaamt d’ <span style="border-bottom: 2px dotted #FF0000;">Diepe Gat</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Berge Rievier</span></td>
       <td>333:16</td>
     </tr>
     <tr>
@@ -100503,16 +100525,16 @@ sodanig ende indiervoegen als deselve door de landbouwers Paul Roux en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maij van
 		Bengalen</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Romana van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Romana van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -100565,7 +100587,7 @@ Mij praesent: J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/14.10b
 
- {17710723} 23 Julij 1771 <span style="border-bottom: 2px dotted #008000;">Maria Justina
+ {17710723} 23 Julij 1771 <span style="border-bottom: 2px dotted #00FF00;">Maria Justina
 	 Rijkvoet</span> 
 
 Deese diend tot bewijs van de boedel van Jan Teron de jonge
@@ -100577,11 +100599,11 @@ Deese diend tot bewijs van de boedel van Jan Teron de jonge
 		  Comp:e</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">man
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">man
 		  slave</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavin</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavin</span></td>
     </tr>
     <tr>
       <td>1 wagen</td>
@@ -100731,7 +100753,7 @@ Deese diend tot bewijs van de boedel van Jan Teron de jonge
 </table>
 
 Hetwelk bovengemelde goed vrij onderteekende nagesien op syn plaats
-	 geleegen aan deden 23:de Jully
+	 geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Bergrivier</span> den 23:de Jully
 	 1771.
 
 Paul Roux
@@ -100795,7 +100817,7 @@ Huijsvrouw Maria Justina Rijkvoet overleden, nalatende een zoon Pieter
       <td>1000</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">slaven</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">slaven</span></td>
       <td>900</td>
     </tr>
     <tr>
@@ -100842,7 +100864,7 @@ Jan Theron Pietersz:
 ## MOOC8/14_no number 02
 
  {17711022} 22 October
-	 1771 <span style="border-bottom: 2px dotted #008000;">Maria Dorothea
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Maria Dorothea
 	 van Wijk</span> 
 
 Overgeleevert 22 8b:r 1771
@@ -100886,7 +100908,7 @@ De naam van de overleedene is Maria Dorothea van Wijk Roelofsd:r laat een
 ## MOOC8/14.11
 
  {17711122} 22 November
-	 1771 <span style="border-bottom: 2px dotted #008000;">Willem Meijer</span> , <span style="border-bottom: 2px dotted #008000;">Elizabeth Loots</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Willem Meijer</span> , <span style="border-bottom: 2px dotted #00FF00;">Elizabeth Loots</span> 
 
 Inventaris en taxacie van sodanige goederen als ik ondergeteekende Willem
 	 Meijer met mijn overleedene huijsvrouw Elizabeth Loots in gemeenschap heb
@@ -100957,7 +100979,7 @@ Inventaris en taxacie van sodanige goederen als ik ondergeteekende Willem
     </tr>
     <tr>
       <td>Een opstal of plaas in lening van de E:
-		  Comp:e genaamt deover deagterstallig sestien
+		  Comp:e genaamt de <span style="border-bottom: 2px dotted #FF0000;">Diepe Clooff</span> over de <span style="border-bottom: 2px dotted #FF0000;">Duijve Hox Rivier</span> agterstallig sestien
 		  jaar</td>
     </tr>
   </tbody>
@@ -100998,7 +101020,7 @@ Als getuijgen: Jan Loots, Jan Loots de jonge, Willem Meijer
       <td>200:--</td>
     </tr>
     <tr>
-      <td>aan s:r Joh:s Blanckenberg tot</td>
+      <td>aan s:r Joh:s Blanckenberg tot <span style="border-bottom: 2px dotted #FF0000;">Swellend:</span></td>
       <td>40:--</td>
     </tr>
     <tr>
@@ -101044,13 +101066,13 @@ Als getuijgen: Jan Loots, Jan Loots de jonge, Willem Meijer
 </table>
 
 Den landbouwer Willem Meijer is op desselfs van d’ E: Comp: in leening
-	 hebbende veeplaats over deaan
-	 deten agteren 18 jaaren en 2
+	 hebbende veeplaats over de <span style="border-bottom: 2px dotted #FF0000;">Duyvenhoxrivier</span> aan
+	 de <span style="border-bottom: 2px dotted #FF0000;">Diepe Cloof</span> ten agteren 18 jaaren en 2
 	 maanden rd:s 454:18
 
 ## MOOC8/14.12a
 
- {17711014} 14 October 1771 <span style="border-bottom: 2px dotted #008000;">Elisabeth du Plessis</span> 
+ {17711014} 14 October 1771 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth du Plessis</span> 
 
 v: Plettenberg
 
@@ -101091,12 +101113,12 @@ Sodanig ende indiervoegen als deselve goederen door de meede landbouwers
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamtgeleegen aan de</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Dwars Rivier</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Zwarte Berg</span></td>
       <td>25:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt degeleegen aan de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Buffelsdrift</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Zwarte Berg</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -101257,7 +101279,7 @@ Sodanig ende indiervoegen als deselve goederen door de meede landbouwers
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jephta van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jephta van
 		Mallebaar</span></td>
       <td>100</td>
     </tr>
@@ -101335,7 +101357,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.12b
 
- {17710926} 26 September 1771 <span style="border-bottom: 2px dotted #008000;">Elisabeth du Plessis</span> 
+ {17710926} 26 September 1771 <span style="border-bottom: 2px dotted #00FF00;">Elisabeth du Plessis</span> 
 
 Aan mijn heere de Heere Weesvaders der E: Weeskamer bekentmaking van myne
 	 goederen
@@ -101436,7 +101458,7 @@ Aan mijn heere de Heere Weesvaders der E: Weeskamer bekentmaking van myne
       <td>seven paarden</td>
     </tr>
     <tr>
-      <td>een mans <span style="border-bottom: 2px dotted #008000;">slaaf</span></td>
+      <td>een mans <span style="border-bottom: 2px dotted #00FF00;">slaaf</span></td>
     </tr>
   </tbody>
 </table>
@@ -101450,7 +101472,7 @@ Den 26 Sep:ber a:o 1771
 
 ## MOOC8/14.13
 
- {17701029} 29 October 1770 <span style="border-bottom: 2px dotted #008000;">Pieter Faij</span> 
+ {17701029} 29 October 1770 <span style="border-bottom: 2px dotted #00FF00;">Pieter Faij</span> 
 
 Cloppenburg
 
@@ -101827,7 +101849,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.14
 
- {1770} [ ..... ] 1770 <span style="border-bottom: 2px dotted #008000;">Maria de Vivije</span> 
+ {1770} [ ..... ] 1770 <span style="border-bottom: 2px dotted #00FF00;">Maria de Vivije</span> 
 
 Copia
 
@@ -101837,7 +101859,7 @@ Notitie der nagelatene goederen van wijlen Maria de Vivije wed:e Willem
 <table>
   <tbody>
     <tr>
-      <td>Een eijgendomsplaats ofte hofsteede gen:tgeleegen over de</td>
+      <td>Een eijgendomsplaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Plaisant</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Brede Rivier</span></td>
     </tr>
   </tbody>
 </table>
@@ -102192,36 +102214,36 @@ Notitie der nagelatene goederen van wijlen Maria de Vivije wed:e Willem
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van de
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Harmanus van de
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Harmanus van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Batavia</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Meij van Batavia</span></td>
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Meij van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Abraham van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Abraham van
 		Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosetta van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosetta van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Aploon van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Aploon van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Constans van de Caab</span> zijnde een <span style="border-bottom: 2px dotted #008000;">kind</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Constans van de Caab</span> zijnde een <span style="border-bottom: 2px dotted #00FF00;">kind</span></td>
     </tr>
   </tbody>
 </table>
@@ -102233,7 +102255,7 @@ Notitie der nagelatene goederen van wijlen Maria de Vivije wed:e Willem
 ## MOOC8/14.15
 
  {17710710} 10 Julij
-	 1771 <span style="border-bottom: 2px dotted #008000;">Erasmus Smit</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Erasmus Smit</span> 
 
 Inventaris van sodanige goederen als ’er ab intestato metter dood zijn
 	 ontruijmt ende naargelaten door den landbouwer Erasmus Smit de oude ten
@@ -102304,14 +102326,14 @@ Sodanig ende indiervoegen als deselve door mij ondergeteekende Gerrit
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Joumat van Bougies</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Joumat van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bougies</span></td>
     </tr>
   </tbody>
@@ -102384,20 +102406,21 @@ Gert Smit
 
 ## MOOC8/14.16
 
- {17710522} 22 Maij 1771 <span style="border-bottom: 2px dotted #008000;">Dirk Arendsz:e</span> 
+ {17710522} 22 Maij 1771 <span style="border-bottom: 2px dotted #00FF00;">Dirk Arendsz:e</span> 
 
 Inventaris van alle sodanige goederen als op den 21:e Maij 1771 metter
 	 dood zijn ontruijmt en naargelaten door den adsistent en schrijver van ’s E:
-	 Comp:s slavenlogie alhier, mons:r Dirk Arendsz:e vanin, na alvorens sub dato 1:e September 1770 voor den Secret:s van
+	 Comp:s slavenlogie alhier, mons:r Dirk Arendsz:e van <span style="border-bottom: 2px dotted #FF0000;">Embden</span> in <span style="border-bottom: 2px dotted #FF0000;">Oost
+	 Vriesland</span> , na alvorens sub dato 1:e September 1770 voor den Secret:s van
 	 den E: Agtb:n Raad van Justitie deeses Gouvernements en sekere getuijgen
 	 getesteert en daarbij tot zijne eenige en algeheele erffgenaamen genomineert en
 	 g’institueert te hebben, de kinderen van zijn overleedene broeder wijl: den
-	 eerw:e heer Eduard Arendsz:e in zijn leeven predicant tot, met naamen
+	 eerw:e heer Eduard Arendsz:e in zijn leeven predicant tot <span style="border-bottom: 2px dotted #FF0000;">Stellenboch</span> , met naamen
 
 <table>
   <tbody>
     <tr>
-      <td rowspan='7' style='vertical-align: middle;'>Constantijn Willem Arendsz: tot, dewelke in a:o 1770 ter voorn:e
+      <td rowspan='7' style='vertical-align: middle;'>Constantijn Willem Arendsz: tot <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> , dewelke in a:o 1770 ter voorn:e
 		  steede overleeden weesende, komen nu tot erffbeurders de volgende drie staken,
 		  als:</td>
       <td>1) Eduard Christiaan Arendsz:e teegenswoordig adistent carga
@@ -102409,9 +102432,9 @@ Inventaris van alle sodanige goederen als op den 21:e Maij 1771 metter
     </tr>
     <tr>
       <td rowspan='4' style='vertical-align: middle;'>3) De vier kinderen van gem:e zijn overleedens broeders
-		  dogter Samelia Maria Jacoba Arendsz:e totoverleden eerst gehuwt geweest met wijl: den
+		  dogter Samelia Maria Jacoba Arendsz:e tot <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> overleden eerst gehuwt geweest met wijl: den
 		  vaandrig ten deesen Casteele Hendrik Christoffel Raatzer, en daarna hertrouwt
-		  met den insig bevindende bombardier Jan
+		  met den in <span style="border-bottom: 2px dotted #FF0000;">India</span> sig bevindende bombardier Jan
 		  Louis Bullens, welkers naamen volgens opgaaf door de grootmoeder juffrouw Sara
 		  Catharina van Steenwijk huijsv:w van den lieutenant militair d: E: Jobs Ludolph
 		  Immelman zijn</td>
@@ -103120,7 +103143,7 @@ Mij praesent: J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/14.17
 
- {17701127} 27 November 1770 <span style="border-bottom: 2px dotted #008000;">Pieter Greef</span> 
+ {17701127} 27 November 1770 <span style="border-bottom: 2px dotted #00FF00;">Pieter Greef</span> 
 
 Cloppenburg
 
@@ -103157,7 +103180,7 @@ Sodanig ende indiervoegen als deselve door gem: weduwe zijn opgegeeven en
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein ’tblijkens laatste transport van den 5:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok M:</span> blijkens laatste transport van den 5:e
 		  Februarij 1749.</td>
     </tr>
   </tbody>
@@ -103724,14 +103747,14 @@ In eevengemelde huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Couchim</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Parmant van Timor</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Parmant van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rosetta van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rosetta van
 		Ternaten</span></td>
     </tr>
   </tbody>
@@ -103767,7 +103790,7 @@ Zijnde geene contanten in den boedel gevonden
     </tr>
     <tr>
       <td>aan mejuff:w Christina Mulder wed:w de heer Johannes Thobias
-		Rhenius totaan capitaal ƒ2000
+		Rhenius tot <span style="border-bottom: 2px dotted #FF0000;">Zutphen</span> aan capitaal ƒ2000
 		behalven den intrest</td>
       <td>666:32</td>
     </tr>
@@ -103811,7 +103834,7 @@ Mij praesent: J:n Stenvers, gesw:e Clercq
 
 ## MOOC8/14.18
 
- {17701224} 24 December 1770 <span style="border-bottom: 2px dotted #008000;">Roedolff Ditmer
+ {17701224} 24 December 1770 <span style="border-bottom: 2px dotted #00FF00;">Roedolff Ditmer
 	 Mulder</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
@@ -104344,7 +104367,7 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Lijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -104435,7 +104458,7 @@ J: Redelinghuijs
 
 ## MOOC8/14.19
 
- {17700620} 20 Junij 1770 <span style="border-bottom: 2px dotted #008000;">Maria Cicilia van Kerken</span> 
+ {17700620} 20 Junij 1770 <span style="border-bottom: 2px dotted #00FF00;">Maria Cicilia van Kerken</span> 
 
 Inventaris van sodanige goederen als door ons ondergeteekende ten huijse
 	 van Jan Harmensen Nieuenhout thans weduwenaar van Maria Cicilia van Kerken
@@ -104740,11 +104763,11 @@ Inventaris van sodanige goederen als door ons ondergeteekende ten huijse
   <thead><tr><td colspan='100%'>Lijffeijgene</td></tr></thead>
   <tbody>
     <tr>
-      <td>seven <span style="border-bottom: 2px dotted #008000;">mans
+      <td>seven <span style="border-bottom: 2px dotted #00FF00;">mans
 		slaven</span></td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slavin</span> met twee <span style="border-bottom: 2px dotted #008000;">meijsjes</span></td>
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slavin</span> met twee <span style="border-bottom: 2px dotted #00FF00;">meijsjes</span></td>
     </tr>
   </tbody>
 </table>
@@ -104998,7 +105021,7 @@ Eduard Christiaan Haumann
 ## MOOC8/14.20
 
  {17710328} 28 Maart
-	 1771 <span style="border-bottom: 2px dotted #008000;">Maria Luijt</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Maria Luijt</span> 
 
 v: Plettenberg
 
@@ -105467,15 +105490,15 @@ In een huurhuijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Joumat van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Joumat van
 		Samboua</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen: <span style="border-bottom: 2px dotted #008000;">Gedult van Ambon</span></td>
+      <td>1 slave jonge gen: <span style="border-bottom: 2px dotted #00FF00;">Gedult van Ambon</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Calister van Nias</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Calister van Nias</span></td>
     </tr>
   </tbody>
 </table>
@@ -105578,7 +105601,7 @@ Werd alhier nog bekend gesteld de volgende kleederen mitsgaders goud en
 ## MOOC8/14.21
 
  {17720119} 19 Januarij
-	 1772 <span style="border-bottom: 2px dotted #008000;">Gerrit
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Gerrit
 	 Knoetsen</span> 
 
 Den boedel van den overleeden Gerret Knoetsen
@@ -105721,7 +105744,7 @@ De erfgenamen van wijlen Gerrit Knoetsen de oude, zijn volgens opgaaf van
 ## MOOC8/14.22
 
  {17720224} 24 Februarij
-	 1772 <span style="border-bottom: 2px dotted #008000;">Cornelia
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Cornelia
 	 Potgieter</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
@@ -105816,7 +105839,7 @@ Bestaande opgem:e nalatenschap in ’t volgende, namentlijk:
     </tr>
     <tr>
       <td>aan de E: Comp:s over 4 jaaren agterstallige
-		recognitie penn: op desselfs plaats gen:t degeleegen agter de berg in de</td>
+		recognitie penn: op desselfs plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Klipheuvel</span> geleegen agter de berg in de <span style="border-bottom: 2px dotted #FF0000;">Cango</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -105908,7 +105931,7 @@ Hermanus Steijn
 
 ## MOOC8/14.23a
 
- {17720309} 9 Maart 1772 <span style="border-bottom: 2px dotted #008000;">Maria van Eeden</span> 
+ {17720309} 9 Maart 1772 <span style="border-bottom: 2px dotted #00FF00;">Maria van Eeden</span> 
 
 v: Plettenberg
 
@@ -105967,7 +105990,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Johannes Jurgen
     </tr>
     <tr>
       <td>Een opstal staande op de leningsplaats
-		  genaamt deaan den</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Vijge Vleij</span> aan den <span style="border-bottom: 2px dotted #FF0000;">Swarte Rievier</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -106144,7 +106167,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Johannes Jurgen
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Silvester van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Silvester van
 		Mallabaar</span> , oud en onbequaam</td>
       <td>7:--</td>
     </tr>
@@ -106213,7 +106236,7 @@ J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.23b
 
- {17711228} 28 Desember 1771 <span style="border-bottom: 2px dotted #008000;">Matthijs de Beer</span> 
+ {17711228} 28 Desember 1771 <span style="border-bottom: 2px dotted #00FF00;">Matthijs de Beer</span> 
 
 Op versoek van den landtbouwer Matthijs de Beer hebben wij ondergeteekende
 	 zijn int besit hebbende goederen en vee, beesten en schaapen, paarden als volgt
@@ -106399,7 +106422,7 @@ Diederik Koekemoer
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Silvester van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvester van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -106408,7 +106431,7 @@ Diederik Koekemoer
 <table>
   <tbody>
     <tr>
-      <td>Leeningsplaats genaamt deaan de</td>
+      <td>Leeningsplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Vijge Vleij</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Swarte rievier</span></td>
     </tr>
   </tbody>
 </table>
@@ -106455,7 +106478,7 @@ Diederik Koekemoer
 ## MOOC8/14.24a
 
  {177204} [ ..... ]
-	 April 1772 <span style="border-bottom: 2px dotted #008000;">Anna
+	 April 1772 <span style="border-bottom: 2px dotted #00FF00;">Anna
 	 Christina Striegel</span> 
 
 v: Plettenberg
@@ -106580,7 +106603,7 @@ Mij present: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.24b
 
- {17710915} 15 September 1771 <span style="border-bottom: 2px dotted #008000;">Anna Christina
+ {17710915} 15 September 1771 <span style="border-bottom: 2px dotted #00FF00;">Anna Christina
 	 Striegel</span> 
 
 Enventaris van den boedel van Roelof Koerts
@@ -106657,7 +106680,7 @@ Als getuijgen: David de Villiers de jonge, Georg Daniel Bock
 ## MOOC8/14.25a
 
  {17720424} 24 April
-	 1772 <span style="border-bottom: 2px dotted #008000;">Gabriel
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Gabriel
 	 Rossouw</span> 
 
 v: Plettenberg
@@ -106702,17 +106725,17 @@ Sodanig ende in dier voegen als deselve door de landbouwers Francooijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een eijgendomsplaats genaamtgeleegen aan de</td>
+      <td>Een eijgendomsplaats genaamt <span style="border-bottom: 2px dotted #FF0000;">De Doornen Groot</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Hexe Rievier</span></td>
       <td>800:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats gen:t
-		  d’geleegen aan de</td>
+		  d’ <span style="border-bottom: 2px dotted #FF0000;">Elands Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Nauija Berg</span></td>
       <td>10:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt degeleegen agter deop desal afgedankt werden</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Brackefonteijn</span> geleegen agter de <span style="border-bottom: 2px dotted #FF0000;">Cogmans Cloof</span> op de <span style="border-bottom: 2px dotted #FF0000;">Wagensboomsberg</span> sal afgedankt werden</td>
     </tr>
     <tr>
       <td>2 wagens</td>
@@ -107094,53 +107117,53 @@ Sodanig ende in dier voegen als deselve door de landbouwers Francooijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Maccassar</span></td>
       <td rowspan='13' style='vertical-align: middle;'>1300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coert van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coert van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Werdaar van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Werdaar van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samson van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samson van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Candasa van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Dilvina van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Dilvina van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Flora van Java</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Flora van Java</span></td>
     </tr>
   </tbody>
 </table>
@@ -107172,7 +107195,8 @@ Sodanig ende in dier voegen als deselve door de landbouwers Francooijs
     </tr>
     <tr>
       <td>aan de E: Comp:s over een jaar agterstallige
-		recognitie penningen op de plaatsvoorm:t</td>
+		recognitie penningen op de plaats <span style="border-bottom: 2px dotted #FF0000;">De Doorn
+		Groot</span> voorm:t</td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -107194,7 +107218,7 @@ Mij praesent: J:s H:s Blanckenberg, Secretaris
 
 ## MOOC8/14.25b
 
- {17720424} 24 April 1772 <span style="border-bottom: 2px dotted #008000;">Gabriel Rossouw</span> 
+ {17720424} 24 April 1772 <span style="border-bottom: 2px dotted #00FF00;">Gabriel Rossouw</span> 
 
 Invantaris van den inboedel wijle de weduwe Rachel Hugo ten houwelijk
 	 gehat hebbende den landbouwer Gabriel Rossouw aan ons ondergetekende opgegeven
@@ -107204,14 +107228,14 @@ Invantaris van den inboedel wijle de weduwe Rachel Hugo ten houwelijk
   <tbody>
     <tr>
       <td>Een plaats in eijgendom die reconiege doet
-		  bij den E: Compani genaamt deglegen aan de</td>
+		  bij den E: Compani genaamt de <span style="border-bottom: 2px dotted #FF0000;">Doornen Groot</span> glegen aan de <span style="border-bottom: 2px dotted #FF0000;">Hexrevier</span></td>
     </tr>
     <tr>
-      <td>twe plaatse in lening gelegen aan de</td>
+      <td>twe plaatse in lening gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Wageboomsberg</span></td>
     </tr>
     <tr>
-      <td>negen <span style="border-bottom: 2px dotted #008000;">mans
-		  slave</span> en vier <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>negen <span style="border-bottom: 2px dotted #00FF00;">mans
+		  slave</span> en vier <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>2 hondert negen en tagentig beeste</td>
@@ -107424,41 +107448,41 @@ Aan contanten en uijtstaande penn: rd:s900
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">October van Macasaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">October van Macasaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Antonie van Bangale</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Antonie van Bangale</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Februarij van Bangale</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Februarij van Bangale</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Koert van Malgasker</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Koert van Malgasker</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Aleksander van Malgasker</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aleksander van Malgasker</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Werdaar van Malgasker</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Werdaar van Malgasker</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Simson van Malgasker</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Simson van Malgasker</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adonis van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adam
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adam
 		  van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Candasa van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Candasa van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Dilvina van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Dilvina van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Vlora
+      <td><span style="border-bottom: 2px dotted #00FF00;">Vlora
 		  van Jawa</span></td>
     </tr>
   </tbody>
@@ -107492,10 +107516,10 @@ Aan contanten en uijtstaande penn: rd:s900
       <td>Gabriel Rossouw Pietersz heeft twee plaatzen in lening</td>
     </tr>
     <tr>
-      <td>d’ eene gen:t d’gel: aan de</td>
+      <td>d’ eene gen:t d’ <span style="border-bottom: 2px dotted #FF0000;">Elands Fonteyn</span> gel: aan de <span style="border-bottom: 2px dotted #FF0000;">Nauya Bergh</span></td>
     </tr>
     <tr>
-      <td>de twede gen:t degel: agter deop de[ ..... ]: maand</td>
+      <td>de twede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Bracke fonteyn</span> gel: agter de <span style="border-bottom: 2px dotted #FF0000;">Cogmans Clooff</span> op de <span style="border-bottom: 2px dotted #FF0000;">Wagenboomsbergh</span> [ ..... ]: maand</td>
     </tr>
   </tbody>
 </table>
@@ -107503,7 +107527,7 @@ Aan contanten en uijtstaande penn: rd:s900
 ## MOOC8/14.26
 
  {17711210} 10 December
-	 1771 <span style="border-bottom: 2px dotted #008000;">Paulus Janssen</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Wilkens</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Paulus Janssen</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Wilkens</span> 
 
 v: Plettenberg
 
@@ -107542,7 +107566,7 @@ Sodanig ende in dier voegen als door opgem:e Paulus Janssen opgegeeven en
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein ’ten aldaarblijkens transport van den 23:e December
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok H:H:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 3</span> blijkens transport van den 23:e December
 		  1756</td>
     </tr>
   </tbody>
@@ -108019,7 +108043,7 @@ Mij praesent: J:s H:s Blackenberg, Secretaris
 
 ## MOOC8/14.27
 
- {17720603} 3 Junij 1772 <span style="border-bottom: 2px dotted #008000;">Jan Christoffel van
+ {17720603} 3 Junij 1772 <span style="border-bottom: 2px dotted #00FF00;">Jan Christoffel van
 	 Wieding</span> 
 
 Inventaris der nalatenschap van wyle den burger Jan Christoffel van
@@ -108107,7 +108131,7 @@ J:L: Waldpot
 
 ## MOOC8/14.28
 
- {17720217} 17 Februarij 1772 <span style="border-bottom: 2px dotted #008000;">Johan Arend Redecker</span> 
+ {17720217} 17 Februarij 1772 <span style="border-bottom: 2px dotted #00FF00;">Johan Arend Redecker</span> 
 
 v: Plettenberg
 
@@ -108149,7 +108173,7 @@ Sodanig ende indiervoegen als deselve ten sterfhuijse ende ten overstaan
   <tbody>
     <tr>
       <td>Een huijs en erff staande en de geleegen in
-		  deesein ’ten aldaar een gedeelte vanblijkens laatste transport van den 9:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok X</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> blijkens laatste transport van den 9:e
 		  November 1759</td>
     </tr>
   </tbody>
@@ -108830,7 +108854,7 @@ In eevengemelde huijs
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Geduld van Malacca</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Geduld van Malacca</span></td>
     </tr>
   </tbody>
 </table>
@@ -108891,7 +108915,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.29
 
- {17720316} 16 Maart 1772 <span style="border-bottom: 2px dotted #008000;">Cornelis Brits</span> 
+ {17720316} 16 Maart 1772 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Brits</span> 
 
 v: Plettenberg
 
@@ -109068,7 +109092,7 @@ Sodanig ende in diervoegen als deselve door voorn: Cornelis Brits de jonge
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Alie van Macassar</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Alie van Macassar</span></td>
     </tr>
   </tbody>
 </table>
@@ -109119,7 +109143,7 @@ Nog is op den 21:e Maart voorsz:e door Cornelis Brits de jonge opgegeven
 ## MOOC8/14.30
 
  {17720625} 25 Junij
-	 1772 <span style="border-bottom: 2px dotted #008000;">Maria Colijn</span> 
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Maria Colijn</span> 
 
 v: Plettenberg
 
@@ -109167,61 +109191,61 @@ Sodanig en in diervoegen als deselve door opgem:e weduwenaar zijn
     </tr>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein ’ten aldaarblijkens transport van den 19:e Junij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 4</span> blijkens transport van den 19:e Junij
 		  1748</td>
       <td>5333:16</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesevolgens transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> volgens transport de dato
 		  8:e November 1754</td>
       <td>3833:16</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesevide transport van den 8:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> vide transport van den 8:e
 		  November 1754</td>
       <td>1833:16</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deeseblijkens transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> blijkens transport de dato
 		  8:e November 1754</td>
       <td>2000:--</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesein ’ten aldaar een gedeelte vanblijkens transport van den 9: Maij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok O:O:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 3</span> blijkens transport van den 9: Maij
 		  1768</td>
       <td>1333:16</td>
     </tr>
     <tr>
       <td>een huijs en erff staande ende geleegen in
-		  deesein ’ten aldaarblijkens transport de dato 20:e Jannuarij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok H:H:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 3</span> blijkens transport de dato 20:e Jannuarij
 		  1772</td>
       <td>666:32</td>
     </tr>
     <tr>
       <td>een huijs en erf staande ende geleegen in
-		  deeseblijkens transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> blijkens transport de dato
 		  9:e Junij 1768</td>
       <td>666:32</td>
     </tr>
     <tr>
       <td>een huijs en erf staande ende geleegen in
-		  deesein ’ten aldaar een gedeelte vanvolgens transport van den laatsten Junij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok R:R:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> volgens transport van den laatsten Junij
 		  1760</td>
       <td>600:--</td>
     </tr>
     <tr>
       <td>een huijs en erf staande ende geleegen in
-		  deesevide transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> vide transport de dato
 		  ult:o Junij 1760</td>
       <td>600:--</td>
     </tr>
     <tr>
       <td>een huijs en erf staande ende geleegen in
-		  deeseblijkens transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> blijkens transport de dato
 		  ult:o Junij 1760</td>
       <td>500:--</td>
     </tr>
@@ -111736,58 +111760,58 @@ In eerst gemelde huijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samuel Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samuel Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Herodus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Herodus van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Thomas van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Thomas van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Marie van Bengalen</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Marie van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Dorinda van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Dorinda van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Casander van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Casander van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>een slavin gen:t <span style="border-bottom: 2px dotted #008000;">Malatie van
+      <td>een slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Malatie van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Rebecca van
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Rebecca van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Philida van de
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Martje van de Caab</span></td>
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Martje van de Caab</span></td>
     </tr>
     <tr>
       <td>alle bovengem:e slaven op</td>
@@ -112039,11 +112063,11 @@ In eerst gemelde huijs
 		  dewelke aan den ondertenoemene kinderen zijn afgegeeven namentl:</td>
     </tr>
     <tr>
-      <td>aan Johannes Mulder <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>aan Johannes Mulder <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		  Macassar</span></td>
     </tr>
     <tr>
-      <td>aan Johanna van Sittert <span style="border-bottom: 2px dotted #008000;">Doortje van de
+      <td>aan Johanna van Sittert <span style="border-bottom: 2px dotted #00FF00;">Doortje van de
 		  Caab</span></td>
     </tr>
   </tbody>
@@ -112072,7 +112096,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.31a
 
- {17720721} 21 Julij 1772 <span style="border-bottom: 2px dotted #008000;">Charel du Plesie</span> , <span style="border-bottom: 2px dotted #008000;">Geertruij Boijens</span> 
+ {17720721} 21 Julij 1772 <span style="border-bottom: 2px dotted #00FF00;">Charel du Plesie</span> , <span style="border-bottom: 2px dotted #00FF00;">Geertruij Boijens</span> 
 
 v: Plettenberg
 
@@ -112116,7 +112140,7 @@ Sodanig ende in diervoegen als deselve door de landbouwers George
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een eijgendomsplaats genaamtgeleegen in de</td>
+      <td>Een eijgendomsplaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Groenendaal</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Wagenmakers Valleij</span></td>
       <td>1000</td>
     </tr>
   </tbody>
@@ -112571,15 +112595,15 @@ Sodanig ende in diervoegen als deselve door de landbouwers George
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">November van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">November van
 		Madagascar</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300:--</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jacob van Mallabaar</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jacob van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Juliana van
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Juliana van
 		Madagascar</span></td>
     </tr>
     <tr>
@@ -112651,7 +112675,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.31b
 
- {17720715} 15 Julij 1772 <span style="border-bottom: 2px dotted #008000;">Charel du Plesie</span> , <span style="border-bottom: 2px dotted #008000;">Geertruij Boijens</span> 
+ {17720715} 15 Julij 1772 <span style="border-bottom: 2px dotted #00FF00;">Charel du Plesie</span> , <span style="border-bottom: 2px dotted #00FF00;">Geertruij Boijens</span> 
 
 Inventarisatie der naargelatene goederen van mijn Charel du Plesie en
 	 mijne overledene huijsvrouwe Geertruij Boijens, als volgt
@@ -112659,17 +112683,17 @@ Inventarisatie der naargelatene goederen van mijn Charel du Plesie en
 <table>
   <tbody>
     <tr>
-      <td>Een eijgendomsplaats gelegen in degenamtgroot in sijn grond 30
+      <td>Een eijgendomsplaats gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Wagen-makers Vallije</span> genamt <span style="border-bottom: 2px dotted #FF0000;">Groenendaal</span> groot in sijn grond 30
 		  morgen</td>
     </tr>
     <tr>
-      <td>1 klijne Madagasker <span style="border-bottom: 2px dotted #008000;">slaaven</span> jongen</td>
+      <td>1 klijne Madagasker <span style="border-bottom: 2px dotted #00FF00;">slaaven</span> jongen</td>
     </tr>
     <tr>
-      <td>1 Madagasker <span style="border-bottom: 2px dotted #008000;">slaaven</span> mijdt</td>
+      <td>1 Madagasker <span style="border-bottom: 2px dotted #00FF00;">slaaven</span> mijdt</td>
     </tr>
     <tr>
-      <td>1 oud afgeleeft Mallabaarsche <span style="border-bottom: 2px dotted #008000;">slaven</span> jongen</td>
+      <td>1 oud afgeleeft Mallabaarsche <span style="border-bottom: 2px dotted #00FF00;">slaven</span> jongen</td>
     </tr>
     <tr>
       <td>26 trekbeesten, 2 koeijen, 5 kalveren, ’t grootste gedeelten
@@ -112976,7 +113000,7 @@ Inventarisatie der naargelatene goederen van mijn Charel du Plesie en
 Aldus gedaan, naargesien en ten nouwsten annoteert, ter presentsie der
 	 hier toe versogte ondergetekende persoonen op voorgenoemde plaats.
 
-In dedesen 15 Julij
+In de <span style="border-bottom: 2px dotted #FF0000;">Wagen-makers Vallije</span> desen 15 Julij
 	 1772.
 
 Als borgen ende getuijgen: George Stephanus Haubtvleesch, Jacob de
@@ -113031,7 +113055,7 @@ Alhier volgt het gene den boedel debit ist
 ## MOOC8/14.32a
 
  {17720725} 25 Julij
-	 1772 <span style="border-bottom: 2px dotted #008000;">Andries du
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Andries du
 	 Toit</span> 
 
 Inventaris mitsgaders taxatie van alle sodanige goederen als ’er ab
@@ -113089,7 +113113,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Pieter du Toit
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een erf genaamt degeleegen aan deonder ’t district van</td>
+      <td>Een erf genaamt de <span style="border-bottom: 2px dotted #FF0000;">Groene Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Bastiaans Kloof</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -113314,45 +113338,45 @@ Sodanig ende indiervoegen als deselve door de landbouwers Pieter du Toit
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Absalon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Absalon van
 		Timor</span></td>
       <td rowspan='12' style='vertical-align: middle;'>1200</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Crispijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Crispijn van
 		Ceijlon</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samson van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samson van
 		Madgascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Job van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Job van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Damon van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Damon van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jephta van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jephta van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Leijs van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Leijs van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Candasa van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Caatje van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Caatje van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Sara van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Sara van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -113402,25 +113426,25 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.32b
 
- {17720114} 14 Jannuarij 1772 <span style="border-bottom: 2px dotted #008000;">Andries du Toit</span> 
+ {17720114} 14 Jannuarij 1772 <span style="border-bottom: 2px dotted #00FF00;">Andries du Toit</span> 
 
 De eventaris van den boedel
 
 <table>
   <tbody>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaave</span></td>
     </tr>
     <tr>
-      <td>6 <span style="border-bottom: 2px dotted #008000;">slaave
+      <td>6 <span style="border-bottom: 2px dotted #00FF00;">slaave
 		  jongetjes</span></td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slave
 		  mijsies</span></td>
     </tr>
     <tr>
@@ -113596,47 +113620,47 @@ Als getuijgen: Pieter du Toit, P:s Louw
   <thead><tr><td colspan='100%'>Namen der slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Absalon van Timor</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Absalon van Timor</span></td>
       <td>gedrost</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Krispijn van Ceylon</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Krispijn van Ceylon</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Samson van Madagasaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samson van Madagasaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Job van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Job van
 		de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Damon
+      <td><span style="border-bottom: 2px dotted #00FF00;">Damon
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jepthta van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jepthta van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jacob
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jacob
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leijs
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leijs
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Candasa van de Caab</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Candasa van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Caatje
+      <td><span style="border-bottom: 2px dotted #00FF00;">Caatje
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara van
 		de Caab</span></td>
     </tr>
   </tbody>
@@ -113645,7 +113669,9 @@ Als getuijgen: Pieter du Toit, P:s Louw
 <table>
   <tbody>
     <tr>
-      <td>Een erff degeleegen aan deonder ’t district van</td>
+      <td>Een erff de <span style="border-bottom: 2px dotted #FF0000;">Groene
+		  Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Bastiaans
+		  Kloof</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span></td>
     </tr>
   </tbody>
 </table>
@@ -113653,7 +113679,7 @@ Als getuijgen: Pieter du Toit, P:s Louw
 ## MOOC8/14.33
 
  {YYYY} [ .....
-	 ] <span style="border-bottom: 2px dotted #008000;">Daniel du Plessis</span> , <span style="border-bottom: 2px dotted #008000;">Maria Susanna du
+	 ] <span style="border-bottom: 2px dotted #00FF00;">Daniel du Plessis</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Susanna du
 	 Toit</span> 
 
 Inventaris des boedels van wijlen den landbouwer Daniel du Plessis
@@ -113662,7 +113688,7 @@ Inventaris des boedels van wijlen den landbouwer Daniel du Plessis
 <table>
   <tbody>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slaave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slaave
 		  jongen</span></td>
     </tr>
     <tr>
@@ -113718,7 +113744,7 @@ Inventaris des boedels van wijlen den landbouwer Daniel du Plessis
       <td>duysent gulden by de heer Kruywagen</td>
     </tr>
     <tr>
-      <td>duysent gulden by kerk van</td>
+      <td>duysent gulden by kerk van <span style="border-bottom: 2px dotted #FF0000;">Dragenstyn</span></td>
     </tr>
     <tr>
       <td>veertig ryxdaalders verloope intrers</td>
@@ -113744,7 +113770,7 @@ Inventaris des boedels van wijlen den landbouwer Daniel du Plessis
 ## MOOC8/14.34
 
  {17720802} 2 August
-	 1772 <span style="border-bottom: 2px dotted #008000;">Daniel du
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Daniel du
 	 Plesie</span> 
 
 Eventaris van Maria Susanna Du toit weduwe v: Daniel du Pliesie
@@ -113754,7 +113780,7 @@ Een dogter genaamt Alida Magdaleena du Pliesie ouwt seeven maanden
 <table>
   <tbody>
     <tr>
-      <td>1 slaave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Avrica van de Kaap</span></td>
+      <td>1 slaave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Avrica van de Kaap</span></td>
     </tr>
     <tr>
       <td>40 beesten</td>
@@ -113823,7 +113849,7 @@ Cornelis Grobbelaar
   <thead><tr><td colspan='100%'>Aan capitaal schult</td></tr></thead>
   <tbody>
     <tr>
-      <td>by de Dejaconij vanduysent guld</td>
+      <td>by de Dejaconij van <span style="border-bottom: 2px dotted #FF0000;">Dragenstyn</span> duysent guld</td>
     </tr>
     <tr>
       <td>by de heer Johannis Kruywagen duysent guld</td>
@@ -113852,7 +113878,7 @@ Cornelis Grobbelaar
 ## MOOC8/14.35
 
  {17711211} 11 Desember
-	 1771 <span style="border-bottom: 2px dotted #008000;">Urbanis Souerman</span> , <span style="border-bottom: 2px dotted #008000;">Magdalena Booijens</span> 
+	 1771 <span style="border-bottom: 2px dotted #00FF00;">Urbanis Souerman</span> , <span style="border-bottom: 2px dotted #00FF00;">Magdalena Booijens</span> 
 
 Inventaris van de sogenaemde lagenatene goederen van den overledene
 	 Urbanis Souerman de jonge en zijn vrouw Magdalena Booijens egte luijden, als
@@ -113861,10 +113887,10 @@ Inventaris van de sogenaemde lagenatene goederen van den overledene
 <table>
   <tbody>
     <tr>
-      <td>Twee plaate in eijgendom, gen:tende</td>
+      <td>Twee plaate in eijgendom, gen:t <span style="border-bottom: 2px dotted #FF0000;">Schoonoor</span> ende <span style="border-bottom: 2px dotted #FF0000;">Wemershoek</span></td>
     </tr>
     <tr>
-      <td>seven <span style="border-bottom: 2px dotted #008000;">manslave</span></td>
+      <td>seven <span style="border-bottom: 2px dotted #00FF00;">manslave</span></td>
     </tr>
     <tr>
       <td>een en twintig beeste</td>
@@ -114057,7 +114083,7 @@ Inventaris van de sogenaemde lagenatene goederen van den overledene
 
 Het welke wij ondergetekendens alhier so bevonde heeft
 
-d’ 11 Desember
+ <span style="border-bottom: 2px dotted #FF0000;">Paerdebergh</span> d’ 11 Desember
 	 1771.
 
 Joh:s van Aarde
@@ -114068,34 +114094,34 @@ J:s Kotze
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Malgas van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Malgas van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Engelsman van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Engelsman van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Hercules van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Hercules van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Sosemijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Sosemijn van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -114129,8 +114155,8 @@ J:s Kotze
 ## MOOC8/14.36
 
  {17720429} 29 April
-	 1772 <span style="border-bottom: 2px dotted #008000;">Christoffel Fredrik Baron van
-	 Knuth</span> , <span style="border-bottom: 2px dotted #008000;">Sara
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Christoffel Fredrik Baron van
+	 Knuth</span> , <span style="border-bottom: 2px dotted #00FF00;">Sara
 	 Margaretha Cromhoud</span> 
 
 v: Plettenberg
@@ -114655,7 +114681,7 @@ Mij praesent: J:s H:s Blanckenberg, Secret:s
 
 ## MOOC8/14.37
 
- {17720825} 25 Augustus 1772 <span style="border-bottom: 2px dotted #008000;">Barbara Anna le Roes</span> 
+ {17720825} 25 Augustus 1772 <span style="border-bottom: 2px dotted #00FF00;">Barbara Anna le Roes</span> 
 
 Inventaris der nalatenschap van den ab intestato overleedene Barbara Anna
 	 le Roes wed: Johannes Rabe nalatende tot erffgenaamen twee kinderen, in
@@ -114869,7 +114895,7 @@ Mij praesent: J:n Stenvers, gesw:e Clercq
 
 ## MOOC8/14.38
 
- {17720916} 16 September 1772 <span style="border-bottom: 2px dotted #008000;">Pieter Hendrik Bergh</span> 
+ {17720916} 16 September 1772 <span style="border-bottom: 2px dotted #00FF00;">Pieter Hendrik Bergh</span> 
 
 Inventaris van zodanige goederen en nalatenschap van wijll: den burger
 	 Pieter Hendrik Bergh, als
@@ -114964,7 +114990,7 @@ J:H: Redelinghuijs
 
 ## MOOC8/14.39a
 
- {17721003} 3 October 1772 <span style="border-bottom: 2px dotted #008000;">Marthinus van Staden</span> , <span style="border-bottom: 2px dotted #008000;">Maria Elisabeth
+ {17721003} 3 October 1772 <span style="border-bottom: 2px dotted #00FF00;">Marthinus van Staden</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Elisabeth
 	 Pienaar</span> 
 
 Inventaris mitsgaders taxatie van alle sodanige goederen als ab intestato
@@ -115010,11 +115036,11 @@ Opgenomen ende geinventariseert door de landbouwers Daniel du Plessies,
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats degeleegen over de</td>
+      <td>Een opstal staande op de leeningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Corinthe Rivier</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Duivenhoks Rivier</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>een opstal op de leeningsplaats degeleegen aan ’t einde van de</td>
+      <td>een opstal op de leeningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Dwarsfontijn</span> geleegen aan ’t einde van de <span style="border-bottom: 2px dotted #FF0000;">Kammanasieberg</span></td>
       <td>100</td>
     </tr>
   </tbody>
@@ -115233,14 +115259,14 @@ Opgenomen ende geinventariseert door de landbouwers Daniel du Plessies,
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Candasa van de
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Candasa van de
 		Caab</span></td>
       <td>100</td>
     </tr>
   </tbody>
 </table>
 
-Op de leningsplaats de,
+Op de leningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Dwarsfontijn</span> ,
 	 sodanig als hetzelve bij de landbouwers Joh:s W:m van Staden, Pieter
 	 Lindekwast, Andries Oelofsen en Johannes Petrus Jansen zijn opgenomen,
 	 namentlijk
@@ -115294,11 +115320,12 @@ Op de leningsplaats de,
     </tr>
     <tr>
       <td>aan d’ E: Comp: over agterstallige recognitie
-		penningen als op de leeningsplaats de8 jar: en 6 maand:</td>
+		penningen als op de leeningsplaats de <span style="border-bottom: 2px dotted #FF0000;">Corinte
+		rivier</span> 8 jar: en 6 maand:</td>
       <td>204:--</td>
     </tr>
     <tr>
-      <td>op de plaats de5 jar: 4
+      <td>op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Dwarsfontijn</span> 5 jar: 4
 		maand:</td>
       <td>128:--</td>
     </tr>
@@ -115330,7 +115357,7 @@ Mij praesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.39b
 
- {17721003} 3 October 1772 <span style="border-bottom: 2px dotted #008000;">Marthinus van Staden</span> , <span style="border-bottom: 2px dotted #008000;">Maria Elisabeth
+ {17721003} 3 October 1772 <span style="border-bottom: 2px dotted #00FF00;">Marthinus van Staden</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Elisabeth
 	 Pienaar</span> ,
 
 Inventarium van de weduwe Martinus van Staade, Maria Elisabeth Pienaer
@@ -115338,10 +115365,10 @@ Inventarium van de weduwe Martinus van Staade, Maria Elisabeth Pienaer
 <table>
   <tbody>
     <tr>
-      <td>1 opstal genaemt</td>
+      <td>1 opstal genaemt <span style="border-bottom: 2px dotted #FF0000;">Corinthe Revier</span></td>
     </tr>
     <tr>
-      <td>1 opstal genaemtgelegen aan de de end van</td>
+      <td>1 opstal genaemt <span style="border-bottom: 2px dotted #FF0000;">Dwarsfontijn</span> gelegen aan de de end van <span style="border-bottom: 2px dotted #FF0000;">Kammenazie</span></td>
     </tr>
     <tr>
       <td>1 wagen</td>
@@ -115377,7 +115404,7 @@ Inventarium van de weduwe Martinus van Staade, Maria Elisabeth Pienaer
       <td>18 paerden</td>
     </tr>
     <tr>
-      <td>1 slavine gen:t <span style="border-bottom: 2px dotted #008000;">Candasa van de
+      <td>1 slavine gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa van de
 		  Caab</span></td>
     </tr>
     <tr>
@@ -115569,7 +115596,7 @@ Johannes Peetrus Jansen
 
 ## MOOC8/14.40a
 
- {17721007} 7 October 1772 <span style="border-bottom: 2px dotted #008000;">Anna Maria Knoetsen</span> 
+ {17721007} 7 October 1772 <span style="border-bottom: 2px dotted #00FF00;">Anna Maria Knoetsen</span> 
 
 v: Plettenberg
 
@@ -115607,7 +115634,7 @@ Sodanig ende indiervoegen als deselve bij de ondergeteekende
     </tr>
     <tr>
       <td>Een huijs en erff met de daarop staande
-		  timmeragien, staande ende geleegen in deesetusschen heten het Casteel blijkens transport de
+		  timmeragien, staande ende geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> tusschen het <span style="border-bottom: 2px dotted #FF0000;">Souterievier</span> en het Casteel blijkens transport de
 		  dato 8:e Maart 1754</td>
       <td rowspan='2' style='vertical-align: middle;'>700</td>
     </tr>
@@ -116212,7 +116239,7 @@ Mij praesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.40b
 
- {17721005} 5 October 1772 <span style="border-bottom: 2px dotted #008000;">Anna Maria Knoetsen</span> 
+ {17721005} 5 October 1772 <span style="border-bottom: 2px dotted #00FF00;">Anna Maria Knoetsen</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
 	 sijn ontruijmt ende naargelaaten door Anna Maria Knoetsen huijsvrouw van den
@@ -116244,7 +116271,7 @@ Sodanig ende indiervoegen als deselve door ons ondergeteekendens volgens
   <tbody>
     <tr>
       <td>Een huijs en erff met de daarop staande
-		  timmeragien, staande ende geleegen in deesetusschen het Casteel endeblijkens transport de dato 8:e
+		  timmeragien, staande ende geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> tusschen het Casteel ende <span style="border-bottom: 2px dotted #FF0000;">Zoute Rievier</span> blijkens transport de dato 8:e
 		  Maart 1754</td>
     </tr>
     <tr>
@@ -116721,7 +116748,7 @@ Ons praesent: J:s W:s Blanckenberg, J:L: Waldpot
 
 ## MOOC8/14.41
 
- {17710619} 19 Junij 1771 <span style="border-bottom: 2px dotted #008000;">Wellem van Wijk</span> 
+ {17710619} 19 Junij 1771 <span style="border-bottom: 2px dotted #00FF00;">Wellem van Wijk</span> 
 
 Inventaris van Wellem van Wijk de oude
 
@@ -116734,10 +116761,10 @@ Inventaris van Wellem van Wijk de oude
       <td>twee manslaaven:</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupido van Mallebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupido van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Januarij van Batavia</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Januarij van Batavia</span></td>
     </tr>
     <tr>
       <td>een tafel</td>
@@ -116903,7 +116930,7 @@ Philip Rudolf Botha
 
 ## MOOC8/14.42
 
- {17721024} 24 October 1772 <span style="border-bottom: 2px dotted #008000;">Elsje Botha</span> 
+ {17721024} 24 October 1772 <span style="border-bottom: 2px dotted #00FF00;">Elsje Botha</span> 
 
 v: Plettenberg
 
@@ -116952,12 +116979,12 @@ Opgenomen ende g’inventariseert door de landbouwers Hendrik van der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een eijgendoms plaats genaamtgeleegen aan</td>
+      <td>Een eijgendoms plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Voorspoet</span> geleegen aan <span style="border-bottom: 2px dotted #FF0000;">Riebeken Casteel</span></td>
       <td>2333:16</td>
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamt deaan deonder ’t district van</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Melkhout Boom</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Vetrievier</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -117207,66 +117234,66 @@ Opgenomen ende g’inventariseert door de landbouwers Hendrik van der
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Maart van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Maart van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Lourents van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Lourents van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Ontom van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Ontom van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salie van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salie van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mannel van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mannel van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Goliath van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Goliath van
 		Ternataal</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pattras van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pattras van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Batjoe van Bougies</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Batjoe van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Bora van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Bora van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diana van Bougies</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diana van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Sabina van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Sabina van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Machal van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Machal van de Caab</span></td>
     </tr>
     <tr>
       <td>Te samen getaxeert op</td>
@@ -117332,7 +117359,7 @@ Mij preesent: O:G: de Wet
 
 ## MOOC8/14.43
 
- {17720931} 31 September 1772 <span style="border-bottom: 2px dotted #008000;">Christoffel Lombaard</span> 
+ {17720931} 31 September 1772 <span style="border-bottom: 2px dotted #00FF00;">Christoffel Lombaard</span> 
 
 Inventaris van den boedel van Christoffel Lombaard
 
@@ -117345,20 +117372,20 @@ De navolgende goederen gewardeert van de ondergeteekende
       <td>ƒ</td>
     </tr>
     <tr>
-      <td>De woonplaats genaamtgeleegen aan ’t</td>
+      <td>De woonplaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Voorspoet</span> geleegen aan ’t <span style="border-bottom: 2px dotted #FF0000;">Riebenken Casteel</span></td>
       <td>6000:--</td>
     </tr>
     <tr>
-      <td>een opstal geleegen over berg genaamt deaan deonder diestrecten van</td>
+      <td>een opstal geleegen over berg genaamt de <span style="border-bottom: 2px dotted #FF0000;">Melkhoutboom</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Vet Rievier</span> onder diestrecten van <span style="border-bottom: 2px dotted #FF0000;">Swellengdam</span></td>
       <td>75:--</td>
     </tr>
     <tr>
-      <td>14 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>14 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaaven</span></td>
       <td>4200:--</td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">slavinnen</span></td>
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">slavinnen</span></td>
       <td>1200:--</td>
     </tr>
     <tr>
@@ -117594,7 +117621,7 @@ De navolgende goederen gewardeert van de ondergeteekende
   </tbody>
 </table>
 
-den 31 7br: 1772
+ <span style="border-bottom: 2px dotted #FF0000;">Riebeken Casteel</span> den 31 7br: 1772
 
 Christoffel Lombaard
 
@@ -117629,10 +117656,10 @@ Andries Gobreght
 ## MOOC8/14.44
 
  {17721228} 28 December
-	 1772 <span style="border-bottom: 2px dotted #008000;">Jan Mostert</span> 
+	 1772 <span style="border-bottom: 2px dotted #00FF00;">Jan Mostert</span> 
 
 Inventaris van alle sodanige goederen als ’er ab intestato metter dood
-	 zijjn ontruijmt ende nagelaten door den burger Jan Mostert vanten voordeele van zijn
+	 zijjn ontruijmt ende nagelaten door den burger Jan Mostert van <span style="border-bottom: 2px dotted #FF0000;">Wieringen</span> ten voordeele van zijn
 	 overgebleevene huijsvrouw Juliana Adriaansz:e ter eenree, mitsgaders hunne bij
 	 den anderen in huwelijk verwekte 3 kinderen met namen:
 
@@ -117917,7 +117944,7 @@ In een huurhuijs
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">April van Bengalen</span> ,
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">April van Bengalen</span> ,
 		zijnde lam</td>
     </tr>
   </tbody>
@@ -117984,7 +118011,7 @@ Voor den opgaaf: Dit kruijsmerk is door opgem:e wed:e Mostert + Juliana
 
 ## MOOC8/14.45a
 
- {17730302} 2 Maart 1773 <span style="border-bottom: 2px dotted #008000;">Elias Nel</span> 
+ {17730302} 2 Maart 1773 <span style="border-bottom: 2px dotted #00FF00;">Elias Nel</span> 
 
 v: Plettenberg
 
@@ -118020,12 +118047,12 @@ Sodanig en indiervoegen als deselve ten overstaan van den ondergeteekende
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats gen:t
-		  degelegen aan deagter het</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Harde Heuwel</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Visrivier</span> agter het <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
       <td>25:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leningsplaats gen:t
-		  degelegen int</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Diverse Fonteijn</span> gelegen int <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -118081,19 +118108,19 @@ Sodanig en indiervoegen als deselve ten overstaan van den ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cornelis van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cornelis van de
 		Caab</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Claas van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Claas van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Catrijn van Terra Natal</span> ,
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Catrijn van Terra Natal</span> ,
 		zijnde oud en afgeleeft</td>
       <td>40</td>
     </tr>
@@ -118141,14 +118168,14 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.45b
 
- {17730302} 2 Maart 1773 <span style="border-bottom: 2px dotted #008000;">Elias Nel</span> 
+ {17730302} 2 Maart 1773 <span style="border-bottom: 2px dotted #00FF00;">Elias Nel</span> 
 
 Aangaande de boedel van Elias Nel
 
 <table>
   <tbody>
     <tr>
-      <td>Vier <span style="border-bottom: 2px dotted #008000;">slaven</span></td>
+      <td>Vier <span style="border-bottom: 2px dotted #00FF00;">slaven</span></td>
     </tr>
     <tr>
       <td>agt en veertig beesten</td>
@@ -118183,10 +118210,10 @@ Als getuijgen: Jacobus Adriaan Louw Jacobzoon, + Martienis David
 <table>
   <tbody>
     <tr>
-      <td>Een leningsplaats gen:tgelegen aan deagter het</td>
+      <td>Een leningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Harde Heuvel</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Vis Rivier</span> agter het <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
     </tr>
     <tr>
-      <td>een leningsplaats gen:t degelegen in ’t</td>
+      <td>een leningsplaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Diverse Fonteijn</span> gelegen in ’t <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span></td>
     </tr>
   </tbody>
 </table>
@@ -118216,8 +118243,8 @@ Als getuijgen: Jacobus Adriaan Louw Jacobzoon, + Martienis David
 ## MOOC8/14.46
 
  {17730311} 11 Maart
-	 1773 <span style="border-bottom: 2px dotted #008000;">Johan David
-	 Prins</span> , <span style="border-bottom: 2px dotted #008000;">Josina van den
+	 1773 <span style="border-bottom: 2px dotted #00FF00;">Johan David
+	 Prins</span> , <span style="border-bottom: 2px dotted #00FF00;">Josina van den
 	 Heever</span> 
 
 v: Plettenberg
@@ -118261,7 +118288,7 @@ Hebbende aanvaard, des ten eijnde deselve portien te vinden, ten overstaan
     </tr>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deesein ’tblijkens transport de dato 8:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok V:V:</span> blijkens transport de dato 8:e
 		  September 1761 getaxeert op ƒ5000 ofte</td>
       <td>1666:32</td>
     </tr>
@@ -118638,24 +118665,24 @@ In ’t eevengem: huijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Frisman van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Frisman van
 		Madagascar</span></td>
       <td rowspan='5' style='vertical-align: middle;'>600</td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Adam van d’ Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Adam van d’ Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Dafini van Mandhar</span> met
-		haar kind <span style="border-bottom: 2px dotted #008000;">Candasa van d’
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Dafini van Mandhar</span> met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Candasa van d’
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Camonie van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Camonie van
 		Macassar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Clowie van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Clowie van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -118729,7 +118756,7 @@ In ’t eevengem: huijs
 		namentlijk</td>
     </tr>
     <tr>
-      <td>Anna Maria Prints welke sig opkomt te
+      <td>Anna Maria Prints welke sig op <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> komt te
 		bevinden</td>
       <td>&nbsp;</td>
       <td>37:--</td>
@@ -118794,7 +118821,7 @@ Mij preesent: O:G: de Wet, Secret:
 
 ## MOOC8/14.47a
 
- {17730319} 19 Maart 1773 <span style="border-bottom: 2px dotted #008000;">Jochem Koekemoer</span> 
+ {17730319} 19 Maart 1773 <span style="border-bottom: 2px dotted #00FF00;">Jochem Koekemoer</span> 
 
 v: Plettenberg
 
@@ -118829,7 +118856,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Charl Marais,
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamtgeleegen aan deniets waardig en sal door de wed:en
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Goliats Kraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Kantebo</span> niets waardig en sal door de wed:en
 		  verlaten werden</td>
     </tr>
     <tr>
@@ -119018,7 +119045,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.47b
 
- {17730319} 19 Maart 1773 <span style="border-bottom: 2px dotted #008000;">Jochem Koekemoer</span> 
+ {17730319} 19 Maart 1773 <span style="border-bottom: 2px dotted #00FF00;">Jochem Koekemoer</span> 
 
 Desen is de opgevenge van mijn goedereng
 
@@ -119113,7 +119140,7 @@ Desen is de opgevenge van mijn goedereng
     </tr>
     <tr>
       <td>een opstal staande op de leeningsplaats
-		  genaamtgeleegen aan de</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Goliats Kraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Kantebo</span></td>
     </tr>
   </tbody>
 </table>
@@ -119172,7 +119199,7 @@ Anoo 1773
 ## MOOC8/14.48
 
  {17730416} 16
-	 April 1773 <span style="border-bottom: 2px dotted #008000;">Willem Wessel
+	 April 1773 <span style="border-bottom: 2px dotted #00FF00;">Willem Wessel
 	 Wessels</span> 
 
 v: Plettenberg
@@ -119231,7 +119258,7 @@ Getaxeert bij de onderget:e gecomm:e Weesmeesteren agtervolgens Heeren
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats gen:tgeleegen over</td>
+      <td>Een opstal staande op de leeningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Hans Rivier</span> geleegen over <span style="border-bottom: 2px dotted #FF0000;">Hottentotshollands Kloof</span></td>
       <td>333:16</td>
     </tr>
     <tr>
@@ -119311,7 +119338,7 @@ Getaxeert bij de onderget:e gecomm:e Weesmeesteren agtervolgens Heeren
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van
 		Bengalen</span></td>
       <td>100</td>
     </tr>
@@ -119445,7 +119472,7 @@ B:tm Eerhardie
 
 ## MOOC8/14.49
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Douw
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Douw
 	 Steijn</span> 
 
 Inventaris van de volgende beestiealen die door ons ondergeteeken gesien
@@ -119471,7 +119498,7 @@ Als getuijgen: dit sijn de getuijgen: J:L: d: Pree, Hermanes
 ## MOOC8/14.50a
 
  {17730806} 6
-	 Augustus 1773 <span style="border-bottom: 2px dotted #008000;">David
+	 Augustus 1773 <span style="border-bottom: 2px dotted #00FF00;">David
 	 Theron</span> 
 
 v: Plettenberg
@@ -119496,7 +119523,7 @@ Inventaris mitsgaders taxatie van alle sodanige goederen als ’er ab
 </table>
 
 Sodanig ende indiervoegen als deselve door den voorleeser der kerke in
-	 ’tHendrik Arnoldus Brugman
+	 ’t <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> Hendrik Arnoldus Brugman
 	 en den landbouwer Jacobus Theron zijn g’inventariseert, mitsgaders bij de
 	 ondergeteekende gecommitteerde Weesmeesteren getaxeert in maniere als volgt,
 	 namentlijk:
@@ -119565,12 +119592,12 @@ Sodanig ende indiervoegen als deselve door den voorleeser der kerke in
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Septemb:r v:n
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Septemb:r v:n
 		Bougies</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Amelie v:n
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Amelie v:n
 		Timor</span></td>
       <td>100</td>
     </tr>
@@ -119607,7 +119634,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.50b
 
- {17730720} 20 Julij 1773 <span style="border-bottom: 2px dotted #008000;">David Theron Pieterzoon</span> 
+ {17730720} 20 Julij 1773 <span style="border-bottom: 2px dotted #00FF00;">David Theron Pieterzoon</span> 
 
 Inventaris van den boedel van Maria Susanna de Vos, of de nalaatenschap
 	 van haar overleede man David Theron Pieterzoon
@@ -119643,11 +119670,11 @@ Inventaris van den boedel van Maria Susanna de Vos, of de nalaatenschap
       <td>1 wage-kist</td>
     </tr>
     <tr>
-      <td>een mans slaaf <span style="border-bottom: 2px dotted #008000;">September van
+      <td>een mans slaaf <span style="border-bottom: 2px dotted #00FF00;">September van
 		  Boegis</span></td>
     </tr>
     <tr>
-      <td>en een slaafin <span style="border-bottom: 2px dotted #008000;">Amelie van Timor</span></td>
+      <td>en een slaafin <span style="border-bottom: 2px dotted #00FF00;">Amelie van Timor</span></td>
     </tr>
     <tr>
       <td>en vijf-en t’ neegentig rijxd:s contanten</td>
@@ -119655,7 +119682,7 @@ Inventaris van den boedel van Maria Susanna de Vos, of de nalaatenschap
   </tbody>
 </table>
 
-Aldus g’inventariseert en naargesin in ’top den 20 Julij 1773 in presentie
+Aldus g’inventariseert en naargesin in ’t <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> op den 20 Julij 1773 in presentie
 	 van deese twee eijgenhandig ondergeteekende getuijgen: als Jacobus Theron d’
 	 oude en Hendrik Arnoldus Bruggeman.
 
@@ -119665,7 +119692,7 @@ Maria Susanna de Vos weduwe David Theron
 
 ## MOOC8/14.51a
 
- {17730910} 10 September 1773 <span style="border-bottom: 2px dotted #008000;">Johanna Basson</span> 
+ {17730910} 10 September 1773 <span style="border-bottom: 2px dotted #00FF00;">Johanna Basson</span> 
 
 v: Plettenberg
 
@@ -119704,7 +119731,7 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers Pieter
     </tr>
     <tr>
       <td>Een opstal staande op leeningsplaats genaamt
-		  de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Hoop</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -120002,29 +120029,29 @@ Sodanig ende indiervoegen als deselve door de meede landbouwers Pieter
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Adam van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam van
 		Madagascar</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Groot Jannuarij van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Groot Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Prusses van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Prusses van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Samuel van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Samuel van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Gedult van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Gedult van
 		Bengalen</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Kleijn Jannuarij van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Kleijn Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
@@ -120168,7 +120195,7 @@ Ter kennisse van mij: O:G: de Wet, Secret:s
 
 ## MOOC8/14.51b
 
- {17730903} 3 September 1773 <span style="border-bottom: 2px dotted #008000;">Johanna Basson</span> 
+ {17730903} 3 September 1773 <span style="border-bottom: 2px dotted #00FF00;">Johanna Basson</span> 
 
 Inventaris van alle sodanige goederen als door den landbouwer Albertus
 	 Weijnandt Louw sonder testament metter doot van seijn overlede vrouw Johanna
@@ -120195,28 +120222,28 @@ nagelaten, sodanigh als door de ondergetekende hiertoe versogte getuijgen
 <table>
   <tbody>
     <tr>
-      <td>1 plaats in lening van Compagne genaamt de</td>
+      <td>1 plaats in lening van Compagne genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hoop</span></td>
     </tr>
     <tr>
       <td>6 manslaven met namen</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adam van Madegaska</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adam van Madegaska</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Groot Januarij van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Groot Januarij van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Prusses van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Prusses van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Samuel van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samuel van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Gedult van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Gedult van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Kleijn Januarij van Bengalen</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Kleijn Januarij van Bengalen</span></td>
     </tr>
     <tr>
       <td>440 schapen</td>
@@ -120492,7 +120519,7 @@ Als getuijgen: P: v:d: Bijl, C: Lombard, Albartus Wijnant
 ## MOOC8/14.52
 
  {17730819} 19
-	 Augustus 1773 <span style="border-bottom: 2px dotted #008000;">Johanna Catharina van de
+	 Augustus 1773 <span style="border-bottom: 2px dotted #00FF00;">Johanna Catharina van de
 	 Caab</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
@@ -120747,21 +120774,21 @@ In een huurhuijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Manus van Macasser</span> ,
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Manus van Macasser</span> ,
 		gekogt onder conditie dat dien slaaf nooijt aan een ander zal mogen werden
 		verkogt, voor</td>
       <td>125:--</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bengalen</span> , kostende</td>
       <td>90 1/4:--</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Calister van Bengalen</span> ,
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Calister van Bengalen</span> ,
 		als gesegt voor rd:s45 onder beding dat die slavinne nooijt onder den burger
 		Hendrik Geerard desselfs huijsvrouw ofte de haare zal mogen komen en haare twee
-		kinderen <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span> oud 2 jaren <span style="border-bottom: 2px dotted #008000;">Jacob van de
+		kinderen <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span> oud 2 jaren <span style="border-bottom: 2px dotted #00FF00;">Jacob van de
 		Caab</span> nog zuijgende</td>
       <td>45:--</td>
     </tr>
@@ -120793,13 +120820,13 @@ Voor den opgaaf: dit merk + is door voorm:e Christiaan Nicolaase van
 
 ## MOOC8/14.53
 
- {17721129} 29 November 1772 <span style="border-bottom: 2px dotted #008000;">Anna Heijlon</span> 
+ {17721129} 29 November 1772 <span style="border-bottom: 2px dotted #00FF00;">Anna Heijlon</span> 
 
 v: Plettenberg
 
 Inventaris van alle sodanige goederen als metter dood zijn ontruijmt ende
 	 nagelaten door Anna Heijlon laast weduwe wijlen den burger Dirk van den Bergh
-	 vangeboortig, ende zulx naarvolgens
+	 van <span style="border-bottom: 2px dotted #FF0000;">Mauritius</span> geboortig, ende zulx naarvolgens
 	 derselve voor den eerst gesworen clercq ter Politicque Secretarije d’ edele
 	 Thobias Christiaan Rönnenkamp en getuijgen op den 4:e Augustus 1763 opgeregt
 	 testament, ten voordeele van haare volgende daar bij g’institueerde
@@ -120809,7 +120836,7 @@ Inventaris van alle sodanige goederen als metter dood zijn ontruijmt ende
   <tbody>
     <tr>
       <td>1) der overleedene dogter Johanna van Laar getrouwt met Jan de
-		  Potter woonagtig totin</td>
+		  Potter woonagtig tot <span style="border-bottom: 2px dotted #FF0000;">Domburg</span> in <span style="border-bottom: 2px dotted #FF0000;">Zeeland</span></td>
     </tr>
     <tr>
       <td>2) haar dogter Maria van Laar huijsvrouw van den burger Johan
@@ -120865,7 +120892,7 @@ Opgenomen ende g’inventariseert ten overstaan van de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erff, staande ende geleegen in
-		  deesein ’ten aldaarblijkens laaste transport de dato 3:e October
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok W:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> blijkens laaste transport de dato 3:e October
 		  1764</td>
     </tr>
   </tbody>
@@ -121380,17 +121407,17 @@ In ’t evengem:e huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Lena van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Lena van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">November van Bantam</span> ,
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">November van Bantam</span> ,
 		welken ingevolge der overleedene begeerte bij het meergemelde testament niet
 		mag werden verkogt, maar bij haar klijnsoon Jan van Laar ter woon sal moeten
 		blijven</td>
     </tr>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Pedro van Bengalen</span> bij
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Pedro van Bengalen</span> bij
 		der overledene gerepte testament aan Anna van Laar teegens een somma van een
 		hondert rijxd:s vermaakt.</td>
     </tr>
@@ -121508,7 +121535,7 @@ Mij praesent: O:G: de Wet, Secret:s
 ## MOOC8/14.54
 
  {17730118} 18 Jannuarij
-	 1773 <span style="border-bottom: 2px dotted #008000;">Aletta van
+	 1773 <span style="border-bottom: 2px dotted #00FF00;">Aletta van
 	 Rooijen</span> 
 
 v: Plettenberg
@@ -121539,7 +121566,7 @@ Opgenomen ende geinventariseert ten overstaan van de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erf staande ende geleegen in
-		  deesein ’tzijnde een gedeelte vanblijkens laatste transport van
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok F:F:</span> zijnde een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 10 en 11</span> blijkens laatste transport van
 		  den 14:e Augustus 1772</td>
     </tr>
   </tbody>
@@ -122055,17 +122082,17 @@ De volgende goederen meede in den boedel gevonden, zijn door de
     <tr>
       <td>Neevens aangehaalde slave jonge is door de overledene
 		aan Geertruijd Sophia Sandenberg gelegateert</td>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Sambawa</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		  Sambawa</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Dam van Bengaalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Dam van Bengaalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -122109,7 +122136,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.55
 
- {17730102} 2 Jannuarij 1773 <span style="border-bottom: 2px dotted #008000;">Carel Fredrik Abel</span> 
+ {17730102} 2 Jannuarij 1773 <span style="border-bottom: 2px dotted #00FF00;">Carel Fredrik Abel</span> 
 
 v: Plettenberg
 
@@ -122673,7 +122700,7 @@ Ten huijse van den burger Cap:n s:r Johannes Riga
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Forthuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Forthuijn van
 		Mallabaar</span></td>
     </tr>
   </tbody>
@@ -122711,7 +122738,7 @@ Ten huijse van den burger Cap:n s:r Johannes Riga
       <td>30</td>
     </tr>
     <tr>
-      <td>van Thomas op</td>
+      <td>van Thomas op <span style="border-bottom: 2px dotted #FF0000;">Constantie</span></td>
       <td>1</td>
     </tr>
     <tr>
@@ -122754,7 +122781,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.56
 
- {17721226} 26 December 1772 <span style="border-bottom: 2px dotted #008000;">Zirke Jansz:</span> 
+ {17721226} 26 December 1772 <span style="border-bottom: 2px dotted #00FF00;">Zirke Jansz:</span> 
 
 Inventaris van alle sodanige goederen als ab intestato metter dood zijn
 	 ontruijmt en de nagelaten door den burger Zirke Jansz: ten voordeele van
@@ -122789,7 +122816,7 @@ Opgenomen en geinventariseert bij ons onderget:e schrijver en bode der
   <tbody>
     <tr>
       <td>1 erff met de daarop staande gebouwen en
-		  annexe thuijnland geleegen onder ’t district vanaan de</td>
+		  annexe thuijnland geleegen onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span></td>
     </tr>
   </tbody>
 </table>
@@ -123468,7 +123495,7 @@ Op evengem: erff met woonhuijs
   </tbody>
 </table>
 
-Aldus geinventariseert ten erve voorm:t geleegen onder ’t district vanaan deden 26:e December 1772.
+Aldus geinventariseert ten erve voorm:t geleegen onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Drakensteijn</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> den 26:e December 1772.
 
 Voor het inventariseeren: J:s G:s Blanckenberg, J:H: Redelinghuijs
 
@@ -123476,7 +123503,7 @@ Voor den opgaaf: J: Buijs
 
 ## MOOC8/14.57
 
- {17730211} 11 Februarij 1773 <span style="border-bottom: 2px dotted #008000;">Paul Hartog</span> 
+ {17730211} 11 Februarij 1773 <span style="border-bottom: 2px dotted #00FF00;">Paul Hartog</span> 
 
 Staat en inventaris van alle zodanige goederen en effecten als met ’er
 	 dood ontruijmd en nagelaten zijn bij wijlen den burger Paul Hartog ende ten
@@ -123502,7 +123529,7 @@ Staat en inventaris van alle zodanige goederen en effecten als met ’er
   </tbody>
 </table>
 
-zijn bevonden en vervolgens bij mij Abraham Faure Secret: vanen, in naame van ’t Eerw: Collegie van
+zijn bevonden en vervolgens bij mij Abraham Faure Secret: van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> en <span style="border-bottom: 2px dotted #FF0000;">Drakenstein</span> , in naame van ’t Eerw: Collegie van
 	 Heeren Weesmeesteren ter presentie van de nagen: getuijgen in geschrifte
 	 gesteld, bestaande deselve in de volgende, namentlijk
 
@@ -123510,7 +123537,7 @@ zijn bevonden en vervolgens bij mij Abraham Faure Secret: vanen, in naame van �
   <tbody>
     <tr>
       <td>Een huijs met vier erven daar annex geleegen
-		  in ’t dorp van</td>
+		  in ’t dorp van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
     </tr>
   </tbody>
 </table>
@@ -124092,11 +124119,11 @@ zijn bevonden en vervolgens bij mij Abraham Faure Secret: vanen, in naame van �
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cesar
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cesar
 		van Boegies</span> en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van Madura</span></td>
     </tr>
   </tbody>
@@ -124144,7 +124171,7 @@ zijn bevonden en vervolgens bij mij Abraham Faure Secret: vanen, in naame van �
   </tbody>
 </table>
 
-Aldus g’inventariseert ten sterfhuijse aanvoorm:t den 11 Februarij 1773 in ’t
+Aldus g’inventariseert ten sterfhuijse aan <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> voorm:t den 11 Februarij 1773 in ’t
 	 bijweesen van den coster Johannes Jacobus Reijniersz: en den burger Johannes
 	 Victor als getuijgen
 
@@ -124154,7 +124181,7 @@ A: Faure, Secret:s
 
 ## MOOC8/14.58
 
- {17721109} 9 November 1772 <span style="border-bottom: 2px dotted #008000;">Johanna Rogiers</span> 
+ {17721109} 9 November 1772 <span style="border-bottom: 2px dotted #00FF00;">Johanna Rogiers</span> 
 
 v: Plettenberg
 
@@ -124168,7 +124195,7 @@ Inventaris van alle sodanige goederen als op den 4:e November 1772 ab
   <tbody>
     <tr>
       <td>1) Magdalena Heijdenreich gehuuwt net den baas op ’s E: Comp:s
-		  post deJohan Andreas
+		  post de <span style="border-bottom: 2px dotted #FF0000;">Schuur</span> Johan Andreas
 		  Rauch</td>
       <td rowspan='7' style='vertical-align: middle;'>ter andere zijde</td>
     </tr>
@@ -124176,7 +124203,7 @@ Inventaris van alle sodanige goederen als op den 4:e November 1772 ab
       <td>2) Johan Fredrick Heijdenreich meederjarig</td>
     </tr>
     <tr>
-      <td>3) Johan Wilhelm Heijdenreich mondig en sig inbevindende</td>
+      <td>3) Johan Wilhelm Heijdenreich mondig en sig in <span style="border-bottom: 2px dotted #FF0000;">Indiën</span> bevindende</td>
     </tr>
     <tr>
       <td>4) Susanna Heijdenreich getrouwt met den burger Jacobus
@@ -124202,7 +124229,7 @@ Sodanig ende indiervoegen als deselve door de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erff, staande ende gelegen in
-		  deeseblijkens transport de dato
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> blijkens transport de dato
 		  30:e Maart 1761</td>
     </tr>
   </tbody>
@@ -124833,30 +124860,30 @@ In ’t eevengemelde huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Ontong van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Ontong van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Maij van Ceijlon</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Maij van Ceijlon</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Moses van de Caab</span></td>
+      <td>1 slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Moses van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Candasa van Bougies</span> met
-		haar 2 kinderen <span style="border-bottom: 2px dotted #008000;">Clarinda</span> en <span style="border-bottom: 2px dotted #008000;">Carolus</span> beijde van de
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Candasa van Bougies</span> met
+		haar 2 kinderen <span style="border-bottom: 2px dotted #00FF00;">Clarinda</span> en <span style="border-bottom: 2px dotted #00FF00;">Carolus</span> beijde van de
 		Caab</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Regina van
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Regina van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Radie van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Radie van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -124924,7 +124951,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.59
 
- {17730130} 30 Jannuarij 1773 <span style="border-bottom: 2px dotted #008000;">Johannes Henricus
+ {17730130} 30 Jannuarij 1773 <span style="border-bottom: 2px dotted #00FF00;">Johannes Henricus
 	 Blanckenberg</span> 
 
 v: Plettenberg
@@ -124948,7 +124975,7 @@ Inventaris van alle sodanige goederen als metter dood ontruijmt ende
 		  Johannes de Wit</td>
     </tr>
     <tr>
-      <td>3) Johannes, boekhouder en secretaris tot</td>
+      <td>3) Johannes, boekhouder en secretaris tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
       <td>4) Alberta gehuwt met den gerepatrieerden ondercoopman d’
@@ -124980,17 +125007,17 @@ Ter administratie aanvaard door Heeren Weesmeesteren als bij het door den
   <tbody>
     <tr>
       <td>Een huijs en erf staande en de geleegen in
-		  deeseinten aldaar, blijkens laatste transport de dato 27:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> int <span style="border-bottom: 2px dotted #FF0000;">Blok E:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 1 en 2</span> , blijkens laatste transport de dato 27:e
 		  Maart 1753</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede gen:tgeleegen aan dewelke volgens daarvan zijnde
+      <td>een plaats ofte hofsteede gen:t <span style="border-bottom: 2px dotted #FF0000;">Rijgersdaal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Liesbeeks Rivier</span> welke volgens daarvan zijnde
 		  transport op de naam bekend staad van d’ edele Petrus Johannes de Wit, dog
 		  volgens onderhandse acte de dato 12 August:s 1758 werkelijk opgem:e overleedene
 		  Blanckenberg toebehorende</td>
     </tr>
     <tr>
-      <td>een plaats ofte hofsteede genaamt, geleegen aan de sogenaamdeaan deonder ’t Caabse district aan den
+      <td>een plaats ofte hofsteede genaamt <span style="border-bottom: 2px dotted #FF0000;">Keert de Koe</span> , geleegen aan de sogenaamde <span style="border-bottom: 2px dotted #FF0000;">Oliphantskop</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Blauweberg</span> onder ’t Caabse district aan den
 		  overleeden blijkens erfgrondbrief in eigendom verleend</td>
     </tr>
   </tbody>
@@ -127098,68 +127125,68 @@ Nota, zijnde overigens in voorsz:e bureau of Engelsch comptoir,
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cesar van Souratte</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cesar van Souratte</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">December van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">December van
 		Cijlon</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mosis van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mosis van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Barcat van Bengalen</span> welken door wijlen mevrouwe C:H: ten Damme wed:e wijlen den wel ed: gestr: heer
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Barcat van Bengalen</span> welken door wijlen mevrouwe C:H: ten Damme wed:e wijlen den wel ed: gestr: heer
 		Maurits van Aarden aan den edele overleedene blijkens handschrift in dato 15
 		Febr: 1753 geschonken is, onder conditie dat denselven nooijt verkogt, maar
 		zijn levenlang onder de kinderen van gem:e E: Blanckenberg diens sal moeten
 		doen</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Sophia van Bengalen</span> met
-		haar kind gen:t <span style="border-bottom: 2px dotted #008000;">Pamela van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Sophia van Bengalen</span> met
+		haar kind gen:t <span style="border-bottom: 2px dotted #00FF00;">Pamela van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Sophia van
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Sophia van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Beroe van Bougies</span></td>
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Beroe van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Leonora van de
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Leonora van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Lea van Mallabaar</span> , zijnde
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Lea van Mallabaar</span> , zijnde
 		ten eenemale lam en onbequaam</td>
     </tr>
     <tr>
-      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Rosetta van Bengalen</span> welke door wijlen s:r Joh:s Paulus Eksteen, als blijkens transport hem
+      <td>1 slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosetta van Bengalen</span> welke door wijlen s:r Joh:s Paulus Eksteen, als blijkens transport hem
 		toebehorende aan den overleedene E: Blanckenberg volgens missive van den 10
 		December 1755 ter dispositie is toegesonden, blijvende gem:e slavinne in der de
 		juff:w weduwe in dier voegen continueeren</td>
     </tr>
     <tr>
-      <td>1 slave mijsje genaamt <span style="border-bottom: 2px dotted #008000;">Susanna van de Caab</span> ,
+      <td>1 slave mijsje genaamt <span style="border-bottom: 2px dotted #00FF00;">Susanna van de Caab</span> ,
 		welke aan Christina Magdalena Blanckenberg is gelegateerd</td>
     </tr>
   </tbody>
 </table>
 
-Op voorsz: plaatsin ’t
+Op voorsz: plaats <span style="border-bottom: 2px dotted #FF0000;">Rijgersdaal</span> in ’t
 	 woonhuijs en aldaar
 
 <table>
@@ -128168,59 +128195,59 @@ Op voorsz: plaatsin ’t
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Forthuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Forthuijn van
 		Balij</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jason van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jason van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Apollus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Apollus van
 		Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van
 		Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Portugees van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Portugees van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Damon van Batavia</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Damon van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Tacitus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Tacitus van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Bengaalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Damon van Mallabaar</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Damon van Mallabaar</span></td>
     </tr>
   </tbody>
 </table>
 
-Op voorsz: plaats, in ’t
+Op voorsz: plaats <span style="border-bottom: 2px dotted #FF0000;">Keert de Koe</span> , in ’t
 	 woonhuijs en aldaar
 
 <table>
@@ -128884,39 +128911,39 @@ Op voorsz: plaats, in ’t
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Piet Snap van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet Snap van de
 		Caab</span></td>
-      <td>deese slave jonge <span style="border-bottom: 2px dotted #008000;">Piet Snap</span> blijft aan
+      <td>deese slave jonge <span style="border-bottom: 2px dotted #00FF00;">Piet Snap</span> blijft aan
 		de juff:w wed:e volg:s Heeren Weesm:ren resol: van den 8 Feb: 1773</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Isacq van de Caab</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Isacq van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Hector van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Hector van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Galant van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Galant van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Patientie van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Patientie van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Floris van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Floris van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Sambawa</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Sambawa</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Apollos van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Apollos van
 		Ternatie</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van Java</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van Java</span></td>
     </tr>
   </tbody>
 </table>
@@ -128961,7 +128988,7 @@ Op voorsz: plaats, in ’t
     <tr>
       <td>bij de boedelreek:g opgebragt</td>
       <td>den boekhouder en
-		Secretaris tots:r Johannes
+		Secretaris tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> s:r Johannes
 		Blanckenberg volgens boek p:r rest</td>
       <td>1053:32</td>
     </tr>
@@ -129013,7 +129040,7 @@ Op voorsz: plaats, in ’t
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>den insig bevinde
+      <td>den in <span style="border-bottom: 2px dotted #FF0000;">Indien</span> sig bevinde
 		  krankbesoeker Matthias Fred:k Palm op twee onderhandse
 		  obligatien</td>
       <td>100:--</td>
@@ -129105,23 +129132,23 @@ Op voorsz: plaats, in ’t
     </tr>
     <tr>
       <td>aan den hoog edelen heere P:A: van der Parra, Gouverneur Generaal
-		vanp:r
+		van <span style="border-bottom: 2px dotted #FF0000;">Nederlands India</span> p:r
 		rest</td>
       <td>236:47</td>
     </tr>
     <tr>
       <td>aan den wel ed: gestr: heer Rijnier van Vlissingen Gouverneur en
-		Directeur te</td>
+		Directeur te <span style="border-bottom: 2px dotted #FF0000;">Nagapatnam</span></td>
       <td>741:42</td>
     </tr>
     <tr>
-      <td>aan de heer Jan van Wanningen totp:r rest ƒ416:7:8
+      <td>aan de heer Jan van Wanningen tot <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> p:r rest ƒ416:7:8
 		of</td>
       <td>173:24</td>
     </tr>
     <tr>
       <td>aan juff:w Christina Mulder wed:e wijlen de heer Johannes Tobias
-		Rhenius totover het geene onder den
+		Rhenius tot <span style="border-bottom: 2px dotted #FF0000;">Lubecq</span> over het geene onder den
 		overleedene als haar Ed: gemagtigde aan restant p:r cassa is berustende
 		geweest</td>
       <td>13991:39</td>
@@ -129142,7 +129169,7 @@ Op voorsz: plaats, in ’t
     <tr>
       <td>Rudolf Fredrik Blanckenberg over een aan hem
 		gelegteerde ledicant, welke meede niet kan genieten mitsg:s voor de waarde van
-		een ring als even rd:s50 in steede van den slave jonge <span style="border-bottom: 2px dotted #008000;">Isaak van de Caab</span> volgens
+		een ring als even rd:s50 in steede van den slave jonge <span style="border-bottom: 2px dotted #00FF00;">Isaak van de Caab</span> volgens
 		codicil rd:s130</td>
       <td>180:--</td>
     </tr>
@@ -129155,7 +129182,7 @@ Op voorsz: plaats, in ’t
       <td>en dewijl ook is komen te blijken dat door wijl d’
 		E: Johannes Henricus Blanckenberg aan deselve in steede van den aan haar
 		gelegateerde somma van ƒ500 volgens onderhandse acte geschonken is geworden
-		een slave mijsje gen:t <span style="border-bottom: 2px dotted #008000;">Candasa
+		een slave mijsje gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa
 		van de Caab</span> en zij overigens betuijgd heeft dat eenige van haar spaarpot
 		nog restant geweest zijnde penningen, insgelijx aan haar sijn uijtgekeert, soo
 		komt de deesen aangaande bij codicil gemaakte dispositie hiermeede te
@@ -129179,7 +129206,7 @@ Mij praesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.60
 
- {17730610} 10 Junij 1773 <span style="border-bottom: 2px dotted #008000;">Anna Margaretha van der
+ {17730610} 10 Junij 1773 <span style="border-bottom: 2px dotted #00FF00;">Anna Margaretha van der
 	 Heijde</span> 
 
 v: Plettenberg
@@ -129201,7 +129228,7 @@ Inventaris der goederen ab intestato metter dood ontruijmt door juffrouw
 		  edele Petrus Joh:s de Wit</td>
     </tr>
     <tr>
-      <td>3) Johannes Blanckenberg geweesen boekhouder en Secretaris tot</td>
+      <td>3) Johannes Blanckenberg geweesen boekhouder en Secretaris tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
       <td>4) Alberta Blanckenberg gehuwt met den gerepatrieerden oud
@@ -130252,24 +130279,24 @@ Linnengoed gelijk het eeven voorgaande in agt eguale deelen verdeelt en
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Piet Snap van de
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet Snap van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slavinne <span style="border-bottom: 2px dotted #008000;">Beroe van Bougies</span></td>
+      <td>een slavinne <span style="border-bottom: 2px dotted #00FF00;">Beroe van Bougies</span></td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Barcat van Bougies</span> zijnde
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Barcat van Bougies</span> zijnde
 		door wijlen mevrouwe de weduwe Van Aarden aan wijlen d’ edele Blanckenberg
 		geschonken, dog onder voorwaarde van nooijt te mogen werden verkogt, maar zijn
 		leeven lang onder desselfs kinderen diens te moeten doen</td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rosetta van Bengalen</span> welke uijt den gemeenen boedel van wijlen d’ edele Blanckenberg onder de
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rosetta van Bengalen</span> welke uijt den gemeenen boedel van wijlen d’ edele Blanckenberg onder de
 		juffrouw weduwe is blijven continueeren, als zijnde door wijlen s:r Johannes
 		Paulus Eksteen aan d’ edele Blanckenberg ter dispositie toegesonden, sonder
 		die slavinne aan denselven in eijgendom te hebben afgestaan</td>
@@ -130304,7 +130331,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.61
 
- {17720916} 16 September 1772 <span style="border-bottom: 2px dotted #008000;">Hilletje Verschuur</span> 
+ {17720916} 16 September 1772 <span style="border-bottom: 2px dotted #00FF00;">Hilletje Verschuur</span> 
 
 v: Plettenberg
 
@@ -130340,7 +130367,7 @@ Inventaris van alle sodanige goederen als in den ouderdom van 97 jaaren op
     </tr>
     <tr>
       <td rowspan='3' style='vertical-align: middle;'>2) der overledene drie kindskinderen, zijnde kinderen
-		  van haar zoon den oud heemraad aanmon:r Hendrik Hop, met namen</td>
+		  van haar zoon den oud heemraad aan <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span> mon:r Hendrik Hop, met namen</td>
       <td>a) Susanna Hop gehuuwt met Adriaan
 		  Louw Adriaansz:</td>
     </tr>
@@ -130351,7 +130378,7 @@ Inventaris van alle sodanige goederen als in den ouderdom van 97 jaaren op
       <td>c) Jan Hendrik Hop oud 20 jaaren</td>
     </tr>
     <tr>
-      <td>3) Anna Margaretha Hop huijsvrouw van den oudheemraad totmons:r Marten Melk en</td>
+      <td>3) Anna Margaretha Hop huijsvrouw van den oudheemraad tot <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> mons:r Marten Melk en</td>
     </tr>
     <tr>
       <td>4) Christiaan Fredrik Hop</td>
@@ -130367,11 +130394,11 @@ Opgenomen ten overstaan van d’ E:E:s gecomm:e Weesmeesteren, beneevens
   <tbody>
     <tr>
       <td>Een huijs en erf staande ende geleegen in
-		  deesein ’ten aldaarblijkens laaste transport de dato 5:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok K:K:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 1 en 2</span> blijkens laaste transport de dato 5:e
 		  November 1716 zijnde der overledene woonhuijs</td>
     </tr>
     <tr>
-      <td>een huijs en erf geleegen in deesein ’ten aldaar een gedeelte vanuijtwijsende ’t laaste transport
+      <td>een huijs en erf geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in ’t <span style="border-bottom: 2px dotted #FF0000;">Blok K:K:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">N:o 3 en 4</span> uijtwijsende ’t laaste transport
 		  van den 9:e Julij 1721</td>
     </tr>
   </tbody>
@@ -131627,13 +131654,13 @@ In ’t eerstgem:e huijs zijnde het sterfhuijs en aldaar
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cobus van de Caab</span></td>
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cobus van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave meijd gen:t <span style="border-bottom: 2px dotted #008000;">Janna van de Caab</span></td>
+      <td>een slave meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Janna van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pieter Thomasz: van de
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pieter Thomasz: van de
 		Caab</span></td>
     </tr>
     <tr>
@@ -131645,7 +131672,7 @@ In ’t eerstgem:e huijs zijnde het sterfhuijs en aldaar
 		mogt werden voldaan</td>
     </tr>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Damon van
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Damon van
 		Maccassar</span></td>
     </tr>
   </tbody>
@@ -131836,7 +131863,7 @@ Mij preesent: O:G: de Wet, Secret:s
 ## MOOC8/14.62
 
  {17730923} 23 September
-	 1773 <span style="border-bottom: 2px dotted #008000;">Johanna
+	 1773 <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Catharina van de Caab</span> 
 
 v: Plettenberg
@@ -132142,18 +132169,18 @@ In een huurhuijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Manus van Maccasser</span> gekogt onder conditie dat dien slaaf nooijt aan een ander zal mogen werden
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Manus van Maccasser</span> gekogt onder conditie dat dien slaaf nooijt aan een ander zal mogen werden
 		verkogt</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Bengalen</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Calister van Bengalen</span> kostende rd:s45 onder beding dat die slavinne nooijt onder den burger Hendrik
-		Geerard desselfs huijsvrouw ofte de hare zal mogen komen, en hare twee kinderen <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span> oud 2
-		jaren, <span style="border-bottom: 2px dotted #008000;">Jacob van de Caab</span> nog zuijgende</td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Calister van Bengalen</span> kostende rd:s45 onder beding dat die slavinne nooijt onder den burger Hendrik
+		Geerard desselfs huijsvrouw ofte de hare zal mogen komen, en hare twee kinderen <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span> oud 2
+		jaren, <span style="border-bottom: 2px dotted #00FF00;">Jacob van de Caab</span> nog zuijgende</td>
       <td>300</td>
     </tr>
     <tr>
@@ -132192,7 +132219,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.63a
 
- {17731007} 7 October 1773 <span style="border-bottom: 2px dotted #008000;">Ernst Hendrik van
+ {17731007} 7 October 1773 <span style="border-bottom: 2px dotted #00FF00;">Ernst Hendrik van
 	 Bilioen</span> 
 
 v: Plettenberg
@@ -132243,7 +132270,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Pieter Marais
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats gen:t</td>
+      <td>Een opstal staande op de leeningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Nooijtgedagt</span></td>
       <td>50:--</td>
     </tr>
     <tr>
@@ -132433,7 +132460,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/14.63b
 
- {17730924} 24 September 1773 <span style="border-bottom: 2px dotted #008000;">Ernst Henderik van
+ {17730924} 24 September 1773 <span style="border-bottom: 2px dotted #00FF00;">Ernst Henderik van
 	 Bilioen</span> 
 
 v: Plettenberg
@@ -132446,7 +132473,7 @@ Inventaris van den boedel weijle de wedeuwe Cornelia van Emmenes ten
 <table>
   <tbody>
     <tr>
-      <td>Een plaats in lening genaamt</td>
+      <td>Een plaats in lening genaamt <span style="border-bottom: 2px dotted #FF0000;">Nooijt Gedogt</span></td>
     </tr>
     <tr>
       <td>veijf paarde</td>
@@ -132549,7 +132576,7 @@ Als getuijgen geleijk het bevonden is: Pieter Marais Charl z:n, D:
 ## MOOC8/14.64
 
  {17731006} 6 October
-	 1773 <span style="border-bottom: 2px dotted #008000;">Hendrik Rasch</span> 
+	 1773 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Rasch</span> 
 
 v: Plettenberg
 
@@ -132764,7 +132791,7 @@ Voor den opgaaf: Johanna de Hoog wedewe Hendrik Ras
 
 ## MOOC8/14.65a
 
- {17731105} 5 November 1773 <span style="border-bottom: 2px dotted #008000;">Christiaan Schut</span> 
+ {17731105} 5 November 1773 <span style="border-bottom: 2px dotted #00FF00;">Christiaan Schut</span> 
 
 v: Plettenberg
 
@@ -132809,7 +132836,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Louis van Wijk
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamt de, geleegen aan deagter de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hase Jagt</span> , geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Oliphantsrivier</span> agter de <span style="border-bottom: 2px dotted #FF0000;">Cango</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -133086,7 +133113,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Louis van Wijk
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philander van
+      <td>1 slaave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philander van
 		Mallabaar</span></td>
       <td>100</td>
     </tr>
@@ -133137,7 +133164,7 @@ Mij praesent: J:s W:s Blanckenberg, gesw:e Clercq
 
 ## MOOC8/14.65b
 
- {17731105} 5 November 1773 <span style="border-bottom: 2px dotted #008000;">Christiaan Schut</span> 
+ {17731105} 5 November 1773 <span style="border-bottom: 2px dotted #00FF00;">Christiaan Schut</span> 
 
 <table>
   <tbody>
@@ -133154,7 +133181,7 @@ Mij praesent: J:s W:s Blanckenberg, gesw:e Clercq
       <td>3 paarde</td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">mans
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaaf</span></td>
     </tr>
     <tr>
@@ -133382,7 +133409,7 @@ Dat is de handteijken van Pieter Labubuschanie
 <table>
   <tbody>
     <tr>
-      <td>Nota: een leeningsplaats genaamt degeleegen aan deagter de</td>
+      <td>Nota: een leeningsplaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Hazejagt</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Oliphantsrivier</span> agter de <span style="border-bottom: 2px dotted #FF0000;">Cango</span></td>
     </tr>
   </tbody>
 </table>
@@ -133390,7 +133417,7 @@ Dat is de handteijken van Pieter Labubuschanie
 ## MOOC8/14.66
 
  {17731115} 15 November
-	 1773 <span style="border-bottom: 2px dotted #008000;">Henrietta
+	 1773 <span style="border-bottom: 2px dotted #00FF00;">Henrietta
 	 Willemina Wederholt</span> 
 
 Staat en inventaris van alle de goederen nagelaten by wylen Henrietta
@@ -133406,7 +133433,7 @@ Ter requisitie en versoeke van d’ voorn: Jakob Mombergen gedaan
 		  staande huysinge</td>
     </tr>
     <tr>
-      <td>een slaave jongen genaamd <span style="border-bottom: 2px dotted #008000;">Alexander</span></td>
+      <td>een slaave jongen genaamd <span style="border-bottom: 2px dotted #00FF00;">Alexander</span></td>
     </tr>
   </tbody>
 </table>
@@ -133612,7 +133639,7 @@ Verklaarende sy ondergeteekende te syn alle de goederen welke Henrietta
 	 Willemina Wederholt met de doot heeft komen te ontruymen en nagelaaten, en
 	 thans onder de directie van mons:r Jakob Mombergsen zyn
 
-Gedaan aan deden 15 Novemb:
+Gedaan aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span> den 15 Novemb:
 	 1773.
 
 Johann Joachim Swegten, Johan Christophs Dennert als getuygen hiertoe
@@ -133630,7 +133657,7 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
     </tr>
     <tr>
       <td>Verhipoteect op het erff volgens d’
-		  inventaris staande ende geleegen aan denaby de kerk groot 2 morgen lands eerstelyk aan deselve kerk een capitaal
+		  inventaris staande ende geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span> naby de kerk groot 2 morgen lands eerstelyk aan deselve kerk een capitaal
 		  van</td>
       <td>1000</td>
     </tr>
@@ -133665,7 +133692,7 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
       <td>ƒ</td>
     </tr>
     <tr>
-      <td>Jan Fillje d’ oude woonagtig op</td>
+      <td>Jan Fillje d’ oude woonagtig op <span style="border-bottom: 2px dotted #FF0000;">Drakensteyn</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -133673,27 +133700,28 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
       <td>36:--</td>
     </tr>
     <tr>
-      <td>J:C: Dennert aan de</td>
+      <td>J:C: Dennert aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>39:--</td>
     </tr>
     <tr>
-      <td>Pieter Fillje Pietersz: agter de</td>
+      <td>Pieter Fillje Pietersz: agter de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>15:--</td>
     </tr>
     <tr>
-      <td>Abraham Bosman aan de</td>
+      <td>Abraham Bosman aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>12:--</td>
     </tr>
     <tr>
-      <td>d wed:w Hop aan de</td>
+      <td>d wed:w Hop aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>57:--</td>
     </tr>
     <tr>
-      <td>Ad:r Louw Ad:rzoon aan de</td>
+      <td>Ad:r Louw Ad:rzoon aan de <span style="border-bottom: 2px dotted #FF0000;">Drooge
+		valey</span></td>
       <td>24:--</td>
     </tr>
     <tr>
-      <td>J:A: Baard aan de</td>
+      <td>J:A: Baard aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>45:12</td>
     </tr>
     <tr>
@@ -133701,7 +133729,7 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
       <td>72:--</td>
     </tr>
     <tr>
-      <td>Daniel Rossouw aan de</td>
+      <td>Daniel Rossouw aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>15:--</td>
     </tr>
     <tr>
@@ -133709,7 +133737,7 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
       <td>21:--</td>
     </tr>
     <tr>
-      <td>C:J: Vermeulen</td>
+      <td>C:J: Vermeulen <span style="border-bottom: 2px dotted #FF0000;">Overberg</span></td>
       <td>75:--</td>
     </tr>
     <tr>
@@ -133717,11 +133745,11 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
       <td>12:--</td>
     </tr>
     <tr>
-      <td>R:A: Suijthoff aan de</td>
+      <td>R:A: Suijthoff aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>6:10</td>
     </tr>
     <tr>
-      <td>Adolph Jonker, koster aan de</td>
+      <td>Adolph Jonker, koster aan de <span style="border-bottom: 2px dotted #FF0000;">Paerel</span></td>
       <td>[ ..... ]</td>
     </tr>
     <tr>
@@ -133759,7 +133787,7 @@ Notitie van alle de schulden waarmede de nagelaate boedel van Henrietta
 ## MOOC8/15.1a
 
  {17740210} 10 Februarij
-	 1774 <span style="border-bottom: 2px dotted #008000;">Maria Elizabeth
+	 1774 <span style="border-bottom: 2px dotted #00FF00;">Maria Elizabeth
 	 de Buijs</span> 
 
 v: Plettenberg
@@ -133804,7 +133832,8 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Nicolaas
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofseede gen:t degeleegen aan devan</td>
+      <td>Een plaats ofte hofseede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Hartebeeste Kraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Middeldrift</span> van <span style="border-bottom: 2px dotted #FF0000;">Vals
+		  Revier</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -134127,37 +134156,37 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Nicolaas
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van de
 		Caab</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Slaban van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Slaban van
 		Bougies</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Meij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Meij van
 		Timor</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philander van
 		Timor</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cardoes van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cardoes van
 		Mallabaar</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Catrijn van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Catrijn van de
 		Caab</span></td>
       <td>100</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rosa van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosa van
 		Bengaalen</span></td>
       <td>100</td>
     </tr>
@@ -134230,7 +134259,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.1b
 
- {17731110} 10 November 1773 <span style="border-bottom: 2px dotted #008000;">Maria Elizabeth de
+ {17731110} 10 November 1773 <span style="border-bottom: 2px dotted #00FF00;">Maria Elizabeth de
 	 Buijs</span> 
 
 Inventaris van de boedel van Johannes Frederik Jansen van Rensburg
@@ -134243,16 +134272,16 @@ Inventaris van de boedel van Johannes Frederik Jansen van Rensburg
     </tr>
     <tr>
       <td>Een eigendoms plaats: de opstal van een
-		  leenings plaatz genaamd degeleegen aan devan</td>
+		  leenings plaatz genaamd de <span style="border-bottom: 2px dotted #FF0000;">Hartebeest Kraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Middel Drift</span> van <span style="border-bottom: 2px dotted #FF0000;">Vals Rivier</span></td>
       <td>200:--</td>
     </tr>
     <tr>
-      <td>5 <span style="border-bottom: 2px dotted #008000;">man
+      <td>5 <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaaven</span></td>
       <td>500:--</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinnen</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinnen</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -134546,7 +134575,7 @@ Nicolaes Jansz: van Rinsburgh Johannis soon, Daniel
 ## MOOC8/15.1c
 
  {17740202} 2
-	 Februarij 1774 <span style="border-bottom: 2px dotted #008000;">Maria
+	 Februarij 1774 <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Elizabeth de Buijs</span> 
 
 Invontarus van den boedel van Johannes Fredrik Jansen van Rensburg bestaad
@@ -134555,15 +134584,15 @@ Invontarus van den boedel van Johannes Fredrik Jansen van Rensburg bestaad
 <table>
   <tbody>
     <tr>
-      <td>Een eygendoms plaats genamd degeleegen aan devandaar min de reconietie van
+      <td>Een eygendoms plaats genamd de <span style="border-bottom: 2px dotted #FF0000;">Hartebeest Kraal</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Middel Drift</span> van <span style="border-bottom: 2px dotted #FF0000;">Vals Ravier</span> daar min de reconietie van
 		  betaalt</td>
     </tr>
     <tr>
-      <td>5 <span style="border-bottom: 2px dotted #008000;">man
+      <td>5 <span style="border-bottom: 2px dotted #00FF00;">man
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinne</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinne</span></td>
     </tr>
     <tr>
       <td>19 paarde</td>
@@ -134898,7 +134927,7 @@ Al dus gedaan den 2: Febrearij 1774.
 
 ## MOOC8/15.2
 
- {17740318} 18 Maart 1774 <span style="border-bottom: 2px dotted #008000;">Johanna Adriana van
+ {17740318} 18 Maart 1774 <span style="border-bottom: 2px dotted #00FF00;">Johanna Adriana van
 	 Jambij</span> 
 
 Inventaris van alle sodanige goederen als metter dood zijn ontruijmt ende
@@ -135074,7 +135103,7 @@ C: Nelson
 ## MOOC8/15.3a
 
  {17740319} 19
-	 Maart 1774 <span style="border-bottom: 2px dotted #008000;">Elsje
+	 Maart 1774 <span style="border-bottom: 2px dotted #00FF00;">Elsje
 	 Botha</span> 
 
 v: Plettenberg
@@ -135114,7 +135143,7 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Johannes
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  genaamt [ ..... ] gelegen onder de,
+		  genaamt [ ..... ] gelegen onder de <span style="border-bottom: 2px dotted #FF0000;">Cango</span> ,
 		  welke door den weduwenaar staat verlaten te werden</td>
     </tr>
     <tr>
@@ -135218,8 +135247,8 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Johannes
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Hanna van Mosambicq</span> met
-		haar kind gen:t <span style="border-bottom: 2px dotted #008000;">Jonas van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Hanna van Mosambicq</span> met
+		haar kind gen:t <span style="border-bottom: 2px dotted #00FF00;">Jonas van de
 		Caab</span></td>
       <td>150</td>
     </tr>
@@ -135273,7 +135302,7 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Johannes
       <td>2:24</td>
     </tr>
     <tr>
-      <td>aan de Boode tot</td>
+      <td>aan de Boode tot <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>16:--</td>
     </tr>
     <tr>
@@ -135306,7 +135335,7 @@ Mij praesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.3b
 
- {17740222} 22 Februarij 1774 <span style="border-bottom: 2px dotted #008000;">Elsje Botha</span> 
+ {17740222} 22 Februarij 1774 <span style="border-bottom: 2px dotted #00FF00;">Elsje Botha</span> 
 
 Inventaris van mijn Daniel Andries Zwart gewardeert en opgeschreeven in
 	 present van dese twe onderstaande getuijgen
@@ -135318,7 +135347,7 @@ Inventaris van mijn Daniel Andries Zwart gewardeert en opgeschreeven in
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slaafin</span> met haar <span style="border-bottom: 2px dotted #008000;">kint</span> te
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slaafin</span> met haar <span style="border-bottom: 2px dotted #00FF00;">kint</span> te
 		  zamen</td>
       <td>150:--:--</td>
     </tr>
@@ -135450,7 +135479,7 @@ Inventaris van mijn Daniel Andries Zwart gewardeert en opgeschreeven in
   </tbody>
 </table>
 
-den 22 Februarij 1774
+ <span style="border-bottom: 2px dotted #FF0000;">Cango</span> den 22 Februarij 1774
 
 Als getuijgen geteekent: Johannes Streijdom, Pieter van
 		Smittenberg
@@ -135458,7 +135487,7 @@ Als getuijgen geteekent: Johannes Streijdom, Pieter van
 ## MOOC8/15.4a
 
  {17740407} 7
-	 April 1774 <span style="border-bottom: 2px dotted #008000;">David van
+	 April 1774 <span style="border-bottom: 2px dotted #00FF00;">David van
 	 Heerden</span> 
 
 v: Plettenberg
@@ -135492,7 +135521,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Hendrik van der
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  genaamtgeleegen aan de, voor een derde gedeelte bij den
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Matjeshoekvalleij</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Sneeuberg</span> , voor een derde gedeelte bij den
 		  overleedene, en twee derde bij Carel van Heerde beseeten
 		  werdende</td>
       <td>8</td>
@@ -135568,7 +135597,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.4b
 
- {17731123} 23 November 1773 <span style="border-bottom: 2px dotted #008000;">David van Heere</span> 
+ {17731123} 23 November 1773 <span style="border-bottom: 2px dotted #00FF00;">David van Heere</span> 
 
 Opgaaf van de opgenomen goederen van de overledene David van Heere is
 	 overleden den 19 November in het jaar onses Heren 1773 en nagelaten de weduwe
@@ -135603,13 +135632,13 @@ Opgaaf van de opgenomen goederen van de overledene David van Heere is
 Welke seijn getelt en opgenomen van dese ondertekene getuijgen die dies
 	 eygenhan: heeft onder tekent
 
-den 23 November 1773
+ <span style="border-bottom: 2px dotted #FF0000;">Sneuberg</span> den 23 November 1773
 
 H: v:d: Merwe, Karel van Heere
 
 ## MOOC8/15.5
 
- {17740719} 19 Julij 1774 <span style="border-bottom: 2px dotted #008000;">Adriaan Hendriksz: van
+ {17740719} 19 Julij 1774 <span style="border-bottom: 2px dotted #00FF00;">Adriaan Hendriksz: van
 	 Bengalen</span> 
 
 Inventaris van alle zodanige goederen als ab intestato metter dood zijn
@@ -135935,7 +135964,7 @@ Ter onser praesentie: F:k Hurlingh, J:s L:s Waldpot
 
 ## MOOC8/15.6
 
- {17740727} 27 Julij 1774 <span style="border-bottom: 2px dotted #008000;">Johannes Jonas Wendt</span> 
+ {17740727} 27 Julij 1774 <span style="border-bottom: 2px dotted #00FF00;">Johannes Jonas Wendt</span> 
 
 Inventaris van alle zodanige goederen als ab intestato metter dood zijn
 	 ontruijmt ende nagelaten door den burger Johannes Jonas Wendt, ten voordeele
@@ -136118,7 +136147,7 @@ Ter onser preesentie: F:k Hurlingh, J:H:
 
 ## MOOC8/15.7a
 
- {17740901} 1 September 1774 <span style="border-bottom: 2px dotted #008000;">Johannes Stephanus Marais</span> 
+ {17740901} 1 September 1774 <span style="border-bottom: 2px dotted #00FF00;">Johannes Stephanus Marais</span> 
 
 Hemmij
 
@@ -136164,7 +136193,7 @@ sodanig ende indiervoegen als deselve door de landbouwers Jan Geijsbert
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 stuk lands geleegen in 't, zijnde door den vorigen
+      <td>1 stuk lands geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> , zijnde door den vorigen
 		  edele heer gouverneur Van der Stel aan wijlen den landbouwer Louw Pretorius bij
 		  een simpel briefje in eijgendom vergunt geworden, en indiervoegen bij verkoop
 		  thans aan den overleeden in bezit geraakt van den meede landbouwer Johannes
@@ -136410,7 +136439,7 @@ sodanig ende indiervoegen als deselve door de landbouwers Jan Geijsbert
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Apollos van Timor</span> zijnde
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Apollos van Timor</span> zijnde
 		gebrekkelijk</td>
       <td>50:--</td>
     </tr>
@@ -136482,17 +136511,17 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.7b
 
- {17740824} 24 Augustus 1774 <span style="border-bottom: 2px dotted #008000;">Johannes Stevanus
+ {17740824} 24 Augustus 1774 <span style="border-bottom: 2px dotted #00FF00;">Johannes Stevanus
 	 Marais</span> 
 
 Eventaris der boedel van mejuffrouw Marta Elizabeth du Toit weduwe wijle
-	 Johannes Stevanus Marais in leeven land bouwer in het't geen zij weduwe voorn: aan ons
+	 Johannes Stevanus Marais in leeven land bouwer in het <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> 't geen zij weduwe voorn: aan ons
 	 onderteekende als getuijge vertoond heeft te bezitten in alles na waarheid
 
 <table>
   <tbody>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">manne
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">manne
 		  slaaff</span></td>
     </tr>
     <tr>
@@ -136657,12 +136686,12 @@ Eventaris der boedel van mejuffrouw Marta Elizabeth du Toit weduwe wijle
 Zijnde wij als getuyge: Jan Geijsbert Olivier, Pieter Marais Charl
 		z:n
 
-den 24 August 1774.
+ <span style="border-bottom: 2px dotted #FF0000;">Waveren</span> den 24 August 1774.
 
 <table>
   <tbody>
     <tr>
-      <td>Een plaats ofte hofsteede geleegen in 't, zijnde een geweesene Comp:s
+      <td>Een plaats ofte hofsteede geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> , zijnde een geweesene Comp:s
 		  post, van den landb:r Joh:s Lodevicus Pretorius gekogt en aan denzelven
 		  betaalt, dog voor als nog niet getransporteerd.</td>
     </tr>
@@ -136734,7 +136763,7 @@ den 24 August 1774.
 ## MOOC8/15.8a
 
  {17740923} 23 September
-	 1774 <span style="border-bottom: 2px dotted #008000;">Maria
+	 1774 <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Catharina Dieppenaar</span> 
 
 Hemmij
@@ -136821,12 +136850,12 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Jacob
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">September van de
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">September van de
 		Caab</span></td>
       <td rowspan='2' style='vertical-align: middle;'>200</td>
     </tr>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Mallebaar</span></td>
     </tr>
   </tbody>
@@ -136911,7 +136940,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.8b
 
- {17740923} 23 September 1774 <span style="border-bottom: 2px dotted #008000;">Maria Cathariena Dieppenaar</span> 
+ {17740923} 23 September 1774 <span style="border-bottom: 2px dotted #00FF00;">Maria Cathariena Dieppenaar</span> 
 
 Bekendmaakinghe
 
@@ -136921,7 +136950,7 @@ Aan de Edele Heer Secretarius van de E:E: Heere Weesmeesteren, weegens den
 <table>
   <tbody>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaaven</span></td>
     </tr>
     <tr>
@@ -136990,7 +137019,7 @@ Als getuijgen: Jacob Mouton, Hend:k Johan Haudt
 ## MOOC8/15.8 1/2
 
  {17740930} 30
-	 September 1774 <span style="border-bottom: 2px dotted #008000;">Johannes Matthijs Penade</span> 
+	 September 1774 <span style="border-bottom: 2px dotted #00FF00;">Johannes Matthijs Penade</span> 
 
 Inventarium van de weeduwe Johannese Matthijs Penade, geboorenee Hermiena
 	 Booijs, aan den President en Heeren van de Weeskaamer
@@ -137062,8 +137091,8 @@ Als getuijge: Hermanes Steijn, J:E: Braumeissell
   <tbody>
     <tr>
       <td>tot de nalatenschap behoord nog een
-		  leningsplaats gen:t degelegen aan
-		  de</td>
+		  leningsplaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Gelukshoop</span> gelegen aan
+		  de <span style="border-bottom: 2px dotted #FF0000;">Droge Rivier</span></td>
     </tr>
   </tbody>
 </table>
@@ -137150,7 +137179,7 @@ Dit merk is + door Hermina Booijsz:e wed:e Johannes Matthijs Penade
 ## MOOC8/15.9
 
  {17741014} 14 October
-	 1774 <span style="border-bottom: 2px dotted #008000;">Margaretha
+	 1774 <span style="border-bottom: 2px dotted #00FF00;">Margaretha
 	 Roux</span> 
 
 <table>
@@ -137211,7 +137240,7 @@ Dit merk is + door Hermina Booijsz:e wed:e Johannes Matthijs Penade
       <td>twee katels 2 rexdalders</td>
     </tr>
     <tr>
-      <td>een ouwen <span style="border-bottom: 2px dotted #008000;">slaaf</span></td>
+      <td>een ouwen <span style="border-bottom: 2px dotted #00FF00;">slaaf</span></td>
     </tr>
     <tr>
       <td>een Beybel 10 rexdaald:</td>
@@ -137270,7 +137299,7 @@ O:G: de Wet, Secret:s
 
 ## MOOC8/15.9 1/2a
 
- {17740708} 8 Julij 1774 <span style="border-bottom: 2px dotted #008000;">Christiaan Bester</span> 
+ {17740708} 8 Julij 1774 <span style="border-bottom: 2px dotted #00FF00;">Christiaan Bester</span> 
 
 J: v: Plettenberg
 
@@ -137315,12 +137344,12 @@ sodanig ende indiervoegen als deselve ten overstaan van de ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede gen:t degeleegen aan de</td>
+      <td>Een plaats ofte hofsteede gen:t de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Fonteijn</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Diepe Revier</span></td>
       <td>666:32</td>
     </tr>
     <tr>
       <td>een opstal, staande op de leeningsplaats
-		  gen:tgeleegen in 't</td>
+		  gen:t <span style="border-bottom: 2px dotted #FF0000;">Bloemendaals Fonteijn</span> geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Swartland</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -137668,45 +137697,45 @@ sodanig ende indiervoegen als deselve ten overstaan van de ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">April van Bougies</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Louster van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Louster van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cleevast van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cleevast van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Elias van Bengalen</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Elias van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diena van Mallabaar</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diena van Mallabaar</span></td>
     </tr>
     <tr>
       <td>3 slaven kinderen, met naamen</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">December</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">December</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Mariana</span> en</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mariana</span> en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Spasie</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Spasie</span></td>
     </tr>
     <tr>
       <td>zijnde voorsz:e elf slaven te samen getaxeert
@@ -137896,7 +137925,7 @@ Mij preesent: O:G: de Wet, Secret:s
 ## MOOC8/15.9 1/2b
 
  {17740708} 8 Julij
-	 1774 <span style="border-bottom: 2px dotted #008000;">Christiaan
+	 1774 <span style="border-bottom: 2px dotted #00FF00;">Christiaan
 	 Bester</span> 
 
 Inventaris van alle sodanige goederen als door den landbouwer Christiaan
@@ -137935,41 +137964,41 @@ Soodanig als door de ondergeteekende hier toe versogt syn en opgenoomen en
 <table>
   <tbody>
     <tr>
-      <td>1 ygendoms plaats genaamt de</td>
+      <td>1 ygendoms plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Olivants Fonteyn</span></td>
     </tr>
     <tr>
-      <td>1 leenings plaats genaamt</td>
+      <td>1 leenings plaats genaamt <span style="border-bottom: 2px dotted #FF0000;">Bloemedaals Fonteyn</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">April van Boegies</span></td>
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">April van Boegies</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Baatje van Macaser</span></td>
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatje van Macaser</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Louster van
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Louster van
 		  Boegies</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Klevast van
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Klevast van
 		  Boegies</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Elias van Bengalen</span></td>
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Elias van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		  Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 mans slaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		  Mallebaare</span></td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Dina van Mallebaare</span></td>
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Dina van Mallebaare</span></td>
     </tr>
     <tr>
-      <td>3 slaven kinderen met naame <span style="border-bottom: 2px dotted #008000;">December</span> , <span style="border-bottom: 2px dotted #008000;">Mariana</span> en <span style="border-bottom: 2px dotted #008000;">Spasie</span></td>
+      <td>3 slaven kinderen met naame <span style="border-bottom: 2px dotted #00FF00;">December</span> , <span style="border-bottom: 2px dotted #00FF00;">Mariana</span> en <span style="border-bottom: 2px dotted #00FF00;">Spasie</span></td>
     </tr>
     <tr>
       <td>24 trek osse</td>
@@ -138318,7 +138347,7 @@ Soodanig als door de ondergeteekende hier toe versogt syn en opgenoomen en
 ## MOOC8/15.10a
 
  {17741101} 1 November
-	 1774 <span style="border-bottom: 2px dotted #008000;">Sara van Dijk</span> 
+	 1774 <span style="border-bottom: 2px dotted #00FF00;">Sara van Dijk</span> 
 
 Hemmij
 
@@ -138349,15 +138378,15 @@ zodanig ende indiervoegen als deselve door opgem:e weduwenaar zijn
     </tr>
     <tr>
       <td>Een opstal staande op de leningsplaats gen:t
-		  degeleegen over deaan de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Mietjes Fonteijn</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Doorn Rivier</span></td>
       <td rowspan='3' style='vertical-align: middle;'>100:--</td>
     </tr>
     <tr>
-      <td>een opstal staande op de leningsplaats gen:tgeleegen over deaan de</td>
+      <td>een opstal staande op de leningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Gerustheijd</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Doorn Rivier</span></td>
     </tr>
     <tr>
       <td>een opstal staande op de leningsplaats gen:t
-		  degeleegen over deaan de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Langekuijl</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Doorn Rivier</span></td>
     </tr>
     <tr>
       <td>6 tinne tafel borden</td>
@@ -138424,7 +138453,7 @@ zodanig ende indiervoegen als deselve door opgem:e weduwenaar zijn
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slaavejonge gen:t <span style="border-bottom: 2px dotted #008000;">Willem van
+      <td>1 slaavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Willem van
 		Madagascar</span></td>
       <td>100:--</td>
       <td>NB: begerende den weduwenaar
@@ -138433,22 +138462,22 @@ zodanig ende indiervoegen als deselve door opgem:e weduwenaar zijn
 		zal verblijven</td>
     </tr>
     <tr>
-      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #008000;">Arij van
+      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Arij van
 		Bengalen</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #008000;">Meij van
+      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Meij van
 		Bougies</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #008000;">August van
+      <td>1 slavejonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van
 		Bougies</span></td>
       <td>100:--</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Spacie van de Caab</span> , door
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Spacie van de Caab</span> , door
 		den weduwenaar aan desselfs in den hoofde gen:t dogtertje geschonken</td>
     </tr>
     <tr>
@@ -138501,7 +138530,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.10b
 
- {17741101} 1 Novemb: 1774 <span style="border-bottom: 2px dotted #008000;">Sara van Dijk</span> 
+ {17741101} 1 Novemb: 1774 <span style="border-bottom: 2px dotted #00FF00;">Sara van Dijk</span> 
 
 Inventarium ofte bewijs wat aangaande den boedel van mij eijndes
 	 ondergeteekende als volgt
@@ -138538,7 +138567,7 @@ Als borgen: Wil:m Burger de ouden, J:n Wil:m Burger Wil:m
 ## MOOC8/15.11a
 
  {17741111} 1
-	 November 1774 <span style="border-bottom: 2px dotted #008000;">Maria
+	 November 1774 <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Elisabeth Cortje</span> 
 
 Hemmij
@@ -138578,12 +138607,12 @@ opgenomen en ingeschrifte gebracht door de meede burgers Harmanus Steijn
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats gen:t
-		  degeleegen aan degetaxeert
+		  de <span style="border-bottom: 2px dotted #FF0000;">Bakkelijs Drift</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Breede Rivier</span> getaxeert
 		  op</td>
       <td>50</td>
     </tr>
     <tr>
-      <td>een opstal op de leeningsplaats hetmeede aan degelegen</td>
+      <td>een opstal op de leeningsplaats het <span style="border-bottom: 2px dotted #FF0000;">Melkhoute Bosch</span> meede aan de <span style="border-bottom: 2px dotted #FF0000;">Breede Rivier</span> gelegen</td>
       <td>50</td>
     </tr>
   </tbody>
@@ -138758,11 +138787,11 @@ opgenomen en ingeschrifte gebracht door de meede burgers Harmanus Steijn
     </tr>
     <tr>
       <td>aan d' E: Comp:e over 3 jaren agterstal op de
-		plaats de</td>
+		plaats de <span style="border-bottom: 2px dotted #FF0000;">Bakkelijs Drift</span></td>
       <td>75:--</td>
     </tr>
     <tr>
-      <td>gelijkmeede op de plaats heteen
+      <td>gelijkmeede op de plaats het <span style="border-bottom: 2px dotted #FF0000;">Melkhoute Bosch</span> een
 		maand</td>
       <td>2:--</td>
     </tr>
@@ -138789,7 +138818,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.11b
 
- {17740802} 2 Augustus 1774 <span style="border-bottom: 2px dotted #008000;">Maria Elisabeth
+ {17740802} 2 Augustus 1774 <span style="border-bottom: 2px dotted #00FF00;">Maria Elisabeth
 	 Cortje</span> 
 
 Opgave
@@ -138918,13 +138947,13 @@ Aan de Heer Praesident en Weesheeren, van Godfried Heijts
 
 Als getuijgen: Hermanus Steyn, J:E: Braumeisell
 
-geleegen aan, den 2 Augustus 1774
+ <span style="border-bottom: 2px dotted #FF0000;">Bakaleij Plaats Drift</span> geleegen aan <span style="border-bottom: 2px dotted #FF0000;">Breed Rivier</span> , den 2 Augustus 1774
 
-geleegen aanden 2 August 1774.
+ <span style="border-bottom: 2px dotted #FF0000;">Bakaleijplaats Drift</span> geleegen aan <span style="border-bottom: 2px dotted #FF0000;">Breed Rivier</span> den 2 August 1774.
 
 ## MOOC8/15.11 1/2
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Johannes Hendrik
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Johannes Hendrik
 	 Venter</span> 
 
 Getakzeer den boedel van Johanna Maria Buijs wed:e Joh:s Hendrik
@@ -139128,12 +139157,13 @@ Als getuijgen: Charel du Plesie de jonge, Pieter Venter Hendrik soon,
 		geweest, namentlijk:</td>
     </tr>
     <tr>
-      <td>degelegen in 't11 jaren 10
+      <td>de <span style="border-bottom: 2px dotted #FF0000;">Oorlogsfontijne</span> gelegen in 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> 11 jaren 10
 		m:e</td>
       <td>284:--</td>
     </tr>
     <tr>
-      <td>demeede als evengen:e gelegen 12 jar: 5
+      <td>de <span style="border-bottom: 2px dotted #FF0000;">Drup
+		Fonteijn</span> meede als evengen:e gelegen 12 jar: 5
 		m:</td>
       <td>298:--</td>
     </tr>
@@ -139153,7 +139183,7 @@ Als getuijgen: Charel du Plesie de jonge, Pieter Venter Hendrik soon,
 ## MOOC8/15.12a
 
  {17740113} 13 Januarij
-	 1774 <span style="border-bottom: 2px dotted #008000;">Pieter van der
+	 1774 <span style="border-bottom: 2px dotted #00FF00;">Pieter van der
 	 Westhuijsen</span> 
 
 J: v: Plettenberg
@@ -139234,7 +139264,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.12b
 
- {17731223} 23 December 1773 <span style="border-bottom: 2px dotted #008000;">Pieter van de Westhuijsen</span> 
+ {17731223} 23 December 1773 <span style="border-bottom: 2px dotted #00FF00;">Pieter van de Westhuijsen</span> 
 
 De besitting van de weduwe van Pieter van de Westhuijsen
 
@@ -139273,7 +139303,7 @@ Gerret Jacobus Koekemoer, Diederik Koekemoer
 
 ## MOOC8/15.12 1/2
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Claas Prinslo</span> , <span style="border-bottom: 2px dotted #008000;">Geesje Nel</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Claas Prinslo</span> , <span style="border-bottom: 2px dotted #00FF00;">Geesje Nel</span> 
 
 En invintaris
 
@@ -139383,7 +139413,7 @@ Inventaris des boedels van Claas Prinslo en zijn overledene huis vrouw
 ## MOOC8/15.13
 
  {1773} [ ..... ]
-	 1773 <span style="border-bottom: 2px dotted #008000;">Chrisjan d'
+	 1773 <span style="border-bottom: 2px dotted #00FF00;">Chrisjan d'
 	 Jager</span> 
 
 Inventares van Chrisjan d' Jager
@@ -139391,16 +139421,16 @@ Inventares van Chrisjan d' Jager
 <table>
   <tbody>
     <tr>
-      <td>De opstal genaamt</td>
+      <td>De opstal genaamt <span style="border-bottom: 2px dotted #FF0000;">Spiegel Revier</span></td>
     </tr>
     <tr>
-      <td>en d'gellegen en d'</td>
+      <td>en d' <span style="border-bottom: 2px dotted #FF0000;">Melkhoutekraal</span> gellegen en d' <span style="border-bottom: 2px dotted #FF0000;">Vlakte</span></td>
     </tr>
     <tr>
-      <td>fier <span style="border-bottom: 2px dotted #008000;">manslaaven</span></td>
+      <td>fier <span style="border-bottom: 2px dotted #00FF00;">manslaaven</span></td>
     </tr>
     <tr>
-      <td>twee <span style="border-bottom: 2px dotted #008000;">slaafwenne</span></td>
+      <td>twee <span style="border-bottom: 2px dotted #00FF00;">slaafwenne</span></td>
     </tr>
     <tr>
       <td>tien paarden</td>
@@ -139741,8 +139771,8 @@ Christiaan de Jager, J:A: Holtshausen, Daniel du Plesie
 ## MOOC8/15.13 1/2a
 
  {17721022} 22
-	 October 1772 <span style="border-bottom: 2px dotted #008000;">Jacobus
-	 Vivié</span> , <span style="border-bottom: 2px dotted #008000;">Martje
+	 October 1772 <span style="border-bottom: 2px dotted #00FF00;">Jacobus
+	 Vivié</span> , <span style="border-bottom: 2px dotted #00FF00;">Martje
 	 Besuijdenhout</span> 
 
 Copia
@@ -139753,7 +139783,7 @@ Inventaris des boedels van wijlen den landbouwer Jacobus Vivié en
 <table>
   <tbody>
     <tr>
-      <td>1 opstal staende op de leningsplaats gen:t degelegen over de</td>
+      <td>1 opstal staende op de leningsplaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Heuningbosch</span> gelegen over de <span style="border-bottom: 2px dotted #FF0000;">Gaurits Revier</span></td>
     </tr>
     <tr>
       <td>32 hoepels</td>
@@ -139964,11 +139994,11 @@ Erfgenamen der overledene weduwe Martje Besuijdenhout ter eenree en ter
 	 door Pieter Vivie opgebragt en bij de heer Hemmij verkogt.
 
 Dat zij de wagen uijtgeleend heeft aan Fredrik Wilkens die daar meede een
-	 togt aan deese zijde overheeft gedaan waardoor de wagen verslimmert zoude zijn.
+	 togt aan deese zijde over <span style="border-bottom: 2px dotted #FF0000;">Hottentots Hollands Cloof</span> heeft gedaan waardoor de wagen verslimmert zoude zijn.
 
 ## MOOC8/15.13 1/2b
 
- {YYYY} 5 November [ ..... ] <span style="border-bottom: 2px dotted #008000;">Jacobus Vivié</span>  <span style="border-bottom: 2px dotted #008000;">Martje Besuijdenhout</span> 
+ {YYYY} 5 November [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Jacobus Vivié</span>  <span style="border-bottom: 2px dotted #00FF00;">Martje Besuijdenhout</span> 
 
 <table>
   <tbody>
@@ -140148,11 +140178,11 @@ Johan Gotthilff Joonn, Cornelis van Rooijen
 Woond bij haar schoonsoon Nicolaas Claasz: de wed:e moet de helfte der
 	 recognitie daar voor betaalen.
 
-Den 5 9:br Donderdag op de plaats van Nicolaas Claasz: de
+Den 5 9:br Donderdag op de plaats van Nicolaas Claasz: de <span style="border-bottom: 2px dotted #FF0000;">Lange Touw</span> 
 
 ## MOOC8/15.14
 
- {17740606} 6 Junij 1774 <span style="border-bottom: 2px dotted #008000;">Agatha Blom</span> 
+ {17740606} 6 Junij 1774 <span style="border-bottom: 2px dotted #00FF00;">Agatha Blom</span> 
 
 v: Plettenberg
 
@@ -140299,16 +140329,16 @@ Zodanig als deselve door de ondergeteekende gecommitteerde Weesmeesteren
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Charl van Bengalen</span></td>
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Charl van Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Anna van de Caab</span></td>
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Anna van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slavekind gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>een slavekind gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slavekind gen:t <span style="border-bottom: 2px dotted #008000;">Dina van de Caab</span></td>
+      <td>een slavekind gen:t <span style="border-bottom: 2px dotted #00FF00;">Dina van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -140323,7 +140353,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.15
 
- {17730223} 23 Februarij 1773 <span style="border-bottom: 2px dotted #008000;">Maria Magdalena Mijer</span> 
+ {17730223} 23 Februarij 1773 <span style="border-bottom: 2px dotted #00FF00;">Maria Magdalena Mijer</span> 
 
 v: Plettenberg
 
@@ -140338,7 +140368,7 @@ Inventaris van alle sodanige goederen ende crediten als metter dood
 <table>
   <tbody>
     <tr>
-      <td>1) Jacob Pieter de Nijs, thans Secunde en Cassier te</td>
+      <td>1) Jacob Pieter de Nijs, thans Secunde en Cassier te <span style="border-bottom: 2px dotted #FF0000;">Sadraspatnam</span></td>
     </tr>
     <tr>
       <td>2) Aletta Elsje de Nijs gehuuwd met den vaandrig militaire s:r
@@ -140360,13 +140390,13 @@ Opgenomen ende g'inventariseert, ten overstaan van de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erff staande ende geleegen in
-		  deeseop de hoek van de soo
-		  genaamdeenblijkens twee laatste transporten
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> op de hoek van de soo
+		  genaamde <span style="border-bottom: 2px dotted #FF0000;">Zeestraat</span> en <span style="border-bottom: 2px dotted #FF0000;">Heere Gragt</span> blijkens twee laatste transporten
 		  de datis 6:e Julij 1754 en 10:e Jannuarij 1755</td>
     </tr>
     <tr>
       <td>een huijs en erff meede staande ende geleegen
-		  in deseuitwijsens laatste
+		  in dese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> uitwijsens laatste
 		  transport de dato 2:e December 1767</td>
     </tr>
   </tbody>
@@ -142214,151 +142244,151 @@ In het eerstgemelde huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Willem van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Willem van
 		Batavia</span></td>
       <td rowspan='4' style='vertical-align: middle;'>de vier nevens aangehaalde slaven zijn bij
 		het opgem:e testament aan s:r Jacob Pieter de Nijs gelegateerd</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Titus van de Caab</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Titus van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Damon van de Caab</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Damon van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bougies</span></td>
       <td>aan Agatha Susanna de Nijs vermaakt teegens
 		rd:s100</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Moesoe van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Moesoe van
 		Boegies</span></td>
       <td>aan Aletta Elsje de Nijs vermaakt teegens
 		rd:s100</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Gallant van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Gallant van
 		Mandaar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Lakkeij van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Lakkeij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Mandaar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Geduld van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Geduld van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Caron van Ternaten</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Caron van Ternaten</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Favoriet van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Favoriet van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mosambique</span></td>
     </tr>
     <tr>
-      <td>slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Appol van Mallabaar</span></td>
+      <td>slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Appol van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Adonis van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Adonis van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Maccassar</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Achillis van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Achillis van
 		Tutocorijn</span></td>
     </tr>
     <tr>
-      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #008000;">Dappat van
+      <td>een slave jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Dappat van
 		Bougies</span></td>
       <td rowspan='4' style='vertical-align: middle;'>de vier aangehaalde slave mogen niet werden
 		verkogt maar hebben de keuse bij wie der erfgenamen zij wonen willen</td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Judith van
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Judith van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Clarinda van
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Clarinda van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Diana van Rio de Lagoa</span></td>
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Diana van Rio de Lagoa</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Calister van
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Calister van
 		Madagascar</span></td>
       <td rowspan='5' style='vertical-align: middle;'>dese vijf slavinnen Calister, Pamela,
 		Silvia, Juliana en Galathe zijn aan Alletta Elsje de Nijs gelegateerd</td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Pamela van de Caab</span></td>
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Pamela van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Juliana van de
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Juliana van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Galathé van de
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Galathé van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Martha van de Caab</span> beneeven haare ses kindern als:</td>
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Martha van de Caab</span> beneeven haare ses kindern als:</td>
       <td rowspan='7' style='vertical-align: middle;'>de neevensgem:e slavinne
 		Martha met haar ses kinderen zijn aan Agatha Susanna de Nijs gelegateerd</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Diana
+      <td><span style="border-bottom: 2px dotted #00FF00;">Diana
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Ontong
+      <td><span style="border-bottom: 2px dotted #00FF00;">Ontong
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Amij van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Amij van
 		de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Africa
+      <td><span style="border-bottom: 2px dotted #00FF00;">Africa
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jephta
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jephta
 		van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Patra van Paticallo</span> met
-		haar kind genaamd <span style="border-bottom: 2px dotted #008000;">Spazie van de
+      <td>een slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Patra van Paticallo</span> met
+		haar kind genaamd <span style="border-bottom: 2px dotted #00FF00;">Spazie van de
 		Caab</span></td>
     </tr>
   </tbody>
@@ -142549,7 +142579,7 @@ Kleederen, mitsgaders goud en silver tot lighaams gebruijk van wijlen s:r
       <td>&nbsp;</td>
       <td>den burger Christoffel Lombaar over een
 		  onderhandse obligatie van 13:e Maart 1766 over koop van een slave jongen
-		  genaamt <span style="border-bottom: 2px dotted #008000;">Plutus van
+		  genaamt <span style="border-bottom: 2px dotted #00FF00;">Plutus van
 		  Bwool</span></td>
       <td>130:--</td>
     </tr>
@@ -142562,7 +142592,7 @@ Kleederen, mitsgaders goud en silver tot lighaams gebruijk van wijlen s:r
       <td>&nbsp;</td>
       <td>den burger Johannes le Roes de jonge op een
 		  onderhandse obligatie van den 13:e November 1764 over koop van een slave jongen
-		  genaamt <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+		  genaamt <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		  Bougies</span> p:r rest zijnde den intrest hierop
 		  effen</td>
       <td>100:--</td>
@@ -142609,7 +142639,7 @@ Voor den opgaaf: J:A: Bleumer
 Mij preesent: O:G: de Wet, Secrets:
 
 Huiden den 10:e Junij 1773 heeft s:r Johan Arnold Bleumer nog opgegeeven,
-	 dat de heer David Julius van Aitsma totuit deesen boedel te goed heeft de somma van
+	 dat de heer David Julius van Aitsma tot <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> uit deesen boedel te goed heeft de somma van
 	 een honderd vijf en negentig rijxd:s over in annis 1772/3 aan de juffrouw
 	 overledene geremitteerde penningen over gezondene goederen, ende zulx naar
 	 aftrek van het geene door dezelve juffrouw aan zijn E: in tegendeel weeder aan
@@ -142656,7 +142686,7 @@ O:G: de Wet, Secret:s
 
 ## MOOC8/15.16
 
- {17740910} 10 September 1774 <span style="border-bottom: 2px dotted #008000;">Jacobus Willem Blanckenberg</span> 
+ {17740910} 10 September 1774 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Willem Blanckenberg</span> 
 
 Hemmij
 
@@ -142670,10 +142700,10 @@ Inventaris van alle zodanige goederen als op den 6:e deeser metter dood
 <table>
   <tbody>
     <tr>
-      <td>1) juffrouw Catharina Blanckenberg gehuwt met den resident ins:r Christoffel Brand</td>
+      <td>1) juffrouw Catharina Blanckenberg gehuwt met den resident in <span style="border-bottom: 2px dotted #FF0000;">Baijfals</span> s:r Christoffel Brand</td>
     </tr>
     <tr>
-      <td>2) den oud boekhouder en secretaris vanmons:r Johannes
+      <td>2) den oud boekhouder en secretaris van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> mons:r Johannes
 		  Blanckenberg,</td>
     </tr>
     <tr>
@@ -142736,7 +142766,7 @@ Zijde wijders, aangesien welgem:e Heeren Weesmeesteren bij het gerepte
   <tbody>
     <tr>
       <td>Een huijs en erf staande ende geleegen in
-		  deeseop de hoek van de, uijtwijsens laatste
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> op de hoek van de <span style="border-bottom: 2px dotted #FF0000;">Eliphants Straat</span> , uijtwijsens laatste
 		  transport de dato 31:e Julij 1770</td>
     </tr>
   </tbody>
@@ -143494,33 +143524,33 @@ In het evengem:e huijs
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">December van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">December van
 		Ceijlon</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diana van Bengalen</span></td>
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diana van Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Klara van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Klara van
 		Bengalen</span></td>
       <td rowspan='2' style='vertical-align: middle;'>Nota, de beijde laastgem:e leijfeijgenen
 		Klara en Fortuijn moeten agtervolgens des overleedens uitterste wille met
 		believen der hoge overigheijd alhier uijt slavernij werden g'emancipeerd</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van de
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>een slave meijsje genaamt <span style="border-bottom: 2px dotted #008000;">Philida van de
+      <td>een slave meijsje genaamt <span style="border-bottom: 2px dotted #00FF00;">Philida van de
 		Caab</span></td>
       <td>zijnde door den overleedene aan desselfs in den hoofde
 		genoemde zuster Johanna Ernestina Blanckenberg gepreelegateerd, onder conditie
@@ -143568,7 +143598,7 @@ In het evengem:e huijs
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>aan de slavinne <span style="border-bottom: 2px dotted #008000;">Klara van Bengalen</span> , over
+      <td>aan de slavinne <span style="border-bottom: 2px dotted #00FF00;">Klara van Bengalen</span> , over
 		het bij voorm:e testament gemaakte legaat</td>
       <td>200</td>
     </tr>
@@ -143737,7 +143767,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.17
 
- {17740312} 12 Maart 1774 <span style="border-bottom: 2px dotted #008000;">Willem van Wyk</span> 
+ {17740312} 12 Maart 1774 <span style="border-bottom: 2px dotted #00FF00;">Willem van Wyk</span> 
 
 Specificatie wat 'er op de plaats van den overleedenen Willem van Wyk A:r
 	 zoon bevonden zyn in present van de twee ondergeteekende getuygen
@@ -143976,7 +144006,7 @@ Specificatie wat 'er op de plaats van den overleedenen Willem van Wyk A:r
       <td>1 brandewyns keetel en helm houdende 1/2 aam</td>
     </tr>
     <tr>
-      <td>1 brandewyns keetel staande by jonge Barend Lubbe aan de</td>
+      <td>1 brandewyns keetel staande by jonge Barend Lubbe aan de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span></td>
     </tr>
     <tr>
       <td>2 booter vaate</td>
@@ -144073,10 +144103,10 @@ Specificatie wat 'er op de plaats van den overleedenen Willem van Wyk A:r
       <td>3 saadels en toome</td>
     </tr>
     <tr>
-      <td>5 <span style="border-bottom: 2px dotted #008000;">mans-slaaven</span></td>
+      <td>5 <span style="border-bottom: 2px dotted #00FF00;">mans-slaaven</span></td>
     </tr>
     <tr>
-      <td>de woonplaats geleegen op de onderstegenaamt de</td>
+      <td>de woonplaats geleegen op de onderste <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> genaamt de <span style="border-bottom: 2px dotted #FF0000;">Vondeling</span></td>
     </tr>
   </tbody>
 </table>
@@ -144115,14 +144145,14 @@ Aan brieve is bevonden als volgt
 		  stuk</td>
     </tr>
     <tr>
-      <td>no: 6 handschrift aan Karel Krieger Jacobs zoon woonende in 'tvan</td>
+      <td>no: 6 handschrift aan Karel Krieger Jacobs zoon woonende in 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> van</td>
       <td>50:--</td>
     </tr>
     <tr>
       <td>no: 7 van 16 ramme a 13 rd:s 't stuk</td>
     </tr>
     <tr>
-      <td>no: 8 van 10 ossen verkogt aan Jan Nieuwoud de jonge aan dea 8 rd:s 't stuk - NB. heeft de
+      <td>no: 8 van 10 ossen verkogt aan Jan Nieuwoud de jonge aan de <span style="border-bottom: 2px dotted #FF0000;">Sanddrift</span> a 8 rd:s 't stuk - NB. heeft de
 		  ossen terug gegeven in den boedel</td>
     </tr>
     <tr>
@@ -144134,7 +144164,7 @@ Aan brieve is bevonden als volgt
 		  p:p:</td>
     </tr>
     <tr>
-      <td>no: 11 transport van een <span style="border-bottom: 2px dotted #008000;">slaaf</span></td>
+      <td>no: 11 transport van een <span style="border-bottom: 2px dotted #00FF00;">slaaf</span></td>
     </tr>
     <tr>
       <td>no: 12 moet betaalt worden aan signeur Brink a Caap</td>
@@ -144163,7 +144193,7 @@ Verders versoeken wy mede erfgenaamen dat ons de Heeren Weesmeesters niet
 
 Als getuygen Joh: Hendr: Eyman
 
-den 12 Mert 1774.
+ <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> den 12 Mert 1774.
 
 Van Burger Kervel
 
@@ -144222,7 +144252,7 @@ Willem van Wijk Arijsz: welke plaatsen in leening heeft, en hoveel daar op
 <table>
   <tbody>
     <tr>
-      <td>Een plaats gen:t de, gel: agter deover de5 jaren en 4 maanden ten agteren
+      <td>Een plaats gen:t de <span style="border-bottom: 2px dotted #FF0000;">Vondeling</span> , gel: agter de <span style="border-bottom: 2px dotted #FF0000;">Picquet Bergen</span> over de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span> 5 jaren en 4 maanden ten agteren
 		  gereek: tot den 9 April 1774</td>
     </tr>
   </tbody>
@@ -144239,7 +144269,7 @@ Willem van Wijk Arijsz: welke plaatsen in leening heeft, en hoveel daar op
 ## MOOC8/15.18
 
  {17750602} 2 Junij
-	 1775 <span style="border-bottom: 2px dotted #008000;">Pieter
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Pieter
 	 Jacobus Hendrik Breemker</span> 
 
 Hemmij
@@ -144405,7 +144435,7 @@ ende zulks ter plaatsvullinge van gem:e hunnen vooraflijvig geworden
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Maart van Bengalen</span></td>
+      <td>een slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van Bengalen</span></td>
     </tr>
   </tbody>
 </table>
@@ -144451,7 +144481,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.19
 
- {17740806} 6 Augustus 1774 <span style="border-bottom: 2px dotted #008000;">Jacob Fredrik
+ {17740806} 6 Augustus 1774 <span style="border-bottom: 2px dotted #00FF00;">Jacob Fredrik
 	 Nothling</span> 
 
 Hemmij
@@ -144465,7 +144495,7 @@ Inventaris van alle sodanige goederen als er ab intestato metter dood zijn
   <tbody>
     <tr>
       <td>1) den oud burger vaandrig en adjutant ter deeser plaatse
-		  Benjamin Nothling, mitsgaders verders de drie volgende innog in weesen zijnde staken, volgens
+		  Benjamin Nothling, mitsgaders verders de drie volgende in <span style="border-bottom: 2px dotted #FF0000;">Europa</span> nog in weesen zijnde staken, volgens
 		  opgaaf van evengem:e Nothling, te weeten</td>
     </tr>
     <tr>
@@ -144488,7 +144518,7 @@ Opgenomen en bij de ondergetek:e gecommitteerde Weesmeesteren bevonden te
   <tbody>
     <tr>
       <td>Een huijs en erf, staande ende geleegen in
-		  deesein 'ten aldaar een gedeelte vanblijkens laatste transport van 20:e
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok N:N:</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">No: 5 en 7</span> blijkens laatste transport van 20:e
 		  November 1760</td>
     </tr>
   </tbody>
@@ -145879,7 +145909,7 @@ In het evengem:e huijs
   <thead><tr><td colspan='100%'>Leijfeijgen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Bougies</span></td>
     </tr>
   </tbody>
@@ -145929,7 +145959,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.20
 
- {17741129} 29 November 1774 <span style="border-bottom: 2px dotted #008000;">Lowisa Cordje</span> 
+ {17741129} 29 November 1774 <span style="border-bottom: 2px dotted #00FF00;">Lowisa Cordje</span> 
 
 Inventaris der naargelaatene goederen van den overledene Lowisa Cordje
 	 weduwe wijle den burger Jacob Pienard, als volgt
@@ -146232,21 +146262,21 @@ Inventaris der naargelaatene goederen van den overledene Lowisa Cordje
       <td>partij Franse boeken</td>
     </tr>
     <tr>
-      <td>1 manslaaf, <span style="border-bottom: 2px dotted #008000;">van Madagaske genaamt
+      <td>1 manslaaf, <span style="border-bottom: 2px dotted #00FF00;">van Madagaske genaamt
 		November</span></td>
     </tr>
     <tr>
-      <td>1 manslaaf, <span style="border-bottom: 2px dotted #008000;">van Mallabaar, genaamt
+      <td>1 manslaaf, <span style="border-bottom: 2px dotted #00FF00;">van Mallabaar, genaamt
 		April</span></td>
     </tr>
     <tr>
-      <td>1 oude slaavinne genaamt <span style="border-bottom: 2px dotted #008000;">Vloora</span></td>
+      <td>1 oude slaavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Vloora</span></td>
     </tr>
   </tbody>
 </table>
 
 Aldus gedaan en naukeurig naar gesien en aannoteert ter presentie der
-	 ondergetekende, daartoe versogte persoonen den 29 November 1774.
+	 ondergetekende, daartoe versogte persoonen den 29 November 1774. <span style="border-bottom: 2px dotted #FF0000;">Wagen-makers Vallye</span> 
 
 Als getuijgen: Charel du Plesie Janz:, D: Malan, Jacob de Villiers Jan
 		P:z
@@ -146254,7 +146284,7 @@ Als getuijgen: Charel du Plesie Janz:, D: Malan, Jacob de Villiers Jan
 ## MOOC8/15.21
 
  {17750608} 8 Junij
-	 1775 <span style="border-bottom: 2px dotted #008000;">Barend Mijer</span> 
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Barend Mijer</span> 
 
 Hemmij
 
@@ -146281,7 +146311,7 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erf staande ende geleegen in
-		  deesein 'ten aldaaren een gedeelte van, blijkens transport de dato 30:e Junij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok L:L:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">N:o 11</span> en een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">No: 12</span> , blijkens transport de dato 30:e Junij
 		  1762</td>
     </tr>
   </tbody>
@@ -146767,21 +146797,21 @@ In het evengem:e huijs en aldaar
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Adonis van de Caab</span></td>
+      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>een slafe jongen genaamt <span style="border-bottom: 2px dotted #008000;">Pedro van Bengalen</span></td>
+      <td>een slafe jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Pedro van Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Lacqueij van
+      <td>een slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Lacqueij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Candasa van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Candasa van
 		Boegies</span></td>
     </tr>
   </tbody>
@@ -146811,7 +146841,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.22
 
- {17750410} 10 April 1775 <span style="border-bottom: 2px dotted #008000;">Margareta Pijl</span> 
+ {17750410} 10 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Margareta Pijl</span> 
 
 Inventaris der boedel en goed'ren nagelaten door Margareta Pijl overleeden
 	 den 12 Maert anno 1775.
@@ -146820,14 +146850,14 @@ Inventaris der boedel en goed'ren nagelaten door Margareta Pijl overleeden
   <tbody>
     <tr>
       <td>Een leenings plaets sorteerende onder de
-		  colonie vangenaemt de</td>
+		  colonie van <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> genaemt de <span style="border-bottom: 2px dotted #FF0000;">Elephants Doorn Rivier</span></td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span> waer van een absent is</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavin</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavin</span></td>
     </tr>
     <tr>
       <td>81 beesten</td>
@@ -147248,12 +147278,12 @@ Jacob Diederics
 
 ## MOOC8/15.23
 
- {17741119} 19 November 1774 <span style="border-bottom: 2px dotted #008000;">Johannes Groenewald</span> 
+ {17741119} 19 November 1774 <span style="border-bottom: 2px dotted #00FF00;">Johannes Groenewald</span> 
 
 v: Plettenberg
 
 Inventaris van alle zodanige goederen als ex testamento sub 25 December
-	 1733 voor den doenmaligen secretaris vanenmons:r Daniel Godfried Karnspek en
+	 1733 voor den doenmaligen secretaris van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> en <span style="border-bottom: 2px dotted #FF0000;">Drakenstijn</span> mons:r Daniel Godfried Karnspek en
 	 getuigen opgeregt, metter dood zijn ontruimd ende nagelaten door mons:r
 	 Johannes Groenewald, ten voordeele van desselfs huisvrouw thans weduwe
 	 Margaretha Hatting, mitsgaders zijne uit dat huwelijk voortkomende kind en
@@ -147291,7 +147321,7 @@ Inventaris van alle zodanige goederen als ex testamento sub 25 December
     </tr>
     <tr>
       <td rowspan='6' style='vertical-align: middle;'>4) de door wijlen Clara Francina Groenewald bij den
-		  heemraad vanmons:r Johan
+		  heemraad van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> mons:r Johan
 		  Bernhard Hofman in huwelijk verwekte en nog in leven zijnde ses onmondige
 		  kinderen, in namen</td>
       <td>Willem Daniel</td>
@@ -147352,7 +147382,7 @@ zodanig ende indiervoegen als den boedel bij Heeren Weesmeesteren
   <tbody>
     <tr>
       <td>Twee plaatsen ofte hofsteedens gelegen onder
-		  't district vangenaamten, blijkens laatste transport van den 5:e Maij
+		  't district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> genaamt <span style="border-bottom: 2px dotted #FF0000;">Idaa's Valleij</span> en <span style="border-bottom: 2px dotted #FF0000;">Nazaret</span> , blijkens laatste transport van den 5:e Maij
 		  1730, welke evengem:e twee plaatsen de in den hoofde gen:e weduwe expresselijk
 		  bedongen heeft, dat dezelve, als door haar aan haren meede in den hoofde gen:e
 		  klijnzoon Samuel Johannes Cats voor een somma van ƒ10000 in drie eguale
@@ -147365,34 +147395,35 @@ zodanig ende indiervoegen als den boedel bij Heeren Weesmeesteren
     </tr>
     <tr>
       <td>een plaats ofte hofsteede meede onder het
-		  gem:e district vangeleegen
-		  genaamt, blijkens daar van zijnde
+		  gem:e district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> geleegen
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Saxenburg</span> , blijkens daar van zijnde
 		  transport de dato 1:e Maart 1763</td>
     </tr>
     <tr>
       <td>een plaats ofte hofsteede als de voorgaande
-		  geleegen onder het district van,
-		  genaamtuitwijsens transport sub
+		  geleegen onder het district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> ,
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Veelverjaagt</span> uitwijsens transport sub
 		  30 Januarij 1770</td>
     </tr>
     <tr>
       <td>een huis en erf staande ende geleegen in 't
-		  dorp, nader belend ende bepaald,
+		  dorp <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , nader belend ende bepaald,
 		  als het daar van op den 9:e Junij 1761 verleende transport komt aan te
 		  tonen</td>
     </tr>
     <tr>
-      <td>een huis en erf staande ende geleegen in deen aldaar een gedeelte vaningevolge transport en bijgevoegde
+      <td>een huis en erf staande ende geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> en aldaar een gedeelte van <span style="border-bottom: 2px dotted #FF0000;">No: 8</span> ingevolge transport en bijgevoegde
 		  caart, de dato 11:e Januarij 1770</td>
     </tr>
     <tr>
       <td>een opstal staande op de leningsplaat genaamt
-		  deover hetgeleegen</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Harte Beeste Rivier</span> over het <span style="border-bottom: 2px dotted #FF0000;">Hottentots Hollands gebergte</span> geleegen</td>
     </tr>
   </tbody>
 </table>
 
-Op de eerstgem:e plaats de, en aldaar in het woonhuis
+Op de eerstgem:e plaats de <span style="border-bottom: 2px dotted #FF0000;">Idaa's
+	 Valleij</span> , en aldaar in het woonhuis
 
 <table>
   <thead><tr><td colspan='100%'>In het voorhuis</td></tr></thead>
@@ -147940,7 +147971,7 @@ Op de eerstgem:e plaats de, en aldaar in het woonhuis
   </tbody>
 </table>
 
-Op de plaatsen aldaar in het
+Op de plaats <span style="border-bottom: 2px dotted #FF0000;">Saxenburg</span> en aldaar in het
 	 woonhuis
 
 <table>
@@ -148165,7 +148196,7 @@ Op de plaatsen aldaar in het
   </tbody>
 </table>
 
-Zullende het geene zig op de leeningsplaats over hetbevind, apart
+Zullende het geene zig op de leeningsplaats over het <span style="border-bottom: 2px dotted #FF0000;">Hottentots Holland gebergte</span> bevind, apart
 	 opgenomen en deezen inventaris daar meede geamplieert werden.
 
 De volgende goederen zijn door de wed:e uit hoofde van haar hier onder
@@ -148207,86 +148238,86 @@ De volgende goederen zijn door de wed:e uit hoofde van haar hier onder
   <thead><tr><td colspan='100%'>Lijfeigenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Gerrit van de Caab</span></td>
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Gerrit van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Adam van de Caab</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Adam van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Herodes van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Herodes van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Samson van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Samson van
 		Madagascar</span></td>
       <td>den slaaf Samson is gedurende het openstaan des
 		boedels overleden</td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Anthonij van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Anthonij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen genaamt <span style="border-bottom: 2px dotted #008000;">Sijmon van
+      <td>1 slavejongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Sijmon van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Titus van Dima</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Titus van Dima</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">John van Mosambique</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">John van Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bougies</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Arend van Bengalen</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Arend van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van Bengalen</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Alias van Bengalen</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Alias van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Thomas van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Thomas van
 		Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Cesar van Mallebaar</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cesar van Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Bachus van
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Bachus van
 		Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #008000;">Mars van Mallebaar</span></td>
+      <td>1 slavejongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Mars van Mallebaar</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Lijs van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Lijs van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Dorothea van de Caab</span> met
-		haare vijf kinderen in namen <span style="border-bottom: 2px dotted #008000;">Abraham van de Caab</span> , <span style="border-bottom: 2px dotted #008000;">Eva van
-		de Caab</span> , <span style="border-bottom: 2px dotted #008000;">Leentje van de
-		Caab</span> , <span style="border-bottom: 2px dotted #008000;">Izaak van de
-		Caab</span> en <span style="border-bottom: 2px dotted #008000;">Jacob van de
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Dorothea van de Caab</span> met
+		haare vijf kinderen in namen <span style="border-bottom: 2px dotted #00FF00;">Abraham van de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Eva van
+		de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Leentje van de
+		Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Izaak van de
+		Caab</span> en <span style="border-bottom: 2px dotted #00FF00;">Jacob van de
 		Caab</span> alle meede van de Caab, welke evengem:e slavinne Dorothea van de
 		Caab, ingevolge dispositijf van den E: Achtb:ren Raadt van Justitie deezes
 		gourvernement sub 19 November 1744, op het door den overledene omtrent deselve
@@ -148328,7 +148359,7 @@ De volgende goederen zijn door de wed:e uit hoofde van haar hier onder
       <td>nevensgen:e Geering heeft hiertegen zijn
 		reekening ingebracht waarmeede over en weeder liquideerde</td>
       <td>van G:L:
-		Geering over huur van 't huis op,
+		Geering over huur van 't huis op <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> ,
 		sedert p:o Januarij 1773 a rd:s2 's maand, nevens een openstaande
 		reekening</td>
     </tr>
@@ -148350,7 +148381,7 @@ De weduwe uit de nalatenschap van derzelver overledene broeder Hendrik
 	 met gem:e wed:e Riebeek tot geen vereffening te hebben kunnen komen, zulks dit
 	 alhier komt voor memorie.
 
-En dewijl den heemraad totmons:r Johan Bernard Hofman van den overledene buiten eenig handschrift
+En dewijl den heemraad tot <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> mons:r Johan Bernard Hofman van den overledene buiten eenig handschrift
 	 genoten heeft, een somma van rd:s1000, omme daarna wederom in collatie gebracht
 	 en aan de in den hoofde gen:e huisvrouw van ged:e mons:r Hofman, in haar te
 	 beuren vader- of moederlijk erfdeel toegereekend te werden; het geene meergem:e
@@ -148395,7 +148426,7 @@ En dewijl den heemraad totmons:r Johan Bernard Hofman van den overledene buiten 
   </tbody>
 </table>
 
-Aldus gedaan ende geinventariseert op de plaatsenenden 19:e en 20:e November 1774 en betuigde
+Aldus gedaan ende geinventariseert op de plaatsen <span style="border-bottom: 2px dotted #FF0000;">Idaa's Valleij</span> en <span style="border-bottom: 2px dotted #FF0000;">Saxenburg</span> den 19:e en 20:e November 1774 en betuigde
 	 de in den hoofde gen:e wed:e alles na haar best weten opgegeeven en aangeweesen
 	 te hebben, zonder met voordagt iets te hebben verzwegen ofte agtergehouden,
 	 onder belofte van hetgeene haar namaals nog opkomen mogte, meede tot deezen
@@ -148412,7 +148443,8 @@ Terwijl zij wed:e wijders nog betuijgde, dat hoewijl zij uit kragte van 't
 	 de zuivere helfte, en de overige helfte aan de in den hoofde gen:e erfgenamen
 	 in eguale portien, na het getal der staken welke dezelve komen uit te maken,
 	 toebedeelt en uitgekeert werde: dit egter onder dien mits, dat het geene hier
-	 voren zo ten opzichte van de plaatsen deenis ter nedergestelt
+	 voren zo ten opzichte van de plaatsen de <span style="border-bottom: 2px dotted #FF0000;">Idaa's
+	 Valleij</span> en <span style="border-bottom: 2px dotted #FF0000;">Nazaret</span> is ter nedergestelt
 	 als omtrent de bij haar wed:e uit den boedel gehoudene wijnige meubilaire
 	 goederen, meede kome stand te houden.
 
@@ -148424,12 +148456,12 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.24
 
- {17740309} 9 Maart 1774 <span style="border-bottom: 2px dotted #008000;">Jan Hendrik Kruger</span> 
+ {17740309} 9 Maart 1774 <span style="border-bottom: 2px dotted #00FF00;">Jan Hendrik Kruger</span> 
 
 v: Plettenberg
 
 Inventaris van alle zodanige goederen als metter dood zijn ontruijmd ende
-	 nagelaaten door den burger Jan Hendrik Kruger van, na alvorens bij testament sub dato 21:e
+	 nagelaaten door den burger Jan Hendrik Kruger van <span style="border-bottom: 2px dotted #FF0000;">Hamburg</span> , na alvorens bij testament sub dato 21:e
 	 December 1772, door den gesw:ren clercq ter Secretarije van Justitie mons:r
 	 Christiaan Libregt Kloege en getuijgen opgeregt, tot erfgenamen in zijne
 	 natelatene goederen te hebben genomineerd ende aangesteld, desselfs bij wijlen
@@ -148661,20 +148693,20 @@ Zijnde verders des overleedens zoon Jacobus Henricus Kruger, door
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Dorinda van Bengalen</span> ,
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Dorinda van Bengalen</span> ,
 		welke naar den teneur van het testament eertijds door den overleedene verpand
 		geweest, en vervolgens uijt den soogenaamde spaarpot der twee kinderen uijt het
 		laatste huwelijk weederom ingelost geworden is, en neevens haar sedert
-		overleeden <span style="border-bottom: 2px dotted #008000;">kind</span> nooijt zal mogen
+		overleeden <span style="border-bottom: 2px dotted #00FF00;">kind</span> nooijt zal mogen
 		werden verkogt, maar bij gem:e twee kinderen moet blijven wonen, ten fine
 		deselve door het gunt zij opbrengt te ondersteunen, dog bij wangedrag aan dit
 		Collegie vrijstaande deselve te mogen verkoopen</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Lijs van Bougies</span></td>
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Lijs van Bougies</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Augustus van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Augustus van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -148693,7 +148725,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.25
 
- {17740927} 27 September 1774 <span style="border-bottom: 2px dotted #008000;">Catharina Hatting</span> 
+ {17740927} 27 September 1774 <span style="border-bottom: 2px dotted #00FF00;">Catharina Hatting</span> 
 
 Hemmij
 
@@ -148708,8 +148740,8 @@ Inventaris van alle zodanige goederen als ab intestato metter dood zijn
     <tr>
       <td>1) Marthinus Boese klijnzoon van de overledene, bij
 		  representatie van zijn moeder Margaretha Becker, welken egter in a:o 1768 met
-		  't schip d'navertrocken weesende, verders volgens
-		  gerugten op een inlandse rijs vanmet
+		  't schip d'na <span style="border-bottom: 2px dotted #FF0000;">Batavia</span> vertrocken weesende, verders volgens
+		  gerugten op een inlandse rijs van <span style="border-bottom: 2px dotted #FF0000;">Ceijlon</span> met
 		  de bark desoude verongelukt weesen</td>
     </tr>
     <tr>
@@ -148735,7 +148767,7 @@ Zodanig ende indiervoegen als deselve door de ondergetekende
   <tbody>
     <tr>
       <td>Een huijs en erf, staande ende geleegen in
-		  deesein 'ten aldaarblijkens laatste transport de dato 17:e Maart
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Blok W:W:</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">No: 7</span> blijkens laatste transport de dato 17:e Maart
 		  1757</td>
     </tr>
   </tbody>
@@ -149384,29 +149416,29 @@ In het evengem:e huijs en aldaar
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van Bantam</span></td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van Bantam</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Sambawa</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Darius van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Darius van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn de groote
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn de groote
 		van Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Malatie van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Malatie van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Spasia van de Caab</span></td>
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Spasia van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave mijsje gen:t <span style="border-bottom: 2px dotted #008000;">Spasia van de Caab</span></td>
+      <td>een slave mijsje gen:t <span style="border-bottom: 2px dotted #00FF00;">Spasia van de Caab</span></td>
       <td>nota vermits door de egtelieden gezamentlijk aan de kinderen bij
 		derselver uijthuwelijken ieder een slaaf is geschonken geworden, onder conditie
 		egter dat de dispositie daarover aan hun verblijven en den eigendom aan de
@@ -149418,7 +149450,7 @@ In het evengem:e huijs en aldaar
 		nagelatene kinderen, van ged:e Anna Barbara le Roes is toebehorende</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cesar van Macassar</span></td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cesar van Macassar</span></td>
       <td rowspan='2' style='vertical-align: middle;'>zijnde aan de twee gem:e slaven door de twee egte lieden, vermits
 		hunne veeljarige trouwe diensten en aan de ondergeteekende gecomm:e
 		Weesmeesteren gebleekene hoge ouderdom, de vrije keuse gelaten te gaan
@@ -149427,11 +149459,11 @@ In het evengem:e huijs en aldaar
 		woonachtig zijn geweest</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Catrijn van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Catrijn van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Forthuijn de klijne van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Forthuijn de klijne van
 		Ternaten</span></td>
       <td>den evengem:e slave jongen Forthuijn de klijne
 		versoekt den weduwenaar dat, vermits een ieder der kinderen bij derselver
@@ -149440,7 +149472,7 @@ In het evengem:e huijs en aldaar
     </tr>
     <tr>
       <td>bevindende sig ook nog in den boedel een slave jongen
-		genaamt <span style="border-bottom: 2px dotted #008000;">Joris van
+		genaamt <span style="border-bottom: 2px dotted #00FF00;">Joris van
 		Bougies,</span></td>
       <td>welken volgens opgaaf van den weduwenaar, door den
 		opperstuurman Klink aan de twee meergem:e kinderen van wijlen Johannes Raabe
@@ -149701,7 +149733,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.26
 
- {17740714} 14 Julij 1774 <span style="border-bottom: 2px dotted #008000;">Cornelis de Leeuw</span> 
+ {17740714} 14 Julij 1774 <span style="border-bottom: 2px dotted #00FF00;">Cornelis de Leeuw</span> 
 
 v: Plettenberg
 
@@ -149732,18 +149764,18 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
   <tbody>
     <tr>
       <td>Een huijs en erf, staande ende geleegen in
-		  deese, zijnde een gedeelte van de
-		  sogenaamde, nader aangewesen bij
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> , zijnde een gedeelte van de
+		  sogenaamde <span style="border-bottom: 2px dotted #FF0000;">Schotse Cloof</span> , nader aangewesen bij
 		  't daarvan verleende transport de dato 22:e Junij 1768</td>
     </tr>
     <tr>
-      <td>een huijs en erf geleegen in deese, zijnde een gedeelte van de
-		  sogenaamde,en meede aangewesen by 't transport
+      <td>een huijs en erf geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> , zijnde een gedeelte van de
+		  sogenaamde <span style="border-bottom: 2px dotted #FF0000;">Schotse Cloof</span> , <span style="border-bottom: 2px dotted #FF0000;">Sub No: 3</span> en meede aangewesen by 't transport
 		  van de dato 22:e Junij 1768</td>
     </tr>
     <tr>
       <td>twee [huijs] en [erf] meede als de bijde
-		  voorgaande geleegen in deesezijnde een gedeelte van de sogenaamde,uijtwijsens het
+		  voorgaande geleegen in deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> zijnde een gedeelte van de sogenaamde <span style="border-bottom: 2px dotted #FF0000;">Schotse Cloof</span> , <span style="border-bottom: 2px dotted #FF0000;">Sub No: 4 en 5</span> uijtwijsens het
 		  transport van de dato 22:e Junij 1768</td>
     </tr>
   </tbody>
@@ -150866,13 +150898,13 @@ Sijnde wijders nog het goud en silverwerk tot leijfsgebruijk van den
   <thead><tr><td colspan='100%'>Leijfeijgenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Adolph van de Caab</span></td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Adolph van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Pacca van Sambouwa</span></td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Pacca van Sambouwa</span></td>
     </tr>
     <tr>
-      <td>een slave mijd gen:t <span style="border-bottom: 2px dotted #008000;">Camonie van
+      <td>een slave mijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Camonie van
 		Bougies</span></td>
     </tr>
     <tr>
@@ -150889,60 +150921,60 @@ Sijnde wijders nog het goud en silverwerk tot leijfsgebruijk van den
 		na zig te neemen sonder ooijt door hun te werden veraliëneerd</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Solon van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Solon van
 		Batavia</span></td>
       <td rowspan='2' style='vertical-align: middle;'>onverkogt gebleven voor de drie kinderen
 		volg:s resol: van den 6:e Aug:s 1774</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van
 		Sambouwe</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van Bougies</span> zijnde een metselaar</td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van Bougies</span> zijnde een metselaar</td>
       <td>aan Maria de Leeuw</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Saron van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Saron van
 		Ternate</span></td>
       <td>aan Hend:k de Leeuw</td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Bougies</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">April van Bougies</span></td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Bougies</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Baatjoe van Malija</span></td>
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatjoe van Malija</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Leander van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Leander van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Achillis van
+      <td>een slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Achillis van
 		Madagascar</span></td>
       <td>vide resol: van den 6 Aug:s voorsz:e</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Constantia van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Constantia van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diana van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diana van
 		Bantam</span></td>
       <td>aan Jacob de Leeuw</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Martha van Bengalen</span> met
-		haar kind <span style="border-bottom: 2px dotted #008000;">Debora van de
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Martha van Bengalen</span> met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Debora van de
 		Caap</span></td>
       <td>aan Maria de Leeuw</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Seronie van
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Seronie van
 		Bougies</span></td>
     </tr>
   </tbody>
@@ -151211,7 +151243,7 @@ Sijnde wijders nog het goud en silverwerk tot leijfsgebruijk van den
       <td>50:--</td>
     </tr>
     <tr>
-      <td>als meede voor een <span style="border-bottom: 2px dotted #008000;">slavejongen</span> , mitsgad:s zadel en toebehoren en silversmits
+      <td>als meede voor een <span style="border-bottom: 2px dotted #00FF00;">slavejongen</span> , mitsgad:s zadel en toebehoren en silversmits
 		gereedschappen etc:a volgens door gem:e Arend Munnik gequiteerde
 		reekening</td>
       <td>425:6</td>
@@ -151321,7 +151353,7 @@ Huijden den 3:e Augustus 1773 heeft den oud burgerraad s:r Andries Brink
 
 ## MOOC8/15.27
 
- {17750224} 24 Februarij 1775 <span style="border-bottom: 2px dotted #008000;">Levina Catharina Nel</span> 
+ {17750224} 24 Februarij 1775 <span style="border-bottom: 2px dotted #00FF00;">Levina Catharina Nel</span> 
 
 Hemmij
 
@@ -151423,7 +151455,7 @@ Andries Burger
 
 ## MOOC8/15.28
 
- {17750308} 8 Maart 1775 <span style="border-bottom: 2px dotted #008000;">Johannes Mattheus Hertzog</span> , <span style="border-bottom: 2px dotted #008000;">Martha Hendrina van
+ {17750308} 8 Maart 1775 <span style="border-bottom: 2px dotted #00FF00;">Johannes Mattheus Hertzog</span> , <span style="border-bottom: 2px dotted #00FF00;">Martha Hendrina van
 	 Aarde</span> 
 
 Hemmij
@@ -151453,7 +151485,7 @@ zijnde bij de ondergeteekende gecommitteerde Weesmeesteren getaxeert en
     </tr>
     <tr>
       <td>Een huijs en erf, staande ende geleegen in
-		  deesein heten aldaar, blijkens transport in dato 24:e April 1769,
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> in het <span style="border-bottom: 2px dotted #FF0000;">Blok no: 1</span> en aldaar <span style="border-bottom: 2px dotted #FF0000;">No: 3</span> , blijkens transport in dato 24:e April 1769,
 		  getaxeert op ƒ7500 of</td>
       <td>2500</td>
     </tr>
@@ -152298,25 +152330,25 @@ In het evengem:e huijs en aldaar
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Slammat van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Slammat van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Coridon van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Coridon van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Spadielle van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Spadielle van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van Bengalen</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diena van Maccassar</span> , met
-		haare drie kinderen genaamt <span style="border-bottom: 2px dotted #008000;">Eva van
-		de Caab</span> , <span style="border-bottom: 2px dotted #008000;">David van de
-		Caab</span> , en <span style="border-bottom: 2px dotted #008000;">Simpson van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diena van Maccassar</span> , met
+		haare drie kinderen genaamt <span style="border-bottom: 2px dotted #00FF00;">Eva van
+		de Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">David van de
+		Caab</span> , en <span style="border-bottom: 2px dotted #00FF00;">Simpson van de
 		Caab</span></td>
     </tr>
     <tr>
@@ -152407,7 +152439,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.29a
 
- {17750325} 25 Maart 1775 <span style="border-bottom: 2px dotted #008000;">Anna Maria Clopper</span> 
+ {17750325} 25 Maart 1775 <span style="border-bottom: 2px dotted #00FF00;">Anna Maria Clopper</span> 
 
 v: Plettenberg
 
@@ -152539,7 +152571,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.29b
 
- {17750324} 24 Maart 1775 <span style="border-bottom: 2px dotted #008000;">Anna Maria Clopper</span> 
+ {17750324} 24 Maart 1775 <span style="border-bottom: 2px dotted #00FF00;">Anna Maria Clopper</span> 
 
 <table>
   <tbody>
@@ -152613,7 +152645,7 @@ O:G: de Wet, Secret:s
 
 ## MOOC8/15.30
 
- {17750325} 25 Maart 1775 <span style="border-bottom: 2px dotted #008000;">Jacomina van Wyk</span> 
+ {17750325} 25 Maart 1775 <span style="border-bottom: 2px dotted #00FF00;">Jacomina van Wyk</span> 
 
 v: Plettenberg
 
@@ -152648,7 +152680,7 @@ Sodanig en indiervoegen als deselve door de landbouwers Willem Steenkamp
     </tr>
     <tr>
       <td>Een opstal staande op de leening plaats
-		  genaamt degeleegen aan 'top 'twelkers leenings plaats opgem: Smit
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Brakke Fonteyn</span> geleegen aan 't <span style="border-bottom: 2px dotted #FF0000;">Kliphuijs</span> op 't <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> welkers leenings plaats opgem: Smit
 		  betuijgt eerstdaags te sullen verlaten nadien geen bestaan op deselve kan
 		  vinden synde also ook den opstal ongetaxeerd gebleeven, dit voor memorie</td>
     </tr>
@@ -152725,7 +152757,7 @@ Op gave van myn goederen
   </tbody>
 </table>
 
-den agtsten Maart 17 hondert
+ <span style="border-bottom: 2px dotted #FF0000;">Rogge-veld</span> den agtsten Maart 17 hondert
 	 vyf en zeventig
 
 Willem Steencamp per order
@@ -152736,7 +152768,7 @@ Dese bovenstaande namen zynde de beyde getuygen
 
 ## MOOC8/15.31
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Josia Joubert</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Josia Joubert</span> 
 
 Eventaris van de nalatende goederen van Susanna Garde weduwe van Josia
 	 Joubert
@@ -152744,14 +152776,14 @@ Eventaris van de nalatende goederen van Susanna Garde weduwe van Josia
 <table>
   <tbody>
     <tr>
-      <td>Een plaetz in eijgendom gen:tgelegen in 't</td>
+      <td>Een plaetz in eijgendom gen:t <span style="border-bottom: 2px dotted #FF0000;">Mompelliers</span> gelegen in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span></td>
     </tr>
     <tr>
-      <td>drie man slawe gen:t <span style="border-bottom: 2px dotted #008000;">Apollos van [ ..... ]</span> , <span style="border-bottom: 2px dotted #008000;">December</span> en <span style="border-bottom: 2px dotted #008000;">[ ..... ]</span></td>
+      <td>drie man slawe gen:t <span style="border-bottom: 2px dotted #00FF00;">Apollos van [ ..... ]</span> , <span style="border-bottom: 2px dotted #00FF00;">December</span> en <span style="border-bottom: 2px dotted #00FF00;">[ ..... ]</span></td>
     </tr>
     <tr>
-      <td>een slawin <span style="border-bottom: 2px dotted #008000;">Filida van Bengalen</span> met
-		  haar <span style="border-bottom: 2px dotted #008000;">twee kinderen</span></td>
+      <td>een slawin <span style="border-bottom: 2px dotted #00FF00;">Filida van Bengalen</span> met
+		  haar <span style="border-bottom: 2px dotted #00FF00;">twee kinderen</span></td>
     </tr>
     <tr>
       <td>een ossewage</td>
@@ -153098,7 +153130,7 @@ Joh:s Heinrich Bebler
 ## MOOC8/15.32
 
  {17750220} 20 Februarij
-	 1775 <span style="border-bottom: 2px dotted #008000;">Frans Andries
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Frans Andries
 	 Hamester</span> 
 
 Eventares van den nagelatene goederen van den overleden borger Frans
@@ -153237,7 +153269,7 @@ Den 20 Febru: 1775.
 
 ## MOOC8/15.33a
 
- {17750408} 8 April 1775 <span style="border-bottom: 2px dotted #008000;">Magdalena Theron</span> 
+ {17750408} 8 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Magdalena Theron</span> 
 
 v: Plettenberg
 
@@ -153278,12 +153310,12 @@ Zodanig ende indiervoegen als dezelve door de meede landbouwers Jan Theron
     </tr>
     <tr>
       <td>1 opstal staande op de leeningsplaats
-		  geleegen over 'tin 'tƒ1400</td>
+		  geleegen over 't <span style="border-bottom: 2px dotted #FF0000;">Roode Zand</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> ƒ1400</td>
       <td>466:32</td>
     </tr>
     <tr>
       <td>1 opstal staande op de leeningsplaats gen:t
-		  degeleegen aan de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Kom</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Sneeuwberg</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -153487,11 +153519,11 @@ Zodanig ende indiervoegen als dezelve door de meede landbouwers Jan Theron
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Catrijn van Bengalen</span> met haar <span style="border-bottom: 2px dotted #008000;">kind</span> zijnde</td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Catrijn van Bengalen</span> met haar <span style="border-bottom: 2px dotted #00FF00;">kind</span> zijnde</td>
       <td rowspan='2' style='vertical-align: middle;'>200:--</td>
     </tr>
     <tr>
-      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #008000;">Rosa van de Caab</span></td>
+      <td>1 slavinne genaamt <span style="border-bottom: 2px dotted #00FF00;">Rosa van de Caab</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -153510,7 +153542,8 @@ Zodanig ende indiervoegen als dezelve door de meede landbouwers Jan Theron
     </tr>
     <tr>
       <td>aan d' E: Comp:e over 9 jaaren en 2 maanden agterstallige
-		recognitie penn:e op voorsz:e leeningsplaats gelegen over 'tint</td>
+		recognitie penn:e op voorsz:e leeningsplaats gelegen over 't <span style="border-bottom: 2px dotted #FF0000;">Rode Zand</span> int <span style="border-bottom: 2px dotted #FF0000;">Land
+		van Waveren</span></td>
       <td>229:--</td>
     </tr>
     <tr>
@@ -153557,7 +153590,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.33b
 
- {17750408} 8 April 1775 <span style="border-bottom: 2px dotted #008000;">Magdalena Theron</span> 
+ {17750408} 8 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Magdalena Theron</span> 
 
 Inventaris van den boedel van mij Isaak van Heeren
 
@@ -153579,7 +153612,7 @@ Inventaris van den boedel van mij Isaak van Heeren
       <td>300 schaapen</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slavinnen</span></td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slavinnen</span></td>
     </tr>
     <tr>
       <td>1 botervat</td>
@@ -153693,7 +153726,7 @@ Inventaris van den boedel van mij Isaak van Heeren
   <tbody>
     <tr>
       <td>2 plaatzen in lening van de Ed: Compagnie een
-		  op 'ten de ander aan de</td>
+		  op 't <span style="border-bottom: 2px dotted #FF0000;">Rode Zand</span> en de ander aan de <span style="border-bottom: 2px dotted #FF0000;">Sneeuw Bergen</span></td>
     </tr>
   </tbody>
 </table>
@@ -153784,7 +153817,7 @@ De overledene huisvrouw van Isaak van Heerden, is genaamt Magdalena Teron,
 ## MOOC8/15.34a
 
  {17750415} 15 April
-	 1775 <span style="border-bottom: 2px dotted #008000;">Margaretha Aletta
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Margaretha Aletta
 	 Botha</span> 
 
 v: Plettenberg
@@ -153989,7 +154022,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.34b
 
- {17750415} 15 April 1775 <span style="border-bottom: 2px dotted #008000;">Margaretha Aletta
+ {17750415} 15 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Margaretha Aletta
 	 Botha</span> 
 
 <table>
@@ -154096,7 +154129,7 @@ Hans Ijuerie Lombard
 
 ## MOOC8/15.35a
 
- {17750420} 20 April 1775 <span style="border-bottom: 2px dotted #008000;">Anna Sophia van der Merwe</span> 
+ {17750420} 20 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia van der Merwe</span> 
 
 v: Plettenberg
 
@@ -154143,12 +154176,12 @@ Sodanig ende indiervoegen als deselve door de meede landb:s Nicolaas van
     </tr>
     <tr>
       <td>1 opstal, staande op de leenings plaats gen:t
-		  'tgeleegen in 'tƒ1000</td>
+		  't <span style="border-bottom: 2px dotted #FF0000;">Wolve Huijs</span> geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Bokkeveldt</span> ƒ1000</td>
       <td>333:16</td>
     </tr>
     <tr>
       <td>1 opstal staande mede op de leening plaats
-		  gen:ten gelegen aan de</td>
+		  gen:t <span style="border-bottom: 2px dotted #FF0000;">Welmoed</span> en gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Groote Sneeuwbergh</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -154269,23 +154302,23 @@ Sodanig ende indiervoegen als deselve door de meede landb:s Nicolaas van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #008000;">Flora van Bengalen</span> zijnde
+      <td>1 slavin gen:t <span style="border-bottom: 2px dotted #00FF00;">Flora van Bengalen</span> zijnde
 		gebrekkig van zinnen</td>
       <td rowspan='5' style='vertical-align: middle;'>450:--</td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van de Caab</span></td>
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Mandaar van de
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Mandaar van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van de
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Jas van de Caab</span></td>
+      <td>1 slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Jas van de Caab</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -154351,7 +154384,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.35b
 
- {17750420} 20 April 1775 <span style="border-bottom: 2px dotted #008000;">Anna Sophia van der
+ {17750420} 20 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia van der
 	 Merwe</span> 
 
 Inventarium aangaande den boedel van Pieter Wils:z van Heeren
@@ -154359,20 +154392,20 @@ Inventarium aangaande den boedel van Pieter Wils:z van Heeren
 <table>
   <tbody>
     <tr>
-      <td>1 plaets genaamtgeleegen in 'ten</td>
+      <td>1 plaets genaamt <span style="border-bottom: 2px dotted #FF0000;">Wolfve Huijs</span> geleegen in 't <span style="border-bottom: 2px dotted #FF0000;">Bokkveld</span> en</td>
     </tr>
     <tr>
-      <td>een plaats opgenaamt</td>
+      <td>een plaats op <span style="border-bottom: 2px dotted #FF0000;">Sneeberg</span> genaamt <span style="border-bottom: 2px dotted #FF0000;">Welmoet</span></td>
     </tr>
     <tr>
       <td>3 halve sleete wagens</td>
     </tr>
     <tr>
-      <td>4 kleijne <span style="border-bottom: 2px dotted #008000;">slave
+      <td>4 kleijne <span style="border-bottom: 2px dotted #00FF00;">slave
 		  jongens</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slavin</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slavin</span></td>
     </tr>
     <tr>
       <td>25 hondert schapen</td>
@@ -154443,7 +154476,7 @@ Karel van Heere
 
 ## MOOC8/15.36a
 
- {17750428} 28 April 1775 <span style="border-bottom: 2px dotted #008000;">Gerrit Hendrik Mijer</span> 
+ {17750428} 28 April 1775 <span style="border-bottom: 2px dotted #00FF00;">Gerrit Hendrik Mijer</span> 
 
 v: Plettenberg
 
@@ -154481,28 +154514,29 @@ zodanig ende indiervoegen als deselve door nabestaande magen en getuijgen
     </tr>
     <tr>
       <td>Een opstal staande op de leningsplaats agter
-		  dein de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Piquetbergen</span> in de <span style="border-bottom: 2px dotted #FF0000;">Langevalleij</span></td>
     </tr>
     <tr>
-      <td>een opstal aan de</td>
+      <td>een opstal aan de <span style="border-bottom: 2px dotted #FF0000;">Modderfontijn</span></td>
     </tr>
     <tr>
-      <td>een opstal genaamt</td>
+      <td>een opstal genaamt <span style="border-bottom: 2px dotted #FF0000;">Brandenburg</span></td>
     </tr>
     <tr>
-      <td>al twee laastgem:e meede geleegen agter de, zijnde alle drie de voorm:e
+      <td>al twee laastgem:e meede geleegen agter de <span style="border-bottom: 2px dotted #FF0000;">Piquetbergen</span> , zijnde alle drie de voorm:e
 		  plaatsen te zamen getaxeert op</td>
       <td>150:--</td>
     </tr>
     <tr>
       <td>een opstal staande op de leningsplaats
-		  geleegen aan de</td>
+		  geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Sagte
+		  Valleij</span></td>
       <td>1166:32</td>
     </tr>
   </tbody>
 </table>
 
-Zijnde de weduwe woonachtig op een plaats in 'tgelegen, welke niet aan haar maar
+Zijnde de weduwe woonachtig op een plaats in 't <span style="border-bottom: 2px dotted #FF0000;">Land van Waveren</span> gelegen, welke niet aan haar maar
 	 aan haar moeder de wed:e van wijlen Jacobus de Wet de oude in eigendom is
 	 toebehorende en op welke plaats zij de navolgende goederen komen te bevinden,
 	 namentlijk
@@ -155309,120 +155343,120 @@ Zijnde de weduwe woonachtig op een plaats in 'tgelegen, welke niet aan haar maar
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Simson van de Caab</span> zijnde
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Simson van de Caab</span> zijnde
 		met de Lazarus ziekte behept</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Urias van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Urias van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Sedras van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Sedras van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Alcasar van de
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Alcasar van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Gideon van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Gideon van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Claas van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Claas van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Valentijn van de
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Valentijn van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">David van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">David van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cato van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cato van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Mosis van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Mosis van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Adonis van de Caab</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonis van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Jannuarij van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Jannuarij van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Februarij van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Februarij van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Maart van Mallabaar</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Maart van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Jacob van Mallabaar</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Jacob van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Nestar van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Nestar van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Derion van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Derion van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Julij van Bengalen</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Julij van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Lucas van Mallabaar</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Lucas van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van Timor</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van Timor</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Alst van Bengalen</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Alst van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Victorie van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Victorie van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Lijs van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Lijs van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Leena van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Leena van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Anna van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Anna van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Spasie van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Spasie van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Martha van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Martha van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rachel van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rachel van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Flora van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Flora van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Rebecka van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Rebecka van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Adonia van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Adonia van de Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
     <tr>
       <td>alle de voorm:e slaven zijnde 34 in getal tezamen getaxeert
@@ -155432,7 +155466,7 @@ Zijnde de weduwe woonachtig op een plaats in 'tgelegen, welke niet aan haar maar
   </tbody>
 </table>
 
-Voorts bevinden zig nog op voorsz: plaats degenaamt de volgende goederen,
+Voorts bevinden zig nog op voorsz: plaats de <span style="border-bottom: 2px dotted #FF0000;">Lange Valleij</span> genaamt de volgende goederen,
 	 namentlijk
 
 <table>
@@ -155607,7 +155641,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.36b
 
- {17750220} 20 Februarij 1775 <span style="border-bottom: 2px dotted #008000;">Gerrit Hendrik Meijer</span> 
+ {17750220} 20 Februarij 1775 <span style="border-bottom: 2px dotted #00FF00;">Gerrit Hendrik Meijer</span> 
 
 Inventaris van den boedel, of nalaatenschap van G:t H:k Meijer, en
 	 desselfs naargelaaten wed:w Josina Elisabet de Wet. G'inventariseert op den 20
@@ -156225,91 +156259,91 @@ Inventaris van den boedel, of nalaatenschap van G:t H:k Meijer, en
   <thead><tr><td colspan='100%'>Mans slaaven, met naamen als volgt</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Samson
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samson
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Urias
+      <td><span style="border-bottom: 2px dotted #00FF00;">Urias
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sedras
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sedras
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Alcaazer van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Alcaazer van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Gideon
+      <td><span style="border-bottom: 2px dotted #00FF00;">Gideon
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Claas
+      <td><span style="border-bottom: 2px dotted #00FF00;">Claas
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Valentijn van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Valentijn van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David
+      <td><span style="border-bottom: 2px dotted #00FF00;">David
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cato van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cato van
 		de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Mosis
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mosis
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adonis
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adonis
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Januarij van Mallebaar</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Januarij van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Februarij van Madachasker</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Februarij van Madachasker</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Maart
+      <td><span style="border-bottom: 2px dotted #00FF00;">Maart
 		van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jacob
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jacob
 		van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Nester
+      <td><span style="border-bottom: 2px dotted #00FF00;">Nester
 		van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupido
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupido
 		van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Derion
+      <td><span style="border-bottom: 2px dotted #00FF00;">Derion
 		van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupido
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupido
 		van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Julij
+      <td><span style="border-bottom: 2px dotted #00FF00;">Julij
 		van Bengalen</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lucas
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lucas
 		van Mallebaar</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cupido
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cupido
 		van Thimor</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Alst van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Alst van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -156319,49 +156353,49 @@ Inventaris van den boedel, of nalaatenschap van G:t H:k Meijer, en
   <thead><tr><td colspan='100%'>Slaafinnen</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Victorie van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Victorie van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lijs van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lijs van
 		de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leena
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leena
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Anna van
+      <td><span style="border-bottom: 2px dotted #00FF00;">Anna van
 		de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Spasie
+      <td><span style="border-bottom: 2px dotted #00FF00;">Spasie
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Martha
+      <td><span style="border-bottom: 2px dotted #00FF00;">Martha
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Floora
+      <td><span style="border-bottom: 2px dotted #00FF00;">Floora
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rebecka van de Caap</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rebecka van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Eva van de
+      <td><span style="border-bottom: 2px dotted #00FF00;">Eva van de
 		Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adonia
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adonia
 		van de Caap</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Silvia
+      <td><span style="border-bottom: 2px dotted #00FF00;">Silvia
 		van de Caap</span></td>
     </tr>
   </tbody>
@@ -156394,11 +156428,11 @@ Jacobus de Wet, G:t H:k Meijer, Pieter du Plesie, J:A:
 ## MOOC8/15.36c
 
  {17750213} 13 Februarij
-	 1775 <span style="border-bottom: 2px dotted #008000;">Henderik
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Henderik
 	 Meijer</span> 
 
 Wij onder geteekende getuijge dat sig op de blatse van de overleetene
-	 Gerit Henderik Meijer, degenomt,
+	 Gerit Henderik Meijer, de <span style="border-bottom: 2px dotted #FF0000;">Langevalij</span> genomt,
 	 bevind als beeste, bouw en huijs gereetschap
 
 <table>
@@ -156496,7 +156530,7 @@ Wij onder geteekende getuijge dat sig op de blatse van de overleetene
   </tbody>
 </table>
 
-'t 13:e Febru: 1775.
+ <span style="border-bottom: 2px dotted #FF0000;">Langevallij</span> 't 13:e Febru: 1775.
 
 Johannes Botman
 
@@ -156545,7 +156579,7 @@ NB:
 ## MOOC8/15.37
 
  {17750410} 10 April
-	 1775 <span style="border-bottom: 2px dotted #008000;">Jacob Fred:k
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Jacob Fred:k
 	 Beck</span> 
 
 Inventaris van den boedel van my ondergeteekende Jacob Fred:k Beck,
@@ -156707,7 +156741,7 @@ Inventaris van den boedel van my ondergeteekende Jacob Fred:k Beck,
   </tbody>
 </table>
 
-de 10 April 1775.
+ <span style="border-bottom: 2px dotted #FF0000;">Warm Waater</span> de 10 April 1775.
 
 Als getuygen: Johan Henrig Schneiders, Willem Hensen, J: Fr:
 		Beck
@@ -156758,7 +156792,7 @@ J: Fr: Beck
 
 ## MOOC8/15.38a
 
- {17750522} 22 Maij 1775 <span style="border-bottom: 2px dotted #008000;">Susanna Strijdom</span> 
+ {17750522} 22 Maij 1775 <span style="border-bottom: 2px dotted #00FF00;">Susanna Strijdom</span> 
 
 Hemmij
 
@@ -156792,7 +156826,7 @@ opgenomen en in geschriftte gebragt door de meede landbouwers Petrus
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats
-		  geleegen in degetaxeert
+		  geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Cango</span> getaxeert
 		  op</td>
       <td>100:--</td>
     </tr>
@@ -156961,16 +156995,16 @@ opgenomen en in geschriftte gebragt door de meede landbouwers Petrus
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Malacca</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Januarij van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Januarij van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Leander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Leander van
 		Bengalen</span></td>
     </tr>
   </tbody>
@@ -157021,14 +157055,14 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.38b
 
- {17750522} 22 Maij 1775 <span style="border-bottom: 2px dotted #008000;">Susanna Strijdom</span> 
+ {17750522} 22 Maij 1775 <span style="border-bottom: 2px dotted #00FF00;">Susanna Strijdom</span> 
 
 Dit is die opgenomme goedere van mij Johannes Ludewijk du Pree
 
 <table>
   <tbody>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaaven</span></td>
     </tr>
     <tr>
@@ -157151,7 +157185,7 @@ Als geteuijge ondergetekende: Petrus Jacobus Strijdom, Corneles
 ## MOOC8/15.39a
 
  {17750721} 21
-	 Julij 1775 <span style="border-bottom: 2px dotted #008000;">Pieter van der
+	 Julij 1775 <span style="border-bottom: 2px dotted #00FF00;">Pieter van der
 	 Merwe</span> 
 
 Hemmij
@@ -157193,7 +157227,7 @@ Sodanig ende indiervoegen als deselve door de landbouwers Schalk Willem
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een plaats ofte hofsteede genaamt degeleegen aan de</td>
+      <td>Een plaats ofte hofsteede genaamt de <span style="border-bottom: 2px dotted #FF0000;">Vleeschbank</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Groote Berg Rivier</span></td>
       <td>666:32</td>
     </tr>
     <tr>
@@ -157430,24 +157464,24 @@ Sodanig ende indiervoegen als deselve door de landbouwers Schalk Willem
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #008000;">Hector van
+      <td>1 slave jongen genaamt <span style="border-bottom: 2px dotted #00FF00;">Hector van
 		Bougis</span></td>
       <td rowspan='3' style='vertical-align: middle;'>300</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Cornelia van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Cornelia van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Silvia</span> meede van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia</span> meede van de
 		Caab</td>
     </tr>
     <tr>
       <td>NB door de wed:e is teffens opgegeven dat den
 		overledene aan zijne twee kinderen met namen Elsje Maria en Rudolphus Petrus
 		twee slave kinderen heeft geschonken met namen aan den eerstgen: een slave kind
-		genaamt <span style="border-bottom: 2px dotted #008000;">Rosa</span> en aan den
-		anderen een slave jongetje gen:t <span style="border-bottom: 2px dotted #008000;">Samuel</span> , beide van de Caab</td>
+		genaamt <span style="border-bottom: 2px dotted #00FF00;">Rosa</span> en aan den
+		anderen een slave jongetje gen:t <span style="border-bottom: 2px dotted #00FF00;">Samuel</span> , beide van de Caab</td>
     </tr>
   </tbody>
 </table>
@@ -157503,7 +157537,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.39b
 
- {17750721} 21 Julij 1775 <span style="border-bottom: 2px dotted #008000;">Pieter van der Merwe</span> 
+ {17750721} 21 Julij 1775 <span style="border-bottom: 2px dotted #00FF00;">Pieter van der Merwe</span> 
 
 De eeventaarens van de nagelatenen goederen van de overledene lantbouwer
 	 Pieter van der Merwe Roelof soon
@@ -157529,10 +157563,10 @@ De eeventaarens van de nagelatenen goederen van de overledene lantbouwer
       <td>Roedolvus Petrus v:d: Merwe</td>
     </tr>
     <tr>
-      <td>de plaats genaant degelegen aan de</td>
+      <td>de plaats genaant de <span style="border-bottom: 2px dotted #FF0000;">Vlees Bank</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Groote Berg Rivier</span></td>
     </tr>
     <tr>
-      <td>en 1 <span style="border-bottom: 2px dotted #008000;">slaaf</span> en 2 <span style="border-bottom: 2px dotted #008000;">slawinne</span></td>
+      <td>en 1 <span style="border-bottom: 2px dotted #00FF00;">slaaf</span> en 2 <span style="border-bottom: 2px dotted #00FF00;">slawinne</span></td>
     </tr>
     <tr>
       <td>een wagen en een kar</td>
@@ -157689,7 +157723,7 @@ Davit van der Merwe Roelofsoons
 
 ## MOOC8/15.40a
 
- {17750821} 21 Augustus 1775 <span style="border-bottom: 2px dotted #008000;">Anna Sophia van Heerde</span> 
+ {17750821} 21 Augustus 1775 <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia van Heerde</span> 
 
 Hemmij
 
@@ -157739,15 +157773,15 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Isaak van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>Een opstal staande op de leeningsplaats gen:tgelegen in 't</td>
+      <td>Een opstal staande op de leeningsplaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Laken Valleij</span> gelegen in 't <span style="border-bottom: 2px dotted #FF0000;">Bockeveld</span></td>
       <td>53:16</td>
     </tr>
     <tr>
-      <td>een opstal gen:t hetgeleegen aan de</td>
+      <td>een opstal gen:t het <span style="border-bottom: 2px dotted #FF0000;">Kruijs</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Sneeuwberg</span></td>
       <td>24:--</td>
     </tr>
     <tr>
-      <td>een opstal gen:t degelegen op de</td>
+      <td>een opstal gen:t de <span style="border-bottom: 2px dotted #FF0000;">Wilge Clooff</span> gelegen op de <span style="border-bottom: 2px dotted #FF0000;">Sneeuwberg</span></td>
       <td>24:--</td>
     </tr>
     <tr>
@@ -157917,19 +157951,19 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Isaak van
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Floris van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Floris van
 		Sambawa</span></td>
       <td rowspan='4' style='vertical-align: middle;'>400</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Coutchin</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Pedro van Bengalen</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Pedro van Bengalen</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Apploon van
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Apploon van
 		Madagascar</span></td>
     </tr>
   </tbody>
@@ -157966,21 +158000,21 @@ sodanig ende indiervoegen als deselve door de meede landbouwers Isaak van
 		drie leeningsplaatzen, namentl:</td>
     </tr>
     <tr>
-      <td>een jaar 7/m: op de plaats gen:t</td>
+      <td>een jaar 7/m: op de plaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Lakenvallij</span></td>
       <td>38:--</td>
     </tr>
     <tr>
-      <td>drie jaren 5/m op de plaats hetgen:t</td>
+      <td>drie jaren 5/m op de plaats het <span style="border-bottom: 2px dotted #FF0000;">Kruis</span> gen:t</td>
       <td>82:--</td>
     </tr>
     <tr>
-      <td>5/m: op de plaats de</td>
+      <td>5/m: op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Willige Clooff</span></td>
       <td>10:--</td>
     </tr>
     <tr>
       <td>zijnde wijders door den weduwenaar met den
 		landbouwer Hendrik van der Merwe Hend:ksz: gecontracteert dat hij met zijn vee
-		zal vermogen te wijden op de leeningsplaats gen:e dein 'tgelegen welke plaats ged: Hendrik van
+		zal vermogen te wijden op de leeningsplaats gen:e de <span style="border-bottom: 2px dotted #FF0000;">Eijlands Poort</span> in 't <span style="border-bottom: 2px dotted #FF0000;">Nieuwe Veld</span> gelegen welke plaats ged: Hendrik van
 		der Merwe Hend:ksz: van d' E: Comp: meede in lening is besittende, onder
 		conditie dat hij daar tegen de helfte der recognitie penn: zoude hebben te
 		betalen des voor de helfte der op dien plaats ten agteren staande 5 jaren en
@@ -158009,7 +158043,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.40b
 
- {17750814} 14 Augustus 1775 <span style="border-bottom: 2px dotted #008000;">Anna Sophia van Heerde</span> 
+ {17750814} 14 Augustus 1775 <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia van Heerde</span> 
 
 Inventaris van de boedel van Pieter van der Merwen Hendriks zoon zoo als
 	 die den staat des boedels aan ons ondergetekende heeft opgegeven,
@@ -158027,7 +158061,7 @@ Inventaris van de boedel van Pieter van der Merwen Hendriks zoon zoo als
       <td>1990 schapen</td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">slaven</span> en 1 <span style="border-bottom: 2px dotted #008000;">slavin</span></td>
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">slaven</span> en 1 <span style="border-bottom: 2px dotted #00FF00;">slavin</span></td>
     </tr>
     <tr>
       <td>1 paard met volle mondering</td>
@@ -158129,7 +158163,7 @@ Dit aldus geinventariseert ten woonhuijze van Pieter van der Merwen H:z:
 	 in bijweezen van ons ondergetekendens die als getuijgen daar toe zijn
 	 verzogt.
 
-den 13 Augustus 1775.
+ <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> den 13 Augustus 1775.
 
 Isaak van der Merwe de oude
 
@@ -158168,8 +158202,8 @@ De geboorten van de kenders
 ## MOOC8/15.41
 
  {17750808} 8 Augustus
-	 1775 <span style="border-bottom: 2px dotted #008000;">Jobs Ludolph
-	 Immelman</span> , <span style="border-bottom: 2px dotted #008000;">Sara
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Jobs Ludolph
+	 Immelman</span> , <span style="border-bottom: 2px dotted #00FF00;">Sara
 	 Christina van Steenwijk</span> 
 
 Hemmij
@@ -159982,26 +160016,26 @@ zodanig ende indiervoegen als denzelven boedel door de onderget:
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Leander van Pegu</span></td>
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Leander van Pegu</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Joseph van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Joseph van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Christoffel van de
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Christoffel van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Diana van Bengalen</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Diana van Bengalen</span></td>
     </tr>
     <tr>
       <td>voorm:e slaven zijn te samen getaxeert
@@ -160070,7 +160104,7 @@ Bij welke taxatie der slaven door de juff:w weduwe expresselijk bedongen
   </tbody>
 </table>
 
-Aangezien den adsistent carga bij denhandel s:r Eduard Christiaan Arendsz:
+Aangezien den adsistent carga bij den <span style="border-bottom: 2px dotted #FF0000;">Chinasen</span> handel s:r Eduard Christiaan Arendsz:
 	 vermoedelijk met den bodem gen:tverongelukt is, zonder bij desselfs nagelatene huisvrouw ofte weduwe kinderen
 	 te hebben verwekt, invoegen, het zij ab intestato dan wel na den teneur van
 	 zijne uitterste wille aan de in den hoofde gen: juffrouw weduwe als zijne
@@ -160203,7 +160237,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.42a
 
- {17750930} 30 September 1775 <span style="border-bottom: 2px dotted #008000;">Schalk Willem du Toit</span> , <span style="border-bottom: 2px dotted #008000;">Maria Magdalena
+ {17750930} 30 September 1775 <span style="border-bottom: 2px dotted #00FF00;">Schalk Willem du Toit</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Magdalena
 	 Botha</span> 
 
 Hemmij
@@ -160248,7 +160282,7 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
     </tr>
     <tr>
       <td>Een opstal, staande op de leenings plaats
-		  genaamt degeleegen aan de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Langerug</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Breede Rivier</span></td>
       <td>333:16</td>
     </tr>
     <tr>
@@ -160488,16 +160522,16 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Mars van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Mars van
 		Mallabaar</span></td>
       <td rowspan='2' style='vertical-align: middle;'>600:--</td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Dela van de Caab</span> met haare 4
-		kinderen, met namen <span style="border-bottom: 2px dotted #008000;">Ourson van de
-		Caab</span> , <span style="border-bottom: 2px dotted #008000;">Philida van de
-		Caab</span> , <span style="border-bottom: 2px dotted #008000;">Camonie van de
-		Caab</span> , en <span style="border-bottom: 2px dotted #008000;">Africa van de
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Dela van de Caab</span> met haare 4
+		kinderen, met namen <span style="border-bottom: 2px dotted #00FF00;">Ourson van de
+		Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Philida van de
+		Caab</span> , <span style="border-bottom: 2px dotted #00FF00;">Camonie van de
+		Caab</span> , en <span style="border-bottom: 2px dotted #00FF00;">Africa van de
 		Caab</span> , meede alle van de Caab</td>
     </tr>
     <tr>
@@ -160561,7 +160595,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.42b
 
- {17750810} 10 Augustus 1775 <span style="border-bottom: 2px dotted #008000;">Schalk Willem du Tooij</span> , <span style="border-bottom: 2px dotted #008000;">Maria Magdalena
+ {17750810} 10 Augustus 1775 <span style="border-bottom: 2px dotted #00FF00;">Schalk Willem du Tooij</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Magdalena
 	 Botha</span> 
 
 Inventaris van den boedel van mijn ondergeteekende Schalk Willem du Tooij
@@ -160572,7 +160606,7 @@ Inventaris van den boedel van mijn ondergeteekende Schalk Willem du Tooij
   <tbody>
     <tr>
       <td>Een opstal staande op die van d E: Comp: in
-		  leening hebbende vee-plaats genaamt de</td>
+		  leening hebbende vee-plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Langerug</span></td>
     </tr>
   </tbody>
 </table>
@@ -160765,10 +160799,10 @@ Inventaris van den boedel van mijn ondergeteekende Schalk Willem du Tooij
       <td>1 tent sijl en 10 sakke bijde half sleet</td>
     </tr>
     <tr>
-      <td>1 slaaf jonge genaamt <span style="border-bottom: 2px dotted #008000;">Mars van Malbaar</span></td>
+      <td>1 slaaf jonge genaamt <span style="border-bottom: 2px dotted #00FF00;">Mars van Malbaar</span></td>
     </tr>
     <tr>
-      <td>1 slaafin genaamt <span style="border-bottom: 2px dotted #008000;">Dela</span> met 4 kinder genaamt <span style="border-bottom: 2px dotted #008000;">Oerson</span>  <span style="border-bottom: 2px dotted #008000;">Vilida</span>  <span style="border-bottom: 2px dotted #008000;">Camoni</span> en <span style="border-bottom: 2px dotted #008000;">Africa</span></td>
+      <td>1 slaafin genaamt <span style="border-bottom: 2px dotted #00FF00;">Dela</span> met 4 kinder genaamt <span style="border-bottom: 2px dotted #00FF00;">Oerson</span>  <span style="border-bottom: 2px dotted #00FF00;">Vilida</span>  <span style="border-bottom: 2px dotted #00FF00;">Camoni</span> en <span style="border-bottom: 2px dotted #00FF00;">Africa</span></td>
     </tr>
   </tbody>
 </table>
@@ -160816,7 +160850,7 @@ Pieter Barentse Botha
 ## MOOC8/15.43a
 
  {17751006} 6 October
-	 1775 <span style="border-bottom: 2px dotted #008000;">Jacob Breeth</span> , <span style="border-bottom: 2px dotted #008000;">Maria Striegel</span> 
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Jacob Breeth</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Striegel</span> 
 
 Hemmij
 
@@ -160853,8 +160887,8 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  genaamt degeleegen aan
-		  de</td>
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Klijne Zeekoe-valleij</span> geleegen aan
+		  de <span style="border-bottom: 2px dotted #FF0000;">Oliphants Rivier</span></td>
       <td>50:--</td>
     </tr>
     <tr>
@@ -160957,23 +160991,23 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Piet van
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Piet van
 		Tarrentaal</span></td>
       <td rowspan='5' style='vertical-align: middle;'>500</td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #008000;">Cezar van Batavia</span></td>
+      <td>1 slave jongen gen:t <span style="border-bottom: 2px dotted #00FF00;">Cezar van Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #008000;">Philander van
+      <td>1 slave jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Philander van
 		Batavia</span></td>
     </tr>
     <tr>
-      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Keet van de Caab</span></td>
+      <td>1 slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Keet van de Caab</span></td>
     </tr>
   </tbody>
 </table>
@@ -161052,16 +161086,16 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.43b
 
- {17751006} 6 October 1775 <span style="border-bottom: 2px dotted #008000;">Jacob Breet</span> 
+ {17751006} 6 October 1775 <span style="border-bottom: 2px dotted #00FF00;">Jacob Breet</span> 
 
-Notisi wat sig op de plaats van overleetene Jacob Breet degenoemt aan vee en bouw
+Notisi wat sig op de plaats van overleetene Jacob Breet de <span style="border-bottom: 2px dotted #FF0000;">Seekoey Valij</span> genoemt aan vee en bouw
 	 gereetschap en meubelen bevind welkes wij onder geteekente getuijgen gesien te
 	 heben, so als
 
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">slaave</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">slaave</span></td>
       <td>5</td>
     </tr>
     <tr>
@@ -161208,8 +161242,8 @@ Carl Aggenbag
 ## MOOC8/15.44a
 
  {17751017} 17 October
-	 1775 <span style="border-bottom: 2px dotted #008000;">Christoffel
-	 Viljoen</span> , <span style="border-bottom: 2px dotted #008000;">Elisabeth du
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Christoffel
+	 Viljoen</span> , <span style="border-bottom: 2px dotted #00FF00;">Elisabeth du
 	 Plessis</span> 
 
 Hemmij
@@ -161251,7 +161285,7 @@ Zodanig ende indiervoegen als deselve door de ondergeteekende
     </tr>
     <tr>
       <td>Een opstal staande op de leenings plaats
-		  genaamtgeleegen aan deaan de</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Welgevonden</span> geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Winterhoek</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Wilgefonteijn</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -161383,13 +161417,13 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.44b
 
- {17751017} 17 October 1775 <span style="border-bottom: 2px dotted #008000;">Christoffel Viljoen</span> , <span style="border-bottom: 2px dotted #008000;">Elisabeth du
+ {17751017} 17 October 1775 <span style="border-bottom: 2px dotted #00FF00;">Christoffel Viljoen</span> , <span style="border-bottom: 2px dotted #00FF00;">Elisabeth du
 	 Plessies</span> 
 
 <table>
   <tbody>
     <tr>
-      <td>De plaets genaemt degelegen in dede</td>
+      <td>De plaets genaemt de <span style="border-bottom: 2px dotted #FF0000;">Wel Gevonden</span> gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Winter Hoek</span> de <span style="border-bottom: 2px dotted #FF0000;">Welgevontijn</span></td>
     </tr>
   </tbody>
 </table>
@@ -161474,7 +161508,7 @@ Als burge: Johannes Viljoen, Johannes de Pree
 
 ## MOOC8/15.45a
 
- {17751025} 25 October 1775 <span style="border-bottom: 2px dotted #008000;">Abraham de Klerk</span> , <span style="border-bottom: 2px dotted #008000;">Maria Dorothea
+ {17751025} 25 October 1775 <span style="border-bottom: 2px dotted #00FF00;">Abraham de Klerk</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Dorothea
 	 Jooste</span> 
 
 Hemmij
@@ -161516,7 +161550,7 @@ Zodanig ende indiervoegen als deselve door de onderget:e gecomm:e
     </tr>
     <tr>
       <td>Een opstal staande op de leeningsplaats gen:t
-		  degeleegen op de</td>
+		  de <span style="border-bottom: 2px dotted #FF0000;">Elandsfonteijn</span> geleegen op de <span style="border-bottom: 2px dotted #FF0000;">Sneeuberg</span></td>
       <td>25:--</td>
     </tr>
     <tr>
@@ -161685,7 +161719,7 @@ Mij preesent: O:G: de Wet, Secret:s
 
 ## MOOC8/15.45b
 
- {17750829} 29 Augustus 1775 <span style="border-bottom: 2px dotted #008000;">Abraham de Klerk</span> , <span style="border-bottom: 2px dotted #008000;">Maria Dorothea
+ {17750829} 29 Augustus 1775 <span style="border-bottom: 2px dotted #00FF00;">Abraham de Klerk</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Dorothea
 	 Jooste</span> 
 
 Inventaris der roerende en onroerende goederen van Abram de Klerk
@@ -161694,7 +161728,7 @@ Inventaris der roerende en onroerende goederen van Abram de Klerk
 <table>
   <tbody>
     <tr>
-      <td>Ten eerste: een opstal genaamt degelegen op de</td>
+      <td>Ten eerste: een opstal genaamt de <span style="border-bottom: 2px dotted #FF0000;">Elands Fonteijn</span> gelegen op de <span style="border-bottom: 2px dotted #FF0000;">Sneeuwberg</span></td>
     </tr>
     <tr>
       <td>2) seven hondert en veertig schapen</td>
@@ -161757,7 +161791,7 @@ De schuld beloopt in zijn geheel een hondert rijksdaalders: aan Jacobus du
 ## MOOC8/15.46
 
  {17750529} 29 Maij
-	 1775 <span style="border-bottom: 2px dotted #008000;">Christina van
+	 1775 <span style="border-bottom: 2px dotted #00FF00;">Christina van
 	 Zeijl</span> 
 
 v: Plettenberg
@@ -161771,7 +161805,7 @@ Inventaris van alle zodanige goederen en effecten als door wijlen
 <table>
   <tbody>
     <tr>
-      <td>Een Comp:s leenings plaats gen:t 'taan de</td>
+      <td>Een Comp:s leenings plaats gen:t 't <span style="border-bottom: 2px dotted #FF0000;">Voorhuijs</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Leeuwen Rivier</span></td>
     </tr>
   </tbody>
 </table>
@@ -161930,7 +161964,7 @@ Inventaris van alle zodanige goederen en effecten als door wijlen
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>aan mons:r Hermanus Steijn d' oude over de plaats gen:taan de</td>
+      <td>aan mons:r Hermanus Steijn d' oude over de plaats gen:t <span style="border-bottom: 2px dotted #FF0000;">Voorhuijs</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Leeuwenrivier</span></td>
       <td>101</td>
     </tr>
     <tr>
@@ -161962,14 +161996,14 @@ Aldus gedaan en geinventariseert naar beste wetenschap onder belofte van
 	 vereijscht werdende, 't zelve met den gewoonlyken boedel eed te willen
 	 bekragtigen.
 
-Voorhuijs aan deden 29
+Voorhuijs aan de <span style="border-bottom: 2px dotted #FF0000;">Leeuwenrivier</span> den 29
 	 Maij 1775.
 
 Hans Jurgen Steijn
 
 ## MOOC8/15.47
 
- {17760102} 2 Januarij 1776 <span style="border-bottom: 2px dotted #008000;">Anthon Gerhard Hemmij</span> 
+ {17760102} 2 Januarij 1776 <span style="border-bottom: 2px dotted #00FF00;">Anthon Gerhard Hemmij</span> 
 
 Hemmij
 

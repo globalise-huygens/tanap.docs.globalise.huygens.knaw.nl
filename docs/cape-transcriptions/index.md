@@ -2,6 +2,11 @@
 
 ## Orphan Chamber
 
+The links below point to transcriptions of papers from deceased estates administered by the Orphan Chamber at the Cape, created by the TEPC Transcription Project. Please consult the [Introduction by the TEPC Transcription Team](pdf/introduction_to_the_inventories_of_the_orphan_chamber.pdf) for more information.
+
+The GLOBALISE project converted the original XML files containing the transcriptions to Markdown. Date values from the XML files were enclosed in curly brackets ({}), while dotted underlining was used to distinguish entity types: green for person names (testators and enslaved persons), red for geographical names, and blue for ship names.
+
+### List of available transcriptions
 - [MOOC8_1-5](Orphan-Chamber/MOOC8-XML/MOOC8_1-5_XML.md)
 - [MOOC8_6-10](Orphan-Chamber/MOOC8-XML/MOOC8_6-10_XML.md)
 - [MOOC8_11-15](Orphan-Chamber/MOOC8-XML/MOOC8_11-15_XML.md)
@@ -15,9 +20,18 @@
 
 ## Council of Policy
 
+The links below point to transcriptions of the Resolutions of the Council of Policy, the highest authority of the VOC at the Cape of Good Hope. The series covers the period 1651-1743. Please consult the Introduction by Dr. Helena Liebenberg for more information:
+- [English version](pdf/introduction_english_resolutions_of_the_council_of_policy_of_cape_of_good_hope.pdf)
+- [Afrikaans version](pdf/introduction_afrikaans_resolutions_of_the_council_of_policy_of_cape_of_good_hope.pdf) 
+
+### Reference sources
 - [Bibliography](Council-of-Policy/Biblio+glos/Bibliografie_xml_v1.0.md)
 - [Glossary](Council-of-Policy/Biblio+glos/Glos_xml_v1.1.md)
 - [Bilingual Word List](Council-of-Policy/Bilingual-Word-List.pdf)
+
+The GLOBALISE project converted the original XML files containing the transcriptions to Markdown. Date values from the XML files were enclosed in curly brackets ({}), while dotted underlining was used to distinguish entity types: green for person names, red for geographical names, and blue for ship names.
+
+### List of available transcriptions
 - [C001](Council-of-Policy/2006-01-31-Kaapse_Resoluties__XML_051124_HN_aangepast-door-Hic-et-Nunc/Kaapse_Resoluties__XML_051124_HN_aangepast/TKF3_C001-C010/C001_xml_v1.20.md)
 - [C002](Council-of-Policy/2006-01-31-Kaapse_Resoluties__XML_051124_HN_aangepast-door-Hic-et-Nunc/Kaapse_Resoluties__XML_051124_HN_aangepast/TKF3_C001-C010/C002_xml_v1.20.md)
 - [C003](Council-of-Policy/2006-01-31-Kaapse_Resoluties__XML_051124_HN_aangepast-door-Hic-et-Nunc/Kaapse_Resoluties__XML_051124_HN_aangepast/TKF3_C001-C010/C003_xml_v1.20.md)

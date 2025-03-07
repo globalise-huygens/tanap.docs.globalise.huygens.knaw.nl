@@ -1,9 +1,9 @@
 ## MOOC8/41.1
 
- {18240412} 12 April 1824 <span style="border-bottom: 2px dotted #008000;">Jacobus Pretoores</span> , <span style="border-bottom: 2px dotted #008000;">Marta Eliesabetta
+ {18240412} 12 April 1824 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Pretoores</span> , <span style="border-bottom: 2px dotted #00FF00;">Marta Eliesabetta
 	 Zwannepoel</span> 
 
-den 12 April 1824
+ <span style="border-bottom: 2px dotted #FF0000;">Karvins Poort</span> den 12 April 1824
 
 De geheele in boedel van den overleeden Jacobus Pretoores naa gelaatene
 	 weduwe Marta Eliesabetta Zwannepoel, kinderen in getaal 9, bestaade in
@@ -12,7 +12,7 @@ De geheele in boedel van den overleeden Jacobus Pretoores naa gelaatene
 <table>
   <tbody>
     <tr>
-      <td>1 oude <span style="border-bottom: 2px dotted #008000;">slaavin</span></td>
+      <td>1 oude <span style="border-bottom: 2px dotted #00FF00;">slaavin</span></td>
     </tr>
     <tr>
       <td>1 osse wagen met sijn toebehoort 27 rd:</td>
@@ -203,7 +203,7 @@ Hebbende alle de bovenstaande kinderen reeds hun moederlyk erfdeel
   <tbody>
     <tr>
       <td>Pro memoria, aan de wed:e gelaten een oude bed, en
-		  oude <span style="border-bottom: 2px dotted #008000;">slavin</span> op rd:s30 voor beide
+		  oude <span style="border-bottom: 2px dotted #00FF00;">slavin</span> op rd:s30 voor beide
 		  gewaardeerd</td>
     </tr>
   </tbody>
@@ -215,7 +215,7 @@ Den ondergetekende bekenne by deeze ontvange te hebbe van zyn fader J:s
 	 Pertooris een geweer, ten bedraage van dertig rd:s in mindering van zijne
 	 faderlijke erfporttie.
 
-den 18 Aug:t 1824
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> den 18 Aug:t 1824
 
 + Merk van D:l P:s Pertooris
 
@@ -227,7 +227,7 @@ Roselt
 
 ## MOOC8/41.2
 
- {18250727} 27 July 1825 <span style="border-bottom: 2px dotted #008000;">Bartholomeus de
+ {18250727} 27 July 1825 <span style="border-bottom: 2px dotted #00FF00;">Bartholomeus de
 	 Waal</span> 
 
 Inventory of all such property as has been relinquished by the death of
@@ -392,7 +392,7 @@ In consequence of which the aforesaid property (after the seals of Office
 
 Thus inventoried at the Cape of Good Hope on the 27:th day of the month of
 	 July in the year of our Lord one thousand eight hundred and twenty five,
-	 according to a statement made by the slave woman <span style="border-bottom: 2px dotted #008000;">Marie</span> belonging to the widow
+	 according to a statement made by the slave woman <span style="border-bottom: 2px dotted #00FF00;">Marie</span> belonging to the widow
 	 of the late Jan Willem Simler, who declared to have acted herein bonafide and
 	 that to the best of her knowledge she has not withheld or secreted any thing
 	 that belonged to the aforesaid estate and the said Marie, further declared that
@@ -413,10 +413,10 @@ In my presence: J:C: Overbeek
 
 ## MOOC8/41.3
 
- {18250628} 28 June 1825 <span style="border-bottom: 2px dotted #008000;">Johan Philip
+ {18250628} 28 June 1825 <span style="border-bottom: 2px dotted #00FF00;">Johan Philip
 	 Wagener</span> 
 
-Inventory of the property of Johan Philip Wagener born inrelinquished by his death on the
+Inventory of the property of Johan Philip Wagener born in <span style="border-bottom: 2px dotted #FF0000;">Hessedarmstad</span> relinquished by his death on the
 	 seventeenth day of the month of June in the year of our Lord one thousand eight
 	 hundred and twenty five at [ ..... ] o’clock in the afternoon.
 
@@ -447,28 +447,30 @@ And having further requested and appointed in the aforesaid will the
   <tbody>
     <tr>
       <td>An erf with two houses erected thereon
-		  situated in thisat themarkedand divided as follows</td>
+		  situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> at the <span style="border-bottom: 2px dotted #FF0000;">Buitenkant</span> marked <span style="border-bottom: 2px dotted #FF0000;">N:o 13</span> and divided as follows</td>
     </tr>
     <tr>
-      <td>a house markedto the extent of 10 square roods and 91 feet</td>
+      <td>a house marked <span style="border-bottom: 2px dotted #FF0000;">L:a
+		  A:</span> to the extent of 10 square roods and 91 feet</td>
     </tr>
     <tr>
-      <td>a house markedto the extent of 7 square roods 135 square feet and 36 square
+      <td>a house marked <span style="border-bottom: 2px dotted #FF0000;">L:a
+		  B:</span> to the extent of 7 square roods 135 square feet and 36 square
 		  inches</td>
     </tr>
     <tr>
-      <td>an erf with the building thereon marketto the extent of 17 square roods 131
+      <td>an erf with the building thereon market <span style="border-bottom: 2px dotted #FF0000;">L:a C:</span> to the extent of 17 square roods 131
 		  square feet 89 square inches</td>
     </tr>
     <tr>
       <td>an erf with the building thereon annex the
-		  above mentioned erfmarkedto the extent of 35 square roods and
+		  above mentioned erf <span style="border-bottom: 2px dotted #FF0000;">N:o 13</span> marked <span style="border-bottom: 2px dotted #FF0000;">N:o 28</span> to the extent of 35 square roods and
 		  122 square feet.</td>
     </tr>
   </tbody>
 </table>
 
-In the above house, being the
+In the above house <span style="border-bottom: 2px dotted #FF0000;">L:a A:</span> , being the
 	 dwelling house of the deceased
 
 <table>
@@ -1247,7 +1249,7 @@ In the above house, being the
       <td>three mahogany boards</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Louis</span> born ofabout 28 years of age being a
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Louis</span> born of <span style="border-bottom: 2px dotted #FF0000;">Mosambique</span> about 28 years of age being a
 		blacksmith</td>
     </tr>
   </tbody>
@@ -1694,7 +1696,7 @@ C:F: Wagener
 
 ## MOOC8/41.4
 
- {18260215} 15 February 1826 <span style="border-bottom: 2px dotted #008000;">Jan Michiel
+ {18260215} 15 February 1826 <span style="border-bottom: 2px dotted #00FF00;">Jan Michiel
 	 Cromhout</span> 
 
 Inventory of the property of Jan Michiel Cromhout born in this Colony
@@ -1794,7 +1796,8 @@ And having furhter requested and appointed in the said will the
 <table>
   <tbody>
     <tr>
-      <td>A house and premises situated in thisin.</td>
+      <td>A house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Loop
+		  Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 87</span> .</td>
     </tr>
   </tbody>
 </table>
@@ -2134,10 +2137,10 @@ And having furhter requested and appointed in the said will the
   <thead><tr><td colspan='100%'>Slaves belonging to the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Titus</span> born of59 years of age</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Titus</span> born of <span style="border-bottom: 2px dotted #FF0000;">Ternatel</span> 59 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Jannetje</span> of this Coloni
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Jannetje</span> of this Coloni
 		56 years of age</td>
     </tr>
     <tr>
@@ -2146,16 +2149,16 @@ And having furhter requested and appointed in the said will the
 		the estate</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Pharao</span> of this Colony 34
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Pharao</span> of this Colony 34
 		years of age a tailor</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Africa</span> of this Colony 14
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Africa</span> of this Colony 14
 		years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sara</span> of this Colony 23 years
-		of age house maid with her child <span style="border-bottom: 2px dotted #008000;">Dina</span> /alias/ <span style="border-bottom: 2px dotted #008000;">Cornelia</span> born on the 28
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sara</span> of this Colony 23 years
+		of age house maid with her child <span style="border-bottom: 2px dotted #00FF00;">Dina</span> /alias/ <span style="border-bottom: 2px dotted #00FF00;">Cornelia</span> born on the 28
 		Sept:br 1820</td>
     </tr>
   </tbody>
@@ -2235,7 +2238,7 @@ And having furhter requested and appointed in the said will the
     </tr>
     <tr>
       <td>paid</td>
-      <td>to the slaves <span style="border-bottom: 2px dotted #008000;">Titus</span> and <span style="border-bottom: 2px dotted #008000;">Jannetje</span> for a legacy
+      <td>to the slaves <span style="border-bottom: 2px dotted #00FF00;">Titus</span> and <span style="border-bottom: 2px dotted #00FF00;">Jannetje</span> for a legacy
 		made by last will to them fifty rixd:s each or both together 100 rd:
 		or</td>
       <td>7:10</td>
@@ -2323,10 +2326,10 @@ In my presence: J: Serrurier
 
 ## MOOC8/41.5
 
- {18190815} 15 Augustus 1819 <span style="border-bottom: 2px dotted #008000;">A:S:J: van
+ {18190815} 15 Augustus 1819 <span style="border-bottom: 2px dotted #00FF00;">A:S:J: van
 	 Helsdingen</span> 
 
-den 15 Augustus 1819
+ <span style="border-bottom: 2px dotted #FF0000;">De Hoop</span> den 15 Augustus 1819
 
 Een inventares van de apothecar A:S:J: van Helsdingen
 
@@ -2425,8 +2428,8 @@ C: v: Wielligh, Veldcornet
 
 ## MOOC8/41.6
 
- {18260628} 28 June 1826 <span style="border-bottom: 2px dotted #008000;">Jacobus Hermanus
-	 Getze</span> , <span style="border-bottom: 2px dotted #008000;">Johanna
+ {18260628} 28 June 1826 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Hermanus
+	 Getze</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Petronella Dantu</span> 
 
 Exh:d the 28:th of June 1826 n:o 19
@@ -2529,7 +2532,7 @@ Invantaris der onderstaande artikelen in den boedel van J: Getze
       <td>1 spiegel toilet</td>
     </tr>
     <tr>
-      <td>een jonge van Mosembicq met name <span style="border-bottom: 2px dotted #008000;">Damon</span></td>
+      <td>een jonge van Mosembicq met name <span style="border-bottom: 2px dotted #00FF00;">Damon</span></td>
     </tr>
   </tbody>
 </table>
@@ -2648,12 +2651,12 @@ J:H: Getze in been t the inventory and request to remain in the possesion
 ## MOOC8/41.7
 
  {18240111} 11 January
-	 1824 <span style="border-bottom: 2px dotted #008000;">Anthony
+	 1824 <span style="border-bottom: 2px dotted #00FF00;">Anthony
 	 Alexander Faure</span> 
 
 S:V: Cloete
 
-folio 3 en 4,
+folio 3 en 4, <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> 
 
 Staat en inventaris van alle zodanige goederen en effecten als op den
 	 8:sten deezer met er dood zyn ontruimd en nagelaten by wylen de weledele heer
@@ -2666,7 +2669,7 @@ Staat en inventaris van alle zodanige goederen en effecten als op den
 	 Secretaris en getuigen opgericht ter requisitie van de by dat testament
 	 aangestelde executeuren zynde het Eerwaard Collegie van Heeren Weesmeesteren in
 	 de Kaapstad geformeerd en in geschrifte gebragt door my Petrus Canzuis van
-	 Blommestein, Secretaris van het drostamptfungeerende als Notaris Publiek ter
+	 Blommestein, Secretaris van het drostampt <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> fungeerende als Notaris Publiek ter
 	 praesentie van de hierna tenoemene getuigen bestaande dezelve in het navolgende
 	 te weeten:
 
@@ -2675,12 +2678,13 @@ Staat en inventaris van alle zodanige goederen en effecten als op den
   <tbody>
     <tr>
       <td>Een huis, huur huis en erf gelegen annex de
-		anderen alhier ten dorpe op de hoek van degroot in zynen grond, als de daarvan geformeerde kaarten,
+		anderen alhier ten dorpe op de hoek van de <span style="border-bottom: 2px dotted #FF0000;">Klein en
+		Birdstraaten</span> groot in zynen grond, als de daarvan geformeerde kaarten,
 		gemerkt A: en B: zulks breeder koomen aan te toonen</td>
     </tr>
     <tr>
       <td>een stuk ommuurde tuinland gelegen aan het
-		einde van degroot twee honderd
+		einde van de <span style="border-bottom: 2px dotted #FF0000;">Birdstraat</span> groot twee honderd
 		negen en zestig quadraat roeden en vier en zestig quadraat voeten</td>
     </tr>
   </tbody>
@@ -2771,7 +2775,7 @@ In het opgemelde woonhuis en aldaar
       <td>de Kaapsche couranten van 1812 tot 1823</td>
     </tr>
     <tr>
-      <td>twaalf plaaten zynde gezigten van</td>
+      <td>twaalf plaaten zynde gezigten van <span style="border-bottom: 2px dotted #FF0000;">Parys</span></td>
     </tr>
     <tr>
       <td>twee compassen</td>
@@ -3563,72 +3567,72 @@ In het opgemelde woonhuis en aldaar
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jacob van de Kaap</span> koetzier oud volgens
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jacob van de Kaap</span> koetzier oud volgens
 		registratie 62 jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">November van de Kaap</span> kledermaker oud volg:s
+      <td><span style="border-bottom: 2px dotted #00FF00;">November van de Kaap</span> kledermaker oud volg:s
 		registratie 42 jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Hendrik van de Kaap</span> huisjongen 40
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hendrik van de Kaap</span> huisjongen 40
 		jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Izaak van de Kaap</span> stal jongen 22 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Izaak van de Kaap</span> stal jongen 22 jaren</td>
     </tr>
     <tr>
       <td>transferred 6 April 1831</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Marcus van de Kaap</span> oud 10 jaren,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Marcus van de Kaap</span> oud 10 jaren,
 		zynde deeze Marcus ingevolge de in den hoofde deezes gemelde testamentaire
 		dispositie gelegateerd aan des overledenen klein zoon Jean Alexandre
 		Camyn</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">December van Madagascar</span> tuinier 67
+      <td><span style="border-bottom: 2px dotted #00FF00;">December van Madagascar</span> tuinier 67
 		jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Marcus van Bougies</span> metzelaar 57 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Marcus van Bougies</span> metzelaar 57 jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Adrette van Bengalen</span> metzelaar 62
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adrette van Bengalen</span> metzelaar 62
 		jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">August van Ceijlon</span> kok 57 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">August van Ceijlon</span> kok 57 jaren</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Judith van de Kaap</span> strykster 47 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Judith van de Kaap</span> strykster 47 jaren</td>
     </tr>
     <tr>
-      <td>manumitted with her child <span style="border-bottom: 2px dotted #008000;">Camies</span></td>
-      <td><span style="border-bottom: 2px dotted #008000;">Francina van de Kaap</span> strykster 40 jaren met
-		haar kind <span style="border-bottom: 2px dotted #008000;">Camies</span> geboren 25 Dec:r 1823
+      <td>manumitted with her child <span style="border-bottom: 2px dotted #00FF00;">Camies</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Francina van de Kaap</span> strykster 40 jaren met
+		haar kind <span style="border-bottom: 2px dotted #00FF00;">Camies</span> geboren 25 Dec:r 1823
 		deeze Francina met haar kind moeten ingevolge testamentaire dispositie in
 		vrijdom worden gesteld</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Sina van de Kaap</span> 17 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sina van de Kaap</span> 17 jaren</td>
     </tr>
     <tr>
       <td>transferred 6 April 1831</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Regina van de Kaap</span> 12 jaren,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Regina van de Kaap</span> 12 jaren,
 		zynde opgem: Regina ingevolge testamentaire dispositie in den hoofde dezes
 		gemeld gelegateerd aan des overledene kleinzoon Jean Alexandre Camijn</td>
     </tr>
     <tr>
-      <td>still in the estate of</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Satia van de Kaap</span> thans 7 jaren</td>
+      <td>still in the estate of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Satia van de Kaap</span> thans 7 jaren</td>
     </tr>
   </tbody>
 </table>
@@ -3669,7 +3673,7 @@ In het opgemelde woonhuis en aldaar
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>van Adam Koehtze tewoonachtig, wegens de verkoop van <span style="border-bottom: 2px dotted #008000;">slaven</span></td>
+      <td>van Adam Koehtze te <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> woonachtig, wegens de verkoop van <span style="border-bottom: 2px dotted #00FF00;">slaven</span></td>
       <td>5000</td>
     </tr>
     <tr>
@@ -3779,14 +3783,14 @@ In het opgemelde woonhuis en aldaar
     <tr>
       <td>&nbsp;</td>
       <td>aan het registratie comptoir alhier voor
-		het registreeren van ’t slave kind <span style="border-bottom: 2px dotted #008000;">Camies</span></td>
+		het registreeren van ’t slave kind <span style="border-bottom: 2px dotted #00FF00;">Camies</span></td>
       <td>&nbsp;</td>
       <td>1:--:--</td>
     </tr>
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ten sterfhuize alhier ten dorpegelegen op den 11 January 1824 en
+Aldus gedaan en geinventariseerd ten sterfhuize alhier ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> gelegen op den 11 January 1824 en
 	 zulks op het op en aangeeven van Johannes Dorotheus Camyn en Petronella Sophia
 	 Faure, dewelke verklaarden hun ter goeder trouw te hebben gedragen en niets met
 	 opzet verzweegen te hebben, het geen, tot gemelde nalatenschap is behoorende,
@@ -4353,41 +4357,41 @@ P:J: Blommestein
 
 ## MOOC8/41.8
 
- {18250815} 15 August 1825 <span style="border-bottom: 2px dotted #008000;">William Boardman</span> 
+ {18250815} 15 August 1825 <span style="border-bottom: 2px dotted #00FF00;">William Boardman</span> 
 
 Inventory of the goods and chattles belonging to the late Rev:d William
-	 Boardman who died atat 6am the 10:th
-	 August 1825 aged 56 years and 10 months he was born atinand has left issue
+	 Boardman who died at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> at 6am the 10:th
+	 August 1825 aged 56 years and 10 months he was born at <span style="border-bottom: 2px dotted #FF0000;">Wiggam</span> in <span style="border-bottom: 2px dotted #FF0000;">Lancaschire</span> and has left issue
 
 <table>
   <tbody>
     <tr>
-      <td>Tho:s Boardman residing atmarried aged 25 years</td>
+      <td>Tho:s Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Blackburn</span> married aged 25 years</td>
     </tr>
     <tr>
       <td>Mary Boardman residing at Cape Town married to W: Earle aged 30
 		  years</td>
     </tr>
     <tr>
-      <td>Judith Boardman residing atsingle aged 29 years</td>
+      <td>Judith Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 29 years</td>
     </tr>
     <tr>
-      <td>Susanna Boardman residing atsingle aged 27 years</td>
+      <td>Susanna Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 27 years</td>
     </tr>
     <tr>
-      <td>Margaret Boardman residing atsingle aged 23 years</td>
+      <td>Margaret Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 23 years</td>
     </tr>
     <tr>
-      <td>John Ashton Boardman residing atsingle aged 21 years</td>
+      <td>John Ashton Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 21 years</td>
     </tr>
     <tr>
-      <td>Sarah Heyes Boardman residing atsingle aged 19 years</td>
+      <td>Sarah Heyes Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 19 years</td>
     </tr>
     <tr>
-      <td>James Boardman residing atsingle aged 17 years</td>
+      <td>James Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 17 years</td>
     </tr>
     <tr>
-      <td>William Boardman residing atsingle aged 14 years</td>
+      <td>William Boardman residing at <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> single aged 14 years</td>
     </tr>
   </tbody>
 </table>
@@ -4412,7 +4416,7 @@ Inventory of the goods and chattles belonging to the late Rev:d William
 		  receipt for payment herewith transmitted</td>
     </tr>
     <tr>
-      <td>1 erf in</td>
+      <td>1 erf in <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 15</span></td>
     </tr>
     <tr>
       <td>2 horses</td>
@@ -4538,7 +4542,7 @@ Inventory of the goods and chattles belonging to the late Rev:d William
       <td>6 milk dishes</td>
     </tr>
     <tr>
-      <td>there is a small property inheld between Mr Boardman and his
+      <td>there is a small property in <span style="border-bottom: 2px dotted #FF0000;">England</span> held between Mr Boardman and his
 		  brothers, sisters, his son Thomas has power of attorney for managing Mr B’s
 		  interest in it</td>
     </tr>
@@ -4562,7 +4566,7 @@ Inventory of the goods and chattles belonging to the late Rev:d William
       <td>318:2:3</td>
     </tr>
     <tr>
-      <td>Ja:s Cameyenclosed</td>
+      <td>Ja:s Camey <span style="border-bottom: 2px dotted #FF0000;">G:s Town</span> enclosed</td>
       <td>74:--:--</td>
     </tr>
     <tr>
@@ -4570,7 +4574,7 @@ Inventory of the goods and chattles belonging to the late Rev:d William
       <td>44:3:2</td>
     </tr>
     <tr>
-      <td>W: Douleand
+      <td>W: Doule <span style="border-bottom: 2px dotted #FF0000;">G:s Town</span> and
 		letter</td>
       <td>60:--:--</td>
     </tr>
@@ -4589,7 +4593,7 @@ Credits not known, but they consist chiefly of such parts of his salaries
 A list of children who were at school will be sent, with accounts for each
 	 so for as they too be made out
 
-15:th Aug:t 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Bathurst</span> 15:th Aug:t 1825
 
 W: Currie, Field Cornet
 
@@ -4599,7 +4603,7 @@ Judith Boardman
 
 ## MOOC8/41.9
 
- {18250830} 30 August 1825 <span style="border-bottom: 2px dotted #008000;">Suzanna Johanna
+ {18250830} 30 August 1825 <span style="border-bottom: 2px dotted #00FF00;">Suzanna Johanna
 	 Esterhuyzen</span> 
 
 Vendutie Maandag d: 3 Octob: 1825
@@ -4619,7 +4623,8 @@ The aforesaid property having been taken under the administration of the
 <table>
   <tbody>
     <tr>
-      <td>A house and premises situated in thisin</td>
+      <td>A house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Tablevalley</span> in <span style="border-bottom: 2px dotted #FF0000;">Row
+		  Z:Z:</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 8</span></td>
     </tr>
     <tr>
       <td>one table</td>
@@ -4782,12 +4787,12 @@ The aforesaid property having been taken under the administration of the
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #008000;">Julia</span> of this Colony about
+      <td rowspan='2' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Julia</span> of this Colony about
 		29 years of age housemaid with her two children named</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Zemira</span> aged 11 years and</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Zemira</span> aged 11 years and</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Fredrik</span> aged
+      <td><span style="border-bottom: 2px dotted #00FF00;">Fredrik</span> aged
 		about 1 3/4 years of age</td>
     </tr>
   </tbody>
@@ -4878,7 +4883,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/41.10
 
- {18250608} 8 June 1825 <span style="border-bottom: 2px dotted #008000;">David Pontardent</span> 
+ {18250608} 8 June 1825 <span style="border-bottom: 2px dotted #00FF00;">David Pontardent</span> 
 
 Inventory of all such property as has been relinquished by the death ab
 	 intestato of David Pontardent esquire on the twenty sixth day of the month of
@@ -5027,8 +5032,8 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/41.11
 
- {18250919} 19 September 1825 <span style="border-bottom: 2px dotted #008000;">Hendrick Gerhardus
-	 van der Merwe</span> , <span style="border-bottom: 2px dotted #008000;">Johanna
+ {18250919} 19 September 1825 <span style="border-bottom: 2px dotted #00FF00;">Hendrick Gerhardus
+	 van der Merwe</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Cornelia Smit</span> 
 
 J:G: Brink
@@ -5037,11 +5042,11 @@ A true and perfect inventory of all and every the goods, chattles, wares,
 	 and merchandize as well moveables as not, debts, credits and other personal
 	 effects of the deceased Hendrick Gerhardus van der Merwe Barend Jacobus son and
 	 his late wife Johanna Cornelia Smit Christoffel Johannes daughter found in the
-	 district ofand who died intestate,
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and who died intestate,
 	 the former died on the 17:th July 1825 between the hours of 5 and 6 a:m: at the
-	 placeand the latter on the 24:th
+	 place <span style="border-bottom: 2px dotted #FF0000;">Klip Kraal</span> and the latter on the 24:th
 	 July 1825 between the hours of 1 and 2 a:m: at the above place in the field
-	 cornetship of Gerhardus Petrus Marais, district ofand given up as follows, viz:
+	 cornetship of Gerhardus Petrus Marais, district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows, viz:
 
 <table>
   <tbody>
@@ -5222,15 +5227,15 @@ A true and perfect inventory of all and every the goods, chattles, wares,
       <td>vide decision of the Board 14 Dec: 1825</td>
       <td>from
 		Christoffel Johannes Smit Williams son residing in the Field Cornetship of
-		Gerhardus Petrus Marrais district ofthe sum of one hundred rixdallars arising from ready money borrowed whereof
+		Gerhardus Petrus Marrais district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of one hundred rixdallars arising from ready money borrowed whereof
 		there is a bond</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>forwarded for the recovery to the agent of14 Dec: 1825, collected bij the
+      <td>forwarded for the recovery to the agent of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> 14 Dec: 1825, collected bij the
 		agent and accounted for</td>
       <td>from Jacob Coenrad de Clerk Jan’s son
-		residing atdistrict ofthe sum of fifty rixdallars arising
+		residing at <span style="border-bottom: 2px dotted #FF0000;">Tulbag</span> district of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> the sum of fifty rixdallars arising
 		from the purchase of some sheep whereof there is a bond bearing date 9:th May
 		1825 - betaald</td>
       <td>50</td>
@@ -5252,33 +5257,33 @@ A true and perfect inventory of all and every the goods, chattles, wares,
     </tr>
     <tr>
       <td>to William Abram Smit Christoffel Johannes son residing in the
-		field cornetcy of Gerhardus P: Marais district ofthe sum of nine rixdallars arising from
+		field cornetcy of Gerhardus P: Marais district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of nine rixdallars arising from
 		that amount being paid to Dirk J: Vermulen whereof there is a receipt having
 		date 10:th Aug:t 1825</td>
       <td>9:--</td>
     </tr>
     <tr>
       <td>to William Abram Smit Christoffel Johannes son residing in the
-		Field Cornetcy of G:P: Marais district ofthe sum of forty two rixdallars arising
+		Field Cornetcy of G:P: Marais district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of forty two rixdallars arising
 		from the purchase of some goats whereof there is a bond bearing date 11:th
 		April 1824</td>
       <td>42:--</td>
     </tr>
     <tr>
-      <td>to the Vendue Master ofJ: Baird esq:re the sum of one hundred and thirteen rd:s four schell:g arising
+      <td>to the Vendue Master of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> J: Baird esq:re the sum of one hundred and thirteen rd:s four schell:g arising
 		from purchases made at the sale of the widow Scalk Foster whereof there is a
 		vendue bill bearing date 27:th May 1825 - voldaan</td>
       <td>113:4</td>
     </tr>
     <tr>
       <td>to William Abram Smit Christ:l J: son residing in the Field
-		Cornetcy of G:P: Marais district ofthe sum of nine rixdallars arising from the purchase of some goats whereof
+		Cornetcy of G:P: Marais district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of nine rixdallars arising from the purchase of some goats whereof
 		there is a bond bearing date 11:th March 1824</td>
       <td>9:--</td>
     </tr>
     <tr>
       <td>to Jacob de Clerk s:r residing in the Field Cornetcy of G:P:
-		Marais district ofthe sum of fifty
+		Marais district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of fifty
 		five rixdallars arising from rd:s41 expences attending the funeral of both the
 		deceased and the remaining for ready money borrowed - bond
 		rd:41</td>
@@ -5305,7 +5310,7 @@ A true and perfect inventory of all and every the goods, chattles, wares,
   </tbody>
 </table>
 
-This done and registered on Monday 19:th Sep:r 1825 at the farmaccording to the statement of
+This done and registered on Monday 19:th Sep:r 1825 at the farm <span style="border-bottom: 2px dotted #FF0000;">Bronkorst Valei</span> according to the statement of
 	 Christoffel Johannes Smit Williams son who declares in his above statement of
 	 this estate having been done honestly and truly and that nothing has been held
 	 back to the best of his knowledge and that he further declares always to be
@@ -5323,7 +5328,7 @@ Witnesses: W: Bower, H:J: Luttig
 J: Baird, D:y Land:t
 
 Amplification of the remaining property of this estate found under the
-	 district ofunder the protection
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> under the protection
 	 of Barend van der Merwe P:r
 
 <table>
@@ -5372,7 +5377,7 @@ Amplification of the remaining property of this estate found under the
     <tr>
       <td>voldaan</td>
       <td>from Barend Jacobus van der Merwe residing in
-		the district ofthe sum of rd:s
+		the district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> the sum of rd:s
 		five hundred and seven arising from money lent</td>
       <td>507:--</td>
     </tr>
@@ -5385,7 +5390,7 @@ Amplification of the remaining property of this estate found under the
     <tr>
       <td>in mindering betaald rd:247:12 in voldoening rd: 52:36,
 		rd:300</td>
-      <td>from Andries Swarte residing in the district ofwithin the Veld Cornetcy of C:
+      <td>from Andries Swarte residing in the district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> within the Veld Cornetcy of C:
 		Pretorius the sum of three hundred rixdallars for cash
 		lent</td>
       <td>300:--</td>
@@ -5393,7 +5398,7 @@ Amplification of the remaining property of this estate found under the
     <tr>
       <td>in mindering betaald rd:1226</td>
       <td>from Carel Jacobus van
-		Heerden residing indistrict ofthe sum of three thousand five
+		Heerden residing in <span style="border-bottom: 2px dotted #FF0000;">Sneuwberg</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> the sum of three thousand five
 		hundred and fifty six rd:s exclusive of intrest arising from an inheritance of
 		his grandfather and mother who died about twelve years ago - it appears
 		according to the letter of their agent dated 22 March 1827 schedule 4 April
@@ -5423,7 +5428,7 @@ Amplification of the remaining property of this estate found under the
       <td>40:1</td>
     </tr>
     <tr>
-      <td>to Adrian Johannes van Jaarsveld residing ondistrict ofthe sum of forty four rixd:s and
+      <td>to Adrian Johannes van Jaarsveld residing on <span style="border-bottom: 2px dotted #FF0000;">Sneuwberg</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> the sum of forty four rixd:s and
 		six schillings arising from smiths work done</td>
       <td>44:6</td>
     </tr>
@@ -5447,7 +5452,7 @@ den 9 May 1825
 
 Get:d: J:C: de Clerk
 
-Accordeert met dies originiel aan den agent vanJ:G: Aspeling overgezonden den 15:t
+Accordeert met dies originiel aan den agent van <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> J:G: Aspeling overgezonden den 15:t
 	 December 1825.
 
 betaald aan de agent en door hem verantwoord
@@ -5456,10 +5461,10 @@ H:S: Bruer
 
 ## MOOC8/41.12
 
- {18240619} 19 Juny 1824 <span style="border-bottom: 2px dotted #008000;">William Titterton</span> 
+ {18240619} 19 Juny 1824 <span style="border-bottom: 2px dotted #00FF00;">William Titterton</span> 
 
 Inventarium van de nalatenschap van William Titterton ooverleeden den 19
-	 Juny 1824 aan deopgemaakt by de
+	 Juny 1824 aan de <span style="border-bottom: 2px dotted #FF0000;">Wynberg</span> opgemaakt by de
 	 ondergeteekende als
 
 <table>
@@ -5515,7 +5520,7 @@ Inventarium van de nalatenschap van William Titterton ooverleeden den 19
   </tbody>
 </table>
 
-den 19 Juny 1824
+ <span style="border-bottom: 2px dotted #FF0000;">Wynberg</span> den 19 Juny 1824
 
 In presentie van: E:A: Eggert en George Payne
 
@@ -5553,7 +5558,7 @@ nog te goed rd:110 by kennisse die op den 21 Juny is aangeschreven
 ## MOOC8/41.13
 
  {18260627} 27 Juny
-	 1826 <span style="border-bottom: 2px dotted #008000;">Jurgen
+	 1826 <span style="border-bottom: 2px dotted #00FF00;">Jurgen
 	 Holweda</span> 
 
 Exh:d the 26:th July 1826, n:o 22
@@ -5781,7 +5786,7 @@ T:J: d: Pliesie, vangerind a:t
 
 ## MOOC8/41.14
 
- {18260420} 20 April 1826 <span style="border-bottom: 2px dotted #008000;">Johan Babtis de
+ {18260420} 20 April 1826 <span style="border-bottom: 2px dotted #00FF00;">Johan Babtis de
 	 Negrine</span> 
 
 exh: 17 May 26
@@ -5791,7 +5796,8 @@ Copy
 S:V: Cloete
 
 Inventaris des boedels van wijlen Johan Babtis de Negrine ab intestato
-	 overleden op den 14 April 1826 ter plaatsedistrict
+	 overleden op den 14 April 1826 ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Botte
+	 Revier</span> district <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> 
 
 <table>
   <tbody>
@@ -5884,7 +5890,7 @@ Accordeert: J:J: Tesselaar, Agent
 
 ## MOOC8/41.15
 
- {18050401} 1 April 1805 <span style="border-bottom: 2px dotted #008000;">Fredrik van de
+ {18050401} 1 April 1805 <span style="border-bottom: 2px dotted #00FF00;">Fredrik van de
 	 Caab</span> 
 
 Geminuteerd op zeegul van twaalff stuivers
@@ -5926,7 +5932,7 @@ Inventaris van de geheelen nalatenschap van den op den vyfde Junij een
 	 duyzend acht hondert en vyf en twintig overleeden vry zwart genaamt Frederik
 	 van de Kaap het voormalig eijgendom van Jacobus Nicolaas Rijk
 	 geinventarisseerd, op aanwyzing en in bij zyn van zyn erfgenaamen benevens twee
-	 onpartydiege getuyge op den 25 Juny 1825 ter legplaatsin de wyk onderdistrickadj: landdrost J: v: Ryneveld.
+	 onpartydiege getuyge op den 25 Juny 1825 ter legplaats <span style="border-bottom: 2px dotted #FF0000;">Anwiekes Rivier</span> in de wyk onder <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> districk <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> adj: landdrost J: v: Ryneveld.
 
 <table>
   <tbody>
@@ -6176,7 +6182,7 @@ deeze alle zyn ongedoopt en niet getrouwt
 
 ## MOOC8/41.16
 
- {18240315} 15 Maard 1824 <span style="border-bottom: 2px dotted #008000;">Jacobus
+ {18240315} 15 Maard 1824 <span style="border-bottom: 2px dotted #00FF00;">Jacobus
 	 Johannes Janse van Renseburg</span> 
 
 ex: den 14 July 1824
@@ -6230,7 +6236,7 @@ soodanig als deself door mijn ondergetekene Veld Cornet ter op en aan gaaf
   <thead><tr><td colspan='100%'>Losse goederen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slaven</span></td>
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slaven</span></td>
     </tr>
     <tr>
       <td>1 bulsak</td>
@@ -6449,7 +6455,7 @@ soodanig als deself door mijn ondergetekene Veld Cornet ter op en aan gaaf
   </tbody>
 </table>
 
-Aldus gedaan in geenvantariseerd ter plaadse genamd deaanop den 15 Maard 1824 en de sulks op het
+Aldus gedaan in geenvantariseerd ter plaadse genamd de <span style="border-bottom: 2px dotted #FF0000;">Welgehoud Revier</span> aan <span style="border-bottom: 2px dotted #FF0000;">Kamnasieberg</span> op den 15 Maard 1824 en de sulks op het
 	 op in aan geeven van gemelde Martha Magdalena Engelbreg der sulke betuijgde
 	 seer daar in ter goeder trou gedraagen in haaren weetens niets verswegen te
 	 hebben van al het geen tot den boedel naalaten schap behoord onder presentatie
@@ -6472,8 +6478,8 @@ In tegen woordigheyd van myn: Hendrik Grobler, V:
 
 ## MOOC8/41.17
 
- {18241105} 5 November 1824 <span style="border-bottom: 2px dotted #008000;">Johannis Jurgen
-	 Benade</span> , <span style="border-bottom: 2px dotted #008000;">Mareintje
+ {18241105} 5 November 1824 <span style="border-bottom: 2px dotted #00FF00;">Johannis Jurgen
+	 Benade</span> , <span style="border-bottom: 2px dotted #00FF00;">Mareintje
 	 Fourie</span> 
 
 S:V: Cloete
@@ -6627,7 +6633,8 @@ Inventaris van alle zodanige goederen als behoord hebben tot den
   </tbody>
 </table>
 
-Aldus gedaan en geinventarisseerd ter plaatteindistrictop den 5
+Aldus gedaan en geinventarisseerd ter plaatte <span style="border-bottom: 2px dotted #FF0000;">Kaffers Kraal</span> in <span style="border-bottom: 2px dotted #FF0000;">Brakke
+	 Rivier</span> district <span style="border-bottom: 2px dotted #FF0000;">Cradock</span> op den 5
 	 November 1824 volgens op en aangave van de in de hoofde dezes gemelde weduwe
 	 dewelke verklaarde niets met weten verzwegen ofte agtergehouden te hebben met
 	 belofte indien zich iets mogte ontdekken tot opgem: boedel behoorende als dan
@@ -6643,7 +6650,7 @@ In kennisse van my: W:M:M: Mackay
 
 ## MOOC8/41.18
 
- {18231127} 27 November 1823 <span style="border-bottom: 2px dotted #008000;">Johan Jurgens du Pree</span>  <span style="border-bottom: 2px dotted #008000;">Else Claassen</span> 
+ {18231127} 27 November 1823 <span style="border-bottom: 2px dotted #00FF00;">Johan Jurgens du Pree</span>  <span style="border-bottom: 2px dotted #00FF00;">Else Claassen</span> 
 
 Exh: 17 Dec: 1823 n:o 6
 
@@ -6652,9 +6659,9 @@ S:V: Cloete
 A true and perfect inventary of all and every the goods, chattels, wares
 	 and merchandise, as well moveable as not, debts, credits and other personal
 	 effects of the deceased John Jurgens du Pree and his late widow Else Claassen
-	 which latter died ab intestato at theSept:r 23 1823 between the
+	 which latter died ab intestato at the <span style="border-bottom: 2px dotted #FF0000;">Rattle Fountain</span>  <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> Sept:r 23 1823 between the
 	 hours of 4 and 5 o’clock a:m: within the fieldconetship of Jacob Burgert,
-	 district ofand given up as follows,
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows,
 	 viz:t
 
 <table>
@@ -6780,7 +6787,7 @@ A true and perfect inventary of all and every the goods, chattels, wares
       <td>NB: deze pretentie vervalt als door Frans Philonel, op zijn
 		pretentie tegen den boedel in rekening gebragt</td>
       <td>to Gert Coetze,
-		residing in thedistrictthe sum of rd:s13:7 arising from the
+		residing in the <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> the sum of rd:s13:7 arising from the
 		purchase of 37 foot yellow wood board towards making of the coffin for the
 		deceased, of which there is no bill yet delivered</td>
       <td>13:7</td>
@@ -6789,7 +6796,7 @@ A true and perfect inventary of all and every the goods, chattels, wares
       <td>NB: deze pretentie vervalt als door Frans Philonel op zijn
 		pretentie tegen den boedel in rekening gebragt</td>
       <td>to Dirk van
-		Schalkwyk residing indistrictthe sum of rd:s8:5 arising from the
+		Schalkwyk residing in <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of rd:s8:5 arising from the
 		purchase of 23 foot yellow wood board towards making the coffin for the
 		deceased as well as rd:s1 for 1 lb: nails, of which there is no bill yet
 		delivered</td>
@@ -6797,8 +6804,8 @@ A true and perfect inventary of all and every the goods, chattels, wares
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>to Peter Swanepool residing in thewithin the Field Cornetship of J:
-		Heron districtthe sum of rd:s5
+      <td>to Peter Swanepool residing in the <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> within the Field Cornetship of J:
+		Heron district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> the sum of rd:s5
 		arising from the remaining part unpaid of the purchase of a horse whereof there
 		is no bond</td>
       <td>5:--</td>
@@ -6843,7 +6850,7 @@ A true and perfect inventary of all and every the goods, chattels, wares
 </table>
 
 This done and registered on Thursday the 27:th Nov:r 1823 at the village
-	 ofaccording to the statement of
+	 of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> according to the statement of
 	 Frans Philonel, who declares in his above statement of this estate having been
 	 done honestly and truly and that nothing has been held back to the best of his
 	 knowledge and he further declares he is at all time ready and willing if called
@@ -6862,7 +6869,7 @@ Witnesses: P:J: Truter, J: Cleaver
 
 ## MOOC8/41.19
 
- {18180302} 2 Maart 1818 <span style="border-bottom: 2px dotted #008000;">Adriaan van Wyk</span> 
+ {18180302} 2 Maart 1818 <span style="border-bottom: 2px dotted #00FF00;">Adriaan van Wyk</span> 
 
 Inventaris van alle zodanige goederen en effecten als door Adriaan van Wyk
 	 d’ oude ab intestato met er dood ontruimd en nagelaten mitgaders heden
@@ -6935,13 +6942,13 @@ Inventaris van alle zodanige goederen en effecten als door Adriaan van Wyk
   <tbody>
     <tr>
       <td>volgens opgaaf van de Bast: Hans Lubbe by wien de overledene heeft
-		gewoond zoude twee broeders van den overledene wonen onder het districtofen een zuster getrouwd zyn met een
+		gewoond zoude twee broeders van den overledene wonen onder het district <span style="border-bottom: 2px dotted #FF0000;">George</span> of <span style="border-bottom: 2px dotted #FF0000;">Uitenhagen</span> en een zuster getrouwd zyn met een
 		uitlandig perzoon zonder te weten waar hy zig thans bevind dog verneem dat er
 		kinderen van zyn</td>
     </tr>
     <tr>
       <td>geeft verder op dat door de zwager van de overledene genaamd
-		Jurgen du Preez eenige goederen van de boedel zoude medegenomen zyn naar ’t.</td>
+		Jurgen du Preez eenige goederen van de boedel zoude medegenomen zyn naar ’t <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> .</td>
     </tr>
   </tbody>
 </table>
@@ -7062,13 +7069,13 @@ Lyst van goederen welke toe behoren aan de boedel van wylen Adriaan van
   </tbody>
 </table>
 
-Aldus opgegeven door de Bastaard Hans Lubbe in hetden 2 Maart 1818.
+Aldus opgegeven door de Bastaard Hans Lubbe in het <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> den 2 Maart 1818.
 
 J:C: Winterbach
 
 ## MOOC8/41.20
 
- {18250922} 22 September 1825 <span style="border-bottom: 2px dotted #008000;">Lucas Visagie</span> , <span style="border-bottom: 2px dotted #008000;">Elisabeth Burger</span> 
+ {18250922} 22 September 1825 <span style="border-bottom: 2px dotted #00FF00;">Lucas Visagie</span> , <span style="border-bottom: 2px dotted #00FF00;">Elisabeth Burger</span> 
 
 H: Somerset
 
@@ -7444,7 +7451,7 @@ Inventaris van alle zodanige goederen effecten als er door wylen Lucas
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd op den 22 September 1825 ter plaatze devolgens op en aangave van Gert
+Aldus gedaan en geinventariseerd op den 22 September 1825 ter plaatze de <span style="border-bottom: 2px dotted #FF0000;">Brandwagt</span> volgens op en aangave van Gert
 	 Jacobus Visagie dewelke betuigde zig in het op en aangeeven des toonmelden
 	 boedels ter goeder trouwe te hebben gedragenen verklaare zig dus bereid deeze
 	 zyne op en aangaave des gevorderd wordende ten allen tyde met solemneele eede
@@ -7471,7 +7478,7 @@ Zegge veertig ryksdaalders
 
 Ontvangen den 27 Sept:r 1825
 
-1:e February 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> 1:e February 1825
 
 Goede vriend
 
@@ -7480,7 +7487,7 @@ Daar ik en den meden executeur D:A: van Zyl A: son een onderhandsch
 	 gevonden, hebben wy nodig geoordeeld U: Ed: copia van dezelve te doen geworden
 	 met zee vriendelyk verzoek my ter eersten omstandig te willen melden wat er van
 	 deze zaak zy, alsmede U edele te informeren dat uwe gem:de schoonvader aan uwe
-	 echtgenoote zyne dochter de slavin <span style="border-bottom: 2px dotted #008000;">Roslyn</span> met alle hare reeds hebbende en nogte verkrygene
+	 echtgenoote zyne dochter de slavin <span style="border-bottom: 2px dotted #00FF00;">Roslyn</span> met alle hare reeds hebbende en nogte verkrygene
 	 kinderen voor eene somma van rd:s1800 per testament de dato 21 Dec:r 1823 heeft
 	 vermaakt en boven en behalven gez:de slavin nog aan haar eene somma van een
 	 duisend gulders Indische valuatie heeft gelegateerd zo nodigen wy U: Ed: om
@@ -7495,11 +7502,11 @@ ben ik: U: Ed: d:w:e dien:r: J: Schömberg, Execut:r
 
 den heere Lucas Visagie Gertz zoon gehuuwd met Elizabeth Burger
 
-of
+ <span style="border-bottom: 2px dotted #FF0000;">Camdebo</span> of <span style="border-bottom: 2px dotted #FF0000;">Sneeuwberg</span>  <span style="border-bottom: 2px dotted #FF0000;">Graafreinet</span> 
 
 ## MOOC8/41.21
 
- {18060210} 10 February 1806 <span style="border-bottom: 2px dotted #008000;">Lucas Visagie</span> 
+ {18060210} 10 February 1806 <span style="border-bottom: 2px dotted #00FF00;">Lucas Visagie</span> 
 
 Copia
 
@@ -7515,7 +7522,7 @@ Ik ondergeteekende Lucas Visagie Gerts zoon bekenne wel en deugdelyk
 
 /get:d/ Petrus Burger
 
-den 26 February 1799
+ <span style="border-bottom: 2px dotted #FF0000;">Rosenburg</span> den 26 February 1799
 
 1800 de interesten voldaan
 
@@ -7542,7 +7549,7 @@ Kaapstad den 10 February 1806
 
 ## MOOC8/41.22
 
- {18260407} 7 April 1826 <span style="border-bottom: 2px dotted #008000;">Daniel Petrus Pienaar</span> , <span style="border-bottom: 2px dotted #008000;">Catharina Gloudina
+ {18260407} 7 April 1826 <span style="border-bottom: 2px dotted #00FF00;">Daniel Petrus Pienaar</span> , <span style="border-bottom: 2px dotted #00FF00;">Catharina Gloudina
 	 van den Hever</span> 
 
 H: Somerset
@@ -7660,7 +7667,7 @@ J: Meintjes
 
 ## MOOC8/41.23
 
- {18260426} 26 April 1826 <span style="border-bottom: 2px dotted #008000;">Stephanus Petrus
+ {18260426} 26 April 1826 <span style="border-bottom: 2px dotted #00FF00;">Stephanus Petrus
 	 Naudé</span> 
 
 H: Somerset
@@ -7673,7 +7680,7 @@ Inventaris van alle zoodanige goederen en effecten als behoord hebben tot
 <table>
   <tbody>
     <tr>
-      <td>De opstal de leenings plaats, gelegen aanin ’t veld c:t schapdist:t.</td>
+      <td>De opstal de leenings plaats <span style="border-bottom: 2px dotted #FF0000;">Keerom</span> , gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Vogel Rivier</span> in ’t veld c:t schap <span style="border-bottom: 2px dotted #FF0000;">Bruintjes Hoogte</span> dist:t <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> .</td>
     </tr>
   </tbody>
 </table>
@@ -7853,14 +7860,14 @@ Inventaris van alle zoodanige goederen en effecten als behoord hebben tot
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Philida van
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Philida van
 		Malabar</span></td>
     </tr>
     <tr>
-      <td>de slaaf <span style="border-bottom: 2px dotted #008000;">Abraham v:d: Kaap</span></td>
+      <td>de slaaf <span style="border-bottom: 2px dotted #00FF00;">Abraham v:d: Kaap</span></td>
     </tr>
     <tr>
-      <td>de slaaf <span style="border-bottom: 2px dotted #008000;">Titus van
+      <td>de slaaf <span style="border-bottom: 2px dotted #00FF00;">Titus van
 		Mosambique</span></td>
     </tr>
   </tbody>
@@ -7965,7 +7972,7 @@ Inventaris van alle zoodanige goederen en effecten als behoord hebben tot
   </tbody>
 </table>
 
-Aldus gedaan en geinventarisseerd ter plaatsegelegen in het veldcornetschapdistrictop den 26 April 1826 volgens op en
+Aldus gedaan en geinventarisseerd ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Keerom</span> gelegen in het veldcornetschap <span style="border-bottom: 2px dotted #FF0000;">Bruintjes Hoogte</span> district <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> op den 26 April 1826 volgens op en
 	 aangave van den burger Joh:s Lodewyk Schoeman zynde de wed:e van den overledene
 	 innocent en verklaarde gem:e Schoeman zig hierin naar gemoede en overeenkomstig
 	 den staat des boedels te hebben gedragen en niets met weten te hebben
@@ -7982,8 +7989,8 @@ W:W: Williamson
 
 ## MOOC8/41.24
 
- {18261005} 5 October 1826 <span style="border-bottom: 2px dotted #008000;">Charles Johannes
-	 Pretorius</span> , <span style="border-bottom: 2px dotted #008000;">Maria Magdalena
+ {18261005} 5 October 1826 <span style="border-bottom: 2px dotted #00FF00;">Charles Johannes
+	 Pretorius</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Magdalena
 	 Christina Pretorius</span> 
 
 J:H: de Wet
@@ -7991,8 +7998,8 @@ J:H: de Wet
 A true and perfect inventory of all the goods, chattels, wares and
 	 merchandize as well moveable as not, debts, credits and other personal effects
 	 of Charles Johannes Pretorius Joh:s son and his late wife Maria Magdalena
-	 Christina Pretorius Gerrits’ daughter, which latter died intestate at the place,in the fieldcornetcy of Mr C:L: de Clercq
-	 district ofon the 27:th July 1825
+	 Christina Pretorius Gerrits’ daughter, which latter died intestate at the place <span style="border-bottom: 2px dotted #FF0000;">Riet Poort</span> , <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> in the fieldcornetcy of Mr C:L: de Clercq
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on the 27:th July 1825
 	 between the hours of 4 and 5 a:m: and given up as follows
 
 <table>
@@ -8071,7 +8078,7 @@ A true and perfect inventory of all the goods, chattels, wares and
 </table>
 
 Thus done and registered on Thursday the 5:th October 1826 at the village
-	 ofaccording to the statement of
+	 of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> according to the statement of
 	 Charles Johannes Pretorius Joh:s son who declares in his above statement of
 	 this estate having been done honestly and truly and that nothing has been held
 	 back to the best of his knowledge and judgement and that he further declares to
@@ -8091,10 +8098,10 @@ J: de Clercq, D:y Landdrost
 
 ## MOOC8/41.25
 
- {18251028} 28 October 1825 <span style="border-bottom: 2px dotted #008000;">Harmaanis Benjamen
+ {18251028} 28 October 1825 <span style="border-bottom: 2px dotted #00FF00;">Harmaanis Benjamen
 	 Leroe</span> 
 
-den 28 October 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Ader Vontijn</span> den 28 October 1825
 
 Entaaris van het naalaatenschap van Harmaanis Benjamen Leroe naagelatenne
 	 weduwee Hendriena Jacoba Raabe door mijn veld cornet met de twee onderstaande
@@ -8103,7 +8110,7 @@ Entaaris van het naalaatenschap van Harmaanis Benjamen Leroe naagelatenne
 <table>
   <tbody>
     <tr>
-      <td>1 leennens plaats de</td>
+      <td>1 leennens plaats de <span style="border-bottom: 2px dotted #FF0000;">Ader Vontijn</span></td>
     </tr>
     <tr>
       <td>1 osse waagen compleet</td>
@@ -8382,11 +8389,11 @@ The 5 Feb: 1827, S:
 
 ## MOOC8/41.26
 
- {18260926} 26 September 1826 <span style="border-bottom: 2px dotted #008000;">William Ostler</span> 
+ {18260926} 26 September 1826 <span style="border-bottom: 2px dotted #00FF00;">William Ostler</span> 
 
-Inventory of all such property found on board theanchored in thisbelonging to the intestate estate of
+Inventory of all such property found on board theanchored in this <span style="border-bottom: 2px dotted #FF0000;">Table Bay</span> belonging to the intestate estate of
 	 William Ostler who commanded the said vessel and is missed on the 27:th ultimo
-	 whilst the vessel was riding at anchor inand supposed to have thrown himself
+	 whilst the vessel was riding at anchor in <span style="border-bottom: 2px dotted #FF0000;">Mosselbay</span> and supposed to have thrown himself
 	 overboard, which inventory has been taken for the benefit of his unknown
 	 heirs.
 
@@ -8565,7 +8572,7 @@ Thus done at the Cape of Good Hope in the Orphan Chamber where the
 	 all times be ready and willing to confirm his statement by solemn oath if
 	 required promising at the same time that if after the date of these presents
 	 any property of this estate might be discovered shall and will faithfully
-	 communicate it to the parties interested at his arrival in.
+	 communicate it to the parties interested at his arrival in <span style="border-bottom: 2px dotted #FF0000;">England</span> .
 
 In witness whereof we the Commissioners together with the Appearer and the
 	 Secretary have subscribed to these presents.
@@ -8588,7 +8595,7 @@ p:r p:r J: Ingram
 
 ## MOOC8/41.27
 
- {18250531} 31 Mei 1825 <span style="border-bottom: 2px dotted #008000;">Jacobus Scheepers</span> , <span style="border-bottom: 2px dotted #008000;">Martha Clara de
+ {18250531} 31 Mei 1825 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Scheepers</span> , <span style="border-bottom: 2px dotted #00FF00;">Martha Clara de
 	 Jager</span> 
 
 H: Somerset
@@ -8746,7 +8753,7 @@ Inventaris van alle zodanige goederen en effecten als zyn behoorende tot
   </tbody>
 </table>
 
-Aldus geinventariseerd ter drostdyeen zulks ter op en aan gave van de
+Aldus geinventariseerd ter drostdye <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> en zulks ter op en aan gave van de
 	 overbleeven weduwe M:C: de Jager voormeld en zulks in byweezen van Jacobus
 	 Johannes Scheepers en Charles Scheepers Jacobus zoons als getuigen
 
@@ -8757,7 +8764,7 @@ Verklaarde den overgebleevene weduwe verders zich in de op en aangave ter
 	 inventaris als dan daarmeede te amplieeren en macht het vereischt worden
 	 denzelve met eerde te bevestigen.
 
-Drostdye31 Mei 1825
+Drostdye <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 31 Mei 1825
 
 Getuigen: J:J: Scheepers, Carel Schipers
 
@@ -8767,8 +8774,8 @@ In kennisse van my: J:J: Roselt, Agent
 
 ## MOOC8/41.28
 
- {18241222} 22 December 1824 <span style="border-bottom: 2px dotted #008000;">Coenraad Marthinus
-	 Vermaal</span> , <span style="border-bottom: 2px dotted #008000;">Geertruyda Susanna Jacoba
+ {18241222} 22 December 1824 <span style="border-bottom: 2px dotted #00FF00;">Coenraad Marthinus
+	 Vermaal</span> , <span style="border-bottom: 2px dotted #00FF00;">Geertruyda Susanna Jacoba
 	 Bredenbach</span> 
 
 Inventaris van alle zodanige goederen en effecten als er tot den ab
@@ -8777,7 +8784,7 @@ Inventaris van alle zodanige goederen en effecten als er tot den ab
 	 door den eerstgemelde onder datum op den 19 November 1824 in den ouderdom van
 	 27 jaar 4 maande en 6 dage met er dood ontruimd en nagelaten zyn, zynde dezer
 	 inventaris geformeerd en in geschrifte gebragt door my ondergeteekende Veldc:
-	 van ’t district onderin
+	 van ’t district onder <span style="border-bottom: 2px dotted #FF0000;">Bosjesmans Rivier</span> in
 	 presentie van de hieronder vermelde getuigde dewelke ter mynen overstaan en op
 	 het gedaan verzoek van de overgebleevene C:M: Vermaak voormeld de goederen en
 	 effecten geinventariseerd, als volgt
@@ -8859,7 +8866,7 @@ Inventaris van alle zodanige goederen en effecten als er tot den ab
   </tbody>
 </table>
 
-Aldus geinventariseerd ter plaatsegeleegen in ’t veld cornetschap onderin bywezen van Matthys
+Aldus geinventariseerd ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Driekop</span> geleegen in ’t veld cornetschap onder <span style="border-bottom: 2px dotted #FF0000;">Bosjesmans Rivier</span> in bywezen van Matthys
 	 Potgieter zynde op den 22 December 1824.
 
 C:V: Buchner, V:t
@@ -8904,7 +8911,7 @@ Roselt
 ## MOOC8/41.29
 
  {18140225} 25
-	 Vebruareij 1814 <span style="border-bottom: 2px dotted #008000;">Petrus
+	 Vebruareij 1814 <span style="border-bottom: 2px dotted #00FF00;">Petrus
 	 Overholster</span> 
 
 Een opgaaf leijs van de naar gebleven goederen van weijlen Petrus
@@ -8914,7 +8921,7 @@ Een opgaaf leijs van de naar gebleven goederen van weijlen Petrus
 <table>
   <tbody>
     <tr>
-      <td>1 slafe <span style="border-bottom: 2px dotted #008000;">jongen</span></td>
+      <td>1 slafe <span style="border-bottom: 2px dotted #00FF00;">jongen</span></td>
     </tr>
     <tr>
       <td>1 pheul</td>
@@ -9011,7 +9018,7 @@ Een opgaaf leijs van de naar gebleven goederen van weijlen Petrus
   </tbody>
 </table>
 
-datho den 25 dag der maant
+ <span style="border-bottom: 2px dotted #FF0000;">Zantvonteijn</span> datho den 25 dag der maant
 	 Vebruareij ano 1814
 
 C:F: Jansen van Rensburg, Velt cornet
@@ -9022,7 +9029,7 @@ D: du Pleses D: zoon
 
 ## MOOC8/41.30
 
- {18260112} 12 January 1826 <span style="border-bottom: 2px dotted #008000;">Ann MacGregor</span> 
+ {18260112} 12 January 1826 <span style="border-bottom: 2px dotted #00FF00;">Ann MacGregor</span> 
 
 Exh:d the 25:th of January 1826 n:o 20
 
@@ -9173,7 +9180,7 @@ In my presence: J: Overbeek
 
 ## MOOC8/41.31
 
- {18221003} 3 October 1822 <span style="border-bottom: 2px dotted #008000;">Cornelia Margaretha
+ {18221003} 3 October 1822 <span style="border-bottom: 2px dotted #00FF00;">Cornelia Margaretha
 	 van Greune</span> 
 
 Inventaris van alle zodanige goederen als er op den 1:ste October l:l: ab
@@ -9312,7 +9319,7 @@ Geen instaande gelden
 </table>
 
 Aldus gedaan en geinventariseerd ter plaatze van Johannes Jacobus Boshoff
-	 aangelegen aanop den 3 October 1822 ende
+	 aan <span style="border-bottom: 2px dotted #FF0000;">Klijn Doorn Rivier</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Olyphants Rivier</span> op den 3 October 1822 ende
 	 zulks op het op en aangeven van gem: Godfried Fredrik Muller dewelke betuigde
 	 zig daarin ter goeder trouw gedragen en zyns wetens niets verzweegen te hebben
 	 van al het geen tot den boedel en nalatenschap behoord onder presentatie van
@@ -9336,7 +9343,7 @@ In tegens woordigheid van my: J:D: van der Westhuijsen, p:r
 ## MOOC8/41.32
 
  {18251214} 14
-	 December 1825 <span style="border-bottom: 2px dotted #008000;">Manie van de
+	 December 1825 <span style="border-bottom: 2px dotted #00FF00;">Manie van de
 	 Kaap</span> 
 
 Ext:d the 14:th of December 1825 n:o 44
@@ -9462,7 +9469,7 @@ J:A: Munnik
 
 ## MOOC8/41.33
 
- {18251214} 14 December 1825 <span style="border-bottom: 2px dotted #008000;">Fredrik Nicolaas
+ {18251214} 14 December 1825 <span style="border-bottom: 2px dotted #00FF00;">Fredrik Nicolaas
 	 Poolman</span> 
 
 Exh:d the 14:th December 1825 n:o 42
@@ -9570,7 +9577,7 @@ My present: J:A: Munnik
 ## MOOC8/41.34
 
  {18240610} 10 Juny
-	 1824 <span style="border-bottom: 2px dotted #008000;">Adam Nicolaa</span> 
+	 1824 <span style="border-bottom: 2px dotted #00FF00;">Adam Nicolaa</span> 
 
 Ext: 11 Aug:s 24
 
@@ -9658,7 +9665,7 @@ L:J: Botha, Velt cornet
 
 ## MOOC8/41.35
 
- {18250329} 29 Maart 1825 <span style="border-bottom: 2px dotted #008000;">Mareintje Fourie</span> 
+ {18250329} 29 Maart 1825 <span style="border-bottom: 2px dotted #00FF00;">Mareintje Fourie</span> 
 
 Inventaris van alle zodanige goederen en effecten als behoord hebben tot
 	 den boedel van nu wijlen Mareintje Fourie wed:w Joh:s Jurgen Benade en door
@@ -9786,8 +9793,8 @@ A:s Pretorius, Veld cornet
 
 ## MOOC8/41.36
 
- {18241204} 4 December 1824 <span style="border-bottom: 2px dotted #008000;">Barend Christoffel
-	 Vorster</span> , <span style="border-bottom: 2px dotted #008000;">Willemina Johanna Pretorius</span> 
+ {18241204} 4 December 1824 <span style="border-bottom: 2px dotted #00FF00;">Barend Christoffel
+	 Vorster</span> , <span style="border-bottom: 2px dotted #00FF00;">Willemina Johanna Pretorius</span> 
 
 H: Somerset
 
@@ -10012,7 +10019,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
       <td>twee flessen</td>
     </tr>
     <tr>
-      <td>een <span style="border-bottom: 2px dotted #008000;">slavin</span></td>
+      <td>een <span style="border-bottom: 2px dotted #00FF00;">slavin</span></td>
     </tr>
   </tbody>
 </table>
@@ -10126,7 +10133,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
 </table>
 
 Aldus gedaan en g’inventariseerd ter plaatze van de wed:e Pieter van den
-	 Berg ingelegen op den 4 Dec:r 1824
+	 Berg in <span style="border-bottom: 2px dotted #FF0000;">Camdebo</span> gelegen op den 4 Dec:r 1824
 	 volgens op en aangaave van Barend Christoffel Vorster voormeld dewelke
 	 verklaarde hem ter goeder trouw te hebben gedragen met belofte indien iets
 	 nader tot den boedel behoorende mogte worden gevonden deezen inventaris
@@ -10142,7 +10149,7 @@ J:J: Meintjes
 
 ## MOOC8/41.37
 
- {18261209} 9 December 1826 <span style="border-bottom: 2px dotted #008000;">Anthony Carroll
+ {18261209} 9 December 1826 <span style="border-bottom: 2px dotted #00FF00;">Anthony Carroll
 	 Hayes</span> 
 
 Inventory of all such property as have been relinquished by the death ab
@@ -10424,7 +10431,7 @@ The aforesaid property having been taken under the administration of the
       <td>two caps</td>
     </tr>
     <tr>
-      <td>a few letters addressed to Gentlemen indelivered to the captain</td>
+      <td>a few letters addressed to Gentlemen in <span style="border-bottom: 2px dotted #FF0000;">England</span> delivered to the captain</td>
     </tr>
     <tr>
       <td>to the captain Munro rd:s230</td>
@@ -10455,7 +10462,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/41.38
 
- {18240324} 24 March 1824 <span style="border-bottom: 2px dotted #008000;">Hendrick Lambert Bromkost</span> , <span style="border-bottom: 2px dotted #008000;">Susannah Elizabeth
+ {18240324} 24 March 1824 <span style="border-bottom: 2px dotted #00FF00;">Hendrick Lambert Bromkost</span> , <span style="border-bottom: 2px dotted #00FF00;">Susannah Elizabeth
 	 Botha</span> 
 
 H:V: Cloete
@@ -10464,8 +10471,8 @@ A true and perfect inventory of all and every the goods, chattels, wares
 	 and merchandise as well moveable as not, debts, credits and other personal
 	 effects of the deceased Hendrick Lambert Bromkost, Hendrick Lamberts son and
 	 his surviving widow Susannah Elizabeth Botha Junes daughter which former died
-	 ab intestato at theJan:y 26 1824 between the hours of 4 and 5 o clock a:m: within the
-	 fieldcornetship of Alwyn J: Forster,districtand given up as follows
+	 ab intestato at the <span style="border-bottom: 2px dotted #FF0000;">Groote Fountain Nieuwveld</span> Jan:y 26 1824 between the hours of 4 and 5 o clock a:m: within the
+	 fieldcornetship of Alwyn J: Forster, <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows
 
 <table>
   <tbody>
@@ -10557,15 +10564,15 @@ A true and perfect inventory of all and every the goods, chattels, wares
   <thead><tr><td colspan='100%'>C:rs in favor of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>from Frederick Rupping residing at the middledistrictthe sum of twenty nine rix dollars arising
+      <td>from Frederick Rupping residing at the middle <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> the sum of twenty nine rix dollars arising
 		from the purchase of a gun, of which there is no bond</td>
     </tr>
     <tr>
-      <td>from the Bastard Cobus Schalkwyk residing at the firstdistrictthe sum of sixty rix dollars arising from
+      <td>from the Bastard Cobus Schalkwyk residing at the first <span style="border-bottom: 2px dotted #FF0000;">Roggeveld</span> district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> the sum of sixty rix dollars arising from
 		the repair of a waggon of which there is no bond</td>
     </tr>
     <tr>
-      <td>from Nicholas Janse van Rensburg J: son residing at, fieldcornetship D:S: Foriethe sum of six shillings for shop
+      <td>from Nicholas Janse van Rensburg J: son residing at <span style="border-bottom: 2px dotted #FF0000;">Pheasant Fountain</span> , fieldcornetship D:S: Forie <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> the sum of six shillings for shop
 		work done of which there is no bond - paid</td>
     </tr>
   </tbody>
@@ -10575,17 +10582,18 @@ A true and perfect inventory of all and every the goods, chattels, wares
   <thead><tr><td colspan='100%'>Debts of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>to Johannes Martice Bernarde residing infieldcornetship D:J: Forster the sum of
+      <td>to Johannes Martice Bernarde residing in <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> fieldcornetship D:J: Forster the sum of
 		six rix dollars arising from the purchase of a waggon pole of which there is no
 		bond</td>
     </tr>
     <tr>
-      <td>to Jacobus Fredrick Nel residing infieldcornetship of G:P: Marais of seven
+      <td>to Jacobus Fredrick Nel residing in <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> fieldcornetship of G:P: Marais of seven
 		rix dollars arising from the purchase of an adze of which there is no
 		bond</td>
     </tr>
     <tr>
-      <td>to [ ..... ] Boshoof residing indistrictthe sum of
+      <td>to [ ..... ] Boshoof residing in <span style="border-bottom: 2px dotted #FF0000;">Goud
+		Kloof</span> district <span style="border-bottom: 2px dotted #FF0000;">George</span> the sum of
 		fifteen rix dollars arising from the purchase of a stink wood board of which
 		there is no bond</td>
     </tr>
@@ -10602,7 +10610,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
   </tbody>
 </table>
 
-This done and registered on Wednesday 24 March 1824 at the village ofaccording to the statement of the
+This done and registered on Wednesday 24 March 1824 at the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> according to the statement of the
 	 widow H:L: Bromkost born Susanna Elizabeth Botha, Junis daughter who declares
 	 in her above statement of this estate being done honestly and truly and that
 	 nothing has been witheld back to the best of her knowledge and further declares
@@ -10623,7 +10631,7 @@ J: Baird, d:y Land:t
 Ik ondergetekende declareere dat ik vyf maanden bezwangerd ben van een
 	 kind by myn overledene man Hendrik Lambert Bronkhorst Hend:k Lambert zoon
 
-den 24 Maart 1824
+ <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> den 24 Maart 1824
 
 Merk van + Susanna Elizabeth Botha weduwe H:
 		Bronkhorst
@@ -10631,8 +10639,8 @@ Merk van + Susanna Elizabeth Botha weduwe H:
 ## MOOC8/41.39
 
  {18240715} 15
-	 July 1824, <span style="border-bottom: 2px dotted #008000;">Roedolf
-	 Jacobus Coartse</span>  <span style="border-bottom: 2px dotted #008000;">Martha Magdelena du Toit</span> 
+	 July 1824, <span style="border-bottom: 2px dotted #00FF00;">Roedolf
+	 Jacobus Coartse</span>  <span style="border-bottom: 2px dotted #00FF00;">Martha Magdelena du Toit</span> 
 
 Voor de overschryving
 
@@ -10641,8 +10649,8 @@ H:V: Cloete
 A true and perfect inventory of all and every the goods, chattels, wares
 	 and merchandise as well moveable as not, debts, credits and other personal
 	 effects of the deceased Martha Magdelena du Toit, Frans Jacobus daughter and
-	 her surviving husband Roedolf Jacobus Coarste Roedolf son; the former died at,on the 15 April 1824 at 8 o clock p:m: within
-	 the fieldcornetship of Jan Erasmus districtand given up as follows
+	 her surviving husband Roedolf Jacobus Coarste Roedolf son; the former died at <span style="border-bottom: 2px dotted #FF0000;">Oorlogs Kloof</span> , <span style="border-bottom: 2px dotted #FF0000;">Traka</span> on the 15 April 1824 at 8 o clock p:m: within
+	 the fieldcornetship of Jan Erasmus district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows
 
 <table>
   <tbody>
@@ -10799,7 +10807,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
   </tbody>
 </table>
 
-This done and registered on Thursday 15 July 1824 at the,according to the statement of Roedolf Jacobus
+This done and registered on Thursday 15 July 1824 at the <span style="border-bottom: 2px dotted #FF0000;">Oorlogs Kloof</span> , <span style="border-bottom: 2px dotted #FF0000;">Traka</span> according to the statement of Roedolf Jacobus
 	 Coartse Roelofs son who declares in his above statement of this estate has been
 	 done honestly and truly and that nothing has been held back to the best of his
 	 knowledge and that he further declares to be always ready if called upon to
@@ -10818,7 +10826,7 @@ J: Baird, d:y Land:t
 
 ## MOOC8/41.40
 
- {18240910} 10 September 1824 <span style="border-bottom: 2px dotted #008000;">Coenraad Graaff</span> 
+ {18240910} 10 September 1824 <span style="border-bottom: 2px dotted #00FF00;">Coenraad Graaff</span> 
 
 H:V: Cloete
 
@@ -10907,13 +10915,13 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
   <thead><tr><td colspan='100%'>Erfgenamen</td></tr></thead>
   <tbody>
     <tr>
-      <td>den overledene is vangeboordig zyn erfgenamen onbekend</td>
+      <td>den overledene is van <span style="border-bottom: 2px dotted #FF0000;">Hongarien</span> geboordig zyn erfgenamen onbekend</td>
     </tr>
   </tbody>
 </table>
 
 Aldus gedaan en geinventariseerd op Vrydag den 10 September 1824 ter
-	 plaats deaan degelegen volgens op en aangave van
+	 plaats de <span style="border-bottom: 2px dotted #FF0000;">Roosedal</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Swarteberg</span> gelegen volgens op en aangave van
 	 den veldcornet Christiaan Hatting de welke betuygde zich in het op en aangave
 	 den voormelde boedel ter goeder trouw te te hebben gedragen en niet met weeten
 	 versweegen of agter gelaten te hebben en verklare hij dus bereid deze zyne
@@ -10931,7 +10939,7 @@ J: Baird, d:y Land:t
 
 ## MOOC8/41.41
 
- {18270313} 13 March 1827 <span style="border-bottom: 2px dotted #008000;">Jan Christoffel
+ {18270313} 13 March 1827 <span style="border-bottom: 2px dotted #00FF00;">Jan Christoffel
 	 Berrangé</span> 
 
 Inventory of all such property as have been relinquished by the death ab
@@ -10966,7 +10974,7 @@ The aforesaid property having been taken under the administration of the
 <table>
   <tbody>
     <tr>
-      <td>A house and garden situated in thisin thenow called</td>
+      <td>A house and garden situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in the <span style="border-bottom: 2px dotted #FF0000;">S:t John Street</span> now called <span style="border-bottom: 2px dotted #FF0000;">Nieuw Bloemendaal</span></td>
     </tr>
   </tbody>
 </table>
@@ -12010,13 +12018,13 @@ In the aforesaid house
     </tr>
     <tr>
       <td>two cows</td>
-      <td rowspan='2' style='vertical-align: middle;'>at Mr Liesching’s</td>
+      <td rowspan='2' style='vertical-align: middle;'>at Mr Liesching’s <span style="border-bottom: 2px dotted #FF0000;">Tygerberg</span></td>
     </tr>
     <tr>
       <td>one calf</td>
     </tr>
     <tr>
-      <td>some fustage at Mr F: Rossouw’s</td>
+      <td>some fustage at Mr F: Rossouw’s <span style="border-bottom: 2px dotted #FF0000;">Boerenplein</span></td>
     </tr>
     <tr>
       <td>two half aums</td>
@@ -12041,47 +12049,47 @@ In the aforesaid house
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Mei of Mosambique</span> labourer
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Mei of Mosambique</span> labourer
 		aged 40 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Carolus</span> of this Colony
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Carolus</span> of this Colony
 		born on the 2 May 1816</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Christiaan</span> of this
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Christiaan</span> of this
 		Colony born the 9 June 1817 having the leprosy</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Achilles</span> of this Colony
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Achilles</span> of this Colony
 		born on the 21:st May 1819</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Thomas</span> of this Colony born
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Thomas</span> of this Colony born
 		on the 8:th January 1819</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Simson</span> of this Colony 19
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Simson</span> of this Colony 19
 		years of age cannot be sold according to the certificate of the Inspector for
 		the Enregisterment of Slaves</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jonathan</span> of this Colony
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jonathan</span> of this Colony
 		12 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Debora</span> of this colony 87
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Debora</span> of this colony 87
 		years of age, not to be disposed of the widow and Mr J: Serrurier having agreed
 		to provide for her</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Mietje</span> of this Colony 43
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Mietje</span> of this Colony 43
 		years of age housemaid, which the widow together with her children before
 		mentioned Jonathan, Carolus and Thomas requests she may retain by
 		appraisement</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sophia</span> of this Colony 41
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sophia</span> of this Colony 41
 		years of age housemaid, with regard to this slave the widow states that the
 		same has been given to her by her late father with the wish /she being an
 		inheritance of her late sister Anna Catharina Serrurier/ that she shall not be
@@ -12090,12 +12098,12 @@ In the aforesaid house
 		freedom after her demise</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Claartje</span> of this Colony
-		about 20 years of age housemaid being subject to fits with her child <span style="border-bottom: 2px dotted #008000;">Onverwagt</span> born 3 December
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Claartje</span> of this Colony
+		about 20 years of age housemaid being subject to fits with her child <span style="border-bottom: 2px dotted #00FF00;">Onverwagt</span> born 3 December
 		1823</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Pamela</span> of this Colony 12
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Pamela</span> of this Colony 12
 		years of age</td>
     </tr>
   </tbody>
@@ -17733,7 +17741,7 @@ Van boeken behoorendetot den boedel van den eerwaarden heer Jan
   </tbody>
 </table>
 
-G: Greig, drukker,,
+G: Greig, drukker, <span style="border-bottom: 2px dotted #FF0000;">Marktplein</span> ,
 	 Kaapstad
 
 <table>
@@ -17831,8 +17839,8 @@ G: Greig, drukker,,
 ## MOOC8/41.42
 
  {18260811} 11 August
-	 1826 <span style="border-bottom: 2px dotted #008000;">Johan Fredrik
-	 Schickerling</span> , <span style="border-bottom: 2px dotted #008000;">Maria
+	 1826 <span style="border-bottom: 2px dotted #00FF00;">Johan Fredrik
+	 Schickerling</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Elizabeth Mocke</span> 
 
 den 1 en 2 Sept: vendutie
@@ -17903,14 +17911,15 @@ In consequence of which the aforesaid property (after the seals of office
   <tbody>
     <tr>
       <td>A house and erf together with three small
-		  houses erected on the same situated in thisin the</td>
+		  houses erected on the same situated in this <span style="border-bottom: 2px dotted #FF0000;">Table
+		  Valley</span> in the <span style="border-bottom: 2px dotted #FF0000;">Keerom Straat market</span>  <span style="border-bottom: 2px dotted #FF0000;">N: 27 and 28</span></td>
     </tr>
     <tr>
-      <td>certain erf situated in theannex the aforesaid premises being
+      <td>certain erf situated in the <span style="border-bottom: 2px dotted #FF0000;">Tuyn Street</span> annex the aforesaid premises being
 		  part of the property of S: Dohrmel</td>
     </tr>
     <tr>
-      <td>a house and erf situated in thison the corner ofand, being part of</td>
+      <td>a house and erf situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> on the corner of <span style="border-bottom: 2px dotted #FF0000;">Keerom Street</span> and <span style="border-bottom: 2px dotted #FF0000;">Tinke Steeg</span> , being part of <span style="border-bottom: 2px dotted #FF0000;">N:o 20</span></td>
     </tr>
   </tbody>
 </table>
@@ -18598,127 +18607,127 @@ In the first mentioned dwelling house
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Damon of Batavia</span> 60 years
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Damon of Batavia</span> 60 years
 		of age mason</td>
     </tr>
     <tr>
       <td>left to the wid: by appraisement</td>
       <td>a male
-		slave n:d <span style="border-bottom: 2px dotted #008000;">Adolph</span> of this
+		slave n:d <span style="border-bottom: 2px dotted #00FF00;">Adolph</span> of this
 		Colony 40 y:s of age tailor</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Alexander of Kosina</span> 75
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Alexander of Kosina</span> 75
 		y:s of age labourer</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Jeck of Mosambicq</span> 45 of
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Jeck of Mosambicq</span> 45 of
 		age labourer</td>
     </tr>
     <tr>
       <td>left to the wid: by appraisment</td>
       <td>a male
-		slave <span style="border-bottom: 2px dotted #008000;">Daniel</span> of this
+		slave <span style="border-bottom: 2px dotted #00FF00;">Daniel</span> of this
 		Colony 12 y:s of age</td>
     </tr>
     <tr>
       <td>left to the son of the widow by
 		appraisement</td>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Joseph</span> of this Colony 11
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Joseph</span> of this Colony 11
 		y:s</td>
     </tr>
     <tr>
       <td>left to the son of the widow by
 		appraisement</td>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Elie</span> of this Colony 28 y:s
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Elie</span> of this Colony 28 y:s
 		house boy</td>
     </tr>
     <tr>
       <td>died on the 30 of August 1826</td>
       <td>a male
-		slave <span style="border-bottom: 2px dotted #008000;">Adonis</span> of this
+		slave <span style="border-bottom: 2px dotted #00FF00;">Adonis</span> of this
 		Colony 56 y:s of age mason</td>
     </tr>
     <tr>
       <td>left to the widow by appraisement</td>
       <td>a
-		female slave <span style="border-bottom: 2px dotted #008000;">Lempie of
+		female slave <span style="border-bottom: 2px dotted #00FF00;">Lempie of
 		Batavia</span> 60 y:s of age housemaid</td>
     </tr>
     <tr>
       <td>left to the son of the widow by
 		appraisement</td>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Philida of Madagascar</span> 60 y:s of age housemaid</td>
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Philida of Madagascar</span> 60 y:s of age housemaid</td>
     </tr>
     <tr>
       <td>left to the wid: by appraisement</td>
       <td>a female
-		slave <span style="border-bottom: 2px dotted #008000;">Dora</span> of this Colony 40
+		slave <span style="border-bottom: 2px dotted #00FF00;">Dora</span> of this Colony 40
 		y:s housemaid</td>
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>left to the wid: by appraisement</td>
-      <td rowspan='2' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #008000;">Ralia</span> of this Colony 35 y:s housemaid with her
+      <td rowspan='2' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #00FF00;">Ralia</span> of this Colony 35 y:s housemaid with her
 		children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Aletta</span> born 14
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aletta</span> born 14
 		June 1817 and</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Myntje</span> born 9
+      <td><span style="border-bottom: 2px dotted #00FF00;">Myntje</span> born 9
 		Octob: 1819</td>
     </tr>
     <tr>
       <td rowspan='5' style='vertical-align: middle;'>left to the son of the widow by
 		appraisement</td>
-      <td rowspan='5' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #008000;">Jasmina</span> of this Colony 30
+      <td rowspan='5' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #00FF00;">Jasmina</span> of this Colony 30
 		y:s housemaid with her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Martha</span> born 15 Augustus 1817</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Martha</span> born 15 Augustus 1817</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Thomas</span> born 2
+      <td><span style="border-bottom: 2px dotted #00FF00;">Thomas</span> born 2
 		Juny 1819</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Christiaan</span> 21 Maart 1821</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Christiaan</span> 21 Maart 1821</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Hessie</span> born
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hessie</span> born
 		29 Dec:r 1822</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cowis</span> born 23
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cowis</span> born 23
 		Dec:r 1824</td>
     </tr>
     <tr>
       <td>left to the wid: by appraisement</td>
       <td>a female
-		slave <span style="border-bottom: 2px dotted #008000;">Carolina</span> of this
+		slave <span style="border-bottom: 2px dotted #00FF00;">Carolina</span> of this
 		Colony 26 y:s of age housemaid with her child</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Carel</span> born 29 Sept:r 1825</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Carel</span> born 29 Sept:r 1825</td>
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>left to the widow by
 		appraisement</td>
-      <td rowspan='2' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #008000;">Chrisje</span> of this Colony 24
+      <td rowspan='2' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #00FF00;">Chrisje</span> of this Colony 24
 		y:s housemaid, with her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Mietje</span> born 9 Decemb: 1821</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mietje</span> born 9 Decemb: 1821</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">James</span> born 16
+      <td><span style="border-bottom: 2px dotted #00FF00;">James</span> born 16
 		Juny 1824</td>
     </tr>
     <tr>
       <td>left to the wid: by appraisement</td>
       <td>a female
-		slave <span style="border-bottom: 2px dotted #008000;">Saartje</span> of this
+		slave <span style="border-bottom: 2px dotted #00FF00;">Saartje</span> of this
 		Colony 14 y:s housemaid</td>
     </tr>
     <tr>
       <td>left to the children of the late A:F:
 		Schickerling</td>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Rachel</span> of this Colony 12
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Rachel</span> of this Colony 12
 		y:s housemaid</td>
     </tr>
   </tbody>
@@ -18890,7 +18899,7 @@ In the first mentioned dwelling house
 		date rd:s18:14, rd:s 351:20, 29 Decemb: 1826</td>
       <td>from Anna Maria
 		Fredrika Kirchman widow of the late Josua le Roux remarried with Jac:s Franc:s
-		Minnaar Ph: z:n at theaccording to a
+		Minnaar Ph: z:n at the <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> according to a
 		notarial bond dated 17 February
 		1823</td>
       <td>5000</td>
@@ -19180,7 +19189,7 @@ Ampliation
 ## MOOC8/41.43
 
  {18260322} 22 March
-	 1826 <span style="border-bottom: 2px dotted #008000;">Josua Joubert</span> , <span style="border-bottom: 2px dotted #008000;">Maria Elisabeth van
+	 1826 <span style="border-bottom: 2px dotted #00FF00;">Josua Joubert</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Elisabeth van
 	 Tonderen</span> 
 
 J:G: Brink
@@ -19222,19 +19231,19 @@ Done by said widow Joubert at the requisition of the Board of Orphan
   <thead><tr><td colspan='100%'>Goods and effects belonging to the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>The upstal of the loan place, called</td>
+      <td>The upstal of the loan place, called <span style="border-bottom: 2px dotted #FF0000;">Twee Fonteinen</span></td>
     </tr>
     <tr>
-      <td>one of the upstal of the loan place called</td>
+      <td>one of the upstal of the loan place called <span style="border-bottom: 2px dotted #FF0000;">Doren Riviers Valley</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">David</span></td>
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">David</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">Jephta</span></td>
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">Jephta</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">Assar</span></td>
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">Assar</span></td>
     </tr>
     <tr>
       <td>1 ox waggon</td>
@@ -19535,7 +19544,7 @@ J:P: Muller
 
 ## MOOC8/41.44
 
- {18260322} 22 March 1826 <span style="border-bottom: 2px dotted #008000;">Jan Boutker</span> 
+ {18260322} 22 March 1826 <span style="border-bottom: 2px dotted #00FF00;">Jan Boutker</span> 
 
 Exh:d the 22:nd of March 1826 n:o 22
 
@@ -19639,7 +19648,7 @@ Jn:s Gaches Mos p:r at:r
 
 ## MOOC8/41.45
 
- {18250126} 26 January 1825 <span style="border-bottom: 2px dotted #008000;">Bernhard Docterman</span> 
+ {18250126} 26 January 1825 <span style="border-bottom: 2px dotted #00FF00;">Bernhard Docterman</span> 
 
 H: Somerset
 
@@ -19715,7 +19724,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
   </tbody>
 </table>
 
-Aldus gedaan en g’inventariseerd ten dorpeop den 26 January 1825 ter presentie
+Aldus gedaan en g’inventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 26 January 1825 ter presentie
 	 van Pieter Cornelis Wahlstrand en Gysbert Johannes Broekhuizen door my
 
 Als getuigen: P:C: Wahlstrand, G:J: Broekhuisen
@@ -19724,7 +19733,7 @@ J:J: Meintjes, V:c:
 
 ## MOOC8/41.46
 
- {18230303} 3 Maart 1823 <span style="border-bottom: 2px dotted #008000;">Jan
+ {18230303} 3 Maart 1823 <span style="border-bottom: 2px dotted #00FF00;">Jan
 	 Leger</span> 
 
 P:G: Brink
@@ -19758,7 +19767,7 @@ Inventaris van zodanige goederen als er door Jan Leger op den 13 November
   </tbody>
 </table>
 
-Aldus geinventarisseerd ten dorpeop den 3 Maart 1823 ter praesentie van Arie Johannes van Dyk en George Aldrich
+Aldus geinventarisseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Cradock</span> op den 3 Maart 1823 ter praesentie van Arie Johannes van Dyk en George Aldrich
 	 als getuigen
 
 Als getuigen: A:J: van Dyk, G: Aldrich
@@ -19767,8 +19776,8 @@ In kennisse van my: W:W: Hendricsen
 
 ## MOOC8/41.47
 
- {18260913} 13 September 1826 <span style="border-bottom: 2px dotted #008000;">Ester Elisabeth du
-	 Toit</span> , <span style="border-bottom: 2px dotted #008000;">Petrus Francois
+ {18260913} 13 September 1826 <span style="border-bottom: 2px dotted #00FF00;">Ester Elisabeth du
+	 Toit</span> , <span style="border-bottom: 2px dotted #00FF00;">Petrus Francois
 	 Rossouw</span> 
 
 2 Oct:
@@ -19787,12 +19796,12 @@ The aforesaid property having been inventoried by the undersigned
 <table>
   <tbody>
     <tr>
-      <td>A house and premises situated in thisat the northwest side of thebeing part of the erf of Abraham
+      <td>A house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> at the northwest side of the <span style="border-bottom: 2px dotted #FF0000;">Boerenplein</span> being part of the erf of Abraham
 		  Pieter de Villiers Jans son</td>
     </tr>
     <tr>
       <td>five houses and premises annexed thereto
-		  situated in thisinbeing also part of the erfs
+		  situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Longmarket Street</span> being also part of the erfs
 		  of the said A: de Villiers</td>
     </tr>
   </tbody>
@@ -20041,7 +20050,7 @@ In the firstmentioned dwelling house
       <td>one curricle</td>
     </tr>
     <tr>
-      <td>two horses at Jan du Toits in</td>
+      <td>two horses at Jan du Toits in <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span></td>
     </tr>
     <tr>
       <td>one gun</td>
@@ -20056,28 +20065,28 @@ In the firstmentioned dwelling house
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">David of Mosambique</span> labourer about 50 years of age</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">David of Mosambique</span> labourer about 50 years of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Geduld of Madagascar</span> labourer about 45 years of age</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Geduld of Madagascar</span> labourer about 45 years of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adonis</span> of this Colony
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adonis</span> of this Colony
 		houseboy 15 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Rosalyn</span> of this Colony
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Rosalyn</span> of this Colony
 		housemaid about 45 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Steyn</span> of this Colony
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Steyn</span> of this Colony
 		housemaid about 43 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Dina</span> about 12 years of age</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Dina</span> about 12 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Philida</span> born on the 1:st of June 1820
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Philida</span> born on the 1:st of June 1820
 		whose mother is dead</td>
     </tr>
   </tbody>
@@ -20270,7 +20279,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/41.48
 
- {18250927} 27 September 1825 <span style="border-bottom: 2px dotted #008000;">Elizabeth Gezina
+ {18250927} 27 September 1825 <span style="border-bottom: 2px dotted #00FF00;">Elizabeth Gezina
 	 Verwey</span> 
 
 The effects to be had at the house of Abraham Wiid and the books to be
@@ -20573,7 +20582,7 @@ In a house of Mr Wiid, where the deceased had been lodged
       <td>a quantity of books</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Gabriel of the Cape</span> aged
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Gabriel of the Cape</span> aged
 		  15 years - not to be sold</td>
     </tr>
   </tbody>
@@ -20615,7 +20624,7 @@ A:m J:s Wiid
 My presence: J:A: Munnik
 
 The said Wiid also stated that the deceased has still a claim on the
-	 burgher senate for two months hire of the aforesaid male slave <span style="border-bottom: 2px dotted #008000;">Gabriel</span> 
+	 burgher senate for two months hire of the aforesaid male slave <span style="border-bottom: 2px dotted #00FF00;">Gabriel</span> 
 
 <table>
   <tbody>
@@ -20655,12 +20664,12 @@ The said Wiid also stated that the deceased has still a claim on the
 ## MOOC8/41.49
 
  {18250823} 23 August
-	 1825 <span style="border-bottom: 2px dotted #008000;">John B:
+	 1825 <span style="border-bottom: 2px dotted #00FF00;">John B:
 	 Gordon</span> 
 
 Cape Town 23:rd Aug:t 1825
 
-Inventory of the effects of John B: Gordon born in11:th April 1768 deceased 23:rd
+Inventory of the effects of John B: Gordon born in <span style="border-bottom: 2px dotted #FF0000;">Aberdeen</span> 11:th April 1768 deceased 23:rd
 	 August 1825, late steward of the Merchant Seamens Hospital
 
 <table>
@@ -20907,7 +20916,7 @@ The above inventory taken in the presence of: F: Ralston, Ewan
 
 ## MOOC8/41.50
 
- {yyyy} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Pieter Nelson</span> 
+ {yyyy} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Pieter Nelson</span> 
 
 Invontaaris van de nalatenschap van den overledenen Pieter Nelson
 
@@ -20999,7 +21008,7 @@ Walter Synnet
 
 ## MOOC8/41.51
 
- {18260424} 24 April 1826 <span style="border-bottom: 2px dotted #008000;">Hans Voslo</span> 
+ {18260424} 24 April 1826 <span style="border-bottom: 2px dotted #00FF00;">Hans Voslo</span> 
 
 Zertiviceert dat ik onder getekende Veld cornet mij met de na te melden
 	 getuijgen hebt begeven ter platze van Johannes Carstoffel Raads en al daar
@@ -21009,7 +21018,7 @@ Zertiviceert dat ik onder getekende Veld cornet mij met de na te melden
 <table>
   <tbody>
     <tr>
-      <td>2 mans <span style="border-bottom: 2px dotted #008000;">slaven</span></td>
+      <td>2 mans <span style="border-bottom: 2px dotted #00FF00;">slaven</span></td>
     </tr>
     <tr>
       <td>1 osse wagen, 12 trek osse, 25 aantel beesten, 2 parde</td>
@@ -21031,7 +21040,7 @@ Zertiviceert dat ik onder getekende Veld cornet mij met de na te melden
   </tbody>
 </table>
 
-den 24 April 1826
+ <span style="border-bottom: 2px dotted #FF0000;">Quaggasvlakten</span> den 24 April 1826
 
 Als getuijgen: G:L: Vosloo, T:A: Rautenbach
 
@@ -21069,7 +21078,7 @@ Buchner
 ## MOOC8/41.52
 
  {yyyy} [
-	 ..... ] <span style="border-bottom: 2px dotted #008000;">Johan
+	 ..... ] <span style="border-bottom: 2px dotted #00FF00;">Johan
 	 Christiaan Bernst</span> 
 
 Copie
@@ -21139,7 +21148,7 @@ Accordeert: Ch:n J: Ralee, s:l h:ds k:k
 
 ## MOOC8/41.53
 
- {18240420} 20 April 1824 <span style="border-bottom: 2px dotted #008000;">Jan Fredrik Reitz</span> 
+ {18240420} 20 April 1824 <span style="border-bottom: 2px dotted #00FF00;">Jan Fredrik Reitz</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op den vyfden dag
 	 dezer loopende maand April in den jaare onzes Heeren een duyzend acht honderd
@@ -21176,26 +21185,30 @@ zodanig als dezelve nalatenschap door ons ondergetekende gecommitteerde
 <table>
   <tbody>
     <tr>
-      <td>Een huis en erf staande ende gelegen in deezeop de, naast de bibliotheek groot 32 quadraat
+      <td>Een huis en erf staande ende gelegen in deeze <span style="border-bottom: 2px dotted #FF0000;">Tavel Valley</span> op de <span style="border-bottom: 2px dotted #FF0000;">Heeregragt</span> , naast de bibliotheek groot 32 quadraat
 		  roeden en 7 quadraat voeten</td>
     </tr>
     <tr>
-      <td>een erf gelegen als meede in deezeop dein heten aldaar een gedeelte van zeeker erf van het op den 19 January 1813
+      <td>een erf gelegen als meede in deeze <span style="border-bottom: 2px dotted #FF0000;">Tavel Valley</span> op de <span style="border-bottom: 2px dotted #FF0000;">Heeregragt</span> in het <span style="border-bottom: 2px dotted #FF0000;">Blok
+		  R:</span> en aldaar een gedeelte van zeeker erf van het op den 19 January 1813
 		  aan W:m Hidding getransporteerd</td>
     </tr>
     <tr>
       <td>een dinde aandeel met en benevens Michiel van
-		  Breda Pieterz een zieke eigendoms plaats hetgelegen aan het onderste einde van de</td>
+		  Breda Pieterz een zieke eigendoms plaats het <span style="border-bottom: 2px dotted #FF0000;">Zekoe
+		  Gat</span> gelegen aan het onderste einde van de <span style="border-bottom: 2px dotted #FF0000;">Carst Rivier</span></td>
     </tr>
     <tr>
       <td>een stuk altoos duurende erfpagt land met de
-		  daarop staande geledeenen g:d hetmet het daar annex gelegen land</td>
+		  daarop staande geledeenen g:d het <span style="border-bottom: 2px dotted #FF0000;">Zoetendals
+		  Valley</span> met het daar annex gelegen land</td>
     </tr>
     <tr>
-      <td>een stuk altoos duurende erfpagt land g:d</td>
+      <td>een stuk altoos duurende erfpagt land g:d <span style="border-bottom: 2px dotted #FF0000;">Rietfontyn</span></td>
     </tr>
     <tr>
-      <td>twee altoos duurende erfpagt plaatzen g:denalle gelegen onder het district vanwelke met opgem: M: v: Breda in
+      <td>twee altoos duurende erfpagt plaatzen g:d <span style="border-bottom: 2px dotted #FF0000;">Hazevlakte</span> en <span style="border-bottom: 2px dotted #FF0000;">Dirk
+		  Coetzee’s Kraal</span> alle gelegen onder het district van <span style="border-bottom: 2px dotted #FF0000;">Callidon</span> welke met opgem: M: v: Breda in
 		  maatschappy worden bezeeten blykens onderh: contracten de datis 1 February 1817
 		  en 4 September 1823</td>
     </tr>
@@ -21480,7 +21493,7 @@ In eerstgem: huis en aldaar
       <td>een kaart tavel</td>
     </tr>
     <tr>
-      <td>een vierk:te tavel aan de slavin <span style="border-bottom: 2px dotted #008000;">Jamilla</span> toegek:</td>
+      <td>een vierk:te tavel aan de slavin <span style="border-bottom: 2px dotted #00FF00;">Jamilla</span> toegek:</td>
     </tr>
     <tr>
       <td>een ronde tavel</td>
@@ -21618,7 +21631,7 @@ In eerstgem: huis en aldaar
   <thead><tr><td colspan='100%'>In een agter kamer</td></tr></thead>
   <tbody>
     <tr>
-      <td>een vierkante tavel aan de slavin <span style="border-bottom: 2px dotted #008000;">Jamilla</span> toegedagt</td>
+      <td>een vierkante tavel aan de slavin <span style="border-bottom: 2px dotted #00FF00;">Jamilla</span> toegedagt</td>
     </tr>
     <tr>
       <td>een half ronde tavil</td>
@@ -21769,7 +21782,7 @@ In eerstgem: huis en aldaar
       <td>twee ledige kasten</td>
     </tr>
     <tr>
-      <td>een party wit aarde goed aan <span style="border-bottom: 2px dotted #008000;">Jamiela</span> toegedagt</td>
+      <td>een party wit aarde goed aan <span style="border-bottom: 2px dotted #00FF00;">Jamiela</span> toegedagt</td>
     </tr>
     <tr>
       <td>een trommel</td>
@@ -22212,85 +22225,85 @@ In eerstgem: huis en aldaar
   <thead><tr><td colspan='100%'>Lyf eigenen des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #008000;">Jupieter van
+      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #00FF00;">Jupieter van
 		Mosambique</span> 38 jaaren kok welke ingevolge des overledenens begeerte
 		uitgedrukt in ziele brief aan zyne kinderen nagelaten aan Alletta Cath:a Reitz
 		get:d met Joubert voor een somma van rd:1400 is besproken uit welk bedragen
 		door J:J: Reitz moet worden uitgekeerd rd:400</td>
     </tr>
     <tr>
-      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #008000;">Azor van Mosambique</span> 47
+      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #00FF00;">Azor van Mosambique</span> 47
 		jaaren werksjonge</td>
     </tr>
     <tr>
-      <td>een mansslaaf <span style="border-bottom: 2px dotted #008000;">Julean van Mosambique</span> 42
+      <td>een mansslaaf <span style="border-bottom: 2px dotted #00FF00;">Julean van Mosambique</span> 42
 		jare werksjonge</td>
     </tr>
     <tr>
-      <td>een mansslaaf <span style="border-bottom: 2px dotted #008000;">Zephier van Mosambique</span> 37 jare schoenmaker welke drie lyfeigenen blykens gen: missive op 2 Novemb:
+      <td>een mansslaaf <span style="border-bottom: 2px dotted #00FF00;">Zephier van Mosambique</span> 37 jare schoenmaker welke drie lyfeigenen blykens gen: missive op 2 Novemb:
 		1822 doen F:N: Reitz voor een somma van rd:s2000 is toegezegt van welk bedragen
 		aan meerm: J:J: Reitz rd:400 moet werden uitgekeerd</td>
     </tr>
     <tr>
-      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #008000;">Cupido van Batavia</span> 62
+      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #00FF00;">Cupido van Batavia</span> 62
 		jaaren huis jonge die ingevolge meerm: missive gaan en staan kan waar by
 		verkiest</td>
     </tr>
     <tr>
-      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #008000;">Adonis van de Kaap</span> 27
+      <td>een mansslaaf g:d <span style="border-bottom: 2px dotted #00FF00;">Adonis van de Kaap</span> 27
 		jaaren huis jonge die blykens dikwyls gen: brief aan D:G: Reitz voor rd:1100 is
 		besprooken waarvan rd:300 aan voorm: J:J: Reitz moet worden uitgekeerd</td>
     </tr>
     <tr>
-      <td rowspan='7' style='vertical-align: middle;'>een slavin g:d <span style="border-bottom: 2px dotted #008000;">Jamilla van de Kaap</span> 37
+      <td rowspan='7' style='vertical-align: middle;'>een slavin g:d <span style="border-bottom: 2px dotted #00FF00;">Jamilla van de Kaap</span> 37
 		jaaren huismeid beneevens haare kinderen, in name</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Sarina</span> 21 jaaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sarina</span> 21 jaaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abdol</span> 19
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abdol</span> 19
 		jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Marie</span> 15
+      <td><span style="border-bottom: 2px dotted #00FF00;">Marie</span> 15
 		jaaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Asia</span> 9
+      <td><span style="border-bottom: 2px dotted #00FF00;">Asia</span> 9
 		jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Dania</span> geb: 16
+      <td><span style="border-bottom: 2px dotted #00FF00;">Dania</span> geb: 16
 		Decemb: 1816 en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Galima</span> 17
+      <td><span style="border-bottom: 2px dotted #00FF00;">Galima</span> 17
 		Decemb: 1826</td>
     </tr>
     <tr>
-      <td>benevens het kind uit opgem: <span style="border-bottom: 2px dotted #008000;">Sarenia</span> geboren g:d <span style="border-bottom: 2px dotted #008000;">Ragima</span> alle welke lyfeigenen ingevolge
+      <td>benevens het kind uit opgem: <span style="border-bottom: 2px dotted #00FF00;">Sarenia</span> geboren g:d <span style="border-bottom: 2px dotted #00FF00;">Ragima</span> alle welke lyfeigenen ingevolge
 		codicilaire dispositie w:s 16 January 1818 den testamente van den overledene en
 		vooroverstorvene huisvrouw bij gevoegd aan de huisvrouw aan opgem: Joubert is
 		geprolegateerd geworden, edog met betrekking tot de moeder van gem: kinderen in
-		naame <span style="border-bottom: 2px dotted #008000;">Jamila</span> heeft de
+		naame <span style="border-bottom: 2px dotted #00FF00;">Jamila</span> heeft de
 		overledene met toestemmen van gem: Joubert en huisvrouw begeerd dat zy zouden
 		worden in vrydom gesteld terwyl aan haar een bedragen van rd:250 daaren booven
 		door de overledene is geschenk welke zy erkend heeft uit handen van J:J: Reitz
 		te hebben ontvangen</td>
     </tr>
     <tr>
-      <td>een slavine g:d <span style="border-bottom: 2px dotted #008000;">Philida van de Kaap</span> 57
+      <td>een slavine g:d <span style="border-bottom: 2px dotted #00FF00;">Philida van de Kaap</span> 57
 		jaaren kindermeid almeede volgens dikwyls gem: brief kan gaan en staan waar zy
 		verkiest</td>
     </tr>
     <tr>
-      <td>een slavine g:d <span style="border-bottom: 2px dotted #008000;">Hester van Mosambique</span> 32
+      <td>een slavine g:d <span style="border-bottom: 2px dotted #00FF00;">Hester van Mosambique</span> 32
 		jaaren huismeid die inge: gen: brief aan G:J: Reitz voor rd:800 is besprooken
 		uit welk bedragen almeede rd:200 ten voordeele van J:J: Reitz moet worden
 		gebragt</td>
     </tr>
     <tr>
-      <td>eene slavinne g:d <span style="border-bottom: 2px dotted #008000;">Rozet van Mosambique</span> 57
-		jaaren struikster die ingevolge meerm: brief haaren man <span style="border-bottom: 2px dotted #008000;">Zephier</span> moet volgen</td>
+      <td>eene slavinne g:d <span style="border-bottom: 2px dotted #00FF00;">Rozet van Mosambique</span> 57
+		jaaren struikster die ingevolge meerm: brief haaren man <span style="border-bottom: 2px dotted #00FF00;">Zephier</span> moet volgen</td>
     </tr>
   </tbody>
 </table>
@@ -22497,10 +22510,10 @@ A share in the commercial exchange as appears by a certificate dated 1
 	 September 1822
 
 Staat en invintaris der losse goederen, beestiaal enz: bevindende op de
-	 plaatsen,enen toebehorende aan den boedel van wylen
+	 plaatsen <span style="border-bottom: 2px dotted #FF0000;">Zoetendals Valey</span> , <span style="border-bottom: 2px dotted #FF0000;">Zeekoe Gat</span> en <span style="border-bottom: 2px dotted #FF0000;">Rietfontein</span> en toebehorende aan den boedel van wylen
 	 J:F: Reitz en M: van Breda
 
-Meubelaire goederen zich bevindende in het huis aan
+Meubelaire goederen zich bevindende in het huis aan <span style="border-bottom: 2px dotted #FF0000;">Zoetendaals Valley</span> 
 
 <table>
   <tbody>
@@ -22811,7 +22824,7 @@ Voor de opgaaf: M: van Breda, J:A: Joubert, G: Reitz
 
 ## MOOC8/41.54
 
- {18270402} 2 April 1827 <span style="border-bottom: 2px dotted #008000;">Elsje Sophia
+ {18270402} 2 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Elsje Sophia
 	 Bekker</span> 
 
 Dit is den boedel lys oft invataris van den boedel van den burger Jakopt
@@ -22831,7 +22844,7 @@ Petrus Johannes Bekker
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een oud slaaft omtrent 30 jaar genaamd <span style="border-bottom: 2px dotted #008000;">Gland</span></td>
+      <td>een oud slaaft omtrent 30 jaar genaamd <span style="border-bottom: 2px dotted #00FF00;">Gland</span></td>
       <td>200:--</td>
     </tr>
     <tr>
@@ -23039,7 +23052,7 @@ Petrus Johannes Bekker
       <td>100:--</td>
     </tr>
     <tr>
-      <td>een helfte erftpag plaats gekogt genaamed deniet voldaan welke somma wanneer de koper
+      <td>een helfte erftpag plaats gekogt genaamed de <span style="border-bottom: 2px dotted #FF0000;">Rus</span> niet voldaan welke somma wanneer de koper
 		  besitter sal blyvin die somma van sestien hondert ryksd: van den boedel lys
 		  moet aft gerekent worden</td>
     </tr>
@@ -23224,7 +23237,7 @@ Certificieere ik ondergeteekende Jacob van Deventer by deze by wege van
   </tbody>
 </table>
 
-Gedaan teden 2 April
+Gedaan te <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> den 2 April
 	 1827.
 
 J: van Deventer
@@ -23233,11 +23246,12 @@ My praesent: J:J:F: Roselt, Agent v:d: Weesk:
 
 ## MOOC8/41.55
 
- {18260203} 3 February 1826 <span style="border-bottom: 2px dotted #008000;">Maria Magdalena
+ {18260203} 3 February 1826 <span style="border-bottom: 2px dotted #00FF00;">Maria Magdalena
 	 Steenkamp</span> 
 
 Inventaris van al zoodanige goederen en effecten als door de jonge dochter
-	 Maria Magdalena Steenkamp overleden aanop den 5 December 1825 in den ouderdom van 24 jaren met er
+	 Maria Magdalena Steenkamp overleden aan <span style="border-bottom: 2px dotted #FF0000;">Groot
+	 Zakrivier</span> op den 5 December 1825 in den ouderdom van 24 jaren met er
 	 dood ontruimd en nagelaten zyn geworden en zulks ten voordeele van der
 	 overledene vader Gert Steenkamp Willemzoon en der overledene broeders en
 	 zusters, met namen
@@ -23357,7 +23371,7 @@ Bestaande gez: nalatenschap in
   </tbody>
 </table>
 
-Aldus geinventariseerd ter plaatsegelegen aanop den 3 February 1826 en zulks
+Aldus geinventariseerd ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Bankkraal</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Groot Zak Rivier</span> op den 3 February 1826 en zulks
 	 volgens opgave van der overledene vader, dewelke verklaarde hiermede getrouw en
 	 opregt te zyn werk gegaan, zonder willens of wetens iets in het minste te
 	 hebben verzwegen of achter gehouden bereid zynde zulks des vereischt wordende
@@ -23373,7 +23387,7 @@ My present: J:G: Aspeling
 
 ## MOOC8/41.56
 
- {18241209} 9 December 1824 <span style="border-bottom: 2px dotted #008000;">Erasmus Johannes Smit</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Dorothea van
+ {18241209} 9 December 1824 <span style="border-bottom: 2px dotted #00FF00;">Erasmus Johannes Smit</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Dorothea van
 	 Heerden</span> 
 
 Inventaris van alle zodanige goederen en effecten als door wylen Erasmus
@@ -23463,7 +23477,7 @@ Inventaris van alle zodanige goederen en effecten als door wylen Erasmus
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ter plaatze gen:dgeleegen in bovenop den 9 December 1824 volgens op
+Aldus gedaan en geinventariseerd ter plaatze gen:d <span style="border-bottom: 2px dotted #FF0000;">Elandsheuvel</span> geleegen in boven <span style="border-bottom: 2px dotted #FF0000;">Zekoe Rivier</span> op den 9 December 1824 volgens op
 	 en aangaave van voorm: wed:e Smit dewelke verklaarde hierin ter goeder trouwe
 	 te hebben gedraagen met belofte indien er iets tot den boedel behoorende mogte
 	 worden ontdekt deese inventaris daarmeede te zullen amplieeren alles onder
@@ -23477,7 +23491,7 @@ In kennisse van my: Joh: And: Esterhuijse, Veld
 ## MOOC8/41.57
 
  {18260113} 13
-	 January 1826 <span style="border-bottom: 2px dotted #008000;">John
+	 January 1826 <span style="border-bottom: 2px dotted #00FF00;">John
 	 Cochrane</span> 
 
 H: Somerset
@@ -23583,7 +23597,7 @@ It is also put down that the deceased at the sequestrator’s sale held the
   <tbody>
     <tr>
       <td>the mother of the deceased who was alive by the last accounts,
-		also two brothers William and Patrick Cochrane living in the county of,</td>
+		also two brothers William and Patrick Cochrane living in the county of <span style="border-bottom: 2px dotted #FF0000;">Roscommon</span> , <span style="border-bottom: 2px dotted #FF0000;">Ireland</span></td>
     </tr>
   </tbody>
 </table>
@@ -23596,7 +23610,7 @@ The said Etchells hereby declare to have bonafide returned the property
 	 shall give notice thereof and that he is at all times ready to make oath for
 	 the truth of this return.
 
-Thus done inon the [ ..... ]
+Thus done in <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> on the [ ..... ]
 	 June 1826.
 
 John Etchells
@@ -23615,7 +23629,7 @@ I the undersigned John Cochrane do by these presents solemnly declare that
 	 whom the property must be transferred on his pledging the same for the 2:nd and
 	 3 instalments
 
-January 13:th 1826
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> January 13:th 1826
 
 His marks + + + John Cochrane
 
@@ -23625,7 +23639,7 @@ A true copy: J:J:F: Roselt
 
 ## MOOC8/41.58
 
- {18260517} 17 Mey 1826 <span style="border-bottom: 2px dotted #008000;">Jan du Plessies</span> , <span style="border-bottom: 2px dotted #008000;">Elizabeth Catharina
+ {18260517} 17 Mey 1826 <span style="border-bottom: 2px dotted #00FF00;">Jan du Plessies</span> , <span style="border-bottom: 2px dotted #00FF00;">Elizabeth Catharina
 	 Brummer</span> 
 
 H: Somerset
@@ -23638,7 +23652,7 @@ Inventaris van alle zodanige goederen en effecten als behoord hebben tot
 <table>
   <tbody>
     <tr>
-      <td>De helft van de opstal der lenings plaats, gelegen in het v:d c:t schap, district</td>
+      <td>De helft van de opstal der lenings plaats <span style="border-bottom: 2px dotted #FF0000;">Schaape Kraal</span> , gelegen in het v:d c:t schap <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> , district <span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
     </tr>
   </tbody>
 </table>
@@ -23839,14 +23853,14 @@ Inventaris van alle zodanige goederen en effecten als behoord hebben tot
   <thead><tr><td colspan='100%'>Lyfeigenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>de mansslaaf <span style="border-bottom: 2px dotted #008000;">Moses van de Kaap</span></td>
+      <td>de mansslaaf <span style="border-bottom: 2px dotted #00FF00;">Moses van de Kaap</span></td>
     </tr>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'>de slavin <span style="border-bottom: 2px dotted #008000;">Regina van Mosambique</span> met hare kinderen</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel</span> en</td>
+      <td rowspan='2' style='vertical-align: middle;'>de slavin <span style="border-bottom: 2px dotted #00FF00;">Regina van Mosambique</span> met hare kinderen</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel</span> en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Apollos</span> beide van de Kaap</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Apollos</span> beide van de Kaap</td>
     </tr>
   </tbody>
 </table>
@@ -23937,7 +23951,7 @@ Inventaris van alle zodanige goederen en effecten als behoord hebben tot
   </tbody>
 </table>
 
-Aldus gedaan en geinventarisseerd ter plaatzegelegen in het v:d c:t schapop den 17 Mey 1826 volgens op en aangave
+Aldus gedaan en geinventarisseerd ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Schaap Kraal</span> gelegen in het v:d c:t schap <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> op den 17 Mey 1826 volgens op en aangave
 	 van den burger Jan du Plessies voorm: dewelke verklaarde zig hierin naar
 	 gemoede en overeenkomstig den staat den boedels te hebben gedragen en niet met
 	 weten te hebben agtergehouden en beloofde indien er in der tyd iets naders
@@ -23954,7 +23968,7 @@ In kennisse van my: W:M:M: Mackay
 
 ## MOOC8/41.59
 
- {18270403} 3 April 1827 <span style="border-bottom: 2px dotted #008000;">Andrew Dixon</span> 
+ {18270403} 3 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Andrew Dixon</span> 
 
 Inventory of all such property relinquished by the death ab intestato of
 	 Andrew Dixon which happened on the sixteenth day of the month of February in
@@ -23965,7 +23979,7 @@ Inventory of all such property relinquished by the death ab intestato of
 	 Commissioner of the Board aforesaid was found to consist in the following,
 	 viz:t
 
-In the house of Mr Edward Durham in
+In the house of Mr Edward Durham in <span style="border-bottom: 2px dotted #FF0000;">Grave Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 3</span> 
 
 <table>
   <tbody>
@@ -24386,7 +24400,7 @@ Appraisement of the foregoing articles according to the Board’s resolution
 Thereby certify on oath that there are no claims in favor of the estate of
 	 my late brother Andrew Dixon. The statement I made in the inventory alludes to
 	 the consignment adverted to in my memorial to the Board and more fully stated
-	 in a letter of James Dixon dated3
+	 in a letter of James Dixon dated <span style="border-bottom: 2px dotted #FF0000;">London</span> 3
 	 October 1826 submitted in original to the Board of Orphan Masters
 
 As Commissioner: J:F: Munnik
@@ -24397,7 +24411,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/42.1
 
- {18270417} 17 April 1827 <span style="border-bottom: 2px dotted #008000;">Thomas Morris</span> 
+ {18270417} 17 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Thomas Morris</span> 
 
 Ext:d the 30th May 1827 n:o 35
 
@@ -24537,16 +24551,17 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/42.2
 
- {18270222} 22 February 1827 <span style="border-bottom: 2px dotted #008000;">William Campbell</span> 
+ {18270222} 22 February 1827 <span style="border-bottom: 2px dotted #00FF00;">William Campbell</span> 
 
-Inventory of all such property found on board theanchored in this, belonging to the estate of the late William Campbell of, assistant to the Resident in the
+Inventory of all such property found on board theanchored in this <span style="border-bottom: 2px dotted #FF0000;">Table
+	 Bay</span> , belonging to the estate of the late William Campbell of <span style="border-bottom: 2px dotted #FF0000;">Singapore</span> , assistant to the Resident in the
 	 Police Department who departed this life on the twenty first day of the month
 	 of February in the year of our Lord one thousand eight hundred and twenty
 	 seven.
 
-The deceased having by his last will and testament executed at, dated on the 20th day of November
-	 1826 appointed as his sole heiress his mother Helen Campbell ofin the island of, northand in the event of her demise, his sister
-	 Jean Campbell also ofaforesaid and
+The deceased having by his last will and testament executed at <span style="border-bottom: 2px dotted #FF0000;">Singapore</span> , dated on the 20th day of November
+	 1826 appointed as his sole heiress his mother Helen Campbell of <span style="border-bottom: 2px dotted #FF0000;">Ardmore</span> in the island of <span style="border-bottom: 2px dotted #FF0000;">Isla</span> , north <span style="border-bottom: 2px dotted #FF0000;">Britain</span> and in the event of her demise, his sister
+	 Jean Campbell also of <span style="border-bottom: 2px dotted #FF0000;">Ardmore</span> aforesaid and
 	 has appointed the aforesaid heirs together with John Argyle Maxwell his
 	 executors to his will and testament. The executors however being abroad and the
 	 deceased not having made any disposition with respect to the property left by
@@ -25065,7 +25080,7 @@ The deceased having by his last will and testament executed at, dated on the 20t
   </tbody>
 </table>
 
-Thus inventoried inat the Cape
+Thus inventoried in <span style="border-bottom: 2px dotted #FF0000;">Table Bay</span> at the Cape
 	 of Good Hope on board the aforesaid ship on the twenty second day of the month
 	 of February in the year of our Lord one thousand eight hundred and twenty seven
 	 according to a statement made by the first officer James Field who declared to
@@ -25087,16 +25102,16 @@ James Field, Chief Officer
 In my presence: J:J:L: Smuts
 
 Received from the Sec:ty to the Orphan Chamber a small box, said to
-	 contain the kilt and papers belonging to the late Mr Campbell ofwho died on board theon the 25th Febr: last
+	 contain the kilt and papers belonging to the late Mr Campbell of <span style="border-bottom: 2px dotted #FF0000;">Singapore</span> who died on board theon the 25th Febr: last
 
 Sam:l Owen
 
-, 3 March 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> , 3 March 1827
 
 ## MOOC8/42.3
 
- {18260428} 28 April 1826 <span style="border-bottom: 2px dotted #008000;">Henricus Wilhelm
-	 Manenberg</span> , <span style="border-bottom: 2px dotted #008000;">Elsabe Petronella van der Poel</span> 
+ {18260428} 28 April 1826 <span style="border-bottom: 2px dotted #00FF00;">Henricus Wilhelm
+	 Manenberg</span> , <span style="border-bottom: 2px dotted #00FF00;">Elsabe Petronella van der Poel</span> 
 
 J: Overbeek
 
@@ -25107,11 +25122,11 @@ Staat en inventaris van alle zodanige goederen en effecten als op den
 	 aangaan, zynde uit dit hun huwelyk geene kinderen geprocreëerd, doch hebbende
 	 voormelde heer Manenberg uit deszelfs eerste huwelyk met wylen mejufrouw Akke
 	 Wiarda verwekt een kind met naame Margaretha, gehuwd met de heer Eduard Smith,
-	 dewelke thans inis bevindende, ter
+	 dewelke thans in <span style="border-bottom: 2px dotted #FF0000;">Engeland</span> is bevindende, ter
 	 requisitie van den weledelen heer Johannes Joachim Lodewyk Smuts in deszelfs
 	 betrekking als Secretaris van het Eerwaard Collegie van Heeren Weesmeesteren,
 	 na luide van deszelfs missive in dato den 26 April j:l: geformeerd en door my
-	 Petrus Canzius van Blommestein Secretaris van het drostampt, fungerende als Notaris Publiek
+	 Petrus Canzius van Blommestein Secretaris van het drostampt <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , fungerende als Notaris Publiek
 	 ter presentie der hiernatenoemene getuigen in geschriften gebracht, bestaande
 	 alle die goederen en effecten in als volgt
 
@@ -25120,7 +25135,7 @@ Staat en inventaris van alle zodanige goederen en effecten als op den
   <tbody>
     <tr>
       <td>Een woonhuis en twee erven alhier ten dorpe
-		geleegen en zulks in de, te
+		geleegen en zulks in de <span style="border-bottom: 2px dotted #FF0000;">Herte Straat</span> , te
 		zaamen groot in hunne grond een morg en twee honderd drie en vyftig quadraat
 		roeden en een en veertig quadraat voeten</td>
     </tr>
@@ -25738,15 +25753,15 @@ In welgemeld woonhuis en aldaar
   <thead><tr><td colspan='100%'>Slaaven des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Daniel</span> geboortig van Mallabar, oud volgens registratie 75
+      <td><span style="border-bottom: 2px dotted #00FF00;">Daniel</span> geboortig van Mallabar, oud volgens registratie 75
 		jaaren, kok</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Galant</span> , geboortig van deezen uithoek [Mosambicque], oud
+      <td><span style="border-bottom: 2px dotted #00FF00;">Galant</span> , geboortig van deezen uithoek [Mosambicque], oud
 		volgens registratie 42 jaaren, werksjongen</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Diana</span> geboortig van Bengalen, oud volgens registratie 52 jaaren,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Diana</span> geboortig van Bengalen, oud volgens registratie 52 jaaren,
 		huismeid</td>
     </tr>
   </tbody>
@@ -25893,7 +25908,7 @@ In welgemeld woonhuis en aldaar
 Moetende de dood schulden en begraffenis kosten noch nader in rekening
 	 worden gebracht.
 
-Aldus gedaan en geinventariseerd ten dorpe, den 28:e April 1826, ende zulks op het
+Aldus gedaan en geinventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , den 28:e April 1826, ende zulks op het
 	 op en aangeeven van de heer Henricus Wilhelm Manenberg voormeld, dewelke
 	 verklaarde hem daaromtrend ter goeder trouwe te hebben gedraagen en niets met
 	 opzet verzwegen en agter gehouden te hebben, het geen tot de gemelde
@@ -26065,7 +26080,7 @@ Op heden is door den inventarient in deezen aan den ondergetekende gecomm:
   </tbody>
 </table>
 
-den 7 July 1826.
+ <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> den 7 July 1826.
 
 As Commissioner: V: Horne
 
@@ -26099,7 +26114,7 @@ Erfgenamen volg:s opgaaf van den h:r G:H: Maasdorp
 		  getrouwd met Van Elven en</td>
     </tr>
     <tr>
-      <td>Hendrik v:d: Poel overleden teen nagelaten twee kinderen</td>
+      <td>Hendrik v:d: Poel overleden te <span style="border-bottom: 2px dotted #FF0000;">Botan</span> en nagelaten twee kinderen</td>
     </tr>
   </tbody>
 </table>
@@ -26107,7 +26122,7 @@ Erfgenamen volg:s opgaaf van den h:r G:H: Maasdorp
 ## MOOC8/42.4
 
  {YYYY} [ .....
-	 ] <span style="border-bottom: 2px dotted #008000;">John Slogan</span> 
+	 ] <span style="border-bottom: 2px dotted #00FF00;">John Slogan</span> 
 
 Leijst van zodanige goederen als er gevonden zijn in den kaamer van Vielda
 	 van de Kaap inwoonende bij Bram van Kennen toebehoorende aan John Slogan, als
@@ -26203,7 +26218,7 @@ Leijst van zodanige goederen toebehoorende aan den overleedene John Slogan
 <table>
   <tbody>
     <tr>
-      <td>als meede een groote schuit in deleggende</td>
+      <td>als meede een groote schuit in de <span style="border-bottom: 2px dotted #FF0000;">Roggebaaij</span> leggende</td>
     </tr>
   </tbody>
 </table>
@@ -26315,7 +26330,7 @@ C:F: v:d: Schyff
 
 ## MOOC8/42.5
 
- {18260712} 12 July 1826 <span style="border-bottom: 2px dotted #008000;">Jacobus Laurens Bierman</span> , <span style="border-bottom: 2px dotted #008000;">Alida Jacoba
+ {18260712} 12 July 1826 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Laurens Bierman</span> , <span style="border-bottom: 2px dotted #00FF00;">Alida Jacoba
 	 Ackerman</span> 
 
 J: Overbeek
@@ -26388,7 +26403,7 @@ The said Jacobus Laurens Bierman in rendering the above inventory declared
 The parents of the deceased are the late Marthinus Ackerman and his
 	 surviving widow Alida Jacoba de Buys.
 
-This done and inventory rendered and declaration made inin the district ofon the twelfth day of July in the year
+This done and inventory rendered and declaration made in <span style="border-bottom: 2px dotted #FF0000;">Graham's Town</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> on the twelfth day of July in the year
 	 of our Lord one thousand eight hundred and twenty six
 
 J:L: Bierman
@@ -26399,11 +26414,11 @@ In my presence: Daniel J: Cloete, Agent to Orphan
 ## MOOC8/42.6
 
  {18261115} 15
-	 November 1826 <span style="border-bottom: 2px dotted #008000;">Bartholomeus van Duuren</span> 
+	 November 1826 <span style="border-bottom: 2px dotted #00FF00;">Bartholomeus van Duuren</span> 
 
 Inventaris van alle zodanige goederen en effecten als behoren tot de
 	 nalatenschap van Bartholomeus van Duuren, subiet overleeden ter plaatse van den
-	 heer Andries Christoffel van der Byl de oude aan deop den 15 November 1826
+	 heer Andries Christoffel van der Byl de oude aan de <span style="border-bottom: 2px dotted #FF0000;">Eerste Rivier</span> op den 15 November 1826
 
 <table>
   <thead><tr><td colspan='100%'>In de schoolkamer of buiten vertrek</td></tr></thead>
@@ -26663,11 +26678,12 @@ My preesent: H:W: Borcherds F: S:
 
 ## MOOC8/42.7a
 
- {18260817} 17 Augustus 1826 <span style="border-bottom: 2px dotted #008000;">Gerrit Matthys Nel</span> , <span style="border-bottom: 2px dotted #008000;">Hendrina Cecilia
+ {18260817} 17 Augustus 1826 <span style="border-bottom: 2px dotted #00FF00;">Gerrit Matthys Nel</span> , <span style="border-bottom: 2px dotted #00FF00;">Hendrina Cecilia
 	 Steenkamp</span> 
 
 Invantaris van alle zodanigtge goederen en efficten als door den bürger
-	 Gerret Matijs Nel Jac: zoon overleden aan deop den 3 July 1826 in den ouderdom van 27 jaar 9 maan en 14
+	 Gerret Matijs Nel Jac: zoon overleden aan de <span style="border-bottom: 2px dotted #FF0000;">Groot
+	 Rietrievier</span> op den 3 July 1826 in den ouderdom van 27 jaar 9 maan en 14
 	 dagen, met er doot ontruijmd en naagelaten zijn gevonden en zülks ter
 	 voordeelen van den overledenne is huijsvrouw Hindrienna Zuszielja Steenkamp en
 	 den overlede is vader Jacobus Nel en broer en zusters, met name
@@ -26948,7 +26964,7 @@ Bestaande g:z: nalatenschap
   </tbody>
 </table>
 
-Aldus geinvantarriezeert ter plaastze degelegen in hetop den 17 Augustus 1826 en
+Aldus geinvantarriezeert ter plaastze de <span style="border-bottom: 2px dotted #FF0000;">Karehout Rievier</span> gelegen in het <span style="border-bottom: 2px dotted #FF0000;">Onder Rogtgevelt</span> op den 17 Augustus 1826 en
 	 zulks volgens opgaafte van den overledenens vrouw de welke verklaarde hier mede
 	 getroüw en regt zyn te werk gegaan zonder willings of wetings iets in het
 	 menste te hebben verzwegen of agtergehoude en berijt zijnde zulks des vereist
@@ -26964,7 +26980,7 @@ Willem Steenkamp Karel zoon
 
 ## MOOC8/42.7b
 
- {18260817} 17 Augustus 1826 <span style="border-bottom: 2px dotted #008000;">Gerrit Matthys Nel</span> , <span style="border-bottom: 2px dotted #008000;">Hendrina Cecilia
+ {18260817} 17 Augustus 1826 <span style="border-bottom: 2px dotted #00FF00;">Gerrit Matthys Nel</span> , <span style="border-bottom: 2px dotted #00FF00;">Hendrina Cecilia
 	 Steenkamp</span> 
 
 Nader inventaris van alle goederen, effecten, crediten en debiten des
@@ -27198,14 +27214,15 @@ Nader inventaris van alle goederen, effecten, crediten en debiten des
   </tbody>
 </table>
 
-Aldus door my geformeerd ter plaatsegel: op, datum
+Aldus door my geformeerd ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Careehoute
+	 Rivier</span> gel: op <span style="border-bottom: 2px dotted #FF0000;">Onder Roggeveld</span> , datum
 	 ut supra
 
 V:J: de Kock
 
 ## MOOC8/42.8
 
- {18250223} 23 Februarij 1825 <span style="border-bottom: 2px dotted #008000;">Christiaan Brets</span> 
+ {18250223} 23 Februarij 1825 <span style="border-bottom: 2px dotted #00FF00;">Christiaan Brets</span> 
 
 Invantaris van nu wijlen Christiaan Brets
 
@@ -27293,13 +27310,13 @@ De goederen door mijn op genomen te hebbe met twee getuijgen B:C: du
   </tbody>
 </table>
 
-den 23 Febriareij 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> den 23 Febriareij 1825
 
 J:A: Steenkamp, Veld Cornet
 
 ## MOOC8/42.9
 
- {18230918} 18 September 1823 <span style="border-bottom: 2px dotted #008000;">Thomas Proctor</span> 
+ {18230918} 18 September 1823 <span style="border-bottom: 2px dotted #00FF00;">Thomas Proctor</span> 
 
 Inventaris van alle zodanige goederen als er op Zondag den veertienden dag
 	 dezer lopende maand September in den jaare onzes Heeren een duizend acht
@@ -27750,7 +27767,7 @@ My present: J: Serrurier, Adj: C:s
 
 ## MOOC8/42.10
 
- {18270626} 26 June 1827 <span style="border-bottom: 2px dotted #008000;">Johanna Alberta de
+ {18270626} 26 June 1827 <span style="border-bottom: 2px dotted #00FF00;">Johanna Alberta de
 	 Wit</span> 
 
 Inventory of all such property as have been relinquished by the death ab
@@ -27798,7 +27815,7 @@ Inventory of all such property as have been relinquished by the death ab
     <tr>
       <td rowspan='5' style='vertical-align: middle;'>5) the children of the late Willem de Wit procreated in
 		  wedlock with Helena Coetsee named</td>
-      <td>1) Pieter de Wit residing at</td>
+      <td>1) Pieter de Wit residing at <span style="border-bottom: 2px dotted #FF0000;">Malacca</span></td>
     </tr>
     <tr>
       <td>2) Susanna de Wit married with Pieter van der Byl</td>
@@ -27823,7 +27840,8 @@ The aforesaid property having been taken under the administration of the
 	 and been inventoried by the undersigned was found to consist in the following
 	 viz:t
 
-In a house of George Muller situated in the,
+In a house of George Muller situated in the <span style="border-bottom: 2px dotted #FF0000;">Kaserne Street</span> , <span style="border-bottom: 2px dotted #FF0000;">N:o [
+	 ..... ]</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In the passage</td></tr></thead>
@@ -28072,15 +28090,15 @@ In a house of George Muller situated in the,
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adriaan of this Colony</span> 26
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adriaan of this Colony</span> 26
 		years of age, cooper</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">George of this Colony</span> 13
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">George of this Colony</span> 13
 		years of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Charles of this Colony</span> 9
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Charles of this Colony</span> 9
 		years of age</td>
     </tr>
   </tbody>
@@ -28176,8 +28194,8 @@ In my presence: J:J:L: Smuts
 ## MOOC8/42.11
 
  {18260923} 23 September
-	 1826 <span style="border-bottom: 2px dotted #008000;">Gert
-	 Johannes Gerhardus Vosloo</span> , <span style="border-bottom: 2px dotted #008000;">Anna Barbara Botha</span> 
+	 1826 <span style="border-bottom: 2px dotted #00FF00;">Gert
+	 Johannes Gerhardus Vosloo</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Barbara Botha</span> 
 
 Inventaris van alle zodanige goederen en effecten als behoorde hebbende
 	 tot den boedel van wylen Anna Barbara Botha en nagelaten man Gert Johannes
@@ -28314,7 +28332,7 @@ Inventaris van alle zodanige goederen en effecten als behoorde hebbende
   </tbody>
 </table>
 
-Aldus gedaan en gien van tarisseerd ter plaats deinin dit district op den 23 September
+Aldus gedaan en gien van tarisseerd ter plaats de <span style="border-bottom: 2px dotted #FF0000;">Ronde Kop</span> in <span style="border-bottom: 2px dotted #FF0000;">Baviaans River</span> in dit district op den 23 September
 	 volgens op den aangade van Gert Johannes Gerhardus Vosloo en den hoofde dezes
 	 gemeld dewelke verklaarde reg keeren naar gemoede en overeen komstig den staat
 	 des boedels ter hebben gedragen en niets met weeten te hebben agter gehouden
@@ -28331,8 +28349,8 @@ In kennisse van my: W:M: Mackay
 
 ## MOOC8/42.12
 
- {18260921} 21 September 1826 <span style="border-bottom: 2px dotted #008000;">Johannes Hermanus
-	 Grobler</span> , <span style="border-bottom: 2px dotted #008000;">Maria
+ {18260921} 21 September 1826 <span style="border-bottom: 2px dotted #00FF00;">Johannes Hermanus
+	 Grobler</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Magrieta de Bruin</span> 
 
 Inventaris van alle zodanige goederen en effecten als behoorde hebbende
@@ -28493,7 +28511,7 @@ Inventaris van alle zodanige goederen en effecten als behoorde hebbende
   </tbody>
 </table>
 
-Aldus gedaan en geinvantarisseerd ter plaatsenin dit district op den 21st September 1826
+Aldus gedaan en geinvantarisseerd ter plaats <span style="border-bottom: 2px dotted #FF0000;">Paarde Kraal Vonteyn</span> en <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> in dit district op den 21st September 1826
 	 volgens op den aangade van Johannes Hermanus Grobler en den hoofd deezes gemeld
 	 dewelke verklaarde reg heeven naar gemoeden overeenkomsteg den staat des
 	 boedels ten hebben gedragen en niets met weeten te hebben agter gehouden met
@@ -28510,7 +28528,7 @@ W:M: Mackay
 
 ## MOOC8/42.13
 
- {18260919} 19 September 1826 <span style="border-bottom: 2px dotted #008000;">William Jacobus Vorster</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Maria
+ {18260919} 19 September 1826 <span style="border-bottom: 2px dotted #00FF00;">William Jacobus Vorster</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Maria
 	 Kruger</span> 
 
 Inventaris van alle zodanige goederen en effecten als behoord hebbende tot
@@ -28669,7 +28687,7 @@ Inventaris van alle zodanige goederen en effecten als behoord hebbende tot
   <thead><tr><td colspan='100%'>Lyf eigen des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slaaven genaamed <span style="border-bottom: 2px dotted #008000;">Carolina</span></td>
+      <td>een slaaven genaamed <span style="border-bottom: 2px dotted #00FF00;">Carolina</span></td>
     </tr>
   </tbody>
 </table>
@@ -28709,7 +28727,8 @@ Inventaris van alle zodanige goederen en effecten als behoord hebbende tot
   </tbody>
 </table>
 
-Aldus gedaan en geinvantarisseerd ter plaatsinin dit district op den 19th September 1826 volgens op den
+Aldus gedaan en geinvantarisseerd ter plaats <span style="border-bottom: 2px dotted #FF0000;">Ruigten Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Agter
+	 Sneuwberg</span> in dit district op den 19th September 1826 volgens op den
 	 aangade van de weduwe Vorster in den hoofd deezes gemeld dewelke verklaarde reg
 	 heeven naar gemoede en overeenkomsteg den staat des boedels ter hebben gedragen
 	 en niets met weeten te hebben agter gehouden met bilofte en dien er in der tyd
@@ -28726,7 +28745,7 @@ W:M: Mackay
 
 ## MOOC8/42.14
 
- {18270222} 22 February 1827 <span style="border-bottom: 2px dotted #008000;">Jacob Venter</span> , <span style="border-bottom: 2px dotted #008000;">Magdalena
+ {18270222} 22 February 1827 <span style="border-bottom: 2px dotted #00FF00;">Jacob Venter</span> , <span style="border-bottom: 2px dotted #00FF00;">Magdalena
 	 Catharina Cornelia du Plessies</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen Jacob
@@ -28968,7 +28987,7 @@ J:S: Meintjes
 
 ## MOOC8/42.15
 
- {18270314} 14 Maart 1827 <span style="border-bottom: 2px dotted #008000;">Joseph Jacobus Matthysen</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Maria
+ {18270314} 14 Maart 1827 <span style="border-bottom: 2px dotted #00FF00;">Joseph Jacobus Matthysen</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Maria
 	 Magdalena Bezuidenhout</span> 
 
 J:G: Brink
@@ -29061,7 +29080,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Joseph
   </tbody>
 </table>
 
-Aldus gedaan en g'inventariseerd ter plaatze degelegen in het veldcornetschapop den 14:e Maart 1827 volgens op en
+Aldus gedaan en g'inventariseerd ter plaatze de <span style="border-bottom: 2px dotted #FF0000;">Potfontein</span> gelegen in het veldcornetschap <span style="border-bottom: 2px dotted #FF0000;">Hantam</span> op den 14:e Maart 1827 volgens op en
 	 aangave van Johanna Maria Magdalena Bezuidenhout voormeld dewelke betuigde haar
 	 in het op en aangeeven des voormelden boedels ter goeder trouwe te hebben
 	 gedragen en niets met weten verswegen of agtergehouden te hebben met alverder
@@ -29079,16 +29098,16 @@ G:D: Joubert, Velt C:t
 
 ## MOOC8/42.16
 
- {18270215} 15 February 1827 <span style="border-bottom: 2px dotted #008000;">Theunis Schalkwyk</span> 
+ {18270215} 15 February 1827 <span style="border-bottom: 2px dotted #00FF00;">Theunis Schalkwyk</span> 
 
 Inventory of property belonging to the intestate estate of Theunis
-	 Schalkwyk, widower, of the district ofwho died on the 9th of Feb:y 1827.
+	 Schalkwyk, widower, of the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> who died on the 9th of Feb:y 1827.
 
 <table>
   <tbody>
     <tr>
-      <td>two (2) male slaves, one named <span style="border-bottom: 2px dotted #008000;">Gedult of Malabar</span> and the
-		  other <span style="border-bottom: 2px dotted #008000;">Passop from
+      <td>two (2) male slaves, one named <span style="border-bottom: 2px dotted #00FF00;">Gedult of Malabar</span> and the
+		  other <span style="border-bottom: 2px dotted #00FF00;">Passop from
 		  Mozambique</span></td>
     </tr>
     <tr>
@@ -29100,23 +29119,23 @@ Inventory of property belonging to the intestate estate of Theunis
   </tbody>
 </table>
 
-Thus done and inventory taken in the district ofon Thursday the 15th day of February
+Thus done and inventory taken in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> on Thursday the 15th day of February
 	 1827.
 
-Daniel J: Cloete, Agent in
+Daniel J: Cloete, Agent in <span style="border-bottom: 2px dotted #FF0000;">Albany</span> 
 
 ## MOOC8/42.17
 
- {18270210} 10 February 1827 <span style="border-bottom: 2px dotted #008000;">Marie</span> 
+ {18270210} 10 February 1827 <span style="border-bottom: 2px dotted #00FF00;">Marie</span> 
 
 H: Somerset
 
 A true and perfect inventory of all and every the goods, chatels, wares
 	 and merchandize as well moveable as not, debts, credits and other pesonal
 	 effects of the deceased female Hottentot Marie who died intestate at the place
-	 namedon the 26th October 1826
+	 named <span style="border-bottom: 2px dotted #FF0000;">Groot-fontein</span> on the 26th October 1826
 	 between the hours of 3 and 4 a:m: within the fieldcornetcy of Willem Francois
-	 Joubert districtand given up as
+	 Joubert district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as
 	 follows
 
 <table>
@@ -29173,7 +29192,7 @@ A true and perfect inventory of all and every the goods, chatels, wares
 </table>
 
 Thus done and registered on Saturday the 10th of February 1827 at the
-	 village ofaccording to the statement
+	 village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> according to the statement
 	 of Johannes Esterhuyzen senior, who declares his above statement of the estate
 	 having been done honestly and truly and that nothing has been held back to the
 	 best of his knowledge and judgment, and further declares to be always ready if
@@ -29193,7 +29212,7 @@ W:W: Harding
 
 ## MOOC8/42.18
 
- {18261003} 3 October 1826 <span style="border-bottom: 2px dotted #008000;">Cornelis Hermanus Myburgh</span> , <span style="border-bottom: 2px dotted #008000;">Gerbregt Philipina
+ {18261003} 3 October 1826 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Hermanus Myburgh</span> , <span style="border-bottom: 2px dotted #00FF00;">Gerbregt Philipina
 	 Issel</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen
@@ -29315,7 +29334,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
   </tbody>
 </table>
 
-Aldus gedaan en g'inventariseerd ten dorpeop den 3:e October 1826 volgens op en
+Aldus gedaan en g'inventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 3:e October 1826 volgens op en
 	 aangeeven van Cornelis Hermanus Meyburg voormeld dewelke betuigde hem in het op
 	 en aangeeven des voormelden boedels ter goeder trouwe te hebben gedragen en
 	 niets met weten verzwegen of agtergehouden te hebben met al verdere belofte zo
@@ -29332,7 +29351,7 @@ J:S: Meintjes
 
 ## MOOC8/42.19
 
- {18270220} 20 February 1827 <span style="border-bottom: 2px dotted #008000;">Jacobus Petrus Bekker</span> , <span style="border-bottom: 2px dotted #008000;">Sarah Maria Snyman</span> 
+ {18270220} 20 February 1827 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Petrus Bekker</span> , <span style="border-bottom: 2px dotted #00FF00;">Sarah Maria Snyman</span> 
 
 H: Somerset
 
@@ -29421,7 +29440,7 @@ Inventory of all such property as belonged to the estate of Jacobus Petrus
   </tbody>
 </table>
 
-Thus done and inventoried at, on
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> , on
 	 this the 20th February 1827 according to the statement made by Jacobus Petrus
 	 Bekker who declared to have acted in the case with integrity and not to his
 	 knowledge to have kept back anything appertaining to the estate, promising that
@@ -29436,7 +29455,7 @@ W:M: Mackay
 
 ## MOOC8/42.20
 
- {18270108} 8 Januarij 1827 <span style="border-bottom: 2px dotted #008000;">Chrisjan</span> 
+ {18270108} 8 Januarij 1827 <span style="border-bottom: 2px dotted #00FF00;">Chrisjan</span> 
 
 Infetaris van den overledene gekose slaaf Chrisjan woonachtig by de heer
 	 H:G: Wilsche
@@ -29713,13 +29732,13 @@ Boek schulde van den overleedene jonge Christiaan
     </tr>
     <tr>
       <td>paid November 1827</td>
-      <td>aan syn soon <span style="border-bottom: 2px dotted #008000;">Christiaan</span> , slaaf van de weduwe
+      <td>aan syn soon <span style="border-bottom: 2px dotted #00FF00;">Christiaan</span> , slaaf van de weduwe
 		  Nicolaas Walters voor 1 span jukke rd:s30</td>
       <td>15:--</td>
     </tr>
     <tr>
       <td>paid 2 Dec:r 1827</td>
-      <td>aan syn soon <span style="border-bottom: 2px dotted #008000;">January</span> , slaaf van de heer Joh:s Alb:s
+      <td>aan syn soon <span style="border-bottom: 2px dotted #00FF00;">January</span> , slaaf van de heer Joh:s Alb:s
 		  Laubscher voor een ploegstel</td>
       <td>20:--</td>
     </tr>
@@ -29731,12 +29750,12 @@ Boek schulde van den overleedene jonge Christiaan
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>aan <span style="border-bottom: 2px dotted #008000;">July</span> , slaaf van de heer Migiel Smuts</td>
+      <td>aan <span style="border-bottom: 2px dotted #00FF00;">July</span> , slaaf van de heer Migiel Smuts</td>
       <td>7:4</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>de myt <span style="border-bottom: 2px dotted #008000;">Madeleen</span> behoort aan my en des gelt
+      <td>de myt <span style="border-bottom: 2px dotted #00FF00;">Madeleen</span> behoort aan my en des gelt
 		  moet hebbe van haar vader Chrisjan voor een paart 25 rd:s en sy seg dat sy ook
 		  voor een kis moet 7 rd:s hebbe de Heere wert versog om aan suster Wissche de
 		  gelt af te geve voor reken van haar</td>
@@ -29750,7 +29769,7 @@ Den 8 Januari 1827
 
 ## MOOC8/42.21
 
- {18260417} 17 April 1826 <span style="border-bottom: 2px dotted #008000;">John
+ {18260417} 17 April 1826 <span style="border-bottom: 2px dotted #00FF00;">John
 	 Ashby</span> 
 
 Staat en inventaris van alle zoodanige goederen en effecten behorende tot
@@ -29997,7 +30016,7 @@ Staat en inventaris van alle zoodanige goederen en effecten behorende tot
 </table>
 
 Aldus gedaan en geinventariseerd ter plaatze van Hermanus Steyn Joh:s zoon
-	 gen:din het distriktgelegen op den 17:de April 1826 en
+	 gen:d <span style="border-bottom: 2px dotted #FF0000;">Klip Rivier</span> in het distrikt <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> gelegen op den 17:de April 1826 en
 	 zulks op het op en en aangeeven van gem: Steyn, dewelke betuigde zig hierin ter
 	 goeder trouw te hebben gedragen en zyns weetens niets verzweegen te hebben dat
 	 tot dien boedel zoude behoren, met belofte om zoo wanneer het een of ander
@@ -30010,7 +30029,7 @@ H:s Steijn, Velt C:t
 
 ## MOOC8/42.22
 
- {18250405} 5 April 1825 <span style="border-bottom: 2px dotted #008000;">Alima van Mosambiek</span> 
+ {18250405} 5 April 1825 <span style="border-bottom: 2px dotted #00FF00;">Alima van Mosambiek</span> 
 
 Inventory of the estate of the late Alima of Mosambicque formerly slave of
 	 George Ferdinand Geyer
@@ -30022,19 +30041,19 @@ Inventaris van zodanige goederen toebehorende aan myn op den 30 Maart j:l:
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April</span> geboren 27 Aug: 1808</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">April</span> geboren 27 Aug: 1808</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Carolus</span> geboren 8 Maart 1813</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Carolus</span> geboren 8 Maart 1813</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Africa</span> geboren 24 Dec: 1815</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Africa</span> geboren 24 Dec: 1815</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Doortje</span> geboren 26 April 1819</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doortje</span> geboren 26 April 1819</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Roose</span> geboren 18 Sept: 1823</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Roose</span> geboren 18 Sept: 1823</td>
     </tr>
   </tbody>
 </table>
@@ -30127,7 +30146,7 @@ G:F: Geijer
 
 ## MOOC8/42.23
 
- {18270621} 21 June 1827 <span style="border-bottom: 2px dotted #008000;">Jacobus Erasmus</span> , <span style="border-bottom: 2px dotted #008000;">Anna Catharina
+ {18270621} 21 June 1827 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Erasmus</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Catharina
 	 Willers</span> 
 
 H: Somerset
@@ -30135,9 +30154,9 @@ H: Somerset
 A true and perfect inventory of all and every the goods chattels, wares
 	 and merchandize, as well moveable as not, debts, credits and other pesonal
 	 effects of the deceased Jacobus Erasmus Abel son and his surviving widow Anna
-	 Catharina Wilters which former died intestate at the placeon the 1st of May 1827 between the hours
+	 Catharina Wilters which former died intestate at the place <span style="border-bottom: 2px dotted #FF0000;">Kuega</span> on the 1st of May 1827 between the hours
 	 of 5 and 6 a.m. within the fieldcornetcy of Mr Andries Jacobus de Clerck
-	 district ofand given up as
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as
 	 follows
 
 <table>
@@ -30266,7 +30285,7 @@ A true and perfect inventory of all and every the goods chattels, wares
     </tr>
     <tr>
       <td>to Jan Human as per note of hand produced ten heifers which
-		however he was to receive from certain Kloppers in the, district</td>
+		however he was to receive from certain Kloppers in the <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> , district <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span></td>
     </tr>
     <tr>
       <td>to Abraham Joh:s du Plooy for 40 f:t of plank at 4 shill: p:r f:t
@@ -30294,7 +30313,7 @@ A true and perfect inventory of all and every the goods chattels, wares
   </tbody>
 </table>
 
-This done and registered in the village ofon Thursday the 21st of June 1827 according
+This done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Thursday the 21st of June 1827 according
 	 to the statement of the widow Jacobus Erasmus Abelson and Gabriel Jacobus
 	 Erasmus Abel son who declared in their above statement to have acted honestly
 	 and truly that nothing has been held back to the best of their judgment and
@@ -30314,7 +30333,7 @@ W:W: Harding
 
 ## MOOC8/42.24
 
- {18230625} 25 Juny 1823 <span style="border-bottom: 2px dotted #008000;">Petrus Casparus Snyders</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Margaretha
+ {18230625} 25 Juny 1823 <span style="border-bottom: 2px dotted #00FF00;">Petrus Casparus Snyders</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Margaretha
 	 Snyman</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen
@@ -30325,7 +30344,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
 <table>
   <tbody>
     <tr>
-      <td>1 slave jonge genaamd <span style="border-bottom: 2px dotted #008000;">Geduld van Mallebaar</span> oud
+      <td>1 slave jonge genaamd <span style="border-bottom: 2px dotted #00FF00;">Geduld van Mallebaar</span> oud
 		  naar gissing 50 a 60 jaaren; niet geregistreerd en om die reden niet
 		  verkogt</td>
     </tr>
@@ -30635,17 +30654,17 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
     <tr>
       <td>erfgenaam</td>
       <td>van Petrus Jacobus Snyder P:zoon 15 hamels
-		of 45 rd:s van den overledene geleend, gem: Snyders woonagtig in het district, waar van geen bewijs</td>
+		of 45 rd:s van den overledene geleend, gem: Snyders woonagtig in het district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , waar van geen bewijs</td>
     </tr>
     <tr>
       <td>solvent</td>
-      <td>van Sybrand de Beer s:r gewese slagter aan dede som van 337:4 over koop van 135
-		hamels a 20 schell: per pees waarvan een bewys - woonagtig in het Kaap district</td>
+      <td>van Sybrand de Beer s:r gewese slagter aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> de som van 337:4 over koop van 135
+		hamels a 20 schell: per pees waarvan een bewys - woonagtig in het Kaap district <span style="border-bottom: 2px dotted #FF0000;">Koebergen</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
       <td>van Jac:b J: Karelse de som van 1 rd: waarvan een
-		bewys - woonagtig in het dist:</td>
+		bewys - woonagtig in het dist: <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -30664,16 +30683,16 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
 		eigedum waarvan een bewys - woonagtig in 't Kaaps district</td>
     </tr>
     <tr>
-      <td>rd:s100 door de Agent tebetaald en verrekend</td>
+      <td>rd:s100 door de Agent te <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> betaald en verrekend</td>
       <td>aan Jan Hendrik Snyder Piet zoon de som van
 		een honderd twintig rd:s wegens contante geleende penningen - woonagtig in 't
-		districtwaarvan een bewys</td>
+		district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> waarvan een bewys</td>
     </tr>
     <tr>
-      <td>rds:342 - rd:s24 renten = rd:s 366 door de Agent tebetaald en verrekend</td>
+      <td>rds:342 - rd:s24 renten = rd:s 366 door de Agent te <span style="border-bottom: 2px dotted #FF0000;">Beauford</span> betaald en verrekend</td>
       <td>aan
 		Piet Christoffel Snyder Piet zoon de som van drie honderd en vijftig rd:s met
-		de renten - woonagtig in 't districtwaarvan een bewijs spruit: over op intrest gegevene penninge</td>
+		de renten - woonagtig in 't district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> waarvan een bewijs spruit: over op intrest gegevene penninge</td>
     </tr>
   </tbody>
 </table>
@@ -30698,7 +30717,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
       <td>de hamel bij boedel rekening aan hem tegen rd:s2:4 te goed
 		gedaan</td>
       <td>aan Jan Muller 4 hamels over ruil van rosynen, woonagtig
-		dist:</td>
+		dist: <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span></td>
     </tr>
   </tbody>
 </table>
@@ -30732,7 +30751,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
 </table>
 
 Aldus gedaan en geinventariseerd op Woensdag den 25 Juny 1823 ter plaatse
-	 degelegen op hetvolgens op en aangave van Johannes
+	 de <span style="border-bottom: 2px dotted #FF0000;">Matjes Valij</span> gelegen op het <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> volgens op en aangave van Johannes
 	 Hendrik Snyder en Gerrit Christoffel Snijder de welke betuige zich in het op en
 	 aangave des voormelde boedels zich ter goeder trouwe te hebben gedragen, en
 	 niets met weeten verswegen of agtergelaten te hebben en verklaaren zy dus
@@ -30751,7 +30770,7 @@ J: Baird, Adj: L:
 
 ## MOOC8/42.25
 
- {18250829} 29 August 1825 <span style="border-bottom: 2px dotted #008000;">Jonathan Joseph Burnard</span> , <span style="border-bottom: 2px dotted #008000;">Francina Dorothea
+ {18250829} 29 August 1825 <span style="border-bottom: 2px dotted #00FF00;">Jonathan Joseph Burnard</span> , <span style="border-bottom: 2px dotted #00FF00;">Francina Dorothea
 	 Flamme</span> 
 
 Inventory of the joint property of Jonathan Joseph Burnard and his wife
@@ -31194,13 +31213,13 @@ In the house of Mr John Murray occupied on rent by the deceased
 <table>
   <tbody>
     <tr>
-      <td>A place calledsituated at thein the district ofbelonging to the estate with some
+      <td>A place called <span style="border-bottom: 2px dotted #FF0000;">Wilgenbosch</span> situated at the <span style="border-bottom: 2px dotted #FF0000;">Tarca</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> belonging to the estate with some
 		  cattle of which an inventory will be framed by the Agent of the Board, in that
 		  district and will be subjoined hereto</td>
     </tr>
     <tr>
       <td>a piece of perpetual quitrent land situated
-		  in the Cape district being the so calledand. The articles which are at
+		  in the Cape district being the so called <span style="border-bottom: 2px dotted #FF0000;">Vaderlandsche Rietvalei</span> and <span style="border-bottom: 2px dotted #FF0000;">Bestbiers Dam</span> . The articles which are at
 		  present at this place will be specified in a list and annexed to this
 		  inventory</td>
     </tr>
@@ -31215,19 +31234,19 @@ The widow states that there is expected from the enterior two flocks of
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Alexander of this
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Alexander of this
 		Colony</span> aged 38 3/4 years, butcher</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Malacca of Batavia</span> aged
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Malacca of Batavia</span> aged
 		58 years, shepherd</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">September of
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">September of
 		Mosambique</span> aged 48 2/3 years, shepherd</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">January of Malabar</span> aged
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">January of Malabar</span> aged
 		54 2/3 years, horsekeeper</td>
     </tr>
   </tbody>
@@ -31382,7 +31401,7 @@ The widow states that there is expected from the enterior two flocks of
     </tr>
     <tr>
       <td>paid</td>
-      <td>from J:J: Oberholster on a note of hand dated21:t September
+      <td>from J:J: Oberholster on a note of hand dated <span style="border-bottom: 2px dotted #FF0000;">Camdebo</span> 21:t September
 		1820</td>
       <td>21:--</td>
     </tr>
@@ -31563,7 +31582,7 @@ I do hereby acknowledge to have received of Mr Adrian Deneys two thousand
 
 Joseph Burnard
 
-9 July 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> 9 July 1825
 
 Bovenstaande terug ontfangen den 4 October 1825
 
@@ -31574,7 +31593,7 @@ I acknowledge to have borrowed of Mr A: Denys two thousand rd:s which
 
 Joseph Burnard
 
-1 Aug:st 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> 1 Aug:st 1825
 
 Boven staande door my ontfangen den 4 January 1826
 
@@ -31641,7 +31660,7 @@ Ampliation
     </tr>
     <tr>
       <td>paid</td>
-      <td>J:J: Oberholster ()</td>
+      <td>J:J: Oberholster ( <span style="border-bottom: 2px dotted #FF0000;">Camdebo</span> )</td>
       <td>&nbsp;</td>
       <td>228:12</td>
     </tr>
@@ -31727,7 +31746,7 @@ Claims in favour of the estate of the late Jonathan Joseph Burnard and his
   </tbody>
 </table>
 
-Inventory of all such goods which has been found at the place calledbeing the property of
+Inventory of all such goods which has been found at the place called <span style="border-bottom: 2px dotted #FF0000;">Vaderlands Riet Vliet</span> being the property of
 	 the late Joseph Burnard
 
 <table>
@@ -31829,14 +31848,14 @@ Tho:s Readwehl
 August 26th 1825
 
 Inventaris van alle zodanige goederen en effecten als behooren tot den
-	 boedel van wijlen J: Barnard en te vinden zijn ter plaatseaanop last van den Landdrost van, door my ondergeteekende Veldcornet
+	 boedel van wijlen J: Barnard en te vinden zijn ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Wellege Bosch</span> aan <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> op last van den Landdrost van <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> , door my ondergeteekende Veldcornet
 	 in tegenwoordigheid van twee getuigen opgenoomen
 
 <table>
   <thead><tr><td colspan='100%'>Vaste goederen</td></tr></thead>
   <tbody>
     <tr>
-      <td>de opstal der leenings-plaatsgelegen aanin 't district</td>
+      <td>de opstal der leenings-plaats <span style="border-bottom: 2px dotted #FF0000;">Wellege Bosch</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> in 't district <span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
     </tr>
   </tbody>
 </table>
@@ -31871,13 +31890,13 @@ Inventaris van alle zodanige goederen en effecten als behooren tot den
   </tbody>
 </table>
 
-Aldus g'inventariseerd ter plaatsevoormeld, op den 12 dag der maand
+Aldus g'inventariseerd ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Welligbosch</span> voormeld, op den 12 dag der maand
 	 October deezes jaars, volgens op en aangaave van Adriaan Gerhardus Muller
 	 Jansz: dewelke verklaarde zig in zijne gedane opgave naar gemoede en volgens
 	 het best van zijn weten te hebben gedraagen en niets te hebben agtergehouden
 	 met belofte indien er iets naders in der tijd mogte worden ontdekt, dat tot den
 	 boedel behoort en hierin niet is opgetekend dezer inventaris alsdann daarmeede
-	 te zullen amplieren - alles onder aanbod van eede.den 12 October 1825
+	 te zullen amplieren - alles onder aanbod van eede. <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> den 12 October 1825
 
 Als getuigen: Andries Hendrik Potgieter, Joh: Goch
 
@@ -31885,7 +31904,7 @@ J:H: Steenkamp, Veldcornet
 
 ## MOOC8/42.26
 
- {18270507} 7 May 1827 <span style="border-bottom: 2px dotted #008000;">Gysbertus van Reenen</span> , <span style="border-bottom: 2px dotted #008000;">Maria Johanna
+ {18270507} 7 May 1827 <span style="border-bottom: 2px dotted #00FF00;">Gysbertus van Reenen</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Johanna
 	 Smalbergen</span> 
 
 Inventory of all such property of Gysbertus van Reenen and Maria Johanna
@@ -31947,27 +31966,28 @@ The deceased has further by a codicil dated 29 March 1827 requested and
 <table>
   <tbody>
     <tr>
-      <td>A place calledwith the buildings erected thereon
+      <td>A place called <span style="border-bottom: 2px dotted #FF0000;">Brakkefontein</span> with the buildings erected thereon
 		  situated in the Cape district</td>
     </tr>
     <tr>
       <td>a piece of quit rent land adjoining the
-		  aforesaid place called</td>
+		  aforesaid place called <span style="border-bottom: 2px dotted #FF0000;">Kleine
+		  Papekuilsfontein</span></td>
     </tr>
     <tr>
-      <td>a place /:loanplace:/ calledmeasured in perpetual quit rent
-		  also adjoining the place</td>
+      <td>a place /:loanplace:/ called <span style="border-bottom: 2px dotted #FF0000;">Spring Fontein</span> measured in perpetual quit rent
+		  also adjoining the place <span style="border-bottom: 2px dotted #FF0000;">Brakkefontein</span></td>
     </tr>
     <tr>
-      <td>a piece of land calledsituated in the</td>
+      <td>a piece of land called <span style="border-bottom: 2px dotted #FF0000;">Olie Boom</span> situated in the <span style="border-bottom: 2px dotted #FF0000;">Cape downs</span></td>
     </tr>
     <tr>
-      <td>a piece of land calledsituated in the</td>
+      <td>a piece of land called <span style="border-bottom: 2px dotted #FF0000;">Lindenschraal</span> situated in the <span style="border-bottom: 2px dotted #FF0000;">Cape downs</span></td>
     </tr>
   </tbody>
 </table>
 
-On the aforesaid place
+On the aforesaid place <span style="border-bottom: 2px dotted #FF0000;">Brakke Fontein</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In the passage</td></tr></thead>
@@ -32794,7 +32814,7 @@ On the aforesaid place
 </table>
 
 It is hereby stated that there are some stukvats, leaguers and other casks
-	 with wine atwith Mr Sybrand
+	 with wine at <span style="border-bottom: 2px dotted #FF0000;">Ronde Bosche</span> with Mr Sybrand
 	 Mostert Cornelis son the number of which cannot be ascertained here - twenty
 	 one stukvats /:four with wine:/, a wine cask and a fermenting tub.
 
@@ -32802,187 +32822,187 @@ It is hereby stated that there are some stukvats, leaguers and other casks
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Geduld of Mosambique</span> aged 61 years, labourer, ruptured</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Geduld of Mosambique</span> aged 61 years, labourer, ruptured</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Apollos of Mosambique</span> aged 46 years, labourer</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Apollos of Mosambique</span> aged 46 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Amor of Mosambique</span> aged 41
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Amor of Mosambique</span> aged 41
 		years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Abel of Mosambique</span> aged 36
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Abel of Mosambique</span> aged 36
 		years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">July of Mosambique</span> aged 41
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">July of Mosambique</span> aged 41
 		years, labourer</td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">Cupido of Malabar</span> aged 41
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">Cupido of Malabar</span> aged 41
 		years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Philip of Malabar</span> aged 51
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Philip of Malabar</span> aged 51
 		years, tanner</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">August of Mosambique</span> aged 41 years, labourer</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">August of Mosambique</span> aged 41 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Patientie of
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Patientie of
 		Mosambique</span> aged 36 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Caesar of Batavia</span> 41 years
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Caesar of Batavia</span> 41 years
 		of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Dollie of this Colony</span> 44
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Dollie of this Colony</span> 44
 		years of age, carpenter</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Esau of Mosambique</span> 35
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Esau of Mosambique</span> 35
 		years of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">David of Mosambique</span> 34
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">David of Mosambique</span> 34
 		years of age, labourer</td>
       <td rowspan='4' style='vertical-align: middle;'>Discount Bank voor ƒ6000 7 July
 		1822</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Africa of this Colony</span> 26
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Africa of this Colony</span> 26
 		years of age labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Hoop of this Colony</span> aged 26
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Hoop of this Colony</span> aged 26
 		years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Isaac of this Colony</span> 25
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Isaac of this Colony</span> 25
 		years of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Cobus of this Colony</span> 24
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Cobus of this Colony</span> 24
 		years of age, labourer</td>
       <td rowspan='2' style='vertical-align: middle;'>to F:N: Flamme for ƒ2000 7 April
 		1826</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jan of this Colony</span> 23 years
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jan of this Colony</span> 23 years
 		of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Klaas of this Colony</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Klaas of this Colony</span> aged
 		19 years, labourer</td>
       <td rowspan='2' style='vertical-align: middle;'>to Discount Bank for £205:10 9 Feb:y
 		1826</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Abraham of this Colony</span> aged 13 years, labourer</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Abraham of this Colony</span> aged 13 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Willem of this Colony</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Willem of this Colony</span> aged
 		16 years, labourer</td>
       <td>Discount Bank for £205:10 9 Feb:y 1826</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adam of this Colony</span> aged 13
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adam of this Colony</span> aged 13
 		years, labourer</td>
       <td>F:N: Flamme ƒ21000 7 April 1826</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jephta of this Colony</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jephta of this Colony</span> aged
 		76 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adonis of Malabar</span> aged 46
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adonis of Malabar</span> aged 46
 		years, a tailor</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Troekie of Mosambique</span> aged 31 years, cook</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Troekie of Mosambique</span> aged 31 years, cook</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Novel of Mosambique</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Novel of Mosambique</span> aged
 		41 years, baker</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Carolus of Mosambique</span> aged 91 years</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Carolus of Mosambique</span> aged 91 years</td>
       <td rowspan='6' style='vertical-align: middle;'>to which six slaves have been left to choose
 		with which of the children they wish to live and to which are bequeathed ƒ1000
 		each in order to be maintained out of the interest according to the codicil
 		before mentioned</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">April of Mosambique</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">April of Mosambique</span> aged
 		51 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Lafleur of Malabar</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Lafleur of Malabar</span> aged
 		71 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Crecia of Mosambique</span> aged 71 years</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Crecia of Mosambique</span> aged 71 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Apollos of this Colony</span> aged 53 years and</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Apollos of this Colony</span> aged 53 years and</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Pamela of this Colony</span> aged
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Pamela of this Colony</span> aged
 		51 years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Steyn of this Colony</span> aged
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Steyn of this Colony</span> aged
 		41 years, housmaid and</td>
       <td rowspan='2' style='vertical-align: middle;'>are to remain with the survivor
 		according to the aforesaid codicil</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Eva of this Colony</span> aged 41
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Eva of this Colony</span> aged 41
 		years, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Steyntje /2/ of this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Steyntje /2/ of this
 		Colony</span> aged 11 years</td>
       <td>bequeathed to Geesje Petronella Maria
 		aforesaid for the sum of 200rd:s</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Juliana of this Colony</span> aged 19 years, housemaid</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Juliana of this Colony</span> aged 19 years, housemaid</td>
       <td rowspan='2' style='vertical-align: middle;'>Discount Bank for £205:10 9 July
 		1826 F:N: Flamme ƒ2100</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Flora of Mosambique</span> aged
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Flora of Mosambique</span> aged
 		51 years, washmaid</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Roset of this Colony</span> 10
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Roset of this Colony</span> 10
 		years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Roos of this Colony</span> aged 9
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Roos of this Colony</span> aged 9
 		years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Lea</span> /2/ child of Steyn /1/ born [ ..... ]</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Lea</span> /2/ child of Steyn /1/ born [ ..... ]</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Hanna</span> child of Steyn /1/ born on the [ ..... ]</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Hanna</span> child of Steyn /1/ born on the [ ..... ]</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Alexander</span> child of Eva /2/ born on
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Alexander</span> child of Eva /2/ born on
 		the 6 April 1822</td>
       <td>Flamme ƒ21000</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Francina</span> child of Steyn /1/ born on
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Francina</span> child of Steyn /1/ born on
 		the 7 February 1826</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Eva of this Colony</span> /1/ aged
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Eva of this Colony</span> /1/ aged
 		13 years</td>
       <td>Flamme ƒ21000 7 April 1826</td>
     </tr>
@@ -33154,7 +33174,7 @@ In my presence: J:J:L Smuts
 
 24 September 1827
 
-,en 1 stuk erfpagtland verbanden by de
+ <span style="border-bottom: 2px dotted #FF0000;">Brakkefonteyn</span> , <span style="border-bottom: 2px dotted #FF0000;">Springfontyn</span> en 1 stuk erfpagtland verbanden by de
 	 ondervolgende
 
 <table>
@@ -33196,7 +33216,7 @@ In my presence: J:J:L Smuts
       <td>21000</td>
     </tr>
     <tr>
-      <td>de slavinne <span style="border-bottom: 2px dotted #008000;">Candace of Batavia</span> staat
+      <td>de slavinne <span style="border-bottom: 2px dotted #00FF00;">Candace of Batavia</span> staat
 		  op den inventaris niet opgebragt en is by de Disconto Bank voor £285:10
 		  verbonden</td>
     </tr>
@@ -33206,8 +33226,8 @@ In my presence: J:J:L Smuts
 ## MOOC8/42.26 1/2
 
  {18270925} 25
-	 September 1827 <span style="border-bottom: 2px dotted #008000;">Gysbertus
-	 van Reenen</span> , <span style="border-bottom: 2px dotted #008000;">Maria
+	 September 1827 <span style="border-bottom: 2px dotted #00FF00;">Gysbertus
+	 van Reenen</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Johanna Smalbergen</span> 
 
 Ampliation
@@ -33223,7 +33243,7 @@ Ampliation
       <td rowspan='3' style='vertical-align: middle;'>received in part payment rd:s300 28 Aug:t
 		  1828</td>
       <td>from his son Dirk Gysbert van Reenen the purchase money of the
-		  loan place calledor</td>
+		  loan place called <span style="border-bottom: 2px dotted #FF0000;">Blombos Fontyn</span> or <span style="border-bottom: 2px dotted #FF0000;">Wilde Varkens Valy</span></td>
       <td>2000</td>
     </tr>
     <tr>
@@ -33274,7 +33294,7 @@ According to his own statement
   </tbody>
 </table>
 
-on the 25
+ <span style="border-bottom: 2px dotted #FF0000;">Brakkefontyn</span> on the 25
 	 September1827.
 
 De weuduwe G: van Reenen
@@ -33293,16 +33313,16 @@ R: de Oliviera
 
 ## MOOC8/42.27a
 
- {18200505} 5 May 1820 <span style="border-bottom: 2px dotted #008000;">Petrus Jacobus Maritz</span> 
+ {18200505} 5 May 1820 <span style="border-bottom: 2px dotted #00FF00;">Petrus Jacobus Maritz</span> 
 
 H: Somerset
 
 A true and perfect inventory of all and every the goods, chattels, wares
 	 and merchandize as well moveable as not, debts, credits and other personal
 	 effects of the deceased batchelor Petrus Jacobus Maritz Gert's son, who died ab
-	 intestato at "",on the 6th day of Nov:r 1825
+	 intestato at " <span style="border-bottom: 2px dotted #FF0000;">Bult Fountain</span> ", <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> on the 6th day of Nov:r 1825
 	 between the hours of 4 and 5 o'clock a.m. within the field cornetcy of Gert
-	 Pet:s Marais, district, and given up
+	 Pet:s Marais, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , and given up
 	 as follows
 
 <table>
@@ -33347,27 +33367,28 @@ A true and perfect inventory of all and every the goods, chattels, wares
     <tr>
       <td>&nbsp;</td>
       <td>n:o 1 to Hendrik Erasmus Smith Alb:s son for the
-		purchase of clothes (residing, dist:t) twenty rix
+		purchase of clothes (residing <span style="border-bottom: 2px dotted #FF0000;">Middle
+		Roggeveld</span> , dist:t <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> ) twenty rix
 		dollars</td>
       <td>20</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>n:o 2 to Jacob Theron Piet's son (residing, dist:t) fifty six rd:s for the purchase of
+      <td>n:o 2 to Jacob Theron Piet's son (residing <span style="border-bottom: 2px dotted #FF0000;">Middle Roggeveld</span> , dist:t <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> ) fifty six rd:s for the purchase of
 		a saddle horse whereof there is a bond dated 15 Aug:t
 		1825</td>
       <td>56</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>n:o 3 to Pieter Daniel Jacobs (district) the sum of nineteen rix dollars for
+      <td>n:o 3 to Pieter Daniel Jacobs (district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> ) the sum of nineteen rix dollars for
 		yellow wood boards for the coffin of the deceased</td>
       <td>19</td>
     </tr>
     <tr>
       <td>paid to Mr Baird</td>
       <td>n:o 4 to Jan Andries Broodryk
-		(district) the sum of twenty five
+		(district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> ) the sum of twenty five
 		rixdollars for making the coffin of the deceased</td>
       <td>25</td>
     </tr>
@@ -33405,7 +33426,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
   </tbody>
 </table>
 
-This done and registered on Friday the 5th of May 1820 at the village ofaccording to the statement of Gert
+This done and registered on Friday the 5th of May 1820 at the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> according to the statement of Gert
 	 Stephanus Maritz father of the deceased, who declares in his above statement of
 	 this estate to be done honestly and truly and that nothing has been held back
 	 to the best of his judgement and knowledge, and further declares to be always
@@ -33424,9 +33445,9 @@ J: Baird, D:y Land:
 
 ## MOOC8/42.27b
 
- {18251224} 24 Desember 1825 <span style="border-bottom: 2px dotted #008000;">Petrus Jacobes Maritz</span> 
+ {18251224} 24 Desember 1825 <span style="border-bottom: 2px dotted #00FF00;">Petrus Jacobes Maritz</span> 
 
-den 24 Desember 1825
+ <span style="border-bottom: 2px dotted #FF0000;">Bult Vonteyn</span> den 24 Desember 1825
 
 Invantaris van den nagelaate goederen van den overleijdene Petrus Jacobes
 	 Maritz Gerrit zoon die op den sesde Novembir 1825 gestorven is in den ouderdom
@@ -33468,7 +33489,7 @@ De vader van den overleyde Petrus J: Maretz geef op dat beij de Heere
 	 Weesmeesteen gelt moet weesen niet weetende hoe veel spruytende van zeijn
 	 overleydene moeder Anna Soveija Cloete dogter van Jacob Cloete die benaemt:s
 	 heef drie broeders gehaed met name Jasper Cloete, Jan Cloete, Gerrit Cloete
-	 Gerrit zoons gewoont beij of aan de. Den over leijdene Jacob Cloete is voor
+	 Gerrit zoons gewoont beij of aan de <span style="border-bottom: 2px dotted #FF0000;">Camiesberg</span> . Den over leijdene Jacob Cloete is voor
 	 zeijn broeders gestorven en de drie broeders was niet getrout
 
 Nog schuld gevonde
@@ -33495,7 +33516,7 @@ G:P: Marais, Veldcornet
 
 ## MOOC8/42.28
 
- {18271015} 15 October 1827 <span style="border-bottom: 2px dotted #008000;">Gert Albertus van Deventer</span> , <span style="border-bottom: 2px dotted #008000;">Maria de Lange</span> 
+ {18271015} 15 October 1827 <span style="border-bottom: 2px dotted #00FF00;">Gert Albertus van Deventer</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria de Lange</span> 
 
 J:G: Brink
 
@@ -33608,7 +33629,7 @@ Inventory of all such property as belonged to the estate of Gert Albertus
   </tbody>
 </table>
 
-Thus done and inventoried aton
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> on
 	 this Monday the 15th October 1827 according to the statement made by Gert
 	 Albertus van Deventer who declared to have acted in the case with integrity and
 	 not to his knowledge to have kept back any thing belonging to the estate,
@@ -33625,7 +33646,7 @@ W:M: Mackay
 
 ## MOOC8/42.29
 
- {18271127} 27 November 1827 <span style="border-bottom: 2px dotted #008000;">Andries Albertus Nel</span> , <span style="border-bottom: 2px dotted #008000;">Sarah Petronella
+ {18271127} 27 November 1827 <span style="border-bottom: 2px dotted #00FF00;">Andries Albertus Nel</span> , <span style="border-bottom: 2px dotted #00FF00;">Sarah Petronella
 	 Nel</span> 
 
 J:G: Brink
@@ -33748,8 +33769,8 @@ Inventory of all such property as belonged to the estate of Andries
   </tbody>
 </table>
 
-Thus done and inventoried at,
-	 district ofon this the 27 November
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Riet Vontyn</span> ,
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> on this the 27 November
 	 1827 according to the statement made by Andries Albertus Nel the survivor who
 	 declared to have acted in the case with honesty and integrity and not to his
 	 knowledge to have kept back anything appertaining to the estate, promising that
@@ -33765,7 +33786,7 @@ W:M: Mackay
 
 ## MOOC8/42.30
 
- {18270511} 11 Mei 1827 <span style="border-bottom: 2px dotted #008000;">Johannes Petrus Jacobs</span> , <span style="border-bottom: 2px dotted #008000;">Magteld Catharina
+ {18270511} 11 Mei 1827 <span style="border-bottom: 2px dotted #00FF00;">Johannes Petrus Jacobs</span> , <span style="border-bottom: 2px dotted #00FF00;">Magteld Catharina
 	 Neethling</span> 
 
 H: Somerset
@@ -33951,7 +33972,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>van J:J: le Roex woonagtig in het district, bl: bewys d:d: 2 November
+      <td>van J:J: le Roex woonagtig in het district <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , bl: bewys d:d: 2 November
 		1826</td>
       <td>254</td>
     </tr>
@@ -33984,7 +34005,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd op den 11:e Mei 1827 ter plaatze degelegen in het veld cornetschapvolgens op en aangave van J:P: Jacobz
+Aldus gedaan en geinventariseerd op den 11:e Mei 1827 ter plaatze de <span style="border-bottom: 2px dotted #FF0000;">Ruigtefontein</span> gelegen in het veld cornetschap <span style="border-bottom: 2px dotted #FF0000;">Hantam</span> volgens op en aangave van J:P: Jacobz
 	 voorm: dewelke betuigde zig in het op en aan aangeeven des voormelden boedels
 	 ter goeder trouwe te hebben gedragen en niets met weten verswegen of agter
 	 gehouden te hebben alles doende onder aanbod van eede, met verdere belofte zo
@@ -34001,7 +34022,7 @@ J:S: Meintjes
 
 ## MOOC8/42.31
 
- {18270511} 11 Mei 1827 <span style="border-bottom: 2px dotted #008000;">Nicolaas Grobbelaar</span> , <span style="border-bottom: 2px dotted #008000;">Anna Catharina
+ {18270511} 11 Mei 1827 <span style="border-bottom: 2px dotted #00FF00;">Nicolaas Grobbelaar</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Catharina
 	 Botha</span> 
 
 J:G: Brink
@@ -34278,7 +34299,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Anna
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd op den 11:e Mei 1827 ter plaatze degelegen in het veld cornetschapvolgens op en aangave van Nicolaas
+Aldus gedaan en geinventariseerd op den 11:e Mei 1827 ter plaatze de <span style="border-bottom: 2px dotted #FF0000;">Ruigtefontein</span> gelegen in het veld cornetschap <span style="border-bottom: 2px dotted #FF0000;">Hantam</span> volgens op en aangave van Nicolaas
 	 Grobbelaar voorm: dewelke verklaarde zig in het op en aangeeven des voormelden
 	 boedels ter goeder trouwe te hebben gedragen en niets met weten verswegen of
 	 agtergehouden te hebben alles doende onder aanbod van eede met verder belofte
@@ -34294,7 +34315,7 @@ J:S: Meintjes
 
 ## MOOC8/42.32
 
- {18270319} 19 Maart 1827 <span style="border-bottom: 2px dotted #008000;">Matthys Gerhardus Wyngaard</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Adriana
+ {18270319} 19 Maart 1827 <span style="border-bottom: 2px dotted #00FF00;">Matthys Gerhardus Wyngaard</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Adriana
 	 Deysel</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen
@@ -34401,7 +34422,7 @@ J:S: Meintjes
 
 ## MOOC8/42.33
 
- {18270623} 23 Juny 1827 <span style="border-bottom: 2px dotted #008000;">Johannes Francois du Preez</span> , <span style="border-bottom: 2px dotted #008000;">Rachel du Plessis</span> 
+ {18270623} 23 Juny 1827 <span style="border-bottom: 2px dotted #00FF00;">Johannes Francois du Preez</span> , <span style="border-bottom: 2px dotted #00FF00;">Rachel du Plessis</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen
 	 Johannes Francois du Preez en mede wylen deszelfs huis vrouw Rachel du Plessies
@@ -34590,7 +34611,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd op den 23 Juny 1827 ten dorpevolgens op en aangave van Paulus
+Aldus gedaan en geinventariseerd op den 23 Juny 1827 ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> volgens op en aangave van Paulus
 	 Philippus du Preez dewelke betuigde zig in het op en aangeeven des voorm:
 	 boedels ter goeder trouwe te hebben gedragen en niets met weten verswegen of
 	 agter gehouden te hebben, verklare hem dus bereid deeze zyne aangave des
@@ -34608,7 +34629,7 @@ J:S: Meintjes
 
 ## MOOC8/42.34
 
- {18250322} 22 Maart 1825 <span style="border-bottom: 2px dotted #008000;">Herman Stubbe</span> 
+ {18250322} 22 Maart 1825 <span style="border-bottom: 2px dotted #00FF00;">Herman Stubbe</span> 
 
 Staat en inventaris van alle zodanige goederen en effecten als op den 22
 	 Maart j:l: ab intestato met er dood ontruimd en nagelaaten zyn door Herman
@@ -34682,13 +34703,13 @@ Staat en inventaris van alle zodanige goederen en effecten als op den 22
   </tbody>
 </table>
 
-Aldus geinventariseerd ten dorpeden 22 Maart 1825
+Aldus geinventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Stellenbosh</span> den 22 Maart 1825
 
 Mij present: C:J: Naude
 
 ## MOOC8/42.35
 
- {18270125} 25 Januarij 1827 <span style="border-bottom: 2px dotted #008000;">Sanna van de Kaap</span> 
+ {18270125} 25 Januarij 1827 <span style="border-bottom: 2px dotted #00FF00;">Sanna van de Kaap</span> 
 
 Leyst van zodanige goederen als er in de huis van de heer A:s G:s van
 	 Kerber gevonden zijn toebehoorende aan de vreijvrouw Sanna die op den 24:sten
@@ -34777,7 +34798,7 @@ Leyst van zodanige goederen als er in de huis van de heer A:s G:s van
   </tbody>
 </table>
 
-den 25 Januarij 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Kaapstad</span> den 25 Januarij 1827
 
 Als getuigen: J:H: Smuts, C:J: Weshoff, Messenger
 
@@ -34830,7 +34851,7 @@ Inventaris van zodanige goederen als er gevonden zijn in de huis van Louis
   </tbody>
 </table>
 
-den 8 Feb:ij 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Kaapstad</span> den 8 Feb:ij 1827
 
 Als getuigen: C:J: Weshoff, Bode der Weeskamer
 
@@ -34919,7 +34940,7 @@ Aan my voldaan: A: Al: de Klerk
 
 ## MOOC8/42.36
 
- {18240923} 23 September 1824 <span style="border-bottom: 2px dotted #008000;">Frans Walters</span> , <span style="border-bottom: 2px dotted #008000;">Catharina
+ {18240923} 23 September 1824 <span style="border-bottom: 2px dotted #00FF00;">Frans Walters</span> , <span style="border-bottom: 2px dotted #00FF00;">Catharina
 	 Frederika van der Sandt</span> 
 
 Inventaris van alle zoodanige goederen als behoord hebben tot ten
@@ -35011,7 +35032,8 @@ Inventaris van alle zoodanige goederen als behoord hebben tot ten
   </tbody>
 </table>
 
-Aldus geinventarisseerd op de plaatsop den 23 September 1824 volgens op en aangaave van de inde
+Aldus geinventarisseerd op de plaats <span style="border-bottom: 2px dotted #FF0000;">Kromme
+	 Revier</span> op den 23 September 1824 volgens op en aangaave van de inde
 	 hoofde dezes gemelde weduwe dewelks verklaarde niets met weten verzwegen ofte
 	 agtergehouden te hebben met belofte indien zich iets mogte ontdekken tot opgem:
 	 boedel behoorende als dan deese inventaris daarmeede te zullen amplieren en
@@ -35026,7 +35048,7 @@ In kennisse van my: C:F: van der Nest, Veldcornet
 
 ## MOOC8/42.37
 
- {18271201} 1 December 1827 <span style="border-bottom: 2px dotted #008000;">Sara</span> 
+ {18271201} 1 December 1827 <span style="border-bottom: 2px dotted #00FF00;">Sara</span> 
 
 H: Somerset
 
@@ -35034,7 +35056,7 @@ A true and perfect inventory of all and every the goods, chatels, wares
 	 and merchandize, as well moveable as not, debts, credits and other personal
 	 effects of the deceased female Hottentot Sara who died intestate at the place
 	 of Albertus Vueselaar on the 23rd August 1827 within the field cornetcy of Mr
-	 Jan van der Westhuizen,, district, and given up as follows
+	 Jan van der Westhuizen, <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> , district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , and given up as follows
 
 <table>
   <tbody>
@@ -35093,7 +35115,7 @@ A true and perfect inventory of all and every the goods, chatels, wares
   </tbody>
 </table>
 
-This done and registered in the village ofon Saturday the 1st December 1827 in the
+This done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Saturday the 1st December 1827 in the
 	 presence of the clerks Christiaan Johannes Rabe and Walter Harding according to
 	 the statement of the field cornet Gerhardus Petrus Marais, who declares in his
 	 above statement of this estate to have acted honestly and truly, that nothing
@@ -35111,13 +35133,13 @@ W:W: Harding
 
 ## MOOC8/42.38
 
- {18270521} 21 May 1827 <span style="border-bottom: 2px dotted #008000;">Magdalena Beukman</span> 
+ {18270521} 21 May 1827 <span style="border-bottom: 2px dotted #00FF00;">Magdalena Beukman</span> 
 
 J:G: Brink
 
 Inventory of the goods and effects belonging to the estate of the late
 	 Magdalena Beukman wid: Giliaume Wolfaard who departed on the 28th April 1827 at
-	 the place
+	 the place <span style="border-bottom: 2px dotted #FF0000;">Klip Fontein</span> 
 
 Done bij Christoffel Johannes Wolfaard at the requisition of the Board of
 	 Orphan Masters in their capacity as guardians of the minor children and grand
@@ -35233,13 +35255,13 @@ Witness: Thomas Clarke
 
 ## MOOC8/42.39
 
- {18270511} 11 Mey 1827 <span style="border-bottom: 2px dotted #008000;">Helena Johanna Laubscher</span> 
+ {18270511} 11 Mey 1827 <span style="border-bottom: 2px dotted #00FF00;">Helena Johanna Laubscher</span> 
 
 Exhib: 20 Feb:y 1828
 
 No: 26
 
-Deputy Land:t Office27 Dec:r
+Deputy Land:t Office <span style="border-bottom: 2px dotted #FF0000;">Clanwill:m</span> 27 Dec:r
 	 1827
 
 Sir,
@@ -35756,30 +35778,33 @@ Inventaris van zodanige goederen als nagelaten zyn geworden door Helena
   <thead><tr><td colspan='100%'>Drie lenings plaatse</td></tr></thead>
   <tbody>
     <tr>
-      <td>1:ste</td>
+      <td>1:ste <span style="border-bottom: 2px dotted #FF0000;">Kwets
+		Berg</span></td>
     </tr>
     <tr>
-      <td>2:de</td>
+      <td>2:de <span style="border-bottom: 2px dotted #FF0000;">Vlak
+		Vontein</span></td>
     </tr>
     <tr>
-      <td>3:de</td>
+      <td>3:de <span style="border-bottom: 2px dotted #FF0000;">Bosch
+		Kloof</span></td>
     </tr>
     <tr>
       <td>de volgende leifeigene</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">February</span> oud na gissing 60 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">February</span> oud na gissing 60 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Doortje</span> oud
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doortje</span> oud
 		na gissing 35 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rigina</span> oud na
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rigina</span> oud na
 		gissing 30 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Mina</span> oud na
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mina</span> oud na
 		gissing 15 jaren</td>
     </tr>
   </tbody>
@@ -35837,7 +35862,7 @@ Inventaris van zodanige goederen als nagelaten zyn geworden door Helena
       <td>52:--</td>
     </tr>
     <tr>
-      <td>aan de slave jonge <span style="border-bottom: 2px dotted #008000;">February</span></td>
+      <td>aan de slave jonge <span style="border-bottom: 2px dotted #00FF00;">February</span></td>
       <td>100:--</td>
     </tr>
     <tr>
@@ -35852,7 +35877,7 @@ Inventaris van zodanige goederen als nagelaten zyn geworden door Helena
   </tbody>
 </table>
 
-Aldus opgenomen ter plaatsegelegen in de wykop den 11 Mey
+Aldus opgenomen ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Kwets Berg</span> gelegen in de wyk <span style="border-bottom: 2px dotted #FF0000;">Onderbokkeveld</span> op den 11 Mey
 	 1827.
 
 In tegenswoordigheid der meede geteekende getuigen
@@ -35863,7 +35888,7 @@ H: Nieuwoudt, Veldc:
 
 ## MOOC8/42.40
 
- {18251216} 16 December 1825 <span style="border-bottom: 2px dotted #008000;">Johan Ekkard Schnitler</span> , <span style="border-bottom: 2px dotted #008000;">Maria Hermina
+ {18251216} 16 December 1825 <span style="border-bottom: 2px dotted #00FF00;">Johan Ekkard Schnitler</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Hermina
 	 Stijl</span> 
 
 Inventaris van alle zodanige goederen behorende tot den gemeenschappelijke
@@ -36023,21 +36048,21 @@ Zynde dese inventaris geformeerd en door ons ondergeteekendens in
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseert ter plaatsein het distriktop den 16 Dec: 1825 op het op en
+Aldus gedaan en geinventariseert ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Wegwijszers Revier</span> in het distrikt <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> op den 16 Dec: 1825 op het op en
 	 aangeven van den in den hoofde deses gem: Maria Hermiena Steyl, dewelke aan ons
 	 verklaard heef zig hier in ter goeder trouw te hebben gedragen en hare wetens
 	 niets agter gehouden te hebben, dat tot haren boedel zouden behoren, bereijd
 	 zijnde om zo wanneer het een of ander mog worden gevonden als dan dese
 	 inventaris daar mede te zullen vergroten
 
-den 16 Dec:
+ <span style="border-bottom: 2px dotted #FF0000;">Kleijn Vetterivier</span> den 16 Dec:
 	 1825
 
 Als getuijgen: P:J: du Preez, D:W: Steyn, Veldc:
 
 ## MOOC8/42.41
 
- {18250401} 1 April 1825 <span style="border-bottom: 2px dotted #008000;">Hermanis Steijn</span> 
+ {18250401} 1 April 1825 <span style="border-bottom: 2px dotted #00FF00;">Hermanis Steijn</span> 
 
 Staat en inventaris van alle zoodanige goederen en effecten als behoorende
 	 tot den boedel van wylen Hermanis Steijn Daniel zoon, bestaande in
@@ -36228,10 +36253,10 @@ Staat en inventaris van alle zoodanige goederen en effecten als behoorende
 </table>
 
 Aldus gedaan en geinvantariseerd ten huise van den gem: Steijn staande op
-	 de plaats van den Jacobus Frederik Steijn gen:d deen zulks op aangeving van zyn zoon van de
+	 de plaats van den Jacobus Frederik Steijn gen:d de <span style="border-bottom: 2px dotted #FF0000;">Zanddrift</span> en zulks op aangeving van zyn zoon van de
 	 gem:d Steyn, dewelke na zijn best weeten heeft opgeven
 
-Aldus gedaan op den 1 April 1825 op de plaats
+Aldus gedaan op den 1 April 1825 op de plaats <span style="border-bottom: 2px dotted #FF0000;">Zanddrift</span> 
 
 H: Steijn Velt C:t
 
@@ -36239,8 +36264,8 @@ Als getuige: Andries Heijns, Barend B: Cosijn
 
 ## MOOC8/42.42
 
- {18270913} 13 September 1827 <span style="border-bottom: 2px dotted #008000;">Christoffel Johannes
-	 Lombard</span> , <span style="border-bottom: 2px dotted #008000;">Aletta Maria
+ {18270913} 13 September 1827 <span style="border-bottom: 2px dotted #00FF00;">Christoffel Johannes
+	 Lombard</span> , <span style="border-bottom: 2px dotted #00FF00;">Aletta Maria
 	 de Lange</span> 
 
 J:G: Brink
@@ -36375,7 +36400,7 @@ Inventory of all such property as belonged to the estate of deceased
   </tbody>
 </table>
 
-Thus done and inventoried atin the district ofon this the 13th
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Holegs Kraal</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> on this the 13th
 	 September 1827 according to the statement made by Aletta Maria de Lange who
 	 declared to have acted in the case with integrity and not to her knowledge to
 	 have kept back anything appertaining to the estate, promising that if anything
@@ -36391,7 +36416,7 @@ Aletta Maria de Lange
 
 ## MOOC8/42.43
 
- {18270425} 25 April 1827 <span style="border-bottom: 2px dotted #008000;">Andries Jacobus Nolte</span> , <span style="border-bottom: 2px dotted #008000;">Aletta Hendrika
+ {18270425} 25 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Andries Jacobus Nolte</span> , <span style="border-bottom: 2px dotted #00FF00;">Aletta Hendrika
 	 Liebenberg</span> 
 
 Inventaris van de nalatenschap van wijlen Andries Jacobus Nolte en de
@@ -36413,7 +36438,7 @@ Inventaris van de nalatenschap van wijlen Andries Jacobus Nolte en de
       <td>1 zoon Andries Jacobus geboren 3 January 1827</td>
     </tr>
     <tr>
-      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #008000;">Eva van de Kaap</span></td>
+      <td>1 slavin genaamt <span style="border-bottom: 2px dotted #00FF00;">Eva van de Kaap</span></td>
     </tr>
     <tr>
       <td>8 paarden waaronder een rijd-paard is</td>
@@ -36530,7 +36555,7 @@ Inventaris van de nalatenschap van wijlen Andries Jacobus Nolte en de
 
 Deeze opgaaf is na bestweeten van de weduwe Nolte selfs inventeerd
 
-den 25 April
+ <span style="border-bottom: 2px dotted #FF0000;">Vier en Twintig Rivier</span> den 25 April
 	 1827.
 
 Als getuigen: Andries Burger P:z:, Barent Fredrik Burger N:zoon
@@ -36539,7 +36564,7 @@ N:E: Lambrechts, Veldcornet
 
 ## MOOC8/42.44
 
- {18280619} 19 June 1828 <span style="border-bottom: 2px dotted #008000;">Hendrik Emanuel
+ {18280619} 19 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Emanuel
 	 Blanckenberg</span> 
 
 Inventory of all such property as has been relinquished by the death ab
@@ -36908,63 +36933,63 @@ In a house belonging to Mr Jacobus Petrus de Wet
   <thead><tr><td colspan='100%'>Slaves of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Daantje of the Cape</span> 44
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Daantje of the Cape</span> 44
 		y:s of age, cook</td>
     </tr>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Fraai of the Cape</span> 44 y:s of
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Fraai of the Cape</span> 44 y:s of
 		age, coachman</td>
     </tr>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Gidion of the Cape</span> 40 y:s,
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Gidion of the Cape</span> 40 y:s,
 		taylor</td>
     </tr>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Maart of the Cape</span> 22 y:s of
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Maart of the Cape</span> 22 y:s of
 		age</td>
     </tr>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Kameis of the Cape</span> 20 y:s
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Kameis of the Cape</span> 20 y:s
 		of age</td>
     </tr>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Joumat of the Cape</span> 19 y:s
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Joumat of the Cape</span> 19 y:s
 		of age</td>
     </tr>
     <tr>
-      <td>a slave boy n:d <span style="border-bottom: 2px dotted #008000;">Romalang of the Cape</span> 16
+      <td>a slave boy n:d <span style="border-bottom: 2px dotted #00FF00;">Romalang of the Cape</span> 16
 		y:s of age</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Flora of the Cape</span> 28 y:s of
-		age, sempstress, with her child named <span style="border-bottom: 2px dotted #008000;">Sarima</span> born 8 March
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Flora of the Cape</span> 28 y:s of
+		age, sempstress, with her child named <span style="border-bottom: 2px dotted #00FF00;">Sarima</span> born 8 March
 		1828</td>
     </tr>
     <tr>
-      <td rowspan='3' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #008000;">Sima of the Cape</span> 28 y:s of
+      <td rowspan='3' style='vertical-align: middle;'>a female slave <span style="border-bottom: 2px dotted #00FF00;">Sima of the Cape</span> 28 y:s of
 		age, sempstress, with her children nd:</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Samuel</span> born 4 August 1817</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samuel</span> born 4 August 1817</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abdol</span> born 24 Sept:r 1823</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abdol</span> born 24 Sept:r 1823</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Agerodien</span> born 4 Novemb: 1826</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Agerodien</span> born 4 Novemb: 1826</td>
     </tr>
     <tr>
-      <td rowspan='4' style='vertical-align: middle;'>a female slave n:d <span style="border-bottom: 2px dotted #008000;">Sara of the Cape</span> 42 y:s of
+      <td rowspan='4' style='vertical-align: middle;'>a female slave n:d <span style="border-bottom: 2px dotted #00FF00;">Sara of the Cape</span> 42 y:s of
 		age, housemaid, with her children n:d</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Siedie</span> born 10 Novemb:
+      <td><span style="border-bottom: 2px dotted #00FF00;">Siedie</span> born 10 Novemb:
 		1818</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cassier</span> born 3 Juny 1823</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cassier</span> born 3 Juny 1823</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rea</span> born 15 March 1827</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rea</span> born 15 March 1827</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Japie</span> 14 Ap: 21 - dood</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Japie</span> 14 Ap: 21 - dood</td>
     </tr>
   </tbody>
 </table>
@@ -37055,7 +37080,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/42.45
 
- {18270724} 24 July 1827 <span style="border-bottom: 2px dotted #008000;">Baart Steenhuys</span> 
+ {18270724} 24 July 1827 <span style="border-bottom: 2px dotted #00FF00;">Baart Steenhuys</span> 
 
 Inventory of all such property as have been sent to this Office as the
 	 effects relinquished by the death ab intestato of Baart Steenhuys on the eighth
@@ -37196,7 +37221,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/42.46
 
- {18200218} 18 February 1820 <span style="border-bottom: 2px dotted #008000;">Aletta Booyzen</span> 
+ {18200218} 18 February 1820 <span style="border-bottom: 2px dotted #00FF00;">Aletta Booyzen</span> 
 
 H: Ellis
 
@@ -37413,7 +37438,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Aletta
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ten dorpeop den 18:de February 1820 volgens op
+Aldus gedaan en geinventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 18:de February 1820 volgens op
 	 en aangeeven van de burgeres Aletta van den Berg weduwe wylen Dirk Booyzen
 	 dewelke verklaarde haar in het op en aangeeven des boedels ter goeder trouwe te
 	 hebben gedraagen en niets met weeten versweegen of agter gehouden, verklaarende
@@ -37431,7 +37456,7 @@ In kennisse van my: I:W: Muller
 
 ## MOOC8/42.47
 
- {18280206} 6 February 1828 <span style="border-bottom: 2px dotted #008000;">Isaac Owen James</span> 
+ {18280206} 6 February 1828 <span style="border-bottom: 2px dotted #00FF00;">Isaac Owen James</span> 
 
 Exhib: 12 March 1828
 
@@ -37526,7 +37551,7 @@ Inventory of property of the late Isaac Own James, alias John James, who
 </table>
 
 The said Isaac Owen James alias John James, was about 32 years of age, and
-	 his parents Abraham and Martha James were living atinin June 1822 and letter in deceaseds pocket book
+	 his parents Abraham and Martha James were living at <span style="border-bottom: 2px dotted #FF0000;">Moolland</span> in <span style="border-bottom: 2px dotted #FF0000;">Wales</span> in June 1822 and letter in deceaseds pocket book
 
 Deceased came out as a settler in Mr Phillip's party in 1820
 
@@ -37543,7 +37568,7 @@ Sig:d: W: Currie
 
 ## MOOC8/42.48
 
- {18270629} 29 Juny 1827 <span style="border-bottom: 2px dotted #008000;">Gerhardus Matthijs Lubbe</span> 
+ {18270629} 29 Juny 1827 <span style="border-bottom: 2px dotted #00FF00;">Gerhardus Matthijs Lubbe</span> 
 
 Inventaris van zodanige goederen als nagelaten zijn geworden door
 	 Gerhardus Matthijs Lubbe B:F: z:n jongman die op den 25 Mei j:l: ab intestato
@@ -37578,7 +37603,7 @@ Inventaris van zodanige goederen als nagelaten zijn geworden door
   </tbody>
 </table>
 
-Aldus opgenomen ter plaatzegelegen in de wijk, adj: Drostdyeop en 29 Juny 1827 in
+Aldus opgenomen ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Ezelbank</span> gelegen in de wijk <span style="border-bottom: 2px dotted #FF0000;">Bidouw</span> , adj: Drostdye <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> op en 29 Juny 1827 in
 	 tegenwoordigheid der mede getekende getuigen
 
 Als getuijgen: J:H: Augustijn, J: David Kotzee
@@ -37589,7 +37614,7 @@ Den 25 July 1827 notitie gegeven om goederen te verkopen
 
 3 Oct: 1827 voldaan
 
-den 29 Juny 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Bidouw</span> den 29 Juny 1827
 
 Weledele Heer!
 
@@ -37634,12 +37659,14 @@ Den weledele heer J: van Ryneveld
 
 Adj: Landdrost
 
+ <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> 
+
 ## MOOC8/42.49
 
- {18280214} 14 February 1828 <span style="border-bottom: 2px dotted #008000;">Sanna van de Kaap</span> 
+ {18280214} 14 February 1828 <span style="border-bottom: 2px dotted #00FF00;">Sanna van de Kaap</span> 
 
 Inventory of all such property as have been relinquished by the death ab
-	 intestato of <span style="border-bottom: 2px dotted #008000;">Sanna of the
+	 intestato of <span style="border-bottom: 2px dotted #00FF00;">Sanna of the
 	 Cape</span> deceased slave of Johan Fredrik Gilowy on the sixth day of the
 	 month of February in the year of our Lord one thousand eight hundred and twenty
 	 eight for the benefit of her two children, named
@@ -37887,8 +37914,8 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/42.50
 
- {18270706} 6 July 1827 <span style="border-bottom: 2px dotted #008000;">Jacobus Lodewyk
-	 Pretorius</span> , <span style="border-bottom: 2px dotted #008000;">Christina Petronella de Wennar</span> 
+ {18270706} 6 July 1827 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Lodewyk
+	 Pretorius</span> , <span style="border-bottom: 2px dotted #00FF00;">Christina Petronella de Wennar</span> 
 
 J:G: Brink
 
@@ -38125,7 +38152,7 @@ Inventory of all such property as belonged to the estate of deceased
   </tbody>
 </table>
 
-Thus done and inventoried atin the district ofon this the 6th
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Spitze Kop</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> on this the 6th
 	 July 1827 according to the statement made by Christina Petronella de Wennaar
 	 who declared to have acted in the case with integrity and not to her knowledge
 	 to have kept back any thing appertaining to the estate, promising that if
@@ -38140,12 +38167,12 @@ C:J: de Wennaar wedewe J:L: Pretoreus
 
 ## MOOC8/43.1
 
- <span style="border-bottom: 2px dotted #008000;">F.G.
+ <span style="border-bottom: 2px dotted #00FF00;">F.G.
 	 Kotzee</span>  {18271018} 18 October 1827
 
 Exh: 27 Feb:y 1828 N: 6
 
-den 18 October .... ]
+ <span style="border-bottom: 2px dotted #FF0000;">Swartbaskraal</span> den 18 October .... ]
 
 Weledele Heer
 
@@ -38160,9 +38187,9 @@ Ik heb de eer te zyn Weledele Heer uw ed: dienaar
 
 G:W:J: van Zyl, Veldc:
 
-Den weledele heer J: van Ryneveld, Adj: Landdros,
+Den weledele heer J: van Ryneveld, Adj: Landdros, <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> 
 
-den 18 October 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Swartbaskraal</span> den 18 October 1827
 
 Weledele Heer
 
@@ -38175,12 +38202,12 @@ Een andwoord op Uweledele van den 9 dezer dat den perzoon van Matys Greef
 
 Ik heb de eer te zyn weledele heer U weled: dienaar
 
-Den weledele heer J: van Ryneveld, Adj: Landdros,
+Den weledele heer J: van Ryneveld, Adj: Landdros, <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> 
 
 G:W:J: van Zyl, Veldc:
 
 Staat en invontaris van zodanig goederen en effecten als door Sophia
-	 Johanna Smit weduwe wylen Frederik Gidion Kotzee Dirkz:n ten plaatsemet den dood op den 28 July 1827
+	 Johanna Smit weduwe wylen Frederik Gidion Kotzee Dirkz:n ten plaatse <span style="border-bottom: 2px dotted #FF0000;">Swartbaskraal</span> met den dood op den 28 July 1827
 	 namiddag om 4 uuren in den ouderdom van 53 jaren 11 maanden en 17 dagen zyn
 	 nagelaten geworden en de zulks ten voordelen van den volgende erfgenamen
 
@@ -38471,49 +38498,49 @@ Woonhuys
       <td>5 man slaaven genaamd</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Voortuyn</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Voortuyn</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Adam</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Adam</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Voortuyn</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Voortuyn</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Antonie</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Antonie</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Laban</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Laban</span></td>
     </tr>
     <tr>
       <td>9 slavinne genaamd</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Diana</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Diana</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lea</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lea</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Filida</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Filida</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Camoni</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Camoni</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Savira</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Savira</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Delia</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Delia</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Regina</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Regina</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Ragel</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Ragel</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Doordtje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doordtje</span></td>
     </tr>
   </tbody>
 </table>
@@ -38522,7 +38549,7 @@ Woonhuys
   <thead><tr><td colspan='100%'>Plaadsen</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 lenings plaats genaamdgelegen in de wykin den adj: drosdymet al het annex en de daar
+      <td>1 lenings plaats genaamd <span style="border-bottom: 2px dotted #FF0000;">Swartbaskraal</span> gelegen in de wyk <span style="border-bottom: 2px dotted #FF0000;">Berg en Langefaly</span> in den adj: drosdy <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> met al het annex en de daar
 		omtrend gelegen gouvernements grond door haar in erfpagt verzogd</td>
     </tr>
   </tbody>
@@ -38572,7 +38599,7 @@ Woonhuys
   </tbody>
 </table>
 
-Aldus geinvontarriceerd ter plaatzegelegen in den Adj: Drosdyop den 17 October 1827
+Aldus geinvontarriceerd ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Swartbaskraal</span> gelegen in den Adj: Drosdy <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> op den 17 October 1827
 
 Door myn: G:W:J: van Zyl, Veldc:
 
@@ -38599,8 +38626,8 @@ Als ook die van de erfgenamen: W:m Louw H:z, J:F:G: Kotzee
 ## MOOC8/43.2
 
  {18270908} 8 September
-	 1827 <span style="border-bottom: 2px dotted #008000;">Johannes Petrus
-	 Meintjes</span> , <span style="border-bottom: 2px dotted #008000;">Elisabeth Margaretha Botha</span> 
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">Johannes Petrus
+	 Meintjes</span> , <span style="border-bottom: 2px dotted #00FF00;">Elisabeth Margaretha Botha</span> 
 
 J:A: Brink
 
@@ -38880,35 +38907,35 @@ Inventaris van alle zodanige goederen en effecten, als er door wylen
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">February</span></td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">February</span></td>
     </tr>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">January</span></td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">January</span></td>
     </tr>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">Maart</span></td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">Maart</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Dina</span></td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Dina</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Spatie</span></td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Spatie</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Marie</span></td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Marie</span></td>
     </tr>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">January</span></td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">January</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Marie
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Marie
 		n:o 2</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Pamela</span></td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Pamela</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Florinda</span></td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Florinda</span></td>
     </tr>
   </tbody>
 </table>
@@ -38941,15 +38968,15 @@ Inventaris van alle zodanige goederen en effecten, als er door wylen
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>van Ab:m Lottering,</td>
+      <td>van Ab:m Lottering, <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span></td>
       <td>9:3</td>
     </tr>
     <tr>
-      <td>van Ab:m Lottering,</td>
+      <td>van Ab:m Lottering, <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span></td>
       <td>20:--</td>
     </tr>
     <tr>
-      <td>van Frans Botha,</td>
+      <td>van Frans Botha, <span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
       <td>[ ..... ]</td>
     </tr>
     <tr>
@@ -38957,35 +38984,35 @@ Inventaris van alle zodanige goederen en effecten, als er door wylen
       <td>16:--</td>
     </tr>
     <tr>
-      <td>van Johannes Besuidenhout,p:r rest bl: obl:</td>
+      <td>van Johannes Besuidenhout, <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> p:r rest bl: obl:</td>
       <td>21:--</td>
     </tr>
     <tr>
-      <td>van Paul Venter,</td>
+      <td>van Paul Venter, <span style="border-bottom: 2px dotted #FF0000;">Camdebo</span></td>
       <td>4:--</td>
     </tr>
     <tr>
-      <td>van Eduard Engelbregt,</td>
+      <td>van Eduard Engelbregt, <span style="border-bottom: 2px dotted #FF0000;">Winterd:</span></td>
       <td>10:--</td>
     </tr>
     <tr>
-      <td>van Steph:s Smit A:zn,</td>
+      <td>van Steph:s Smit A:zn, <span style="border-bottom: 2px dotted #FF0000;">Camb:</span></td>
       <td>24:--</td>
     </tr>
     <tr>
-      <td>van Jacobus Bester de oude,</td>
+      <td>van Jacobus Bester de oude, <span style="border-bottom: 2px dotted #FF0000;">Beauf:</span></td>
       <td>16:6</td>
     </tr>
     <tr>
-      <td>van Frans David Franssies,</td>
+      <td>van Frans David Franssies, <span style="border-bottom: 2px dotted #FF0000;">Schoo:</span></td>
       <td>7:--</td>
     </tr>
     <tr>
-      <td>van Sybrand van Dyk,</td>
+      <td>van Sybrand van Dyk, <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span></td>
       <td>2:--</td>
     </tr>
     <tr>
-      <td>van Anthonie v:n Nieuwenhuizen,</td>
+      <td>van Anthonie v:n Nieuwenhuizen, <span style="border-bottom: 2px dotted #FF0000;">Camdebo</span></td>
       <td>0:4</td>
     </tr>
   </tbody>
@@ -39096,7 +39123,7 @@ J:A: Meintjes
 
 ## MOOC8/43.3
 
- {18271105} 5 November 1827 <span style="border-bottom: 2px dotted #008000;">Margaretha Elisabeth
+ {18271105} 5 November 1827 <span style="border-bottom: 2px dotted #00FF00;">Margaretha Elisabeth
 	 Slabber</span> 
 
 Ex:hd 7 November 1827 N:o 28
@@ -39147,12 +39174,12 @@ The aforesaid property having been inventoried by the undersigned
 <table>
   <tbody>
     <tr>
-      <td>A place calledsituated in the Cape District at thetogether with two pieces of
+      <td>A place called <span style="border-bottom: 2px dotted #FF0000;">Bronwell</span> situated in the Cape District at the <span style="border-bottom: 2px dotted #FF0000;">Salt River</span> together with two pieces of
 		  freehold and four pieces of perpetual quitrent land annex thereto</td>
     </tr>
     <tr>
       <td>a piece of perpetual quitrent land adjacent
-		  thereto according to the title deed dated 23 May 1823 called</td>
+		  thereto according to the title deed dated 23 May 1823 called <span style="border-bottom: 2px dotted #FF0000;">Smithsfield</span></td>
     </tr>
     <tr>
       <td>two pieces of freehold land situated in the
@@ -39162,7 +39189,7 @@ The aforesaid property having been inventoried by the undersigned
   </tbody>
 </table>
 
-In the house on the first mentioned place
+In the house on the first mentioned place <span style="border-bottom: 2px dotted #FF0000;">Bronwell</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In the hall</td></tr></thead>
@@ -39471,34 +39498,34 @@ In the house on the first mentioned place
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Carolus</span> of this Colony
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Carolus</span> of this Colony
 		aged 41 years, house boy</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Abel</span> of this Colony 21 years
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Abel</span> of this Colony 21 years
 		of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jonas</span> of this Colony 14
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jonas</span> of this Colony 14
 		years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Julinda</span> of this Colony 25
-		years of age, with her four children named <span style="border-bottom: 2px dotted #008000;">Loressa</span> born on the 4th
-		June 1821 <span style="border-bottom: 2px dotted #008000;">Aron</span> born on the
-		25 August 1821 <span style="border-bottom: 2px dotted #008000;">Nisa</span> born on
-		the 6 July 1825 <span style="border-bottom: 2px dotted #008000;">2 Nisa</span> born on the [ ..... ] July 1827</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Julinda</span> of this Colony 25
+		years of age, with her four children named <span style="border-bottom: 2px dotted #00FF00;">Loressa</span> born on the 4th
+		June 1821 <span style="border-bottom: 2px dotted #00FF00;">Aron</span> born on the
+		25 August 1821 <span style="border-bottom: 2px dotted #00FF00;">Nisa</span> born on
+		the 6 July 1825 <span style="border-bottom: 2px dotted #00FF00;">2 Nisa</span> born on the [ ..... ] July 1827</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Aaltje</span> of this Colony 31
-		years of age with five children, named <span style="border-bottom: 2px dotted #008000;">Carolina</span> born on the 16
-		January 1817 <span style="border-bottom: 2px dotted #008000;">Amilie</span> born on
-		the 12 January 1819 <span style="border-bottom: 2px dotted #008000;">Agida</span> born
-		on the 25 December 1821 <span style="border-bottom: 2px dotted #008000;">Moestaphas</span> born on the 24 July 1823 <span style="border-bottom: 2px dotted #008000;">Alida</span> born on the [ .....
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Aaltje</span> of this Colony 31
+		years of age with five children, named <span style="border-bottom: 2px dotted #00FF00;">Carolina</span> born on the 16
+		January 1817 <span style="border-bottom: 2px dotted #00FF00;">Amilie</span> born on
+		the 12 January 1819 <span style="border-bottom: 2px dotted #00FF00;">Agida</span> born
+		on the 25 December 1821 <span style="border-bottom: 2px dotted #00FF00;">Moestaphas</span> born on the 24 July 1823 <span style="border-bottom: 2px dotted #00FF00;">Alida</span> born on the [ .....
 		]</td>
     </tr>
     <tr>
-      <td>also a male slave named <span style="border-bottom: 2px dotted #008000;">Adonis</span> condemned tofor life</td>
+      <td>also a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adonis</span> condemned to <span style="border-bottom: 2px dotted #FF0000;">Robben Island</span> for life</td>
     </tr>
   </tbody>
 </table>
@@ -39719,8 +39746,8 @@ In the house on the first mentioned place
   </tbody>
 </table>
 
-To this estate also belongs two pieces of land, situated at the, called the, which he purchased from Albert
-	 Louw, who is transported to,
+To this estate also belongs two pieces of land, situated at the <span style="border-bottom: 2px dotted #FF0000;">Salt River</span> , called the <span style="border-bottom: 2px dotted #FF0000;">Yzerplaat</span> , which he purchased from Albert
+	 Louw, who is transported to <span style="border-bottom: 2px dotted #FF0000;">New South Wales</span> ,
 	 and paid for rd:s1100, without he has been abled as yet to obtain transfer of
 	 the same
 
@@ -39747,7 +39774,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.4a
 
- {18280215} 15 February 1828 <span style="border-bottom: 2px dotted #008000;">Petrus Diemel</span> 
+ {18280215} 15 February 1828 <span style="border-bottom: 2px dotted #00FF00;">Petrus Diemel</span> 
 
 Staat en inventaris van alle zoodanige goederen en effecten, als op den
 	 12:e December 1827 ab intestato met er dood ontruimd en nagelaten zyn, door den
@@ -39757,11 +39784,11 @@ Staat en inventaris van alle zoodanige goederen en effecten, als op den
 	 heer Johannes Joachim Lodewyk Smuts, in deszelfs betrekking als Secretaris van
 	 het eerwaard Collegie van heeren Weesmeesteren, na luide van deszelfs missive
 	 van den 8:e February j:l: geformeerd, en door my Petrus Canzius van
-	 Blommestein, Notaris Publiek in het district vanresteerende, ter presentie der
+	 Blommestein, Notaris Publiek in het district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> resteerende, ter presentie der
 	 hiernatenoemene getuigen in geschrift gebracht, bestaande alle die goederen en
 	 effecten in als volgt
 
-Ter plaatsegelegen aan de, in dit district het eigendom
+Ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Klein Welmoed</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Eerste Rivier</span> , in dit district het eigendom
 	 van de heer Philip van der Byl, al waar de overledene tot zyn dood heeft
 	 gewoond
 
@@ -40097,7 +40124,7 @@ Ter plaatsegelegen aan de, in dit district het eigendom
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd op de hofsteede, gelegen in dit district aan deden 15 February 1828, ende zulks
+Aldus gedaan en geinventariseerd op de hofsteede <span style="border-bottom: 2px dotted #FF0000;">Klein Welmoed</span> , gelegen in dit district aan de <span style="border-bottom: 2px dotted #FF0000;">Eerste Rivier</span> den 15 February 1828, ende zulks
 	 op het op en aangeeven van de heeren Philip van der Byl, dewelke verklaarde hem
 	 daaromtrent ter goeder trouwe te hebben gevragen en niets met opzet verzweegen
 	 en agter gehouden te hebben, het geen tot de gemelde nalatenschap is
@@ -40114,7 +40141,7 @@ Quod attestor: P:C: v: Blommestein, Not:s
 
 ## MOOC8/43.4b
 
- {18280205} 5 February 1828 <span style="border-bottom: 2px dotted #008000;">Pieter Diemel</span> 
+ {18280205} 5 February 1828 <span style="border-bottom: 2px dotted #00FF00;">Pieter Diemel</span> 
 
 Exhib: 20 Feb:y 1828 n:o 46
 
@@ -40752,8 +40779,8 @@ In my presence: J:J:L: Smuts
 ## MOOC8/43.5
 
  {18250614} 14 June
-	 1825 <span style="border-bottom: 2px dotted #008000;">Andries Johannes
-	 Kunz</span> , <span style="border-bottom: 2px dotted #008000;">Anna Elisabeth
+	 1825 <span style="border-bottom: 2px dotted #00FF00;">Andries Johannes
+	 Kunz</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Elisabeth
 	 Kok</span> 
 
 J:G: Brink
@@ -40953,38 +40980,38 @@ consisting of the goods and effects as following viz:
       <td>3 pigs</td>
     </tr>
     <tr>
-      <td>1 hous and erf situated in the town of</td>
+      <td>1 hous and erf situated in the town of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">Anthony from
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">Anthony from
 		  Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">Damon from
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">Damon from
 		  Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">August from this
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">August from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">January from this
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">January from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>1 male slave named <span style="border-bottom: 2px dotted #008000;">Titus from this
+      <td>1 male slave named <span style="border-bottom: 2px dotted #00FF00;">Titus from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>1 female slave named <span style="border-bottom: 2px dotted #008000;">Amelie from
+      <td>1 female slave named <span style="border-bottom: 2px dotted #00FF00;">Amelie from
 		  Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 female slave named <span style="border-bottom: 2px dotted #008000;">Philida from
+      <td>1 female slave named <span style="border-bottom: 2px dotted #00FF00;">Philida from
 		  Mosambique</span></td>
     </tr>
     <tr>
-      <td>1 female slave named <span style="border-bottom: 2px dotted #008000;">Spaas from this
+      <td>1 female slave named <span style="border-bottom: 2px dotted #00FF00;">Spaas from this
 		  Colony</span></td>
     </tr>
   </tbody>
@@ -41241,7 +41268,7 @@ Who declareth that she with regard to this her statement had acted
 	 her statement
 
 This done and executed at the place of Jan Adam Kunz situated in the
-	 district of, die et anno ut
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , die et anno ut
 	 supra
 
 As witnesses: P:C: Odendal, H:J:Crous
@@ -41252,7 +41279,7 @@ J:P: Muller
 
 ## MOOC8/43.6
 
- {18280610} 10 June 1828 <span style="border-bottom: 2px dotted #008000;">Jacobus Alexander Fhersen</span> 
+ {18280610} 10 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Alexander Fhersen</span> 
 
 Inventory of all such property as has been relinquished by the death ab
 	 intestato of Jacobus Alexander Fehrsen on the fifth day of the month of June in
@@ -41541,7 +41568,7 @@ J:J:L: Smuts
 
 ## MOOC8/43.7
 
- {18250209} 9 February 1825 <span style="border-bottom: 2px dotted #008000;">Casparus Johannes Matthee</span>  <span style="border-bottom: 2px dotted #008000;">Cornelia Johanna Smal</span> 
+ {18250209} 9 February 1825 <span style="border-bottom: 2px dotted #00FF00;">Casparus Johannes Matthee</span>  <span style="border-bottom: 2px dotted #00FF00;">Cornelia Johanna Smal</span> 
 
 Wij ondergeteekende hebbende op genomen de boedel van Casperis Johannis
 	 Matthee en zyne kinderen hier bij name genoemd, als
@@ -41572,7 +41599,7 @@ Wij ondergeteekende hebbende op genomen de boedel van Casperis Johannis
 <table>
   <tbody>
     <tr>
-      <td>1/2 lenigs plaats gelegen äaan, distrikt</td>
+      <td>1/2 lenigs plaats gelegen ä <span style="border-bottom: 2px dotted #FF0000;">Dirk Uijs Craal</span> aan <span style="border-bottom: 2px dotted #FF0000;">Coksrivier</span> , distrikt <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
     </tr>
     <tr>
       <td>1 paarde wagen halfsleten</td>
@@ -41643,7 +41670,7 @@ en overledene huysvrouw Cornelia Johanna Smal
 
 ## MOOC8/43.8
 
- {18281227} 27 December 1828 <span style="border-bottom: 2px dotted #008000;">Joh:s Jac:s Theron</span> 
+ {18281227} 27 December 1828 <span style="border-bottom: 2px dotted #00FF00;">Joh:s Jac:s Theron</span> 
 
 Inventory of all such property as has been relinquished by the death ab
 	 intestato of Joh:s Jac:s Theron on the 24th day of the month of December in the
@@ -42515,7 +42542,7 @@ C:P: Neyhoff, J:J: Theron Janzoon J:r
 
 ## MOOC8/43.9
 
- {18251014} 14 October 1825 <span style="border-bottom: 2px dotted #008000;">Johan Wilhelm Ludwig
+ {18251014} 14 October 1825 <span style="border-bottom: 2px dotted #00FF00;">Johan Wilhelm Ludwig
 	 Gebhardt</span> 
 
 Inventory of the property of the Rev:d Johan Wilhelm Ludwig Gebhart born
@@ -42542,8 +42569,8 @@ In consequence of which the aforesaid property (after the seals of office
   <tbody>
     <tr>
       <td>A house and garden with the lands adjoining
-		  thereto, situated in thisat the
-		  foot of themeasuring 21 morgen
+		  thereto, situated in this <span style="border-bottom: 2px dotted #FF0000;">Tablevalley</span> at the
+		  foot of the <span style="border-bottom: 2px dotted #FF0000;">Lions Hill</span> measuring 21 morgen
 		  501 square roods and 102 square feet</td>
     </tr>
   </tbody>
@@ -42980,62 +43007,62 @@ In consequence of which the aforesaid property (after the seals of office
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Frans of this Colony</span> about
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Frans of this Colony</span> about
 		14 years of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Dampie of this Colony</span> about 53 years of age, labourer</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Dampie of this Colony</span> about 53 years of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Frans of this Colony</span> about
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Frans of this Colony</span> about
 		11 years of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jephta of this Colony</span> about 63 years of age, labourer in the service of the Rev: Scholtz</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jephta of this Colony</span> about 63 years of age, labourer in the service of the Rev: Scholtz</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Leander of Bengal</span> aged 63
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Leander of Bengal</span> aged 63
 		years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">December of Mosambique</span> 31 years of age, labourer</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">December of Mosambique</span> 31 years of age, labourer</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sara of this Colony</span> about 54
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sara of this Colony</span> about 54
 		years of age, housemaid in the service of the Rev:d Scholtz</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Flora of this Colony</span> about
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Flora of this Colony</span> about
 		54 years of age, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Clara n:o 1 of this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Clara n:o 1 of this
 		Colony</span> 33 years of age, housemaid</td>
       <td rowspan='3' style='vertical-align: middle;'>slaves which are
 		to be emancipated according to the last will and testament of the
 		deceased</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sophia of this Colony</span> 27
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sophia of this Colony</span> 27
 		years of age, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Georgina</span> child of Sophia
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Georgina</span> child of Sophia
 		born on the 30th June 1821</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Spasie of this Colony</span> aged
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Spasie of this Colony</span> aged
 		11 years and 10 months</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Clara of this Colony</span> child
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Clara of this Colony</span> child
 		of Sophia born on the 26th July 1816</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Louisa of this Colony</span> child of Sophia born on the 7th February 1818</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Louisa of this Colony</span> child of Sophia born on the 7th February 1818</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Betje</span> child of Sophia
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Betje</span> child of Sophia
 		baptized Elizabeth Catharina Francina born 9th October 1823</td>
     </tr>
   </tbody>
@@ -43225,7 +43252,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.10
 
- {18270420} 20 April 1827 <span style="border-bottom: 2px dotted #008000;">William Henry
+ {18270420} 20 April 1827 <span style="border-bottom: 2px dotted #00FF00;">William Henry
 	 Baulcomb</span> 
 
 Inventory all such property as have been relinquished by the death ab
@@ -43287,8 +43314,8 @@ In the house belonging to Government situated at the upper end of the
       <td>a book</td>
     </tr>
     <tr>
-      <td>memorandum: the Government slave <span style="border-bottom: 2px dotted #008000;">Claas</span> formerly in the service of the
-		deceased states that there are some linen with the washerwoman <span style="border-bottom: 2px dotted #008000;">Flora</span> a list of which will be subjoined
+      <td>memorandum: the Government slave <span style="border-bottom: 2px dotted #00FF00;">Claas</span> formerly in the service of the
+		deceased states that there are some linen with the washerwoman <span style="border-bottom: 2px dotted #00FF00;">Flora</span> a list of which will be subjoined
 		hereafter</td>
     </tr>
     <tr>
@@ -43492,7 +43519,7 @@ List of clothes received from the washerwoman Flora
 ## MOOC8/43.11
 
  {18270226} 26 February
-	 1827 <span style="border-bottom: 2px dotted #008000;">Anna Elisabeth
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">Anna Elisabeth
 	 Louw</span> 
 
 H: Somerset
@@ -43505,7 +43532,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen de
 <table>
   <tbody>
     <tr>
-      <td>een slavin genaamd <span style="border-bottom: 2px dotted #008000;">Spatie</span></td>
+      <td>een slavin genaamd <span style="border-bottom: 2px dotted #00FF00;">Spatie</span></td>
     </tr>
     <tr>
       <td>een ossen wagen</td>
@@ -43702,22 +43729,22 @@ Inventaris van alle zodanige goederen en effecten als er door wylen de
   <thead><tr><td colspan='100%'>Slaven door de overledene aan hare kinderen gegeeven</td></tr></thead>
   <tbody>
     <tr>
-      <td>1) <span style="border-bottom: 2px dotted #008000;">Saul</span> aan
+      <td>1) <span style="border-bottom: 2px dotted #00FF00;">Saul</span> aan
 		Pet:s Jac:s Booyzen</td>
     </tr>
     <tr>
-      <td>2) <span style="border-bottom: 2px dotted #008000;">Casper</span> aan
+      <td>2) <span style="border-bottom: 2px dotted #00FF00;">Casper</span> aan
 		Joh:s Lodewicus v:d: Merwe</td>
     </tr>
     <tr>
-      <td>3) <span style="border-bottom: 2px dotted #008000;">Jephta</span> aan
+      <td>3) <span style="border-bottom: 2px dotted #00FF00;">Jephta</span> aan
 		Willem Jac:s v:d: Merwe</td>
     </tr>
     <tr>
-      <td>4) <span style="border-bottom: 2px dotted #008000;">Theresia</span> aan David Schalk v:d: Merwe</td>
+      <td>4) <span style="border-bottom: 2px dotted #00FF00;">Theresia</span> aan David Schalk v:d: Merwe</td>
     </tr>
     <tr>
-      <td>5) <span style="border-bottom: 2px dotted #008000;">Rachel</span> aan
+      <td>5) <span style="border-bottom: 2px dotted #00FF00;">Rachel</span> aan
 		Petrus Jac:s Pienaar</td>
     </tr>
   </tbody>
@@ -43742,12 +43769,12 @@ J:S: Meintjes
 
 ## MOOC8/43.11 1/2
 
- {18270129} 29 January 1827 <span style="border-bottom: 2px dotted #008000;">Hendrik Albertus Swart</span> 
+ {18270129} 29 January 1827 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Albertus Swart</span> 
 
 J:G: Brink
 
 Inventory of the goods and effects belonging to the estate of the late
-	 Hendrik Albertus Swart departed on the 22nd instant, at his place called.
+	 Hendrik Albertus Swart departed on the 22nd instant, at his place called <span style="border-bottom: 2px dotted #FF0000;">Dordrecht</span> .
 
 Done by Petrus Gerhardus Swart, at the requisition of the Board of Orphan
 	 Masters at the Cape of Good Hope in their capacity as guardians of the minor
@@ -43943,29 +43970,29 @@ Consisting the goods and effects as following, viz:
       <td>one thousand bundles of oats</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Regiena from this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Regiena from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Carolina from this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Carolina from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Diana from this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Diana from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Seriena from this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Seriena from this
 		  Colony</span></td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Lena from this Colony</span></td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Lena from this Colony</span></td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Pasiens from this Colony</span> and</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Pasiens from this Colony</span> and</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Caul from this Colony</span></td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Caul from this Colony</span></td>
     </tr>
   </tbody>
 </table>
@@ -43973,10 +44000,10 @@ Consisting the goods and effects as following, viz:
 <table>
   <tbody>
     <tr>
-      <td>The upstal of the loanplace, called</td>
+      <td>The upstal of the loanplace, called <span style="border-bottom: 2px dotted #FF0000;">Dordrecht</span></td>
     </tr>
     <tr>
-      <td>and the upstal of the loanplace called</td>
+      <td>and the upstal of the loanplace called <span style="border-bottom: 2px dotted #FF0000;">Helderfontein</span></td>
     </tr>
   </tbody>
 </table>
@@ -44131,7 +44158,7 @@ Appeared before me Johannes Petrus Muller, duly authorised by J:H: Bam
 	 this inventory with the same, being finally ready to make oath for the truth of
 	 this his statement
 
-This done and executed at the place,die et anno ut supra
+This done and executed at the place <span style="border-bottom: 2px dotted #FF0000;">Dordrecht</span> , <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> die et anno ut supra
 
 As witnesses: H:s J:s Crous, Thomas Clarke
 
@@ -44141,7 +44168,7 @@ In my presence: J:P: Muller
 
 ## MOOC8/43.12
 
- {18280721} 21 July 1828 <span style="border-bottom: 2px dotted #008000;">Adam Gabriel de Smidt</span> 
+ {18280721} 21 July 1828 <span style="border-bottom: 2px dotted #00FF00;">Adam Gabriel de Smidt</span> 
 
 Inventory of all such property as has been relinquished by the death of
 	 Adam Gabriel de Smidt on the eighteenth day of the month of June in the year of
@@ -44178,11 +44205,11 @@ The testators having by a codicil dated 29 March 1828 and annexed to their
 <table>
   <tbody>
     <tr>
-      <td>A house and premises situated in thisto the NW side of</td>
+      <td>A house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> to the NW side of <span style="border-bottom: 2px dotted #FF0000;">Hottentots Square</span></td>
     </tr>
     <tr>
       <td>An erff with five hire houses erected the
-		  river situated in thisinannex the abovementioned
+		  river situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Longmarket Street</span> annex the abovementioned
 		  house</td>
     </tr>
   </tbody>
@@ -44389,7 +44416,7 @@ The testators having by a codicil dated 29 March 1828 and annexed to their
     <tr>
       <td>transcribed on the name of the widow</td>
       <td>a
-		female slave named <span style="border-bottom: 2px dotted #008000;">Clair of this
+		female slave named <span style="border-bottom: 2px dotted #00FF00;">Clair of this
 		Colony</span> about 13 years of age</td>
     </tr>
   </tbody>
@@ -44550,7 +44577,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.13
 
- {18270413} 13 April 1827 <span style="border-bottom: 2px dotted #008000;">Maria Geertruida
+ {18270413} 13 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Maria Geertruida
 	 Esterhuize</span> 
 
 Inventaris van alle zodanige goederen en effecten als op den 12:de April
@@ -45037,7 +45064,7 @@ P: Mijburgh, fungeerend Wyksmeester
 
 ## MOOC8/43.14
 
- {18231007} 7 October 1823 <span style="border-bottom: 2px dotted #008000;">Alexander Anderson</span> 
+ {18231007} 7 October 1823 <span style="border-bottom: 2px dotted #00FF00;">Alexander Anderson</span> 
 
 Inventaris van zoodanige goederen als er op den zesden dag dezer lopende
 	 maand ab intestato met er dood zyn ontruimd en nagelaten door Alexander
@@ -45128,7 +45155,7 @@ Voor den opgaaf: John Hilson Wills
   <thead><tr><td colspan='100%'>Nader opgaaf</td></tr></thead>
   <tbody>
     <tr>
-      <td>door de slavinne <span style="border-bottom: 2px dotted #008000;">Hanna</span> , behorende aan mev: de weduwe De Haan, die de bysit
+      <td>door de slavinne <span style="border-bottom: 2px dotted #00FF00;">Hanna</span> , behorende aan mev: de weduwe De Haan, die de bysit
 		is geweest van de overledene zedert drie jaren, te weeten</td>
     </tr>
     <tr>
@@ -45209,16 +45236,16 @@ Voor den opgaaf: John Hilson Wills
 
 Weeskamer den 3 Nov:br 1823
 
-Dit is het merk van opgem: + slavinne <span style="border-bottom: 2px dotted #008000;">Hanna</span> , als niet kunnende schryven eigenhandig gesteld
+Dit is het merk van opgem: + slavinne <span style="border-bottom: 2px dotted #00FF00;">Hanna</span> , als niet kunnende schryven eigenhandig gesteld
 
 My present: J:J:L: Smuts
 
 ## MOOC8/43.15
 
- {18240115} 15 January 1824 <span style="border-bottom: 2px dotted #008000;">Apolles van de Kaap</span> 
+ {18240115} 15 January 1824 <span style="border-bottom: 2px dotted #00FF00;">Apolles van de Kaap</span> 
 
 Lijst van den geinventariseerden, opgenoomen boedel van wijlen den slaven
-	 jongen genaamd <span style="border-bottom: 2px dotted #008000;">Apolles van de
+	 jongen genaamd <span style="border-bottom: 2px dotted #00FF00;">Apolles van de
 	 Kaap</span> , overleeden den 15:e Januarij 1824 j:l: eertijds lijfeigen van de
 	 weduwe Jan Willem Barkhuisen alwaar zich in den nagelaten en opgenoomen boedel,
 	 nagenoemde goederen hebben bevonden, als volgt:
@@ -45272,11 +45299,11 @@ Lijst van den geinventariseerden, opgenoomen boedel van wijlen den slaven
 		geleend</td>
     </tr>
     <tr>
-      <td>den Hottentot David woonagtig bij den Resident in deis schuldig 1 rijd-paard,
+      <td>den Hottentot David woonagtig bij den Resident in de <span style="border-bottom: 2px dotted #FF0000;">Plettenberg-Baaij</span> is schuldig 1 rijd-paard,
 		zadel en toom, aan voorsz: Apollus</td>
     </tr>
     <tr>
-      <td>den Hottentot Jantjen Andries woonagtig bij John Kitzen in de, is schuldig aan voorsz:
+      <td>den Hottentot Jantjen Andries woonagtig bij John Kitzen in de <span style="border-bottom: 2px dotted #FF0000;">Plettenbergs Baaij</span> , is schuldig aan voorsz:
 		Apollus, contand rijxd:s16</td>
     </tr>
     <tr>
@@ -45295,7 +45322,7 @@ Lijst van den geinventariseerden, opgenoomen boedel van wijlen den slaven
 		Apollus schuldig cont: rd:s4</td>
     </tr>
     <tr>
-      <td>den Hottentot Titis Isak, woonägtig inis schuldig aan voorsz: Apollus 1
+      <td>den Hottentot Titis Isak, woonägtig in <span style="border-bottom: 2px dotted #FF0000;">George-Stadt</span> is schuldig aan voorsz: Apollus 1
 		os</td>
     </tr>
     <tr>
@@ -45303,7 +45330,7 @@ Lijst van den geinventariseerden, opgenoomen boedel van wijlen den slaven
 		schuldig aan voorsz: Apollus voor 1 gehuurde rijdpaard 26 dage</td>
     </tr>
     <tr>
-      <td>den Hottentot Daniel Bastaard, woonägtig aanbij de zendelingen, is schuldig
+      <td>den Hottentot Daniel Bastaard, woonägtig aan <span style="border-bottom: 2px dotted #FF0000;">Uittenhagen</span> bij de zendelingen, is schuldig
 		aan voorm: Apollus 1 os</td>
     </tr>
     <tr>
@@ -45315,7 +45342,7 @@ Lijst van den geinventariseerden, opgenoomen boedel van wijlen den slaven
 		vaarsen</td>
     </tr>
     <tr>
-      <td>de slaven meid genaamd <span style="border-bottom: 2px dotted #008000;">Rachel</span> woonagtig bij de weduwe Barkhuisen, schuldig aan
+      <td>de slaven meid genaamd <span style="border-bottom: 2px dotted #00FF00;">Rachel</span> woonagtig bij de weduwe Barkhuisen, schuldig aan
 		voorm: Apollus, ryxd:s5</td>
     </tr>
   </tbody>
@@ -45327,7 +45354,7 @@ NB: Waaruit, van voorsz: boedel de weduwe Jan Willem Barkhuizen hebben
 
 Dit is het geene het welk zijne huishouster opgegeven en bekend gesteld in
 	 teegenwoordigheid van mij, ondergetekende veldcornet: beneevens de nagenoemde
-	 getuigen ter plaatze van de weduwe Jan Willem Barkhuizen, genaamd, gelegen in de
+	 getuigen ter plaatze van de weduwe Jan Willem Barkhuizen, genaamd <span style="border-bottom: 2px dotted #FF0000;">Keur-Booms-rivier</span> , gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Lange Klooff</span> 
 
 Aldus gedaan, en gepasseerd ter plaatze voorm: op den vijfthienden dag van
 	 de eerste maand, in den jare onze Heeren! een duisent agthonderd en vier en
@@ -45338,32 +45365,33 @@ Als getuigen: P: Barkhuijsen, A:M: Muller
 M:H: van Rensburg, V:cornet
 
 P:S: en NB: Daar zijn ’er geene erfgenamen behalve zijne huishousterersse
-	 Bastaard-meid genaamd Griet van deezen uithoek, geboordig
+	 Bastaard-meid genaamd Griet van deezen uithoek <span style="border-bottom: 2px dotted #FF0000;">Zuid-Africa</span> , geboordig
 
 Dezelve verzoekt, begeerd en te kennen geevende, als erfgenaam te willen
 	 opkoomen, en zijn uit hoofde en van weegens lange jaren zamenleeving, en haren
 	 man voorsz: Apollus denzelven getrouw opgepast heeft, en het welk zij gem:
 	 Griet in mijne teegenwoordigheid, voor de waarheid bekrachtig heeft
 
-, den 16 February
+ <span style="border-bottom: 2px dotted #FF0000;">Lange-klooff</span> , den 16 February
 	 1824.
 
 ## MOOC8/43.16
 
  {18270617} 17 June
-	 1827 <span style="border-bottom: 2px dotted #008000;">John Freeland</span> 
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">John Freeland</span> 
 
 J: Michiel
 
 Inventory of property belonging to the estate of the late John Freeland
-	 who was drowned on the 16th day of June 1827 at, in the district ofof
+	 who was drowned on the 16th day of June 1827 at <span style="border-bottom: 2px dotted #FF0000;">Port
+	 Frances</span> , in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> of
 	 whom the following is a description
 
 His age - Fifty two
 
 has never been married
 
-born at
+born at <span style="border-bottom: 2px dotted #FF0000;">Glasgow</span> 
 
 occupation - boatman at Kowie
 
@@ -45371,7 +45399,7 @@ occupation - boatman at Kowie
   <thead><tr><td colspan='100%'>Landed property</td></tr></thead>
   <tbody>
     <tr>
-      <td>House and erf situated atbeing the lot n:o 51</td>
+      <td>House and erf situated at <span style="border-bottom: 2px dotted #FF0000;">Port Frances</span> being the lot n:o 51</td>
     </tr>
   </tbody>
 </table>
@@ -45907,13 +45935,13 @@ Thus done and inventory taken this 17th day of June 1827
 
 Daniel Cloete, Agent to Orphan Chamber
 
-, 24th July
+ <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> , 24th July
 	 1827
 
 ## MOOC8/43.17
 
  {18280701} 1 July
-	 1828 <span style="border-bottom: 2px dotted #008000;">Johanna
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Christina Dreyer</span> 
 
 Inventory of all such property as has been relinquished by the death ab
@@ -45946,7 +45974,7 @@ and has further requested and appointed the Board of Orphan Masters to be
   <tbody>
     <tr>
       <td>Certain three houses and premises situated on
-		  the corner ofand, part of the garden</td>
+		  the corner of <span style="border-bottom: 2px dotted #FF0000;">Breedenburg steeg</span> and <span style="border-bottom: 2px dotted #FF0000;">Langestraat</span> , part of the garden <span style="border-bottom: 2px dotted #FF0000;">Bredenburg</span></td>
     </tr>
   </tbody>
 </table>
@@ -46328,29 +46356,29 @@ and has further requested and appointed the Board of Orphan Masters to be
   <thead><tr><td colspan='100%'>Slaves of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">George alias Maart of Mosambique</span> 48 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">George alias Maart of Mosambique</span> 48 years of age,
 		washerman to be emancipated according to the deceased last will and
 		testament</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Willem
+      <td><span style="border-bottom: 2px dotted #00FF00;">Willem
 		of the Cape</span> 26 y:s of age, musician to be emancipated according to the
 		codicil of the deceased dated 28 May 1827</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Dina of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Dina of
 		the Cape</span> 24 y:s, knitting girl with her child Martha born 4 February
 		1827 to be emancipated according to aforesaid codicil upon her paying for her
 		and her child to the estate rd:s1000</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel
 		of the Cape</span> 17 years</td>
       <td rowspan='2' style='vertical-align: middle;'>both to be emancipated
 		according to said will and testament</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lea of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lea of
 		the Cape</span> 15 years</td>
     </tr>
   </tbody>
@@ -46491,11 +46519,11 @@ Rachel Ovinhuyzen
 
 ## MOOC8/43.18
 
- {18270503} 3 May 1827 <span style="border-bottom: 2px dotted #008000;">William Martham Scott</span> , <span style="border-bottom: 2px dotted #008000;">Susanna Catharina
+ {18270503} 3 May 1827 <span style="border-bottom: 2px dotted #00FF00;">William Martham Scott</span> , <span style="border-bottom: 2px dotted #00FF00;">Susanna Catharina
 	 Cronje</span> 
 
 Inventory of the goods and effects belonging to the estate of the late
-	 Susanna Catharina Cronjee who departed on the 4th of March 1827 at the placeand her surviving husband William
+	 Susanna Catharina Cronjee who departed on the 4th of March 1827 at the place <span style="border-bottom: 2px dotted #FF0000;">Uitvlugt</span> and her surviving husband William
 	 Martham Scott
 
 Done by said Scott at the requisition of the Board of Orphan Masters at
@@ -46536,7 +46564,7 @@ Done by said Scott at the requisition of the Board of Orphan Masters at
   <thead><tr><td colspan='100%'>Goods and effects belonging to the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>3/4 of the upstal of the loanplace called, situated over deat the</td>
+      <td>3/4 of the upstal of the loanplace called <span style="border-bottom: 2px dotted #FF0000;">Uitvlugt</span> , situated over de <span style="border-bottom: 2px dotted #FF0000;">Platte Kloof</span> at the <span style="border-bottom: 2px dotted #FF0000;">Warmwatersberg</span></td>
     </tr>
     <tr>
       <td>4 saddle horses</td>
@@ -46746,7 +46774,7 @@ Done by said Scott at the requisition of the Board of Orphan Masters at
   <thead><tr><td colspan='100%'>Credits</td></tr></thead>
   <tbody>
     <tr>
-      <td>8 oxen from Fredrik Potgieter, residing in the district of</td>
+      <td>8 oxen from Fredrik Potgieter, residing in the district of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
     </tr>
   </tbody>
 </table>
@@ -46815,7 +46843,7 @@ Appeared before me Johannes Petrus Muller said William Marthinus Scott who
 	 belonging to the estate that in such case to amplify this inventory with the
 	 same, being finally ready to make oath for the truth of this his statement
 
-This done and executed at the place, die et anno ut supra
+This done and executed at the place <span style="border-bottom: 2px dotted #FF0000;">Uitvlugt</span> , die et anno ut supra
 
 As witnesses: W:H: Scott
 
@@ -46823,11 +46851,11 @@ J:P: Muller
 
 ## MOOC8/43.19a
 
- {18270430} 30 April 1827 <span style="border-bottom: 2px dotted #008000;">Marthienus Godfried Drosky</span> , <span style="border-bottom: 2px dotted #008000;">Anna van der Merwe</span> 
+ {18270430} 30 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Marthienus Godfried Drosky</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna van der Merwe</span> 
 
 Inventory of the goods and effects belonging to the estate of the late
 	 Anna van der Merwe and her surviving husband Marthinus Godfried Drosky, who
-	 departed on the 3:rd February last at the place
+	 departed on the 3:rd February last at the place <span style="border-bottom: 2px dotted #FF0000;">Rietvalley</span> 
 
 Done by said Marthienus Godfried Drosky at the requisition of the Board of
 	 Orphan Masters at the Cape of Good Hope in their capacity as guardians of minor
@@ -46900,14 +46928,14 @@ Done by said Marthienus Godfried Drosky at the requisition of the Board of
   <thead><tr><td colspan='100%'>Goods and effects</td></tr></thead>
   <tbody>
     <tr>
-      <td>1/3 of the loan place called</td>
+      <td>1/3 of the loan place called <span style="border-bottom: 2px dotted #FF0000;">Rietvalley</span></td>
     </tr>
     <tr>
-      <td>4 <span style="border-bottom: 2px dotted #008000;">male
+      <td>4 <span style="border-bottom: 2px dotted #00FF00;">male
 		slaves</span></td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">female
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">female
 		[slaves]</span></td>
     </tr>
     <tr>
@@ -47186,7 +47214,7 @@ On this 30th day of April 1827 appeared before me Johannes Petrus Muller
 	 such case to amplify this inventory with the same being finally ready to make
 	 oath for the truth of this his statement
 
-This done and executed at the place, die et anno ut supra
+This done and executed at the place <span style="border-bottom: 2px dotted #FF0000;">Rietvally</span> , die et anno ut supra
 
 As witnesses: Thomas Clarke
 
@@ -47196,7 +47224,7 @@ J:P: Muller
 
 ## MOOC8/43.19b
 
- {18270307} 7 Maart 1827 <span style="border-bottom: 2px dotted #008000;">Martinus Godvried Drotski</span> , <span style="border-bottom: 2px dotted #008000;">Anna van der Merwe</span> 
+ {18270307} 7 Maart 1827 <span style="border-bottom: 2px dotted #00FF00;">Martinus Godvried Drotski</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna van der Merwe</span> 
 
 Exh:d the 7 March 1827 n:o 22
 
@@ -47207,18 +47235,18 @@ Staat en inventaris der nagelatene goederen van den overledene Anna van
   <tbody>
     <tr>
       <td>De derde gedeelte van de leenning plaats
-		  genaamtgelegen agter</td>
+		  genaamt <span style="border-bottom: 2px dotted #FF0000;">Rietvaly</span> gelegen agter <span style="border-bottom: 2px dotted #FF0000;">Kogmanskloof</span></td>
     </tr>
     <tr>
-      <td>3 <span style="border-bottom: 2px dotted #008000;">slaven
+      <td>3 <span style="border-bottom: 2px dotted #00FF00;">slaven
 		  jongens</span> boven de 16 jaren waar onder 1 zwervende zyn</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave
 		  jonge</span> beneden de 16 jaren</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave
 		  myd</span> boven de 16 jaren</td>
     </tr>
     <tr>
@@ -47559,7 +47587,7 @@ Ampliation to the inventory according to the annexed leter of N:G: Droskie
 ## MOOC8/43.20
 
  {18231203} 3 December
-	 1823 <span style="border-bottom: 2px dotted #008000;">Peter Kropp</span> 
+	 1823 <span style="border-bottom: 2px dotted #00FF00;">Peter Kropp</span> 
 
 Inventaris van alle zodanige goederen als er op Maandag den eersten dag
 	 dezer lopende maand December en den jaare onzes Heeren een duizend acht honderd
@@ -47710,7 +47738,7 @@ My present: Haanbeck
 
 ## MOOC8/43.21
 
- {18281101} 1 November 1828 <span style="border-bottom: 2px dotted #008000;">Hendrik Philippus Cruywagen</span> 
+ {18281101} 1 November 1828 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Philippus Cruywagen</span> 
 
 Exh:d the 19th of November 1828 No: 24
 
@@ -48035,7 +48063,7 @@ M:H: Appeldoorn, wed: C: Cruijwagen
 
 ## MOOC8/43.22
 
- {18250103} 3 January 1825 <span style="border-bottom: 2px dotted #008000;">David Baars</span> 
+ {18250103} 3 January 1825 <span style="border-bottom: 2px dotted #00FF00;">David Baars</span> 
 
 Inventaris van alle zoodanigen goederen als tot den nalatenschap van ab
 	 intestato nu wijle David Baars behoord, waarvan der kinderen van de overledene
@@ -48326,7 +48354,7 @@ P: v: Wielligh, Veldcornet
 ## MOOC8/43.23
 
  {18280904} 4 September
-	 1828 <span style="border-bottom: 2px dotted #008000;">Samuel Gusibeus
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Samuel Gusibeus
 	 Hudson</span> 
 
 Inventory of all such property as has been relinquished by the death ab
@@ -48824,16 +48852,16 @@ In my presence: J:J:L: Smuts
 ## MOOC8/43.24a
 
  {18270625} 25 June
-	 1827 <span style="border-bottom: 2px dotted #008000;">Jan van
-	 Schalkwyk</span> , <span style="border-bottom: 2px dotted #008000;">Cornelia Maria Esterhuizen</span> 
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">Jan van
+	 Schalkwyk</span> , <span style="border-bottom: 2px dotted #00FF00;">Cornelia Maria Esterhuizen</span> 
 
 H. Somerset
 
 A true and perfect inventory of all and every the goods, chattels, wares
 	 and merchandise as well moveable as not, debts, credits and other personal
 	 effects of the deceased Jan van Schalkwyk Jan Son and his surviving widow
-	 Cornelia Maria Esterhuizen, which former died intestato at the place,, within the veldcornetcy of Jan van der
-	 Westhuizen, district, on the 15th day
+	 Cornelia Maria Esterhuizen, which former died intestato at the place <span style="border-bottom: 2px dotted #FF0000;">Uitspan Fontein</span> , <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> , within the veldcornetcy of Jan van der
+	 Westhuizen, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , on the 15th day
 	 of May 1827 between the hours of 4 and 5 pm, and given up as follows
 
 <table>
@@ -48899,7 +48927,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
 		his claim in it amounts only to rd:s33:4, the remaining rd:s86 arising from
 		sheep sold by him on account of his mother the widow Jan van Schalkwyk
 		s:r</td>
-      <td>Thus Mr Joh:s Serfertyn residing in the district of, for the purchase of sheep and soap
+      <td>Thus Mr Joh:s Serfertyn residing in the district of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , for the purchase of sheep and soap
 		as per note of hand dated 25th Aug:t 1825, one hundred and nineteen rixdollars
 		and four shill:s</td>
       <td>119:4</td>
@@ -48942,7 +48970,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
     <tr>
       <td>2) the brother and sisters of the deceased and the children of the
 		late Sara Maria van Schalkwyk, procreated in marriage with Johannes Benjamin
-		van Zyl of the district of</td>
+		van Zyl of the district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
     </tr>
     <tr>
       <td>3) Ockert Johannes van Schalkwyk, this dist:t</td>
@@ -48957,10 +48985,10 @@ A true and perfect inventory of all and every the goods, chattels, wares
     </tr>
     <tr>
       <td>6) Susanna Jacoba van Schalkwyk married to Arie Willem Steenkamp
-		of</td>
+		of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span></td>
     </tr>
     <tr>
-      <td>7) Aletta Geertruida van Schalkwyk married to Willem Steenkamp of</td>
+      <td>7) Aletta Geertruida van Schalkwyk married to Willem Steenkamp of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span></td>
     </tr>
     <tr>
       <td>8) Hendrica Christina van Schalkwyk married to Hermanus Claasens
@@ -48974,8 +49002,8 @@ A true and perfect inventory of all and every the goods, chattels, wares
 </table>
 
 This done and registered by me the undersigned agent to the Orphan Chamber
-	 ofon Tuesday the 30th of October
-	 1827 at the place,in the presence of the clerks
+	 of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Tuesday the 30th of October
+	 1827 at the place <span style="border-bottom: 2px dotted #FF0000;">Wittekrans</span> , <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> in the presence of the clerks
 	 Christian Johannes Rabe and Walter Harding, according to the statement of the
 	 widow Jan van Schalkwyk junior and Andries Barend Esterhuizen, Joseas son, who
 	 declare in their above statement of this estate to have acted honestly and
@@ -48996,16 +49024,16 @@ W:W: Harding
 
 ## MOOC8/43.24b
 
- {18270625} 25 June 1827 <span style="border-bottom: 2px dotted #008000;">Jan van Schalkwyk</span> , <span style="border-bottom: 2px dotted #008000;">Cornelia Maria
+ {18270625} 25 June 1827 <span style="border-bottom: 2px dotted #00FF00;">Jan van Schalkwyk</span> , <span style="border-bottom: 2px dotted #00FF00;">Cornelia Maria
 	 Esterhuizen</span> 
 
 A true and perfect inventory of all and every the goods, chatels, wares
 	 and merchandize as well moveable as not, debts, credits and other personal
 	 effects of the deceased Jan van Schalkwyk Jan son, and his surviving widow
 	 Cornelia Maria Esterhuizen, Anth:y daughter, which former died abintestato at
-	 the farm,on the 15th of May 1827 between the
+	 the farm <span style="border-bottom: 2px dotted #FF0000;">Uitspan Fontein</span> , <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> on the 15th of May 1827 between the
 	 hours of 4 and 5 pm in this the fieldcornetcy of Johannes van der Westhuizen,
-	 districtand given up as follows
+	 district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows
 
 <table>
   <tbody>
@@ -49106,7 +49134,7 @@ A true and perfect inventory of all and every the goods, chatels, wares
   </tbody>
 </table>
 
-This done and registered in the village ofon Monday the 25th of June 1827 in the
+This done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Monday the 25th of June 1827 in the
 	 presence of the heirs, Christiaan Johannes Rabe, and Walter Harding according
 	 to the statement of the widow Jan van Schalkwyk Jan son and Andries Barend
 	 Esterhuizen, Josias son, who declare in their above statement of this estate to
@@ -49135,7 +49163,7 @@ Susanna J: van Wyk, de wedewe Jan van Schalk Wyk
 
 ## MOOC8/43.25
 
- {18261230} 30 December 1826 <span style="border-bottom: 2px dotted #008000;">Francis Gerrard
+ {18261230} 30 December 1826 <span style="border-bottom: 2px dotted #00FF00;">Francis Gerrard
 	 Powley</span> 
 
 Inventory of the goods and effects belonging to the estate of the late
@@ -49149,11 +49177,11 @@ Done by James O’Conner who attended the said Powley during his sickness,
 <table>
   <tbody>
     <tr>
-      <td>Rosetta daughter of William Bailey late ofin the county ofand</td>
+      <td>Rosetta daughter of William Bailey late of <span style="border-bottom: 2px dotted #FF0000;">Grimsthorpe</span> in the county of <span style="border-bottom: 2px dotted #FF0000;">Lincoln</span> and</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Anne
-		  Gerrard</span> daughter of the female slave <span style="border-bottom: 2px dotted #008000;">Rosa of the Cape</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Anne
+		  Gerrard</span> daughter of the female slave <span style="border-bottom: 2px dotted #00FF00;">Rosa of the Cape</span></td>
     </tr>
   </tbody>
 </table>
@@ -49405,7 +49433,7 @@ On this day the 30th December 1826 appeared before me Jan Ferdinand Bam as
 	 such case to amplify this inventory with the same, being finally ready to make
 	 oath for the truth of this his statement
 
-Thus done and executed at the town, die et anno ut supra
+Thus done and executed at the town <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , die et anno ut supra
 
 As witnesses: W: Tompson, M: Taute
 
@@ -49415,10 +49443,10 @@ In my presence: J:F: Bam
 
 ## MOOC8/43.26
 
- {18270913} 13 September 1827 <span style="border-bottom: 2px dotted #008000;">J:W: Etchells</span> 
+ {18270913} 13 September 1827 <span style="border-bottom: 2px dotted #00FF00;">J:W: Etchells</span> 
 
 Inventory of furniture belonging to Mr J:W: Etchells 13th September 1827
-	 at
+	 at <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Room n:o 1</td></tr></thead>
@@ -49697,7 +49725,7 @@ de naam van de overledene vrouw Margaret Blake, vier kinderen
 ## MOOC8/43.27
 
  {18271224} 24 December
-	 1827 <span style="border-bottom: 2px dotted #008000;">Johan Philip
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">Johan Philip
 	 Anhuysen</span> 
 
 Inventory of all such property relinquished by the death of Johan Philip
@@ -49717,7 +49745,7 @@ The deceased having by his last will and testament executed before the
       <td>2) Leonardus Fredricus</td>
     </tr>
     <tr>
-      <td>3) Philip Lodewyk - died inon the 12 Ap:l 1821, unmarried</td>
+      <td>3) Philip Lodewyk - died in <span style="border-bottom: 2px dotted #FF0000;">Europe</span> on the 12 Ap:l 1821, unmarried</td>
     </tr>
     <tr>
       <td>4) Johanna Petronella Anhuyser widow of Andries Barchfeld</td>
@@ -49748,7 +49776,8 @@ In consequence of which the aforesaid property after the seals had been
   <tbody>
     <tr>
       <td>A house and premises being part of the erf
-		  n:o 22 now marked n:o 1 situated in the</td>
+		  n:o 22 now marked n:o 1 situated in the <span style="border-bottom: 2px dotted #FF0000;">Zieke Dwars
+		  Street</span></td>
     </tr>
     <tr>
       <td>a house and premises being part of the erf
@@ -50490,15 +50519,15 @@ In the aforesaid house n:o 1
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Philis of this Colony</span> 31
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Philis of this Colony</span> 31
 		years of age, labourer</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sophia of Batavia</span> 51
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sophia of Batavia</span> 51
 		years, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Rebecca of Mosambique</span> 61 years, cook</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Rebecca of Mosambique</span> 61 years, cook</td>
     </tr>
   </tbody>
 </table>
@@ -50656,7 +50685,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.28
 
- {18260526} 26 May 1826 <span style="border-bottom: 2px dotted #008000;">Petrus Johannes de
+ {18260526} 26 May 1826 <span style="border-bottom: 2px dotted #00FF00;">Petrus Johannes de
 	 Wit</span> 
 
 Inventory of all such property as has been relinquished by the death ab
@@ -50693,7 +50722,7 @@ on the other part, the aforesaid property having been inventoried by the
   <tbody>
     <tr>
       <td>Two pieces of land with the buildings erected
-		  thereon situate in the vicinity ofat</td>
+		  thereon situate in the vicinity of <span style="border-bottom: 2px dotted #FF0000;">Tygerberg</span> at <span style="border-bottom: 2px dotted #FF0000;">Pampoenekraal</span></td>
     </tr>
     <tr>
       <td>one piece of land adjacent to the aforesaid
@@ -50884,14 +50913,14 @@ on the other part, the aforesaid property having been inventoried by the
 		  her children</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Samoor of Malibaar</span></td>
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Samoor of Malibaar</span></td>
     </tr>
   </tbody>
 </table>
 
 Pro memorie, according to a statement of the widow several accounts in
 	 favour of the estate the amount whereof is unknown to her, have been delivered
-	 by her late husband to Mr J:G: Aspeling residing at, for recovery
+	 by her late husband to Mr J:G: Aspeling residing at <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> , for recovery
 
 Thus done and inventoried at the place aforesaid on the 26 May 1826
 	 according to a statement made by the aforesaid widow who declared to have acted
@@ -50976,8 +51005,8 @@ Ampliation
 ## MOOC8/43.29
 
  {18250326} 26 Maart
-	 1825 <span style="border-bottom: 2px dotted #008000;">Johannis Marten
-	 Troskie</span> , <span style="border-bottom: 2px dotted #008000;">Susanna Maria Magdalena Deideriksen</span> 
+	 1825 <span style="border-bottom: 2px dotted #00FF00;">Johannis Marten
+	 Troskie</span> , <span style="border-bottom: 2px dotted #00FF00;">Susanna Maria Magdalena Deideriksen</span> 
 
 H: Somerset
 
@@ -51092,7 +51121,7 @@ Inventaris van alle zodanige goederen als behoord hebben tot den
   <thead><tr><td colspan='100%'>Lyfeigenen des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 slavin genaamd <span style="border-bottom: 2px dotted #008000;">Silvia van de Kaap</span></td>
+      <td>1 slavin genaamd <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Kaap</span></td>
     </tr>
   </tbody>
 </table>
@@ -51149,7 +51178,8 @@ Inventaris van alle zodanige goederen als behoord hebben tot den
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ter plaatzegelegenvolgens op en aangave van den in de hoofde dezes gem: weduwe,
+Aldus gedaan en geinventariseerd ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Wolvevallij</span> gelegen <span style="border-bottom: 2px dotted #FF0000;">Achter
+	 Sneeuberg</span> volgens op en aangave van den in de hoofde dezes gem: weduwe,
 	 dewelke verklaarde niets met weten verzwegen ofte agtergehouden te hebben met
 	 belofte indien zich iets mogte ontdekken tot opgem: boedel behoorende als dan
 	 deeze inventaris daarmeede te zullen amplieeren en zulks des gevordert wordende
@@ -51288,7 +51318,7 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td rowspan='9' style='vertical-align: middle;'>district</td>
+      <td rowspan='9' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #FF0000;">Graaff R:</span> district</td>
       <td>van Adam G: Hever blyk:s onderh: obligatie -
 		betaald</td>
       <td>491:--</td>
@@ -51329,13 +51359,13 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
       <td>3:--</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
       <td>van Hanna
 		Pelzer /huisv:w van Carel Pelzer</td>
       <td>2:--</td>
     </tr>
     <tr>
-      <td rowspan='20' style='vertical-align: middle;'>district</td>
+      <td rowspan='20' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> district</td>
       <td>van Piet Niemand, boekschulde</td>
       <td>44:--</td>
     </tr>
@@ -51416,13 +51446,13 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
       <td>8:--</td>
     </tr>
     <tr>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Brakrivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
       <td>Gert
 		Albertse</td>
       <td>15:--</td>
     </tr>
     <tr>
-      <td rowspan='22' style='vertical-align: middle;'>dist:t</td>
+      <td rowspan='22' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> dist:t</td>
       <td>Gert Kruger V:dc:t</td>
       <td>42:--</td>
     </tr>
@@ -51511,13 +51541,13 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
       <td>7:4</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Cradock</span></td>
       <td>van Joh:s
 		Fred:k de Beer</td>
       <td>196:--</td>
     </tr>
     <tr>
-      <td rowspan='13' style='vertical-align: middle;'>district</td>
+      <td rowspan='13' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> district</td>
       <td>van Joh:s Brummer</td>
       <td>4:--</td>
     </tr>
@@ -51572,13 +51602,13 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
       <td>20:--</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Kaapstad</span></td>
       <td>van B:
 		Solomon blyk:s bewys</td>
       <td>25:--</td>
     </tr>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'>district</td>
+      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> district</td>
       <td>van Theunis Loggerenberg blyk:s
 		bewys</td>
       <td>51:--</td>
@@ -51591,7 +51621,7 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
       <td>deze wagen is per vendutie verkocht, vide venduroll van 18
 		Februarij 1826</td>
       <td>een nieuwe ossewagen aan den boedel behorende, staat
-		teby de wed:e G:F: Enslin; van
+		te <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> by de wed:e G:F: Enslin; van
 		die wagen moet nog door Pieter Bar:d Botha worden geleverd, de buikplank en
 		disselboom, als hebbende hy het hout daartoe ontvangen, zoo wel als de betaling
 		voor het maken, zonder dat hy het immer heeft aangeleverd</td>
@@ -51599,7 +51629,7 @@ Ik ondergetekende Susanna Maria Magdalena Diederiks, nagelaten hebbende,
   </tbody>
 </table>
 
-Aldus opgeven ter Drostdyeop
+Aldus opgeven ter Drostdye <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> op
 	 den 8 Septb:r 1825 in presentie van J:F: Ziervogel en F:W: Weyer als
 	 getuigen.
 
@@ -51611,7 +51641,7 @@ W:W: Mackay
 
 ## MOOC8/43.30
 
- {18261103} 3 November 1826 <span style="border-bottom: 2px dotted #008000;">Christina Smith</span> 
+ {18261103} 3 November 1826 <span style="border-bottom: 2px dotted #00FF00;">Christina Smith</span> 
 
 Inventory of the property of Christina Smith widow of Abner Savens
 	 Faerbanks relinquished by her death on the first day of the month of November
@@ -51634,7 +51664,7 @@ In consequence of which the aforesaid property /:after the seals of office
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in thiswhich has been bequeathed to the
+      <td>A house and erf situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> which has been bequeathed to the
 		  deceased by the late Frans Hilleger according to a codicil executed on the 27th
 		  July 1813 before the notary R: Beck and witnesses on condition that the said
 		  house after her death is to become the property of his /:Frans Hilliger’s:/
@@ -52030,14 +52060,14 @@ In consequence of which the aforesaid property /:after the seals of office
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Antonie of Mosambique</span> mason, 46 years of age</td>
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Antonie of Mosambique</span> mason, 46 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Maria of Bengal</span> housmaid,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Maria of Bengal</span> housmaid,
 		bequeathed to the heir 45 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Fortuna of Mosambique</span> washmaid, 36 years of age</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Fortuna of Mosambique</span> washmaid, 36 years of age</td>
     </tr>
   </tbody>
 </table>
@@ -52168,7 +52198,7 @@ In my presence: J:J:L: Smuts
 ## MOOC8/43.31
 
  {18221208} 8 December
-	 1822 <span style="border-bottom: 2px dotted #008000;">Jacobus van
+	 1822 <span style="border-bottom: 2px dotted #00FF00;">Jacobus van
 	 Beeleng</span> 
 
 Nalatenschap van Jacobus van Beeleng aan de heer landros opgedrage
@@ -52248,7 +52278,7 @@ J: Prinslo: proviesie Velcornet
 
 ## MOOC8/43.32
 
- {18280711} 11 Julij 1828 <span style="border-bottom: 2px dotted #008000;">Albertus Johannes
+ {18280711} 11 Julij 1828 <span style="border-bottom: 2px dotted #00FF00;">Albertus Johannes
 	 Philippus Meijburgh</span> 
 
 Exh: the 5th November 1828 No: 22
@@ -52366,13 +52396,13 @@ Erfgenamen van wylen Albertus Joh:s Philippus Meyburg Nic:szn
 ## MOOC8/43.33
 
  {18270724} 24 July
-	 1827 <span style="border-bottom: 2px dotted #008000;">George
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">George
 	 Wilkinson</span> 
 
 J: Mostert
 
 Inventory of property belonging to the intestate estate of George
-	 Wilkinson who died in the district ofin the year 1822, unmarried and without issue
+	 Wilkinson who died in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> in the year 1822, unmarried and without issue
 
 <table>
   <thead><tr><td colspan='100%'>Immoveable property</td></tr></thead>
@@ -52426,12 +52456,12 @@ Inventory of property belonging to the intestate estate of George
 
 This done and inventory taken this 24th day of July 1827
 
-Daniel L: Cloete, agent in
+Daniel L: Cloete, agent in <span style="border-bottom: 2px dotted #FF0000;">Albany</span> 
 
-, 24 July 1827
+ <span style="border-bottom: 2px dotted #FF0000;">GrahamsTown</span> , 24 July 1827
 
 List of claims against the estate of George Wilkinson, with such vouchers
-	 as have been received by the agent in
+	 as have been received by the agent in <span style="border-bottom: 2px dotted #FF0000;">Albany</span> 
 
 <table>
   <tbody>
@@ -52480,7 +52510,7 @@ List of claims against the estate of George Wilkinson, with such vouchers
 ## MOOC8/43.34
 
  {18230708} 8 July
-	 1823 <span style="border-bottom: 2px dotted #008000;">Fred:k Richard
+	 1823 <span style="border-bottom: 2px dotted #00FF00;">Fred:k Richard
 	 Tettel</span> 
 
 Inventaris van alle zodanige goederen als er op den veyfde deezer loopende
@@ -52614,7 +52644,7 @@ My present: A: v: Breda, Klerk
 
 ## MOOC8/43.35
 
- {18271231} 31 December 1827 <span style="border-bottom: 2px dotted #008000;">Daniel van de Kaap</span> 
+ {18271231} 31 December 1827 <span style="border-bottom: 2px dotted #00FF00;">Daniel van de Kaap</span> 
 
 Exh:d 20 Feb:y 1828 n: 27
 
@@ -52821,7 +52851,7 @@ The aforesaid property having been taken under the administration of the
 
 Thus inventoried at the Cape of Good Hope in the aforesaid apartments on
 	 the thirty first day of the month December in the year of our Lord one thousand
-	 eight hundred and twenty seven according to a statement made by <span style="border-bottom: 2px dotted #008000;">Saayer of the Cape</span> , who
+	 eight hundred and twenty seven according to a statement made by <span style="border-bottom: 2px dotted #00FF00;">Saayer of the Cape</span> , who
 	 declared to have acted herein bonafide and that to the best of his knowledge he
 	 has not withheld or secreted any thing that belonged to the aforesaid estate,
 	 and the said appearer further declared that he is and will at all times be
@@ -52844,7 +52874,7 @@ C: Korsten
 
 ## MOOC8/43.36a
 
- {18260320} 20 March 1826 <span style="border-bottom: 2px dotted #008000;">John
+ {18260320} 20 March 1826 <span style="border-bottom: 2px dotted #00FF00;">John
 	 Digby</span> 
 
 Inventory of all such property as has been relinquished by the death ab
@@ -52857,7 +52887,7 @@ The aforesaid property having been taken under the administration of the
 	 heirs and been inventoried by the undersigned special Commissioners of the
 	 Board aforesaid, was found to consist in the following, viz:t
 
-Atsituated at
+At <span style="border-bottom: 2px dotted #FF0000;">Sussex Place</span> situated at <span style="border-bottom: 2px dotted #FF0000;">Wineberg</span> 
 
 <table>
   <tbody>
@@ -53208,7 +53238,7 @@ W:m Reed
 
 ## MOOC8/43.36b
 
- {18260321} 21 March 1826 <span style="border-bottom: 2px dotted #008000;">John
+ {18260321} 21 March 1826 <span style="border-bottom: 2px dotted #00FF00;">John
 	 Digby</span> 
 
 Inventory of some property of John Digby Esq:re relinquished by his death
@@ -53451,7 +53481,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.36c
 
- {18260321} 21 March 1826 <span style="border-bottom: 2px dotted #008000;">John Digby</span> 
+ {18260321} 21 March 1826 <span style="border-bottom: 2px dotted #00FF00;">John Digby</span> 
 
 Inventory of some property of John Digby Esq:re relinquished by his death
 	 ab intestato on the 19th day of the month of March in the year of our Lord one
@@ -53560,7 +53590,7 @@ The said property have been found under the care of Mr John Robert
 </table>
 
 Memorandum: It is hereby noticed that, according to a statement of the
-	 Moor servant of the deceased named <span style="border-bottom: 2px dotted #008000;">Ramsam</span> , one case containing glass ware is missing which
+	 Moor servant of the deceased named <span style="border-bottom: 2px dotted #00FF00;">Ramsam</span> , one case containing glass ware is missing which
 	 was brought to Mr J:R: Thompson’s store, the said Mr Thomson promised that when
 	 the same shall be found to deliver it up to the Orphan Chamber
 
@@ -53609,7 +53639,7 @@ In my presence: J:J:L: Smuts
 ## MOOC8/43.37
 
  {18280206} 6 February
-	 1828 <span style="border-bottom: 2px dotted #008000;">Johannes Petrus Jacobus Pretorius</span> , <span style="border-bottom: 2px dotted #008000;">Maria Johanna
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Johannes Petrus Jacobus Pretorius</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Johanna
 	 Straus</span> 
 
 J:G: Brink
@@ -53759,7 +53789,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Maria
 </table>
 
 Aldus gedaan en g’inventariseerd op den 6: February 1828 ter plaatze
-	 genaamdgeleegentoebehorende aan Matthys
+	 genaamd <span style="border-bottom: 2px dotted #FF0000;">Gatsrivier</span> geleegen <span style="border-bottom: 2px dotted #FF0000;">Voor Sneeuwberg</span> toebehorende aan Matthys
 	 Jacobus Pretorius volgens op- en aangave van Johannes Petrus Jacobus Pretorius
 	 voormeld, dewelke betuigde zig in het op en aangeeven des voormelden boedel ter
 	 goeder trouwe te hebben gedragen en niets met weten versweegen of agtergehouden
@@ -53777,7 +53807,7 @@ J:J: Meintjes
 
 ## MOOC8/43.38
 
- {18280216} 16 February 1828 <span style="border-bottom: 2px dotted #008000;">Hendrik Willem Meyer</span> , <span style="border-bottom: 2px dotted #008000;">Johanna van den
+ {18280216} 16 February 1828 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Willem Meyer</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna van den
 	 Berg</span> 
 
 Exh:ed 27 Feb:y 1828 n: 5
@@ -53856,7 +53886,7 @@ Inventaris van zodanige goederen als er door wylen Hendrik Willem Meyer en
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd den dorpeop 16 February 1828 door my
+Aldus gedaan en geinventariseerd den dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op 16 February 1828 door my
 	 ondergeteekende agent der Weeskamer ter presentie van C:A: Brink en G:J:
 	 Broekhuizen
 
@@ -53866,7 +53896,7 @@ J:J: Meintjes
 
 ## MOOC8/43.39
 
- {18230212} 12 February 1823 <span style="border-bottom: 2px dotted #008000;">Francois Prys</span> , <span style="border-bottom: 2px dotted #008000;">Martha Elizabeth
+ {18230212} 12 February 1823 <span style="border-bottom: 2px dotted #00FF00;">Francois Prys</span> , <span style="border-bottom: 2px dotted #00FF00;">Martha Elizabeth
 	 Ponty</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Woensdag den
@@ -53907,12 +53937,12 @@ Egter met betrekking tot de erffenis van opgem: Lambert, onder de
 <table>
   <tbody>
     <tr>
-      <td>Een huis en erf staande en gelegen in deze</td>
+      <td>Een huis en erf staande en gelegen in deze <span style="border-bottom: 2px dotted #FF0000;">Tavelvaley</span></td>
     </tr>
   </tbody>
 </table>
 
-Voorts in het huys gelegen in devan opgem: George Paton waarin de
+Voorts in het huys gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Strandstraat</span> van opgem: George Paton waarin de
 	 overledene het laatst heeft gewoond
 
 <table>
@@ -54400,61 +54430,61 @@ Voorts in het huys gelegen in devan opgem: George Paton waarin de
   <thead><tr><td colspan='100%'>Lyfeigenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #008000;">Fortuin van Mosambique</span> oud 43 jaren, werksjonge</td>
+      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #00FF00;">Fortuin van Mosambique</span> oud 43 jaren, werksjonge</td>
     </tr>
     <tr>
-      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #008000;">April van Mosambique</span> oud
+      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #00FF00;">April van Mosambique</span> oud
 		53 jaren, werksjonge</td>
     </tr>
     <tr>
-      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #008000;">Philander geboortig van
+      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #00FF00;">Philander geboortig van
 		Delmina</span> oud 32 jaren, werksjonge</td>
     </tr>
     <tr>
-      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #008000;">Damon geboortig van Delmina</span> oud 32 jaren, werksjonge</td>
+      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #00FF00;">Damon geboortig van Delmina</span> oud 32 jaren, werksjonge</td>
     </tr>
     <tr>
-      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #008000;">Sanima</span> oud 63 jaren
+      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #00FF00;">Sanima</span> oud 63 jaren
 		geboortig van Batavia, huismeid</td>
     </tr>
     <tr>
-      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #008000;">Flora</span> oud 47 jaren
+      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #00FF00;">Flora</span> oud 47 jaren
 		geboortig van Batavia, huismeid</td>
     </tr>
     <tr>
-      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #008000;">Spasie</span> oud 34 jaren van
+      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #00FF00;">Spasie</span> oud 34 jaren van
 		Mosambique, waschmeid, met hare kinderen in namen</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Pamela</span> oud 15 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Pamela</span> oud 15 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Clarissa</span> oud 12 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Clarissa</span> oud 12 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Coeser</span> oud 10 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Coeser</span> oud 10 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Louisa</span> geboren den 14 February 1817</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louisa</span> geboren den 14 February 1817</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sophia</span> geboren den 31 January 1819</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sophia</span> geboren den 31 January 1819</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Roosje</span> geboren den 19 Maart 1822</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Roosje</span> geboren den 19 Maart 1822</td>
     </tr>
     <tr>
-      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #008000;">Delphine van deze
+      <td>een slavinne gen:d <span style="border-bottom: 2px dotted #00FF00;">Delphine van deze
 		Colonie</span> oud 31 jaren, huismeid, met hare kinderen in name</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel</span> geboren den 4 April 1817</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel</span> geboren den 4 April 1817</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Alemina</span> geboren den 21 Jan:y 1819</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Alemina</span> geboren den 21 Jan:y 1819</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leonora</span> geboren den 10 Dec:r 1822</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leonora</span> geboren den 10 Dec:r 1822</td>
     </tr>
   </tbody>
 </table>
@@ -54548,7 +54578,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.40
 
- {18280111} 11 January 1828 <span style="border-bottom: 2px dotted #008000;">John Sacker</span> 
+ {18280111} 11 January 1828 <span style="border-bottom: 2px dotted #00FF00;">John Sacker</span> 
 
 Exh:ed 27 Feb:y 1828 n: 2
 
@@ -54600,14 +54630,14 @@ List of property found in the home of Mr John Taylor being brought there
   <thead><tr><td colspan='100%'>Papers</td></tr></thead>
   <tbody>
     <tr>
-      <td>1) agreement of purchase of a lot of ground atsold to the deceased by Samuel
+      <td>1) agreement of purchase of a lot of ground at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> sold to the deceased by Samuel
 		Allen, and said Allen’s receipt attached</td>
     </tr>
     <tr>
       <td>2) receipt of the transfer dues on that purchase</td>
     </tr>
     <tr>
-      <td>3) a pass granted to the deceased by the Landdrost ofon 13 Nov:r 1819</td>
+      <td>3) a pass granted to the deceased by the Landdrost of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> on 13 Nov:r 1819</td>
     </tr>
   </tbody>
 </table>
@@ -54615,7 +54645,7 @@ List of property found in the home of Mr John Taylor being brought there
 I, John Taylor, do hereby declare that the above is a true and full
 	 account of the property left in my home by the late John Sacker
 
-, 11th Jan:y 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> , 11th Jan:y 1828
 
 Witnesses: J:C: Ziervogel
 
@@ -54625,7 +54655,7 @@ In my presence: M:J: v: N: Onkruydt
 
 ## MOOC8/43.41a
 
- {18270601} 1 Junij 1827 <span style="border-bottom: 2px dotted #008000;">Andries Olievier</span> , <span style="border-bottom: 2px dotted #008000;">Cicilia Johanna
+ {18270601} 1 Junij 1827 <span style="border-bottom: 2px dotted #00FF00;">Andries Olievier</span> , <span style="border-bottom: 2px dotted #00FF00;">Cicilia Johanna
 	 Korf</span> 
 
 Inventaris van al zoodanige goederen en effecten als door Andries Olievier
@@ -54675,19 +54705,19 @@ Bestaande gez: nalatenschap in
 <table>
   <tbody>
     <tr>
-      <td>The leningsplaats, gelegen op, bij matuel testament vermaak
+      <td>The leningsplaats <span style="border-bottom: 2px dotted #FF0000;">Tonteldoosfonteijn</span> , gelegen op <span style="border-bottom: 2px dotted #FF0000;">Middel Roggevelt</span> , bij matuel testament vermaak
 		  aan Hendrik Hendrik Olievier</td>
     </tr>
     <tr>
-      <td>de leningsplaats gen:gelegen opbey mutuel testament vermaak
+      <td>de leningsplaats gen: <span style="border-bottom: 2px dotted #FF0000;">Roggekloof</span> gelegen op <span style="border-bottom: 2px dotted #FF0000;">Middel Roggevelt</span> bey mutuel testament vermaak
 		  aan Andries Olievier</td>
     </tr>
     <tr>
-      <td>de leningsplaats gen: demutuel testament vermaakt aan Hendrik en
+      <td>de leningsplaats gen: de <span style="border-bottom: 2px dotted #FF0000;">Vrede</span> mutuel testament vermaakt aan Hendrik en
 		  Andries Olievier te zamen</td>
     </tr>
     <tr>
-      <td>de leningsplaatsgelegen agter het</td>
+      <td>de leningsplaats <span style="border-bottom: 2px dotted #FF0000;">Matjesfonteijn</span> gelegen agter het <span style="border-bottom: 2px dotted #FF0000;">Middel Roggevelt</span></td>
     </tr>
   </tbody>
 </table>
@@ -54695,7 +54725,7 @@ Bestaande gez: nalatenschap in
 <table>
   <tbody>
     <tr>
-      <td>een manslaaf genaamt <span style="border-bottom: 2px dotted #008000;">Mei van Malabaar</span></td>
+      <td>een manslaaf genaamt <span style="border-bottom: 2px dotted #00FF00;">Mei van Malabaar</span></td>
     </tr>
   </tbody>
 </table>
@@ -55017,7 +55047,7 @@ Bestaande gez: nalatenschap in
   </tbody>
 </table>
 
-Aldus geinventariseert ter plaatseop den 1 Junij 1827 en zulks in
+Aldus geinventariseert ter plaatse <span style="border-bottom: 2px dotted #FF0000;">Tonteldoosfonteijn</span> op den 1 Junij 1827 en zulks in
 	 gevolge opgaf van Hendrik Olievier, dewelke beegde met zeijn wel of weten niet
 	 te hebben achtergehouden of verzwegen, maar alles getrouwelijk te hebben
 	 opgegeven en bereijd te zeijn zulks met solemnelen eeden te bevestegen
@@ -55030,7 +55060,7 @@ Meij presend: Albert Smit, Veltcornet
 
 ## MOOC8/43.41b
 
- {18270827} 27 Augustus 1827 <span style="border-bottom: 2px dotted #008000;">Andries Olivier</span> 
+ {18270827} 27 Augustus 1827 <span style="border-bottom: 2px dotted #00FF00;">Andries Olivier</span> 
 
 Nader inventaris van de baten en lasten des boedels van wylen Andries
 	 Olivier Hend:z geformeerd op heden den 27 Augustus 1827 en zulks navolgens
@@ -55062,14 +55092,15 @@ Nader inventaris van de baten en lasten des boedels van wylen Andries
     <tr>
       <td>&nbsp;</td>
       <td>1) van Hend:k Olivier And:z de som
-		  waarvoor de leeningsplaats,
-		  alsmede de helft van den opstal der leeningsplaatsaan denzelven is vermaakt</td>
+		  waarvoor de leeningsplaats <span style="border-bottom: 2px dotted #FF0000;">Tonteldoosfontein</span> ,
+		  alsmede de helft van den opstal der leeningsplaats <span style="border-bottom: 2px dotted #FF0000;">De
+		  Vrede</span> aan denzelven is vermaakt</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
       <td>2) van Andries Olivier And:z de som
-		  waarvoor de leeningsplaatsalsmede
-		  de helft der leeningsplaats Deaan
+		  waarvoor de leeningsplaats <span style="border-bottom: 2px dotted #FF0000;">Roggekloof</span> alsmede
+		  de helft der leeningsplaats De <span style="border-bottom: 2px dotted #FF0000;">Vrede</span> aan
 		  denzelven is vermaakt</td>
     </tr>
     <tr>
@@ -55126,7 +55157,7 @@ Nader inventaris van de baten en lasten des boedels van wylen Andries
     <tr>
       <td>&nbsp;</td>
       <td>p:m: deze som heeft de overledene niet afbetaald, wyl hy
-		  zich voor gez: Kruger ten behoeve Arnoldus Botma Steph:z: woonachtig teals borg geinterponeerd heeft, ter
+		  zich voor gez: Kruger ten behoeve Arnoldus Botma Steph:z: woonachtig te <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> als borg geinterponeerd heeft, ter
 		  som van rd:s400 en voor gez: borgtogt reeds aangemaand was geworden</td>
     </tr>
     <tr>
@@ -55157,7 +55188,7 @@ Nader inventaris van de baten en lasten des boedels van wylen Andries
     </tr>
     <tr>
       <td>paid 24th April 1829</td>
-      <td>aan de distriktskas vanondernn: en extra ordinaire
+      <td>aan de distriktskas van <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> ondernn: en extra ordinaire
 		belastingen voor het afgeloopene jaar</td>
       <td>57:0:2</td>
     </tr>
@@ -55204,11 +55235,11 @@ Op grond dat door den overledene aan zyne kinderen als huwelyksgift is
   </tbody>
 </table>
 
-Aldus door my ondergeteekende geformeerd op de legplekgelegen in dedatum ut supra
+Aldus door my ondergeteekende geformeerd op de legplek <span style="border-bottom: 2px dotted #FF0000;">Matjesfontein</span> gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Carro</span> datum ut supra
 
 J:G: Aspeling
 
-den 7 Juny 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Roggeveldt</span> den 7 Juny 1829
 
 Rekening voor opnemen van den boedel van Andries Olievier A:z
 
@@ -55262,7 +55293,7 @@ Hendrik Olivier
 
 ## MOOC8/43.42
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Anna Maria Cbaastijanna Davel</span> , <span style="border-bottom: 2px dotted #008000;">Gerrit Petrus
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Anna Maria Cbaastijanna Davel</span> , <span style="border-bottom: 2px dotted #00FF00;">Gerrit Petrus
 	 Slabbert</span> 
 
 De inventaaris van den geheele inboedel van den overleedenen Anna Maria
@@ -55489,8 +55520,8 @@ De lijst van de namen van de kinderen van (overleedene) Anna Maria
 ## MOOC8/43.43
 
  {18260616} 16 June
-	 1826 <span style="border-bottom: 2px dotted #008000;">Jan Fredrik van
-	 Reenen</span> , <span style="border-bottom: 2px dotted #008000;">Gesina van
+	 1826 <span style="border-bottom: 2px dotted #00FF00;">Jan Fredrik van
+	 Reenen</span> , <span style="border-bottom: 2px dotted #00FF00;">Gesina van
 	 Blerck</span> 
 
 Inventory of the joint property of Jan Fredrik van Reenen and his wife
@@ -55553,7 +55584,7 @@ In consequence of which the aforesaid property (after the seals of office
     <tr>
       <td>Three pieces of freehold land and one piece
 		  of quitrant land situated in this Cape district E:W: of the millitary lines,
-		  adjoining the place, according to
+		  adjoining the place <span style="border-bottom: 2px dotted #FF0000;">Roode Bloem</span> , according to
 		  two transfers dated 9 February and 13 July 1821 executed in favour of the
 		  deceased which lands have been bequeathed to the surviving widow for the sum of
 		  ƒ30000 according to a codicil dated 22:d April 1821, and more fully expressed
@@ -56187,7 +56218,7 @@ In consequence of which the aforesaid property (after the seals of office
       <td>two cows</td>
     </tr>
     <tr>
-      <td>six cows at the place of Mr Jacob v: Reenen at</td>
+      <td>six cows at the place of Mr Jacob v: Reenen at <span style="border-bottom: 2px dotted #FF0000;">Groenekloof</span></td>
     </tr>
   </tbody>
 </table>
@@ -56238,120 +56269,120 @@ In consequence of which the aforesaid property (after the seals of office
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">David of this Colony</span> 32
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">David of this Colony</span> 32
 		years of age, coatchmen</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Adriaan of this Colony</span> 15
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Adriaan of this Colony</span> 15
 		years of age</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Jasmyn</span> n:o 1, 11 years of
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Jasmyn</span> n:o 1, 11 years of
 		age of this Colony</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Hendrik of this Colony</span> 12
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Hendrik of this Colony</span> 12
 		years of age</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Caro of Rabia</span> 60 years of
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Caro of Rabia</span> 60 years of
 		age, mason</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Pedro of Bengalen</span> 60 years
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Pedro of Bengalen</span> 60 years
 		of age, cook</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Africa of Malibaar</span> 50
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Africa of Malibaar</span> 50
 		years of age, shoemaker</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Jasmyn (n:o 2) of
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Jasmyn (n:o 2) of
 		Madagascar</span> 50 years of age, mason</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Isaac of Madagascar</span> 50
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Isaac of Madagascar</span> 50
 		years of age thatcher</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Christiaan of this
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Christiaan of this
 		Colony</span> 28 years of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Willem</span> 30 years of age
-		of Mosambique, tayler /at/ he
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Willem</span> 30 years of age
+		of Mosambique, tayler /at <span style="border-bottom: 2px dotted #FF0000;">Hemel en Aarde</span> / he
 		labouring under leprosy</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Vitriono of Mosambique</span> 40 years of age, labourer</td>
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Vitriono of Mosambique</span> 40 years of age, labourer</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Mannuel of Mosambique</span> 45 years of age, labourer, absconded since 14 years</td>
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Mannuel of Mosambique</span> 45 years of age, labourer, absconded since 14 years</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Catang of Mosambique</span> 30
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Catang of Mosambique</span> 30
 		years of age, houseboy, bequeathed to the widow for rd:s2000</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Silvester of
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Silvester of
 		Mosambique</span> 30 years of age, cook, chosen by the widow in lieu of the
 		done present deceased rd:s2000</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Sedda of this Colony</span> 40
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Sedda of this Colony</span> 40
 		years of age, housmaid, bequeathed to the widow for rd:s1700</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Styntje of Mosambique</span> 35 years of age, housmaid, with her child <span style="border-bottom: 2px dotted #008000;">Cecilia</span> , 11 years of age bequeathed to the widow, together
-		with her children procreated since the legacy has been made, namely <span style="border-bottom: 2px dotted #008000;">Dollie</span> born 11 Nov:r 1819 <span style="border-bottom: 2px dotted #008000;">Mina</span> born 5 Nov:r 1821 <span style="border-bottom: 2px dotted #008000;">Willem</span> born 24 June 1823 <span style="border-bottom: 2px dotted #008000;">Rozet</span> born 8 April 1825 for
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Styntje of Mosambique</span> 35 years of age, housmaid, with her child <span style="border-bottom: 2px dotted #00FF00;">Cecilia</span> , 11 years of age bequeathed to the widow, together
+		with her children procreated since the legacy has been made, namely <span style="border-bottom: 2px dotted #00FF00;">Dollie</span> born 11 Nov:r 1819 <span style="border-bottom: 2px dotted #00FF00;">Mina</span> born 5 Nov:r 1821 <span style="border-bottom: 2px dotted #00FF00;">Willem</span> born 24 June 1823 <span style="border-bottom: 2px dotted #00FF00;">Rozet</span> born 8 April 1825 for
 		the sum of rd:s3000</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Carolina</span> 17 years of age
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Carolina</span> 17 years of age
 		of this Colony, housmaid, bequeathed to the widow for rd:s2000</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Marietje</span> 27 years of age
-		of this Colony, housmaid, with her child <span style="border-bottom: 2px dotted #008000;">Isaac</span> 10 years of age, bequeathed to the widow for the
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Marietje</span> 27 years of age
+		of this Colony, housmaid, with her child <span style="border-bottom: 2px dotted #00FF00;">Isaac</span> 10 years of age, bequeathed to the widow for the
 		sum of rd:s2000</td>
     </tr>
     <tr>
-      <td>a female slave n:d <span style="border-bottom: 2px dotted #008000;">Alida n:o 2</span> , 48 1/2
-		years of age of this Colony, housmaid, with her children named <span style="border-bottom: 2px dotted #008000;">Candasa</span> 10 1/2 years of
-		age <span style="border-bottom: 2px dotted #008000;">Myntje or Mina</span> born 3 June 1821 <span style="border-bottom: 2px dotted #008000;">Rasia</span> 18
-		years of age <span style="border-bottom: 2px dotted #008000;">Alida n:o
+      <td>a female slave n:d <span style="border-bottom: 2px dotted #00FF00;">Alida n:o 2</span> , 48 1/2
+		years of age of this Colony, housmaid, with her children named <span style="border-bottom: 2px dotted #00FF00;">Candasa</span> 10 1/2 years of
+		age <span style="border-bottom: 2px dotted #00FF00;">Myntje or Mina</span> born 3 June 1821 <span style="border-bottom: 2px dotted #00FF00;">Rasia</span> 18
+		years of age <span style="border-bottom: 2px dotted #00FF00;">Alida n:o
 		3</span> born 30 May 1823 child of Rasia, bequeathed to the widow for the sum
 		of rd:s666:32</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Rachel of this Colony</span> 80
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Rachel of this Colony</span> 80
 		years of age, housmaid</td>
       <td rowspan='2' style='vertical-align: middle;'>who are to be manumitted according
 		to the last will and testament of the deceased</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Rosalie [n:o] 2 of
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Rosalie [n:o] 2 of
 		Madagascar</span> housmaid, 60 years of age</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Rosalie n:o 1</span> of this
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Rosalie n:o 1</span> of this
 		Colony 16 y:s of age, housmaid</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Alida n:o 1</span> of this
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Alida n:o 1</span> of this
 		Colony 13 y: of age, housmaid</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Mariana of Mosambique</span> 56 y:s of age, housmaid</td>
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Mariana of Mosambique</span> 56 y:s of age, housmaid</td>
       <td>to be manumitted after the death of the
 		widow</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Rozet of Mozambique</span> 40
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Rozet of Mozambique</span> 40
 		y:s of age, housmaid</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Cobus of this Colony</span> 18 y:s
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Cobus of this Colony</span> 18 y:s
 		of age bequeathed to Manuel Joa Olivier</td>
     </tr>
   </tbody>
@@ -56492,7 +56523,7 @@ In consequence of which the aforesaid property (after the seals of office
       <td>paid on the 7 April 1826 in part one hundred rd:s as
 		p:r receipt iss:d by Mr A: Brink the agent of the deceased; paid in part
 		rd:s150 31 January 1827</td>
-      <td>from <span style="border-bottom: 2px dotted #008000;">Candasa of the Cape</span> according to a notarial bond dated 15 January 1826 per balance</td>
+      <td>from <span style="border-bottom: 2px dotted #00FF00;">Candasa of the Cape</span> according to a notarial bond dated 15 January 1826 per balance</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
@@ -56502,7 +56533,7 @@ In consequence of which the aforesaid property (after the seals of office
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Marth:s Horak for hire of a <span style="border-bottom: 2px dotted #008000;">slave girl</span></td>
+      <td>from Marth:s Horak for hire of a <span style="border-bottom: 2px dotted #00FF00;">slave girl</span></td>
       <td>120:--</td>
     </tr>
   </tbody>
@@ -56605,7 +56636,7 @@ In consequence of which the aforesaid property (after the seals of office
   </tbody>
 </table>
 
-Thus inventoried at the placeon the 16 June 1826 according to a statement made by the aforesaid widow, Jacob
+Thus inventoried at the place <span style="border-bottom: 2px dotted #FF0000;">Lelybloem</span> on the 16 June 1826 according to a statement made by the aforesaid widow, Jacob
 	 van Reenen Fredrikz: and Sebastian Valentyn van Reenen who declared to have
 	 acted herein bonafide and that to the best of their knowledge they have not
 	 withheld or secreated anything that belonged to the aforesaid estate, and the
@@ -56636,7 +56667,7 @@ In my presence: J:J:L: Smuts
     <tr>
       <td>Memorandum</td>
       <td>from Marthinus Horak for 8
-		months hire of a <span style="border-bottom: 2px dotted #008000;">slave girl</span> at 13 rd:s
+		months hire of a <span style="border-bottom: 2px dotted #00FF00;">slave girl</span> at 13 rd:s
 		per month</td>
       <td>120</td>
       <td>9</td>
@@ -56654,8 +56685,8 @@ In my presence: J:J:L: Smuts
 ## MOOC8/43.44
 
  {18281023} 23 October
-	 1828 <span style="border-bottom: 2px dotted #008000;">Francois Jacobus
-	 du Toit</span> , <span style="border-bottom: 2px dotted #008000;">Anna Jacomina
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Francois Jacobus
+	 du Toit</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Jacomina
 	 Luttig</span> 
 
 Inventory of the property of the joint estate of Francois Jacobus du Toit
@@ -56696,14 +56727,14 @@ The aforesaid property having been taken under the administration of the
 <table>
   <tbody>
     <tr>
-      <td>The place calledsituated at the/district of, in the, measuring as per remaining extent 16
+      <td>The place called <span style="border-bottom: 2px dotted #FF0000;">Waterpoel</span> situated at the <span style="border-bottom: 2px dotted #FF0000;">Paarl Diamant</span> /district of <span style="border-bottom: 2px dotted #FF0000;">Drakenstein</span> , in the <span style="border-bottom: 2px dotted #FF0000;">Rheeboks Kloof</span> , measuring as per remaining extent 16
 		  morgen 482 square roods freehold, and 153 morgen and 264 square roods perpetual
 		  quitrent land</td>
     </tr>
     <tr>
       <td>his share in a certain place, together with a
-		  price of perpetual quitrent land, adjoining thereto called, situated as aforesaid / district
-		  of, measuring 61 morgen and 300
+		  price of perpetual quitrent land, adjoining thereto called <span style="border-bottom: 2px dotted #FF0000;">Brandenburg</span> , situated as aforesaid / district
+		  of <span style="border-bottom: 2px dotted #FF0000;">Drakenstein</span> , measuring 61 morgen and 300
 		  square roods of freehold and 45 morgen 525 square roods perpetual quitrent
 		  land</td>
     </tr>
@@ -57128,41 +57159,41 @@ The aforesaid property having been taken under the administration of the
   <thead><tr><td colspan='100%'>Slaves of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David of
+      <td><span style="border-bottom: 2px dotted #00FF00;">David of
 		this Colony</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">December</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">December</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">April</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">April</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Fortuyn</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Fortuyn</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Salomon</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Salomon</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jephta</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jephta</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Hendrik</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hendrik</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Present</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Present</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sanna</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sanna</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Amilie</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Amilie</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Aploon</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aploon</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Clara</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Clara</span></td>
     </tr>
   </tbody>
 </table>
@@ -57336,7 +57367,7 @@ The aforesaid property having been taken under the administration of the
       <td>&nbsp;</td>
       <td>to the three children of the surviving widow procreated in
 		  wedlock by her predeceased husband P:J: de Villiers A:son according to a
-		  notarial bond dated 21 July 1828 executed before the notary ofP:C: van Blommestein and
+		  notarial bond dated 21 July 1828 executed before the notary of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> P:C: van Blommestein and
 		  witnesses together</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -57616,7 +57647,7 @@ G:M: van Dyk
 
 ## MOOC8/43.45
 
- {18060628} 28 Juny 1806 <span style="border-bottom: 2px dotted #008000;">Hendrina Janszen</span> 
+ {18060628} 28 Juny 1806 <span style="border-bottom: 2px dotted #00FF00;">Hendrina Janszen</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Dingsdag den
 	 24:e deeser lopende maand Junij des middags de klocke tusschen twaalff en een
@@ -57677,22 +57708,22 @@ Zynde in gevolge van dien den boedel door ’t gemelde Collegie van Heeren
   <thead><tr><td colspan='100%'>Lijfeigenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #008000;">Sampeur van
+      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #00FF00;">Sampeur van
 		Mossambicque</span></td>
     </tr>
     <tr>
-      <td>een slavin gen:d <span style="border-bottom: 2px dotted #008000;">Roosje van
+      <td>een slavin gen:d <span style="border-bottom: 2px dotted #00FF00;">Roosje van
 		Mossambicque</span></td>
     </tr>
     <tr>
-      <td>een slavin gen:d <span style="border-bottom: 2px dotted #008000;">Petronella van de
+      <td>een slavin gen:d <span style="border-bottom: 2px dotted #00FF00;">Petronella van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>een slavin gen:d <span style="border-bottom: 2px dotted #008000;">Spasie van de Caab</span> en</td>
+      <td>een slavin gen:d <span style="border-bottom: 2px dotted #00FF00;">Spasie van de Caab</span> en</td>
     </tr>
     <tr>
-      <td>een slavin gen:d <span style="border-bottom: 2px dotted #008000;">Mariana van de
+      <td>een slavin gen:d <span style="border-bottom: 2px dotted #00FF00;">Mariana van de
 		Caab</span></td>
     </tr>
     <tr>
@@ -57771,36 +57802,36 @@ Betrekkelyk de slaven declareerd voormelde s:r J:J: Theron
 <table>
   <tbody>
     <tr>
-      <td>dat de slavinne <span style="border-bottom: 2px dotted #008000;">Alima</span> die blind is, en haar
-		  kind genaamd <span style="border-bottom: 2px dotted #008000;">Fennij</span> niet
+      <td>dat de slavinne <span style="border-bottom: 2px dotted #00FF00;">Alima</span> die blind is, en haar
+		  kind genaamd <span style="border-bottom: 2px dotted #00FF00;">Fennij</span> niet
 		  aan de overledene maar hem toebehoord, en reeds zeedert zestien jaaren blind
 		  is</td>
     </tr>
     <tr>
-      <td>dat ’t slaven meisje gen:d <span style="border-bottom: 2px dotted #008000;">Petronella</span> by hem
+      <td>dat ’t slaven meisje gen:d <span style="border-bottom: 2px dotted #00FF00;">Petronella</span> by hem
 		  woonagtig is</td>
     </tr>
     <tr>
-      <td>dat ’t slavenmeisje <span style="border-bottom: 2px dotted #008000;">Philippina</span> almede aan
+      <td>dat ’t slavenmeisje <span style="border-bottom: 2px dotted #00FF00;">Philippina</span> almede aan
 		  hem heeft toebehoord en verkogt is aan wylen Johannes Meintjes</td>
     </tr>
     <tr>
-      <td>dat de slaaf <span style="border-bottom: 2px dotted #008000;">Sanspeur van
+      <td>dat de slaaf <span style="border-bottom: 2px dotted #00FF00;">Sanspeur van
 		  Mosambicque</span> verhuurd is bij Andries Stephanus du Toit, in de Kaapstadt
 		  woonagtig</td>
     </tr>
     <tr>
-      <td>dat de slavinne <span style="border-bottom: 2px dotted #008000;">Roosje van Mosambicque</span> alsmede bij hem woonagtig is</td>
+      <td>dat de slavinne <span style="border-bottom: 2px dotted #00FF00;">Roosje van Mosambicque</span> alsmede bij hem woonagtig is</td>
     </tr>
     <tr>
-      <td>dat de slavinne <span style="border-bottom: 2px dotted #008000;">Spatie van de Kaap</span> verhuurd is bij Cornelis Kruger woonagtig aan</td>
+      <td>dat de slavinne <span style="border-bottom: 2px dotted #00FF00;">Spatie van de Kaap</span> verhuurd is bij Cornelis Kruger woonagtig aan <span style="border-bottom: 2px dotted #FF0000;">Papendorp</span></td>
     </tr>
     <tr>
-      <td>dat de slavinne <span style="border-bottom: 2px dotted #008000;">Mariana van de Kaap</span> , bij
+      <td>dat de slavinne <span style="border-bottom: 2px dotted #00FF00;">Mariana van de Kaap</span> , bij
 		  hem woonagtig is</td>
     </tr>
     <tr>
-      <td>en dat de slavinne <span style="border-bottom: 2px dotted #008000;">Drusella van de Kaap</span> almede aan hem toebehoord en zig almede bij hem ten woon bevind</td>
+      <td>en dat de slavinne <span style="border-bottom: 2px dotted #00FF00;">Drusella van de Kaap</span> almede aan hem toebehoord en zig almede bij hem ten woon bevind</td>
     </tr>
     <tr>
       <td>als zijnde de slavinne Philippina en Drusella,
@@ -57824,7 +57855,7 @@ Mij present: G:A: Watermeijer, E:C:
 
 ## MOOC8/43.46
 
- {18260829} 29 August 1826 <span style="border-bottom: 2px dotted #008000;">Martha Cornelia van der
+ {18260829} 29 August 1826 <span style="border-bottom: 2px dotted #00FF00;">Martha Cornelia van der
 	 Riet</span> 
 
 Inventory of the property of Mrs Martha Cornelia van der Riet widow of the
@@ -57882,12 +57913,12 @@ In consequence of which the aforesaid property was duly inventoried by the
   <tbody>
     <tr>
       <td>A house and erf with the buildings erected
-		  thereon situated in thisat the
-		  corner ofandbeing a part of n:o 2</td>
+		  thereon situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> at the
+		  corner of <span style="border-bottom: 2px dotted #FF0000;">Boomstreet</span> and <span style="border-bottom: 2px dotted #FF0000;">Buitekant</span> being a part of n:o 2</td>
     </tr>
     <tr>
       <td>three small houses and premises situated as
-		  above one theand two in thebeing part of n:o 5</td>
+		  above one the <span style="border-bottom: 2px dotted #FF0000;">Boomstreet</span> and two in the <span style="border-bottom: 2px dotted #FF0000;">Coffy Steeg</span> being part of n:o 5</td>
     </tr>
     <tr>
       <td>one ward robe</td>
@@ -57909,28 +57940,28 @@ In consequence of which the aforesaid property was duly inventoried by the
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Doortje of the Cape</span> to be
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Doortje of the Cape</span> to be
 		manumitted, according to the desire of the deceased</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Leonora of the Cape</span> , 22
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Leonora of the Cape</span> , 22
 		years of age to be manumitted, according to the desire of the deceased</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Silvia of Mallabaar</span> 55
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Silvia of Mallabaar</span> 55
 		years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Philida of the Cape</span> 40
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Philida of the Cape</span> 40
 		years of age</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Charles of the Cape</span> 23
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Charles of the Cape</span> 23
 		years of the Cape to be manumitted according to the desire of the
 		deceased</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Mentor of the Cape</span> 47
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Mentor of the Cape</span> 47
 		years of age, a cook</td>
     </tr>
   </tbody>
@@ -57944,7 +57975,7 @@ In consequence of which the aforesaid property was duly inventoried by the
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>one share in the,
+      <td>one share in the <span style="border-bottom: 2px dotted #FF0000;">African Theater</span> ,
 		amounting to</td>
       <td>3750</td>
     </tr>
@@ -58183,7 +58214,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/43.47
 
- {18290415} 15 April 1829 <span style="border-bottom: 2px dotted #008000;">Christopher Mackoy</span> 
+ {18290415} 15 April 1829 <span style="border-bottom: 2px dotted #00FF00;">Christopher Mackoy</span> 
 
 Copy
 
@@ -58198,7 +58229,7 @@ Inventory of property found in the estate of the late Christopher Mackoy
       <td>£</td>
     </tr>
     <tr>
-      <td>1 erf n:o 15 at</td>
+      <td>1 erf n:o 15 at <span style="border-bottom: 2px dotted #FF0000;">Port Francis</span></td>
       <td>7:10</td>
     </tr>
   </tbody>
@@ -58210,7 +58241,7 @@ We the undersigned chosen appraisers in the above mentioned estate do
 	 hereby make oath that the valuation made is to the best of our belief
 	 correct
 
-Sworn before me at4 March
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Grahamstown</span> 4 March
 	 1829
 
 /sig:d/ Dan: Boodie, Res: Magistrate
@@ -58222,7 +58253,7 @@ A true copy of the original delivered to the Master of the Supreme
 
 Examined: de Wet
 
-Inventory of the property of the late C: Mackoy brought fromby Captain Stanhope of H:M: Brig:
+Inventory of the property of the late C: Mackoy brought from <span style="border-bottom: 2px dotted #FF0000;">Delagoa Bay</span> by Captain Stanhope of H:M: Brig:
 
 <table>
   <tbody>
@@ -58742,13 +58773,13 @@ one gold rupee
 
 half a doubloon
 
-Thus done and executed atthis 15th day of April 1829.
+Thus done and executed at <span style="border-bottom: 2px dotted #FF0000;">Simons Town</span> this 15th day of April 1829.
 
 V:H:H: Osmond
 
 ## MOOC8/43.48
 
- {18270512} 12 May 1827 <span style="border-bottom: 2px dotted #008000;">Arend de Waal</span> 
+ {18270512} 12 May 1827 <span style="border-bottom: 2px dotted #00FF00;">Arend de Waal</span> 
 
 Inventory of all such property as have been relinquished by the death ab
 	 intestato of Arend de Waal Hendrik Son on the ninth day of the month of May in
@@ -58834,7 +58865,7 @@ The aforesaid property having been taken under the administration of the
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in the</td>
+      <td>A house and erf situated in the <span style="border-bottom: 2px dotted #FF0000;">Keerom Street N:o 23</span></td>
     </tr>
   </tbody>
 </table>
@@ -59806,20 +59837,20 @@ In the aforesaid house
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Floris of this Colony</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Floris of this Colony</span> ,
 		  tailor, 34 years</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jack of Mozambique</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jack of Mozambique</span> ,
 		  painter, 28 years</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td>by Hend:k de Waal junior</td>
       <td>a male slave
-		named <span style="border-bottom: 2px dotted #008000;">November of
+		named <span style="border-bottom: 2px dotted #00FF00;">November of
 		Madagascar</span> , shoemaker, 60 years</td>
       <td rowspan='2' style='vertical-align: middle;'>cannot be sold but
 		are at liberty to choose with whom of the heirs of the late widow of H:k de
@@ -59828,7 +59859,7 @@ In the aforesaid house
     </tr>
     <tr>
       <td>by Adriaan Louw A:zn</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Alie of this Colony</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Alie of this Colony</span> ,
 		houseboy, 35 years</td>
       <td>&nbsp;</td>
     </tr>
@@ -59930,7 +59961,7 @@ In the aforesaid house
       <td>interest from 1 April 1826</td>
     </tr>
     <tr>
-      <td>aandeselve dogter is
+      <td><span style="border-bottom: 2px dotted #FF0000;">Jongensdrift</span> aan <span style="border-bottom: 2px dotted #FF0000;">Bergrivier</span> deselve dogter is
 		erfgenaam</td>
       <td>from Cornelis Grobbelaar on a mortgage bond dated 22
 		February 1813 in capital ƒ6000</td>
@@ -60121,7 +60152,7 @@ In the aforesaid house
       <td>interest from 12 January 1825</td>
     </tr>
     <tr>
-      <td rowspan='4' style='vertical-align: middle;'>aan de; paid
+      <td rowspan='4' style='vertical-align: middle;'>aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> ; paid
 		November 1827</td>
       <td>from J:R: Louw on a note of hand dated 11 November
 		1818</td>
@@ -60263,8 +60294,8 @@ Hier refers de somma van het erfdeel van de kinderen van H: de Waal 5411 ƒ
 ## MOOC8/44.1
 
  {18231009} 9 October
-	 1823 <span style="border-bottom: 2px dotted #008000;">Petrus
-	 Wilhelmus Oosthuizen</span>  <span style="border-bottom: 2px dotted #008000;">Johanna Wilhelmina Snijman</span> 
+	 1823 <span style="border-bottom: 2px dotted #00FF00;">Petrus
+	 Wilhelmus Oosthuizen</span>  <span style="border-bottom: 2px dotted #00FF00;">Johanna Wilhelmina Snijman</span> 
 
 Inventaris van alle zodanige goederen, als ’er op den 6:de October 1823 ab
 	 intestato met ’er dood zijn ontruimd en naegelaaten door Johanna Wilhelmina
@@ -60461,7 +60492,7 @@ Zoodanig als dezelve door mij ondergeteekende veld cornet ter op en
   <thead><tr><td colspan='100%'>Bestial</td></tr></thead>
   <tbody>
     <tr>
-      <td>twintig trek ossen waarvan tien achterbij Piet Botha zijn</td>
+      <td>twintig trek ossen waarvan tien achter <span style="border-bottom: 2px dotted #FF0000;">Sneuwberg</span> bij Piet Botha zijn</td>
     </tr>
     <tr>
       <td>vier aanvok beesten</td>
@@ -60479,7 +60510,7 @@ Zoodanig als dezelve door mij ondergeteekende veld cornet ter op en
   <thead><tr><td colspan='100%'>Leifeigen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slavin gen: <span style="border-bottom: 2px dotted #008000;">Roset van de Caap</span> oud een
+      <td>een slavin gen: <span style="border-bottom: 2px dotted #00FF00;">Roset van de Caap</span> oud een
 		en twintig jaar</td>
     </tr>
   </tbody>
@@ -60513,7 +60544,7 @@ Zoodanig als dezelve door mij ondergeteekende veld cornet ter op en
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ter plaatze gen:op den 9 October 1823 ende
+Aldus gedaan en geinventariseerd ter plaatze gen: <span style="border-bottom: 2px dotted #FF0000;">Hartebeest Rivier</span> op den 9 October 1823 ende
 	 zulks op het op en aangeeven van gen: Petrus Wilhelmus Oosthuize, dewelke
 	 betuigd zich daarin ter goeder trouwe gedragen en zijns weetens niets
 	 verzweegen te hebben van al het geen tot den boedel af nalaatenschap behoord
@@ -60537,7 +60568,7 @@ In teegenwoordigheid van mij: T:E: Kleijnhans, Veld
 ## MOOC8/44.2a
 
  {18230122} 22 January
-	 1823 <span style="border-bottom: 2px dotted #008000;">Geertuida
+	 1823 <span style="border-bottom: 2px dotted #00FF00;">Geertuida
 	 Helena Coenradie</span> 
 
 Inventaris van alle zodanige goederen als er op Zondag den negentienden
@@ -60730,15 +60761,15 @@ Inventaris van alle zodanige goederen als er op Zondag den negentienden
   <thead><tr><td colspan='100%'>Lyfeigenen</td></tr></thead>
   <tbody>
     <tr>
-      <td rowspan='3' style='vertical-align: middle;'>een meid genaamd <span style="border-bottom: 2px dotted #008000;">Betje</span> oud 27 jaren huismeid
+      <td rowspan='3' style='vertical-align: middle;'>een meid genaamd <span style="border-bottom: 2px dotted #00FF00;">Betje</span> oud 27 jaren huismeid
 		met haare kinderen, genaamd</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Tiems</span> oud 12 jaren</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Tiems</span> oud 12 jaren</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Kitti</span> geboren den 22 February 1819 en</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Kitti</span> geboren den 22 February 1819 en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Louisa</span> geboren den 11 December 1820</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louisa</span> geboren den 11 December 1820</td>
     </tr>
   </tbody>
 </table>
@@ -60779,7 +60810,7 @@ My present: J: Serrurier, Adj:t C:s
 
 ## MOOC8/44.2b
 
- {18230122} 22 January 1823 <span style="border-bottom: 2px dotted #008000;">Geertruida Helena
+ {18230122} 22 January 1823 <span style="border-bottom: 2px dotted #00FF00;">Geertruida Helena
 	 Coenradie</span> 
 
 Notitie van het geen gevonden is in den boedel van wylen Geertruida Helena
@@ -60830,7 +60861,7 @@ Bovenstaande goederen by my ontvangen: D: Spies
 
 ## MOOC8/44.3
 
- {18280422} 22 April 1828 <span style="border-bottom: 2px dotted #008000;">Hendrik van Eck</span>  <span style="border-bottom: 2px dotted #008000;">Geertruida Elisabeth
+ {18280422} 22 April 1828 <span style="border-bottom: 2px dotted #00FF00;">Hendrik van Eck</span>  <span style="border-bottom: 2px dotted #00FF00;">Geertruida Elisabeth
 	 Lier</span> 
 
 J:G: Brink
@@ -60840,9 +60871,9 @@ Exhib: 14 May 1828, n:o 5
 A true and perfect inventory of all and every the goods, chatels, wares as
 	 well moveable as not debts, credits and other personal effects of the deceased
 	 Hendrik van Eck and predeceased wife Geertruida Elisabeth Lier which former
-	 died at the farm,on the 13:th October 1827 between
+	 died at the farm <span style="border-bottom: 2px dotted #FF0000;">Brandfontein</span> , <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> on the 13:th October 1827 between
 	 the hours of 9 and 10 a:m: within the field cornetcy of David Fourie district
-	 ofand given up as follows
+	 of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows
 
 <table>
   <tbody>
@@ -60884,7 +60915,7 @@ A true and perfect inventory of all and every the goods, chatels, wares as
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid</td>
-      <td>from Pieter Cornelis Muller, districtas per note of
+      <td>from Pieter Cornelis Muller <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> , district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> as per note of
 		hand</td>
       <td>192:5</td>
     </tr>
@@ -60894,7 +60925,7 @@ A true and perfect inventory of all and every the goods, chatels, wares as
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid</td>
-      <td>from Marthinus Hermanus le Roex,as per note of hand dated 10 May
+      <td>from Marthinus Hermanus le Roex <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> , <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> as per note of hand dated 10 May
 		1825</td>
       <td>336:--</td>
     </tr>
@@ -60903,7 +60934,7 @@ A true and perfect inventory of all and every the goods, chatels, wares as
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Pieter Ernst Kruger, districtas per note of
+      <td>from Pieter Ernst Kruger <span style="border-bottom: 2px dotted #FF0000;">Gouph</span> , district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> as per note of
 		hand</td>
       <td>100:--</td>
     </tr>
@@ -60963,7 +60994,7 @@ A true and perfect inventory of all and every the goods, chatels, wares as
   </tbody>
 </table>
 
-Thus done and registered in the village ofon Tuesday the 22:nd day of April 1828 in
+Thus done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Tuesday the 22:nd day of April 1828 in
 	 the presence of Mess:rs Christiaan Johannes Rabe and Walter Harding junior
 	 according to the statement of Hendrik van Eck junior who declared in his above
 	 statement of this estate to have acted honestly and truly that nothing has been
@@ -60981,14 +61012,14 @@ J:S: Meintjes, Ag:t Or: Chamb:
 
 ## MOOC8/44.4a
 
- {18270302} 2 March 1827 <span style="border-bottom: 2px dotted #008000;">Maria Wilhelmina de
+ {18270302} 2 March 1827 <span style="border-bottom: 2px dotted #00FF00;">Maria Wilhelmina de
 	 Waal</span> 
 
 Inventory of all such property relinquished by the death of Maria
 	 Wilhelmina de Waal widow of the late John Pigolt Watney which happened on the
 	 twenty seventh day of the month of February in the year of our Lord one
 	 thousand eight hundred and twenty seven. The deceased having by her last will
-	 and testament executed atbefore seven
+	 and testament executed at <span style="border-bottom: 2px dotted #FF0000;">Wynberg</span> before seven
 	 witnesses on the 25:th February 1827 appointed as her sole and universal heirs
 	 her two children named Peter Watney and Maria Josina Christina Watney born on
 	 the [ ..... ] November in the year 1807, the portion of the firstmentioned with
@@ -61004,50 +61035,50 @@ In consequence of which the aforesaid property /:after the seals had been
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td>A place calledsold to Mr Philip Cloete by the
+      <td>A place called <span style="border-bottom: 2px dotted #FF0000;">Klapmuts</span> sold to Mr Philip Cloete by the
 		  deceased as per agreement dated the 18:th January 1826 for the sum of
 		  ƒ130000</td>
     </tr>
     <tr>
       <td>7 April</td>
       <td>a place annex the
-		  aforesaid placesituated in the
-		  district ofas per deed of
+		  aforesaid place <span style="border-bottom: 2px dotted #FF0000;">Klapmuts</span> situated in the
+		  district of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> as per deed of
 		  transfer dated the 11:th June 1819 occupied by Mr Peter Watney who has the
 		  right according to a verbal agreement between the deceased and the said Mr
 		  Watney to retain the place for the sum of ƒ50000</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a place calledsituated inwith the right on certain land
-		  calledsurrounding the said place
+      <td>a place called <span style="border-bottom: 2px dotted #FF0000;">Slangekop</span> situated in <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span> with the right on certain land
+		  called <span style="border-bottom: 2px dotted #FF0000;">Klipfontein</span> surrounding the said place
 		  granted to the deceased’s husband for a term of twenty eight years calculated
 		  from [ ..... ]</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a piece of land calledsituated atwith buildings thereon adjacent
-		  to the loanplacewhich has been let
+      <td>a piece of land called <span style="border-bottom: 2px dotted #FF0000;">Bottelary</span> situated at <span style="border-bottom: 2px dotted #FF0000;">Saldanha Bay</span> with buildings thereon adjacent
+		  to the loanplace <span style="border-bottom: 2px dotted #FF0000;">Oostewal</span> which has been let
 		  by the deceased to James Stone for the term of seven years calculated from the
 		  1:st June 1826 as per agreement dated 6:th May 1826 for the sum of rd:s800 per
 		  annum</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a loanplace calledsituated in the district ofsold by the deceased to Mr Thomas
+      <td>a loanplace called <span style="border-bottom: 2px dotted #FF0000;">Cogelberg</span> situated in the district of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> sold by the deceased to Mr Thomas
 		  Fredrik Dreyer for a sum of ƒ6000 to be paid on the 8:th March 1826</td>
     </tr>
     <tr>
       <td>+ intrest v:n 1 Feb: 1827</td>
       <td>a
-		  loanplace calledsituated in theannex the place</td>
+		  loanplace called <span style="border-bottom: 2px dotted #FF0000;">Gemsboks Kuil</span> situated in the <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span> annex the place <span style="border-bottom: 2px dotted #FF0000;">Klipfontein</span></td>
     </tr>
     <tr>
       <td>received in paiment of his claim rd:s387:6 or
 		  £27:0:8 1/4 1 June 1827. Received again in part of Mr Oostheyden claim rd:s800
 		  £60 the 21 Aug:t 1827</td>
       <td>a house and erf with a small house adjoining
-		  situated in thisinpurchased from lieutenant
+		  situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Keeromstreet</span> purchased from lieutenant
 		  Oostheyden for a sum of ƒ45000</td>
     </tr>
   </tbody>
@@ -61859,7 +61890,7 @@ In the house of Mrs Rowles occupied by the deceased
       <td>a covered waggon</td>
     </tr>
     <tr>
-      <td>eight horses, four at[sold at]</td>
+      <td>eight horses, four at <span style="border-bottom: 2px dotted #FF0000;">Klipfontein</span> [sold at <span style="border-bottom: 2px dotted #FF0000;">Klipf</span> ]</td>
     </tr>
     <tr>
       <td>a set harness for 8 horses</td>
@@ -61872,171 +61903,171 @@ In the house of Mrs Rowles occupied by the deceased
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Abraham</span> of this Colony 37 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abraham</span> of this Colony 37 years of age,
 		cooper</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Cutto of Madagascar</span> 40 years of age, waggon
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cutto of Madagascar</span> 40 years of age, waggon
 		driver</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Christiaan of Mosambique</span> 40 years of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Christiaan of Mosambique</span> 40 years of
 		age, labourer</td>
     </tr>
     <tr>
       <td>paid 25 r: for 2 months hire up to ulti: Octob: last,
 		9 M:h 1827</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Fredrik</span> of this Colony 42 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Fredrik</span> of this Colony 42 years of age,
 		tailor</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Job of Mosambique</span> 34 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Job of Mosambique</span> 34 years of age,
 		sawyer</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jacob of Mosambique</span> 52 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jacob of Mosambique</span> 52 years of age,
 		gardner</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jass of Mosambique</span> 32 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jass of Mosambique</span> 32 years of age,
 		butcher</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Keyce</span> of this Colony coachman 45 years of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Keyce</span> of this Colony coachman 45 years of
 		age</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Geduld of Mosambique</span> 55 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Geduld of Mosambique</span> 55 years of age,
 		labourer</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">David</span> of this Colony 12 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">David</span> of this Colony 12 years of age</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Louis of Mosambique</span> 32 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louis of Mosambique</span> 32 years of age,
 		labourer</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Moses of Mosambique</span> 55 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Moses of Mosambique</span> 55 years of age,
 		labourer</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">September</span> of this Colony 32 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">September</span> of this Colony 32 years of age,
 		coachman</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Onverwagt of Mosambique</span> 38 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Onverwagt of Mosambique</span> 38 years of age,
 		labourer</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Louis of Mosambique</span> 35 1/2 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louis of Mosambique</span> 35 1/2 years of age,
 		cook</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Final of Madagascar</span> upwards of 80 years
+      <td><span style="border-bottom: 2px dotted #00FF00;">Final of Madagascar</span> upwards of 80 years
 		herdsman given to Mr Watney by the deceased according to Mr Watneys
 		statement</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">May from Bengal</span> 40 years of age, cellar
+      <td><span style="border-bottom: 2px dotted #00FF00;">May from Bengal</span> 40 years of age, cellar
 		boy</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jephta</span> of this Colony 17 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jephta</span> of this Colony 17 years of age</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Cornelis</span> of this Colony 15 years of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cornelis</span> of this Colony 15 years of
 		age</td>
     </tr>
     <tr>
       <td>vry, 2 Maart 1829</td>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Carolina</span> of this Colony
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Carolina</span> of this Colony
 		26 years of age, housemaid</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Doortje</span> of this Colony 30 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doortje</span> of this Colony 30 years of age,
 		housemaid</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Eva</span> of this Colony 14 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Eva</span> of this Colony 14 years of age,
 		housemaid</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Juliana of Mosambique</span> 35 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Juliana of Mosambique</span> 35 years of age,
 		washerwoman, with her child</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Telniet</span> born 8:th May 1823</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Telniet</span> born 8:th May 1823</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Mariana of Mosambique</span> 55 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mariana of Mosambique</span> 55 years of age,
 		cook</td>
     </tr>
     <tr>
       <td>vry, 14 June 1827</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel</span> of this Colony 24 years
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel</span> of this Colony 24 years
 		of age, ladies maid to the emancipated, according to the tenor of the will of
 		the deceased</td>
     </tr>
     <tr>
       <td>sold</td>
-      <td rowspan='3' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Rachel</span> (2) of this Colony 32 years of age,
+      <td rowspan='3' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Rachel</span> (2) of this Colony 32 years of age,
 		housemaid, with her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Cutto</span> born on the 26:th January 1820 and</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cutto</span> born on the 26:th January 1820 and</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Daily</span> born on the 27 December 1822 and</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Daily</span> born on the 27 December 1822 and</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">John</span> born on the 17:th August 1825</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">John</span> born on the 17:th August 1825</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Rosina</span> of this Colony 22 years of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rosina</span> of this Colony 22 years of age,
 		housemaid,</td>
     </tr>
     <tr>
       <td>vry, 14 June 1827</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Spasie</span> of this Colony 38 years
+      <td><span style="border-bottom: 2px dotted #00FF00;">Spasie</span> of this Colony 38 years
 		of age housemaid to be emancipated according to the tenor of the will of the
 		deceased</td>
     </tr>
     <tr>
       <td rowspan='4' style='vertical-align: middle;'>sold</td>
-      <td rowspan='4' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Diana</span> of this Colony 33 years of
+      <td rowspan='4' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Diana</span> of this Colony 33 years of
 		age housemaid with her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Carolina</span> born 20:th December 1819 and</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Carolina</span> born 20:th December 1819 and</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abraham</span> born the 27:th April 1824 -
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abraham</span> born the 27:th April 1824 -
 		dood</td>
     </tr>
     <tr>
-      <td>and <span style="border-bottom: 2px dotted #008000;">August</span> born 12 January 1829</td>
+      <td>and <span style="border-bottom: 2px dotted #00FF00;">August</span> born 12 January 1829</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abigael</span> of this Colony 12 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abigael</span> of this Colony 12 years of age</td>
     </tr>
   </tbody>
 </table>
@@ -62066,7 +62097,7 @@ In the house of Mrs Rowles occupied by the deceased
     <tr>
       <td rowspan='3' style='vertical-align: middle;'>interest paid up to 1 M:h 1828 7 M:
 		1828</td>
-      <td>from Philip Cloete the purchase money of the placeƒ130000</td>
+      <td>from Philip Cloete the purchase money of the place <span style="border-bottom: 2px dotted #FF0000;">Klapmuts</span> ƒ130000</td>
       <td>43333:16:--</td>
     </tr>
     <tr>
@@ -62086,7 +62117,7 @@ In the house of Mrs Rowles occupied by the deceased
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid 25:th Septemb:
 		1829</td>
-      <td>from Thomas Fredrik Dreyer the purchase money of the placeƒ6000</td>
+      <td>from Thomas Fredrik Dreyer the purchase money of the place <span style="border-bottom: 2px dotted #FF0000;">Cogelbay</span> ƒ6000</td>
       <td>2000:--:--</td>
     </tr>
     <tr>
@@ -62114,10 +62145,10 @@ In the house of Mrs Rowles occupied by the deceased
       <td>with the interest from the 5 October 1826</td>
     </tr>
     <tr>
-      <td>the rent of the placeper balance rd:50 paid April 1827, also rd:110 in part of the furniture, 19:th
+      <td>the rent of the place <span style="border-bottom: 2px dotted #FF0000;">Bottelary</span> per balance rd:50 paid April 1827, also rd:110 in part of the furniture, 19:th
 		Februarij 1828 paid again rd:110, 4:th Februarij 1830 paid in full of the
 		furniture rd:s110</td>
-      <td>from James Stone rent of the placefrom 1:st June 1826 upon which had
+      <td>from James Stone rent of the place <span style="border-bottom: 2px dotted #FF0000;">Bottelary</span> from 1:st June 1826 upon which had
 		bee paid rd:s350</td>
     </tr>
     <tr>
@@ -62185,7 +62216,7 @@ In the house of Mrs Rowles occupied by the deceased
     <tr>
       <td>&nbsp;</td>
       <td>to be taken over by the purchases
-		of the place</td>
+		of the place <span style="border-bottom: 2px dotted #FF0000;">Klapmuts</span></td>
     </tr>
     <tr>
       <td>paid 15:th Julij 1828</td>
@@ -62196,7 +62227,7 @@ In the house of Mrs Rowles occupied by the deceased
     <tr>
       <td>&nbsp;</td>
       <td>it is hereby further stated that the boy
-		named <span style="border-bottom: 2px dotted #008000;">Willem</span> a herdsman
+		named <span style="border-bottom: 2px dotted #00FF00;">Willem</span> a herdsman
 		which the deceased has sold to Adriaan Cloete for the sum of rd:s[ ..... ] was
 		afterwards dicovered not being registered on the books at the office or the
 		Enregisterment of Slaves and that therefore enquiry is to be made before this
@@ -62229,13 +62260,13 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.4b
 
- {18270326} 26 March 1827 <span style="border-bottom: 2px dotted #008000;">Maria Wilhelmina de
+ {18270326} 26 March 1827 <span style="border-bottom: 2px dotted #00FF00;">Maria Wilhelmina de
 	 Waal</span> 
 
 Inventory of all such property relinquished by the death of Maria
 	 Wilhelmina de Waal widow of the late John Pigot Watney which happened on the
 	 twenty seventh day of the month of February in the year of our Lord one
-	 thousand eight hundred and twenty seven and was found at the placesituated in, viz:
+	 thousand eight hundred and twenty seven and was found at the place <span style="border-bottom: 2px dotted #FF0000;">Slange Kop</span> situated in <span style="border-bottom: 2px dotted #FF0000;">Swartland</span> , viz:
 
 <table>
   <tbody>
@@ -62419,7 +62450,7 @@ In my presence: J:J:L: Smuts
 ## MOOC8/44.5
 
  {18161226} 26 December
-	 1816 <span style="border-bottom: 2px dotted #008000;">Hermanus
+	 1816 <span style="border-bottom: 2px dotted #00FF00;">Hermanus
 	 Oosterloo</span> 
 
 Infentaris van de nagelaatene goederen, nagelaaten door wijlen Hermanus
@@ -62623,7 +62654,7 @@ Als getuyge: Jacobus Pitrus Viljoen
 
 ## MOOC8/44.6a
 
- {18281014} 14 October 1828 <span style="border-bottom: 2px dotted #008000;">Rynier van Jaarsveld</span> , <span style="border-bottom: 2px dotted #008000;">Catharina Welhelmina
+ {18281014} 14 October 1828 <span style="border-bottom: 2px dotted #00FF00;">Rynier van Jaarsveld</span> , <span style="border-bottom: 2px dotted #00FF00;">Catharina Welhelmina
 	 Wilken</span> 
 
 Inventory of the property belonging to the estate of Rynier van Jaarsveld
@@ -62634,8 +62665,8 @@ Inventory of the property belonging to the estate of Rynier van Jaarsveld
 <table>
   <tbody>
     <tr>
-      <td>the female slave named <span style="border-bottom: 2px dotted #008000;">Roos</span> about 31 years of age
-		  with her male child, named <span style="border-bottom: 2px dotted #008000;">Damon</span> 1 1/3 years of age</td>
+      <td>the female slave named <span style="border-bottom: 2px dotted #00FF00;">Roos</span> about 31 years of age
+		  with her male child, named <span style="border-bottom: 2px dotted #00FF00;">Damon</span> 1 1/3 years of age</td>
     </tr>
     <tr>
       <td>1 ox waggon complete</td>
@@ -62824,7 +62855,7 @@ Inventory of the property belonging to the estate of Rynier van Jaarsveld
   </tbody>
 </table>
 
-, district of14:th October 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Zwarte Ruggens</span> , district of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 14:th October 1828
 
 Alex Tennant, Agent
 
@@ -62832,12 +62863,13 @@ Witness: J:J:F: le Clus
 
 ## MOOC8/44.6b
 
- {18280903} 3 September 1828 <span style="border-bottom: 2px dotted #008000;">Rynier van Jaarsveld</span>  <span style="border-bottom: 2px dotted #008000;">Catharina Welhelmina Wilken</span> 
+ {18280903} 3 September 1828 <span style="border-bottom: 2px dotted #00FF00;">Rynier van Jaarsveld</span>  <span style="border-bottom: 2px dotted #00FF00;">Catharina Welhelmina Wilken</span> 
 
 Rynier van Jaarsveld 48 years of age born in this Colony died on Saturday
-	 3:rd July 1828 on the farm calledbelonging to the widow Elizabeth Wilken situated in the district
-	 ofand field cornetship of Peter
-	 Adriaan Gouws M: son
+	 3:rd July 1828 on the farm called <span style="border-bottom: 2px dotted #FF0000;">Zwarte
+	 Ruggens</span> belonging to the widow Elizabeth Wilken situated in the district
+	 of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> and field cornetship of Peter
+	 Adriaan Gouws M: son <span style="border-bottom: 2px dotted #FF0000;">Zwarte Ruggens</span> 
 
 <table>
   <tbody>
@@ -62889,10 +62921,10 @@ The following is copy of an inventory of the property belonging to the
 <table>
   <tbody>
     <tr>
-      <td>male slave <span style="border-bottom: 2px dotted #008000;">Damon</span></td>
+      <td>male slave <span style="border-bottom: 2px dotted #00FF00;">Damon</span></td>
     </tr>
     <tr>
-      <td>female slave <span style="border-bottom: 2px dotted #008000;">Roos</span></td>
+      <td>female slave <span style="border-bottom: 2px dotted #00FF00;">Roos</span></td>
     </tr>
     <tr>
       <td>1 ox waggon complete</td>
@@ -63051,7 +63083,7 @@ Sign:d: P:A: Gouws, Veld cornet
 
 Witnesses: sign:d Jan Gouws, C: Gouws
 
-3:rd September 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 3:rd September 1828
 
 Alex: Tennant, Agent of the Orphan Chamber
 
@@ -63069,7 +63101,7 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>H:k J:s van Vuuren sen:r</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zuurveld</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>purchased of 1 b:t candy and 2
 		1/2 aums brandy</td>
       <td>145</td>
@@ -63077,7 +63109,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>J:s S:s Gouws paid</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte
+		Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>promisary
 		note</td>
       <td>75</td>
@@ -63085,7 +63118,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>C:J: Gouws paid</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte
+		Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>promisary
 		note</td>
       <td>100</td>
@@ -63093,7 +63127,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>C: Gouws Gert son</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte
+		Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>promisary
 		note</td>
       <td>60</td>
@@ -63101,7 +63136,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>G:n J:s Slabbert paid</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte
+		Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>purchased of 15 oxen, accept
 		at 12 months</td>
       <td>150</td>
@@ -63110,7 +63146,7 @@ Alex: Tennant, Agent of the Orphan Chamber
     <tr>
       <td>J:J: Slabbert paid, paid in part Rd:270 13 Novb:r
 		1828</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>promisary
 		note</td>
       <td>400</td>
@@ -63118,7 +63154,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>J:J: Slabbert</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte
+		Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>promisary
 		note</td>
       <td>50</td>
@@ -63126,7 +63163,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>P:A: Gouws M: son paid, paid 13 Novb:r 1828</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zwarte
+		Ruggens</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>purchased of 200 goats accept
 		12 months</td>
       <td>150</td>
@@ -63134,7 +63172,8 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>J:s Gouws paid</td>
-      <td>,</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Zondags
+		Rivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>purchased
 		of 52 sheep accept at 12 months</td>
       <td>52</td>
@@ -63164,28 +63203,28 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>J:J:F: Roselt</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>sundries purchased at public
 		sale</td>
       <td>339</td>
     </tr>
     <tr>
       <td>A:m J:s Welken</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>money
 		borrowed</td>
       <td>41</td>
     </tr>
     <tr>
       <td>Gert Gouws</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Winterveld</span></td>
       <td>for 25
 		sheep</td>
       <td>50</td>
     </tr>
     <tr>
       <td>Barrel Botha</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Winterveld</span></td>
       <td>for 7
 		oxen</td>
       <td>125</td>
@@ -63193,7 +63232,7 @@ Alex: Tennant, Agent of the Orphan Chamber
     </tr>
     <tr>
       <td>Gert Slabbert</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Winterveld</span></td>
       <td>for
 		reams</td>
       <td>15</td>
@@ -63207,19 +63246,19 @@ Alex: Tennant, Agent of the Orphan Chamber
   </tbody>
 </table>
 
-3:rd September 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 3:rd September 1828
 
 Alex: Tennant, Agent
 
 ## MOOC8/44.6c
 
- {18280812} 12 Augustus 1828 <span style="border-bottom: 2px dotted #008000;">Rijnier van Jasveld</span>  <span style="border-bottom: 2px dotted #008000;">Cattrina Welhelminaa Welken</span> 
+ {18280812} 12 Augustus 1828 <span style="border-bottom: 2px dotted #00FF00;">Rijnier van Jasveld</span>  <span style="border-bottom: 2px dotted #00FF00;">Cattrina Welhelminaa Welken</span> 
 
 Sale 15 Oct: 1828
 
-Agent at
+Agent at <span style="border-bottom: 2px dotted #FF0000;">Uitenhagen</span> 
 
-den 12 Augustus 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Zwarte Ruggens</span> den 12 Augustus 1828
 
 Enfetares van de geheele enboedel van den overledene Rijnier van Jasveld
 	 naagelaten vrouw Cattrina Welhelminaa Welken
@@ -63233,8 +63272,8 @@ Enfetares van de geheele enboedel van den overledene Rijnier van Jasveld
       <td>5 dogters</td>
     </tr>
     <tr>
-      <td>1 slaaffen <span style="border-bottom: 2px dotted #008000;">Roos</span> boven de 16 jaar, 1
-		  jonge onder de 16 jaar <span style="border-bottom: 2px dotted #008000;">Damon</span></td>
+      <td>1 slaaffen <span style="border-bottom: 2px dotted #00FF00;">Roos</span> boven de 16 jaar, 1
+		  jonge onder de 16 jaar <span style="border-bottom: 2px dotted #00FF00;">Damon</span></td>
     </tr>
     <tr>
       <td>1 osse wagen met zyn volle toebehoren</td>
@@ -63395,7 +63434,7 @@ Als getuigen: Jan Gouws, C: Gouws
 
 ## MOOC8/44.7
 
- {18250405} 5 April 1825 <span style="border-bottom: 2px dotted #008000;">Frans Rynhard Bresler</span>  <span style="border-bottom: 2px dotted #008000;">Maria Elizabeth Brink</span> 
+ {18250405} 5 April 1825 <span style="border-bottom: 2px dotted #00FF00;">Frans Rynhard Bresler</span>  <span style="border-bottom: 2px dotted #00FF00;">Maria Elizabeth Brink</span> 
 
 Inventory of the joint property of Frans Rynhard Bresler Esq:re late
 	 member of the worshipful the Court of Justice and his wife Maria Elizabeth
@@ -63432,18 +63471,20 @@ In consequence of which the aforesaid property (after the seals of office
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in this,</td>
+      <td>A house and erf situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> , <span style="border-bottom: 2px dotted #FF0000;">Gravestreet</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o
+		  14</span></td>
     </tr>
     <tr>
-      <td>a house and erf on theN:B: the said house is at present divided in two</td>
+      <td>a house and erf on the <span style="border-bottom: 2px dotted #FF0000;">Keyzersgracht</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o [
+		  ..... ]</span> N:B: the said house is at present divided in two</td>
     </tr>
     <tr>
-      <td>an erf situated in thebeing a part of the
-		  Freemasons garden called de</td>
+      <td>an erf situated in the <span style="border-bottom: 2px dotted #FF0000;">S:t Jan’s Street</span> being a part of the
+		  Freemasons garden called de <span style="border-bottom: 2px dotted #FF0000;">Goede Hoop</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 4</span></td>
     </tr>
     <tr>
-      <td>an erf situated in thebeing a part of the
-		  Freemasons garden called de</td>
+      <td>an erf situated in the <span style="border-bottom: 2px dotted #FF0000;">S:t Jan’s Street</span> being a part of the
+		  Freemasons garden called de <span style="border-bottom: 2px dotted #FF0000;">Goede Hoop</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 5</span></td>
     </tr>
   </tbody>
 </table>
@@ -64704,11 +64745,11 @@ In consequence of which the aforesaid property (after the seals of office
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adam of the Cape</span> , labourer,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adam of the Cape</span> , labourer,
 		aged 49 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Basta</span> from the
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Basta</span> from the
 		coast of Cormandel, labourer, aged 55 years</td>
       <td>this slave can only be
 		sold to the heirs of the estate of the proprietor and is always to remain in
@@ -64718,53 +64759,53 @@ In consequence of which the aforesaid property (after the seals of office
 		2:d February 1796</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jan</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jan</span> of this Colony,
 		carpenter, aged 23 years</td>
       <td>under the same conditions as above</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adonis</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adonis</span> of this Colony,
 		labourer, aged 39 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jack</span> cook ofaged 45 years</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jack</span> cook of <span style="border-bottom: 2px dotted #FF0000;">Mosambique</span> aged 45 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">January of Mosambique</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">January of Mosambique</span> ,
 		houseboy, aged 44 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Izaak</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Izaak</span> of this Colony,
 		tailor, aged 29 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Dick</span> of this Colony, tailor,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Dick</span> of this Colony, tailor,
 		aged 25 years</td>
       <td>to be manumitted after the death of the survivor Mrs
 		Maria Elizabeth Brink widow of the deceased</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Charles</span> of this Colony
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Charles</span> of this Colony
 		aged 12 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Joemat</span> of this Colony aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Joemat</span> of this Colony aged
 		11 years</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Samuel</span> born on the 27:t of
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Samuel</span> born on the 27:t of
 		April 1821</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Amilie</span> aged 65 years</td>
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Amilie</span> aged 65 years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Roosje of Batavia</span> aged 59
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Roosje of Batavia</span> aged 59
 		years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Fredrica</span> of this Colony,
-		servant made, aged 25 years and her child <span style="border-bottom: 2px dotted #008000;">Anna</span> born on the 30 July
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Fredrica</span> of this Colony,
+		servant made, aged 25 years and her child <span style="border-bottom: 2px dotted #00FF00;">Anna</span> born on the 30 July
 		1827</td>
       <td rowspan='2' style='vertical-align: middle;'>these female slaves as well as their children, can
 		only be sold to the heirs of the estate of the proprietor and are always to
@@ -64772,19 +64813,19 @@ In consequence of which the aforesaid property (after the seals of office
 		testament of the above late widow Joh:s Bresler</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Philida</span> of this Colony,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Philida</span> of this Colony,
 		servant made, aged 15 years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Amilie</span> of this Colony,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Amilie</span> of this Colony,
 		servant made, aged 15 years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Charlotta</span> of this
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Charlotta</span> of this
 		Colony, servant made, aged 13 years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Satira</span> of this Colony
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Satira</span> of this Colony
 		about 10 years of age</td>
     </tr>
   </tbody>
@@ -64970,7 +65011,7 @@ In consequence of which the aforesaid property (after the seals of office
     <tr>
       <td>&nbsp;</td>
       <td>from the carpenter J: Ulrich for hire of
-		a slave boy named <span style="border-bottom: 2px dotted #008000;">Jan</span> since
+		a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Jan</span> since
 		the 1:t of January last at 40 rd: per
 		month</td>
       <td>&nbsp;</td>
@@ -64979,7 +65020,7 @@ In consequence of which the aforesaid property (after the seals of office
     <tr>
       <td>&nbsp;</td>
       <td>from Valentyn (tailor) the balance due
-		by him for hire of a slave boy named <span style="border-bottom: 2px dotted #008000;">Dick</span> up to 31:t December
+		by him for hire of a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Dick</span> up to 31:t December
 		1824</td>
       <td>20:--</td>
     </tr>
@@ -65007,7 +65048,7 @@ In consequence of which the aforesaid property (after the seals of office
     <tr>
       <td>&nbsp;</td>
       <td>from Christiaan Fisscher (mason) for
-		hire of <span style="border-bottom: 2px dotted #008000;">January</span> from 1:st
+		hire of <span style="border-bottom: 2px dotted #00FF00;">January</span> from 1:st
 		of January at 32 rix:s per month</td>
       <td>93:42</td>
     </tr>
@@ -66267,7 +66308,7 @@ Catalogus van boeken behorende tot den boedel van wylen den wel: ed: heer
 ## MOOC8/44.8
 
  {18281106} 6 November
-	 1828 <span style="border-bottom: 2px dotted #008000;">Helena Catharina
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Helena Catharina
 	 Krugel</span> 
 
 Friday 28 Nov: 1828
@@ -66313,7 +66354,8 @@ In consequence of which the aforesaid property has been duly inventoried
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in</td>
+      <td>A house and erf situated in <span style="border-bottom: 2px dotted #FF0000;">Bay Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:
+		  28</span></td>
     </tr>
     <tr>
       <td>a sofa</td>
@@ -66502,67 +66544,67 @@ In consequence of which the aforesaid property has been duly inventoried
   <tbody>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Januarij of Mosambique</span> 52 y:s of age,
+      <td><span style="border-bottom: 2px dotted #00FF00;">Januarij of Mosambique</span> 52 y:s of age,
 		labourer</td>
     </tr>
     <tr>
       <td>emancipated Decemb: 1828</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Meford of Batavia</span> about 44 y:s
+      <td><span style="border-bottom: 2px dotted #00FF00;">Meford of Batavia</span> about 44 y:s
 		of age to be emancipated according to a codicil dated 26 Septemb: 1828</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Gerrit</span> of this Colony 16 y:s of age bequeathed
+      <td><span style="border-bottom: 2px dotted #00FF00;">Gerrit</span> of this Colony 16 y:s of age bequeathed
 		according to a codicil dated 26 Septemb: 1824 to the aforesaid P: Watney</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Matthys</span> of this Colony 14 y: of age
+      <td><span style="border-bottom: 2px dotted #00FF00;">Matthys</span> of this Colony 14 y: of age
 		bequeathed as above to Miss [ ..... ] Watney</td>
     </tr>
     <tr>
       <td rowspan='6' style='vertical-align: middle;'>emancipated Decemb: 1828</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Eva</span> 14 y:s of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Eva</span> 14 y:s of
 		age</td>
       <td>&nbsp;</td>
       <td rowspan='3' style='vertical-align: middle;'>to be emancipated according to a codicil
 		dated 26 Septemb: 1824</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Betje</span> born 4 April 1819</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Betje</span> born 4 April 1819</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jane</span> born 15
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jane</span> born 15
 		May 1817</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel</span> of this Colony 46
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel</span> of this Colony 46
 		y:s</td>
       <td>&nbsp;</td>
       <td rowspan='3' style='vertical-align: middle;'>to be emancipated according to a codicil
 		dated 19 July 1826</td>
     </tr>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Rebecca</span> of this Colony with her
+      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Rebecca</span> of this Colony with her
 		children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Carel</span> b:n 6 Sep: 1821</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Carel</span> b:n 6 Sep: 1821</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Meford</span> born 8 Octob: 1823</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Meford</span> born 8 Octob: 1823</td>
     </tr>
     <tr>
       <td>emancipated Decemb: 1828</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Martha</span> of this Colony 48 y:s of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Martha</span> of this Colony 48 y:s of
 		age to be emancipated according to said codicil of 19 July 1824</td>
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>not</td>
-      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Rachel</span> of this Colony 21 y:s of age with her
+      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Rachel</span> of this Colony 21 y:s of age with her
 		two children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Moos</span> born [ ..... ]</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Moos</span> born [ ..... ]</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Meford</span> born 17 Oct: 1828</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Meford</span> born 17 Oct: 1828</td>
     </tr>
   </tbody>
 </table>
@@ -66681,7 +66723,7 @@ In consequence of which the aforesaid property has been duly inventoried
     </tr>
     <tr>
       <td>paid 15:th October 1824</td>
-      <td>to the church at theon condition that the tombe in which her
+      <td>to the church at the <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> on condition that the tombe in which her
 		remains will be placed shall be kept in proper state of repair according to the
 		aforesaid will ƒ1000</td>
       <td>333:16</td>
@@ -66729,7 +66771,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.9
 
- {18250915} 15 September 1825 <span style="border-bottom: 2px dotted #008000;">Harry Muggridge</span> 
+ {18250915} 15 September 1825 <span style="border-bottom: 2px dotted #00FF00;">Harry Muggridge</span> 
 
 d: 15 Sep: 1825
 
@@ -67859,12 +67901,12 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.10a
 
- {18280621} 21 June 1828 <span style="border-bottom: 2px dotted #008000;">Thomas Lawson</span> 
+ {18280621} 21 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Thomas Lawson</span> 
 
 Inventory of the goods and effects belonging to the intestate estate of
-	 Thomas Lawson born inlate Resident
-	 Magistrate of the district ofwho died
-	 at his residence inon the
+	 Thomas Lawson born in <span style="border-bottom: 2px dotted #FF0000;">Scotland</span> late Resident
+	 Magistrate of the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> who died
+	 at his residence in <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> on the
 	 morning of Thursday the 19:th June one thousand eight hundred and twenty eight
 	 aged about forty five years having no relation in this Colony
 
@@ -67876,7 +67918,7 @@ Inventory of the goods and effects belonging to the intestate estate of
       <td>£</td>
     </tr>
     <tr>
-      <td>A house situated informerly the property of Richard
+      <td>A house situated in <span style="border-bottom: 2px dotted #FF0000;">Beaufort Street</span> formerly the property of Richard
 		Harvey and lately sold by the trustees of his estate and purchased by Henry
 		Ulyate on account of the deceased on the 7:th day of June
 		1828</td>
@@ -69291,7 +69333,7 @@ Inventory of the goods and effects belonging to the intestate estate of
     </tr>
     <tr>
       <td>amount due to the deceased from the Colonial Government for salary
-		as resident magistrate offrom the 1:st
+		as resident magistrate of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> from the 1:st
 		April to 18:th June 1828</td>
       <td>108:6:8</td>
     </tr>
@@ -69305,7 +69347,7 @@ Inventory of the goods and effects belonging to the intestate estate of
 Seven hundred thrity two pounds, three shillings and eleven pence
 	 sterling.
 
-Thus done, inventory taken and appraised atin the district ofon Saturday the 21:st day of June in
+Thus done, inventory taken and appraised at <span style="border-bottom: 2px dotted #FF0000;">Graham’s Town</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> on Saturday the 21:st day of June in
 	 the year of our Lord one thousand eight hundred and twenty eight.
 
 As witnesses: B: Wienand jun:r, John Willis
@@ -69317,20 +69359,20 @@ We the undersigned chosen appraisers for the intestate estate of the late
 	 estimate is to the best of our knowledge and belief a just and proper
 	 valuation.
 
-21:st June 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> 21:st June 1828
 
 Don: Moodie
 
 C: Mill, L:t Colonel
 
-Sworn before me aton the
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Graham’s Town</span> on the
 	 26:th June 1828
 
 W:B: Dundas, C:l Commissioner
 
 List of claims recieved by the Agent to the Board of Orphan Masters of
 	 this Colony against the intestate estate of the late Thomas Lawson, Esquire,
-	 Resident Magistrate of
+	 Resident Magistrate of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> 
 
 <table>
   <tbody>
@@ -69454,20 +69496,20 @@ J:G: de Villiers, Agent
 
 Thursday the 19 June 1828
 
-The death of Thomas Lawson, Resident Magistrate for the district ofhaving been reported to me, the
-	 undersigned John George de Villiers Agent to the Board of Orphan Masters at, I at 7 oclock this morning
+The death of Thomas Lawson, Resident Magistrate for the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> having been reported to me, the
+	 undersigned John George de Villiers Agent to the Board of Orphan Masters at <span style="border-bottom: 2px dotted #FF0000;">Graham’s Town</span> , I at 7 oclock this morning
 	 repaired to the residence of the deceased (the same being a Government house
 	 situated in this town) and after having caused all boxes etc:a, etc:a belonging
 	 to the estate /or supposed to belong to the same/ to be placed in a room, did
 	 agreeably to my instructions, seal the doors of said room as well as the window
 	 shutters with the district seal, in presence of William Bolden Dundas Esquire,
-	 Civil Commissioner ofandand lieutenant colonel Mill of His
+	 Civil Commissioner of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> and <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> and lieutenant colonel Mill of His
 	 Majesty’s 55:th Regiment now stationed on the frontier, the latter having been
 	 particularly acquainted with the deceased who is Thomas Lawson, about 45 years
-	 of age, born in, whose father is also
-	 named Thomas Lawson and supposed to reside atin(nearin Vife)
+	 of age, born in <span style="border-bottom: 2px dotted #FF0000;">Scotland</span> , whose father is also
+	 named Thomas Lawson and supposed to reside at <span style="border-bottom: 2px dotted #FF0000;">Pitlethie</span> in <span style="border-bottom: 2px dotted #FF0000;">Scotland</span> (near <span style="border-bottom: 2px dotted #FF0000;">Leuchars</span> in Vife)
 
-Thus done and sealed at19
+Thus done and sealed at <span style="border-bottom: 2px dotted #FF0000;">Graham’s Town</span> 19
 	 June 1828
 
 In our presence: W: B: Dundas, C:l Commissioner
@@ -69496,7 +69538,7 @@ Major Dundas having been called from home on duty, I the undersigned
 	 appraised by the said Donald Moodie Esq:r and lieutenant colonel Mill, in
 	 manner as stated in the inventory hereunto annexed.
 
-Thus done at21:st June
+Thus done at <span style="border-bottom: 2px dotted #FF0000;">Graham’s Town</span> 21:st June
 	 1828
 
 As witnesses: B: Wienand jun:r, John Willis
@@ -69505,12 +69547,12 @@ J:G: de Villiers, Agent
 
 ## MOOC8/44.10b
 
- {18281210} 10 December 1828 <span style="border-bottom: 2px dotted #008000;">Thomas Lawson</span> 
+ {18281210} 10 December 1828 <span style="border-bottom: 2px dotted #00FF00;">Thomas Lawson</span> 
 
 Exh:d the 17 December 1828 n:o 13
 
 Inventory of the contents of a box addressed to Thomas Lawson Esq:r
-	 Resident Magistrate atframed by
+	 Resident Magistrate at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> framed by
 	 the undersigned ommissioned members of the Orphan Chamber
 
 <table>
@@ -69592,10 +69634,12 @@ Cape Town, 27 June 1829
 
 ## MOOC8/44.11a
 
- {18271022} 22 October 1827 <span style="border-bottom: 2px dotted #008000;">Charles Johannes van Helsland</span>  <span style="border-bottom: 2px dotted #008000;">Jeanette Francoise
+ {18271022} 22 October 1827 <span style="border-bottom: 2px dotted #00FF00;">Charles Johannes van Helsland</span>  <span style="border-bottom: 2px dotted #00FF00;">Jeanette Francoise
 	 Duminy</span> 
 
-Inventory taken at the place calledsituated along thein the district ofof
+Inventory taken at the place called <span style="border-bottom: 2px dotted #FF0000;">Bokke
+	 Rivier</span> situated along the <span style="border-bottom: 2px dotted #FF0000;">Rivier Zonder
+	 Einde</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> of
 	 all such property of Charles Johannes van Helsland and Jeanette Francoise
 	 Duminy relinquished by the death of the firstmentioned on the thirteenth day of
 	 the month of May in the year of our Lord one thousand eight hundred and twenty
@@ -69615,16 +69659,16 @@ Inventory taken at the place calledsituated along thein the district ofof
   <tbody>
     <tr>
       <td>A house and premises in Cape Town, the before
-		  mentioned place, a perpetual
-		  quitrent place called, a piece
-		  perpetual quitrent land adjoining the place, as also all the <span style="border-bottom: 2px dotted #008000;">slaves</span> and a part of the property
+		  mentioned place <span style="border-bottom: 2px dotted #FF0000;">Bokkerivier</span> , a perpetual
+		  quitrent place called <span style="border-bottom: 2px dotted #FF0000;">Blauweklip</span> , a piece
+		  perpetual quitrent land adjoining the place <span style="border-bottom: 2px dotted #FF0000;">Bokkerivier</span> , as also all the <span style="border-bottom: 2px dotted #00FF00;">slaves</span> and a part of the property
 		  belonging to the estate has been already inserted in the inventory taken in
 		  Cape Town</td>
     </tr>
   </tbody>
 </table>
 
-At the aforesaid place.
+At the aforesaid place <span style="border-bottom: 2px dotted #FF0000;">Bokkerivier</span> .
 
 <table>
   <thead><tr><td colspan='100%'>In the passage</td></tr></thead>
@@ -70554,7 +70598,7 @@ At the aforesaid place.
       <td>a [breeding mares] by Mr N: Linde</td>
     </tr>
     <tr>
-      <td>a [breeding mares] at the place</td>
+      <td>a [breeding mares] at the place <span style="border-bottom: 2px dotted #FF0000;">Zoetemelks Valley</span></td>
     </tr>
     <tr>
       <td>a saddle horse</td>
@@ -70577,7 +70621,7 @@ At the aforesaid place.
   </tbody>
 </table>
 
-Thus inventoried at the aforesaid place calledon the twenty second day of the month
+Thus inventoried at the aforesaid place called <span style="border-bottom: 2px dotted #FF0000;">Bokke Rivier</span> on the twenty second day of the month
 	 of October in the year of our Lord one thousand eight hundred and twenty seven
 	 according to a statement made by the survivor and Mr Benjamin Jacob Wilhelm
 	 Duminy who declared to have acted herein bonafide and that to the best of their
@@ -70600,8 +70644,8 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.11b
 
- {18270517} 17 May 1827 <span style="border-bottom: 2px dotted #008000;">Charles Johannes van
-	 Helsland</span>  <span style="border-bottom: 2px dotted #008000;">Jeannette
+ {18270517} 17 May 1827 <span style="border-bottom: 2px dotted #00FF00;">Charles Johannes van
+	 Helsland</span>  <span style="border-bottom: 2px dotted #00FF00;">Jeannette
 	 Francoise Duminy</span> 
 
 Inventory of all such property of Charles Johannes van Helsland and
@@ -70622,17 +70666,18 @@ Inventory of all such property of Charles Johannes van Helsland and
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in the</td>
+      <td>A house and erf situated in the <span style="border-bottom: 2px dotted #FF0000;">Grave Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o [
+		  ..... ]</span></td>
     </tr>
     <tr>
-      <td>a perpetual quitrent place calledsituated along the riverdistrict of</td>
+      <td>a perpetual quitrent place called <span style="border-bottom: 2px dotted #FF0000;">Bokke Rivier</span> situated along the river <span style="border-bottom: 2px dotted #FF0000;">Zonder End</span> district of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
-      <td>a perpetual quitrent place calledsituated at thealso in the district of</td>
+      <td>a perpetual quitrent place called <span style="border-bottom: 2px dotted #FF0000;">Blaauwe Klip</span> situated at the <span style="border-bottom: 2px dotted #FF0000;">Kaykowly</span> also in the district of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
       <td>a piece perpetuated quitrent land with wood
-		  and timber growing thereon annex the place</td>
+		  and timber growing thereon annex the place <span style="border-bottom: 2px dotted #FF0000;">Bokkerivier</span></td>
     </tr>
   </tbody>
 </table>
@@ -70688,111 +70733,111 @@ In the house of Mr Francois de Lettre where the deceased died
   <tbody>
     <tr>
       <td>left to the widow</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Moses</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Moses</span> of this Colony,
 		houseboy, 62 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Louis of Mosambique</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Louis of Mosambique</span> ,
 		cook, 60 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Corrim of Mosambique</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Corrim of Mosambique</span> ,
 		labourer, 35 years</td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Sephier</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Sephier</span> of this Colony,
 		houseboy, 28 years</td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Azemir</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Azemir</span> of this Colony,
 		houseboy, 20 years</td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Lafleur</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Lafleur</span> of this Colony,
 		houseboy, 19 years</td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">November</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">November</span> of this Colony,
 		houseboy, 16 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Joaqui</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Joaqui</span> of this Colony,
 		houseboy, 16 years</td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Johadyn</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Johadyn</span> of this Colony,
 		houseboy, 14 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Canary of Mosambique</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Canary of Mosambique</span> ,
 		labourer, 54 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Amady of Mosambique</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Amady of Mosambique</span> ,
 		shepherd, 44 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Fortuin of Mosambique</span> herdsman, 34 years</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Fortuin of Mosambique</span> herdsman, 34 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Dimanche of
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Dimanche of
 		Madagascar</span> , horsekeeper, 30 years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Johan</span> of this Colony,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Johan</span> of this Colony,
 		houseboy, 13 years</td>
     </tr>
     <tr>
       <td>left to the widow by appraisement</td>
-      <td rowspan='3' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #008000;">Anette</span> of this Colony, sempstress, 44 years
+      <td rowspan='3' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Anette</span> of this Colony, sempstress, 44 years
 		with her children, named</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Carel</span> (commonly called by his mother <span style="border-bottom: 2px dotted #008000;">Nazarr</span> ) born on the 15
+      <td><span style="border-bottom: 2px dotted #00FF00;">Carel</span> (commonly called by his mother <span style="border-bottom: 2px dotted #00FF00;">Nazarr</span> ) born on the 15
 		January 1820</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Sathia</span> born on the 16 October 1822 and</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sathia</span> born on the 16 October 1822 and</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Angeliek</span> born on the [ ..... ] April 1825 -
+      <td><span style="border-bottom: 2px dotted #00FF00;">Angeliek</span> born on the [ ..... ] April 1825 -
 		with regard however to the latter it is stated that this child has been
 		erroneously stated to be a girl and that therefore Gouvernment has been
-		memorialized to rectify the error and to call him <span style="border-bottom: 2px dotted #008000;">Orea</span></td>
+		memorialized to rectify the error and to call him <span style="border-bottom: 2px dotted #00FF00;">Orea</span></td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sophie</span> of this Colony,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sophie</span> of this Colony,
 		housemaid, 28 years sickly</td>
     </tr>
     <tr>
       <td>left to the widow</td>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Bitja</span> of this Colony, 11
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Bitja</span> of this Colony, 11
 		years</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Colette of Mosambique</span> ,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Colette of Mosambique</span> ,
 		housemaid, 42 years</td>
     </tr>
   </tbody>
 </table>
 
 This hereby noticed that a separate inventory will be framed of the
-	 property at the aforesaid place
+	 property at the aforesaid place <span style="border-bottom: 2px dotted #FF0000;">Bokkerivier</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Claims in favor of the estate</td></tr></thead>
@@ -70806,7 +70851,7 @@ This hereby noticed that a separate inventory will be framed of the
       <td>claim filed in the meeting of his creditors held 28 September
 		1829</td>
       <td>from Pieter Human the purchase money of a piece of land being
-		part of the aforesaid placeaccording to the conditions of sale dated 1 December 1825 ƒ4000
+		part of the aforesaid place <span style="border-bottom: 2px dotted #FF0000;">Bokkerivier</span> according to the conditions of sale dated 1 December 1825 ƒ4000
 		or</td>
       <td>1333:16</td>
       <td>the said P:r Joh:s Human has executed a
@@ -71535,7 +71580,7 @@ den h:r W: Duminy word by deze gequalificeerd bovenstaande rekening ten
 
 J:J:L: Smuts
 
-De slavin genaamd <span style="border-bottom: 2px dotted #008000;">Sophie</span> behorende tot den boedel van nu wijlen
+De slavin genaamd <span style="border-bottom: 2px dotted #00FF00;">Sophie</span> behorende tot den boedel van nu wijlen
 	 den heer Ch:s van Helslandt is van eene zeer ziekelijke gesteldheid in heeft
 	 door een borstkwaal dikwijls gevaar gelopen om een long tering te krijgen, tot
 	 welke aandoening zij bij voortduring eene geneigdheid blyft behouden.
@@ -71687,27 +71732,27 @@ Openstaande Reekening over het weiden van vhee, voor de jaaren 1817, 1818,
 ## MOOC8/44.12
 
  {18230922} 22 September
-	 1823 <span style="border-bottom: 2px dotted #008000;">Roedolf Lubbe
+	 1823 <span style="border-bottom: 2px dotted #00FF00;">Roedolf Lubbe
 	 s:r</span> 
 
 H:V: Cloete
 
 A true and perfect inventory of all and every the goods, chattels, wares
 	 and merchandise as well moveable as not, debts, credits and other personal
-	 estate and effects of Roedolf Lubbe s:r the deceased who died at,July 3:rd 1823 about 3 o clock a:m: within
-	 the field cornetship of David Stephanus Forie, district ofwho died intestate and given up as
+	 estate and effects of Roedolf Lubbe s:r the deceased who died at <span style="border-bottom: 2px dotted #FF0000;">Erasmus Kraal</span> , <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> July 3:rd 1823 about 3 o clock a:m: within
+	 the field cornetship of David Stephanus Forie, district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> who died intestate and given up as
 	 follows
 
 <table>
   <tbody>
     <tr>
-      <td>male slave <span style="border-bottom: 2px dotted #008000;">Pasense</span></td>
+      <td>male slave <span style="border-bottom: 2px dotted #00FF00;">Pasense</span></td>
     </tr>
     <tr>
-      <td>female slave <span style="border-bottom: 2px dotted #008000;">Rachael</span></td>
+      <td>female slave <span style="border-bottom: 2px dotted #00FF00;">Rachael</span></td>
     </tr>
     <tr>
-      <td>female slave <span style="border-bottom: 2px dotted #008000;">Spaas</span> and her child <span style="border-bottom: 2px dotted #008000;">Spaas</span></td>
+      <td>female slave <span style="border-bottom: 2px dotted #00FF00;">Spaas</span> and her child <span style="border-bottom: 2px dotted #00FF00;">Spaas</span></td>
     </tr>
     <tr>
       <td>1 bull</td>
@@ -71776,43 +71821,43 @@ A true and perfect inventory of all and every the goods, chattels, wares
   <thead><tr><td colspan='100%'>Creditors in favor of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>erfgen:</td>
+      <td>erfgen: <span style="border-bottom: 2px dotted #FF0000;">Beauford</span></td>
       <td>from Jan Lubbe Roedolfs son,
-		residing in the field cornetship of David Stephanus Forie, district of, the sum of four hundred rix dollars,
-		arising from the legacy of my late father, of the female slave <span style="border-bottom: 2px dotted #008000;">Eva</span> , whereof the document of legacy is the
+		residing in the field cornetship of David Stephanus Forie, district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of four hundred rix dollars,
+		arising from the legacy of my late father, of the female slave <span style="border-bottom: 2px dotted #00FF00;">Eva</span> , whereof the document of legacy is the
 		only bond</td>
     </tr>
     <tr>
-      <td>erfg:</td>
+      <td>erfg: <span style="border-bottom: 2px dotted #FF0000;">Beauford</span></td>
       <td>from
 		Gideon Rudolf Lubbe, Rudolfs son, residing in the field cornetship of David
 		Stephanus Forie, the sum of two hundred rix dollars arising from money lent,
 		whereof there is no bond</td>
     </tr>
     <tr>
-      <td>erfg:25 63
+      <td>erfg: <span style="border-bottom: 2px dotted #FF0000;">Beauford</span> 25 63
 		bewijs</td>
       <td>from Gideon Rudolf Lubbe Roedolfs son, residing inn the
-		field cornetship of David Stephannus Forie, district of, the sum of sixty three rix dollars
+		field cornetship of David Stephannus Forie, district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of sixty three rix dollars
 		six shilling arising from a bond received from J: Baird, in favor of the
-		bastard Gert Nelse whereof there is a bond under dateJune 6:th 1823</td>
+		bastard Gert Nelse whereof there is a bond under date <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> June 6:th 1823</td>
     </tr>
     <tr>
       <td>settled with Fredrik Mong in September 1825
 		vide liquid: account</td>
-      <td>from Feitje Lubbe /widow/ residing in the, districtor, the sum of nine hundred and thirty three
+      <td>from Feitje Lubbe /widow/ residing in the <span style="border-bottom: 2px dotted #FF0000;">Cerdar Berg</span> , district <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span> or <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> , the sum of nine hundred and thirty three
 		rix dollars, two shillings and two stivers, arising in reduction of the sum of
-		4000 guilders from the purchase of the loan place thewithin thethe bond of purchase is in hand of the
-		messenger Frederick Moncke, district</td>
+		4000 guilders from the purchase of the loan place the <span style="border-bottom: 2px dotted #FF0000;">Ezels Bank</span> within the <span style="border-bottom: 2px dotted #FF0000;">Ceder Berg</span> the bond of purchase is in hand of the
+		messenger Frederick Moncke, district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span></td>
     </tr>
     <tr>
-      <td>erfgen:174 rd:
+      <td>erfgen: <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> 174 rd:
 		4</td>
       <td>from Hendrick Lubbe, Roedolfs son, resideing within the field
-		cornetship of David Stephanus Forie, district, the sum of one hundred and seventy four
+		cornetship of David Stephanus Forie, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of one hundred and seventy four
 		rix dollars and four schillings, arising from an advance on expences due the
 		messenger, which was discharged by bond of the deceased whereof there are two
-		receipts of the messenger Fuge bearing dateApril 17:th 1822</td>
+		receipts of the messenger Fuge bearing date <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> April 17:th 1822</td>
     </tr>
   </tbody>
 </table>
@@ -71823,20 +71868,20 @@ A true and perfect inventory of all and every the goods, chattels, wares
     <tr>
       <td>paid bij the acting Agent</td>
       <td>to David de Koker s:r
-		residing within the field cornetship of David Stephanus Forie, district, the sum of thirteen rix dollars
+		residing within the field cornetship of David Stephanus Forie, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of thirteen rix dollars
 		arising from payment of the deceased opgaff of last year of which there is no
 		bond</td>
     </tr>
     <tr>
       <td>bewys rd:144</td>
-      <td>to Samuel Fuge, messenger, the sum of one hundred and seventy
+      <td>to Samuel Fuge, messenger <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of one hundred and seventy
 		four rix dollars and four shillings arising from money advanced for Hendrick
-		Lubbe, r:s for which there is a bond, bearing date17:th April 1823 transfered in favor of
+		Lubbe, r:s for which there is a bond, bearing date <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> 17:th April 1823 transfered in favor of
 		John Baird</td>
     </tr>
     <tr>
       <td>settled with the acting Agent</td>
-      <td>to John Baird disctrict, the sum of sixty three rix dollars
+      <td>to John Baird disctrict <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of sixty three rix dollars
 		and six schillings, arising from a bond delivered to the burger Gideon Rudolf
 		Lubbe R: which was against himself and in favor of the bastard Gert Nelse
 		whereof there is a bond bearing date June 6:th 1823</td>
@@ -71844,24 +71889,24 @@ A true and perfect inventory of all and every the goods, chattels, wares
     <tr>
       <td>settled with the acting agent</td>
       <td>to John
-		Baird, district, the sum of one
+		Baird, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of one
 		hundred rix dollars arising from an advance on the provisional purchase of the
-		female slave <span style="border-bottom: 2px dotted #008000;">Spaas</span> and her
-		child little <span style="border-bottom: 2px dotted #008000;">Spaas</span> which was
+		female slave <span style="border-bottom: 2px dotted #00FF00;">Spaas</span> and her
+		child little <span style="border-bottom: 2px dotted #00FF00;">Spaas</span> which was
 		afterwards nul and void whereof there is a bond, bearing date March 8:th
 		1822</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>to John Baird, district, the sum of ten rix dollars arising
+      <td>to John Baird, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of ten rix dollars arising
 		from an advance on accounts of a memorial to Government for the regestry of his
-		the deceased <span style="border-bottom: 2px dotted #008000;">slaves</span> , whereof there is
-		a bond, bearing dateJune 6:th
+		the deceased <span style="border-bottom: 2px dotted #00FF00;">slaves</span> , whereof there is
+		a bond, bearing date <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> June 6:th
 		1823</td>
     </tr>
     <tr>
       <td>settled with the acting Agent</td>
-      <td>to John Baird districtthe sum of one rix dollar one
+      <td>to John Baird district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> the sum of one rix dollar one
 		schilling and two stivers, arising from an advance to the Government reply of
 		the memorial bearing date Colonial Office, June 27:th 1823 whereof there is no
 		bond</td>
@@ -71869,17 +71914,17 @@ A true and perfect inventory of all and every the goods, chattels, wares
     <tr>
       <td>paid bij the acting Agent</td>
       <td>to John Andries Broadrick
-		residing within the field cornetship of David Stephanus Forie, district, the sum of twenty five rix dollars
-		for the coffin for the deceased whereof there is a bill, bearing dateJuly 14:th 1823 signed D:S: Forie
+		residing within the field cornetship of David Stephanus Forie, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of twenty five rix dollars
+		for the coffin for the deceased whereof there is a bill, bearing date <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> July 14:th 1823 signed D:S: Forie
 		field cornet</td>
     </tr>
     <tr>
       <td>paid bij the acting Agent</td>
       <td>to Peter Daniel Jacobs
-		residing within the field cornetship of David Stephanus Forie district, the sum of nineteen rix dollars
+		residing within the field cornetship of David Stephanus Forie district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , the sum of nineteen rix dollars
 		arising from boards delivered for the coffin and an advance of rix dollars
 		eight for the bearers of the corps to the grave whereof there is a bill,
-		bearing dateJuly 14:th 1823 signed
+		bearing date <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> July 14:th 1823 signed
 		D:S: Forie field cornet</td>
     </tr>
     <tr>
@@ -71892,7 +71937,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
     <tr>
       <td>&nbsp;</td>
       <td>to Martice Forie residing within the field cornetship
-		of David Stephanus Forie, district,
+		of David Stephanus Forie, district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> ,
 		the sum of three rix dollars arising from the purchase of a roll of tobacco
 		whereof there is no bond</td>
     </tr>
@@ -71925,7 +71970,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
   </tbody>
 </table>
 
-Thus done and regestered atMonday Sept:r 22:nd 1823 according to the statement of Gideon Lubbe Roedolfs
+Thus done and regestered at <span style="border-bottom: 2px dotted #FF0000;">Nieuwveld</span> Monday Sept:r 22:nd 1823 according to the statement of Gideon Lubbe Roedolfs
 	 son and Jan Ludewick Lubbe Roedolfs son, who declare in their above statement
 	 of this estate having been done honestly and truly and that nothing has been
 	 held back to the best of their knowledge and that they further declare, they
@@ -71961,10 +72006,10 @@ Aderaan Lodewijk Lubben
 
 ## MOOC8/44.13
 
- {18231020} 20 October 1823 <span style="border-bottom: 2px dotted #008000;">Paulus Johannes Hartog</span> 
+ {18231020} 20 October 1823 <span style="border-bottom: 2px dotted #00FF00;">Paulus Johannes Hartog</span> 
 
 Extract rekening des boedels van wylen de heer Paulus Johannes Hartog
-	 senior overleden teop den 20:e
+	 senior overleden te <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> op den 20:e
 	 OCtober 1823
 
 <table>
@@ -71989,7 +72034,7 @@ Extract rekening des boedels van wylen de heer Paulus Johannes Hartog
       <td>in voldoening daarvan word hem toe en aanbedeeld</td>
     </tr>
     <tr>
-      <td>de slaaf <span style="border-bottom: 2px dotted #008000;">Alexander</span> aan hem
+      <td>de slaaf <span style="border-bottom: 2px dotted #00FF00;">Alexander</span> aan hem
 		  gelegateerd blykens testament voor</td>
       <td>1500:--:--</td>
     </tr>
@@ -72027,7 +72072,7 @@ Accordeert: A: Blommenstein
 ## MOOC8/4.14
 
  {18280616} 16 June
-	 1828 <span style="border-bottom: 2px dotted #008000;">Johanna Maria
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Johanna Maria
 	 Janzen</span> 
 
 Exh:d the 25:th of June 1828, n:o 35
@@ -72251,7 +72296,7 @@ Joaquim Lopez
 
 ## MOOC8/44.15
 
- {18280228} 28 February 1828 <span style="border-bottom: 2px dotted #008000;">Stephan Smith</span> 
+ {18280228} 28 February 1828 <span style="border-bottom: 2px dotted #00FF00;">Stephan Smith</span> 
 
 Exhib: 12 March 1828 n: 19
 
@@ -72504,11 +72549,11 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.16
 
- {18280718} 18 July 1828 <span style="border-bottom: 2px dotted #008000;">Pieter Swanepoel</span> 
+ {18280718} 18 July 1828 <span style="border-bottom: 2px dotted #00FF00;">Pieter Swanepoel</span> 
 
 Invantarist behoren tot den boedel van den oferledenen Pieter Swanepoel
 	 zeneor out geworden 76 jaaren in desen uithoek geboren, overleden den 8 Mai
-	 1828 op de plaast genaamd degelegen aan de
+	 1828 op de plaast genaamd de <span style="border-bottom: 2px dotted #FF0000;">Sand Fontein</span> gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Blouwe Berg</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Naamen der erfgenaamen</td></tr></thead>
@@ -72679,7 +72724,7 @@ Invantarist behoren tot den boedel van den oferledenen Pieter Swanepoel
   <tbody>
     <tr>
       <td>1 stuk euwigdurende Gouverments grond genaamd
-		degelegen aaneks de plaats de</td>
+		de <span style="border-bottom: 2px dotted #FF0000;">Wilger Revier</span> gelegen aaneks de plaats de <span style="border-bottom: 2px dotted #FF0000;">Sandfontyn</span></td>
     </tr>
     <tr>
       <td>5 stoele</td>
@@ -72747,7 +72792,7 @@ Invantarist behoren tot den boedel van den oferledenen Pieter Swanepoel
   </tbody>
 </table>
 
-Wy ondergetekende verklare by dezen op den 18 July op den plaats genaamdde boven staande goederen van den
+Wy ondergetekende verklare by dezen op den 18 July op den plaats genaamd <span style="border-bottom: 2px dotted #FF0000;">Sand Fontyn</span> de boven staande goederen van den
 	 voormelden boedel heef op genome
 
 Als getuige: P:s J:s du Toet J:z:
@@ -72755,8 +72800,8 @@ Als getuige: P:s J:s du Toet J:z:
 G: Joubert, Veld c:t
 
 In the Surveyor General’s office is at present deposited a report of the
-	 Landdrost ofon a piece of land
-	 adjoining the loan placemeasured
+	 Landdrost of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> on a piece of land
+	 adjoining the loan place <span style="border-bottom: 2px dotted #FF0000;">Zand Fontein</span> measured
 	 on Piet Swanepoels account in 1823 201 1/6 morgen
 
 Statement of sums due by heirs in estate of late Piet Swaanpoel sen:r with
@@ -72834,7 +72879,7 @@ Statement of sums due by heirs in estate of late Piet Swaanpoel sen:r with
 ## MOOC8/44.17
 
  {18270109} 9 January
-	 1827 <span style="border-bottom: 2px dotted #008000;">Biorn
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">Biorn
 	 Magnussen</span> 
 
 Inventory of the property of Biorn Magnussen relinquished by his death on
@@ -72856,7 +72901,8 @@ In consequence of which the aforesaid property (after the seals of office
   <tbody>
     <tr>
       <td>A house and premises situated in Cape Town in
-		  the rowas per deed of transfer made to the deceased on the 21:st November
+		  the row <span style="border-bottom: 2px dotted #FF0000;">P:P:</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o
+		  3</span> as per deed of transfer made to the deceased on the 21:st November
 		  1817</td>
     </tr>
   </tbody>
@@ -73401,7 +73447,7 @@ In a store belonging to Mrs the widow Joh:s Krynauw possessed by the
       <td>and further a quantity of old wood and rubbish</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Onverwagt of
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Onverwagt of
 		  Mosambique</span> about 40 years of age by trade a painter and cooper</td>
     </tr>
   </tbody>
@@ -73582,7 +73628,7 @@ In my presence: G:A: Watermeyer
 
 ## MOOC8/44.18
 
- {18270918} 18 September 1827 <span style="border-bottom: 2px dotted #008000;">Willem Andries Pretorius</span>  <span style="border-bottom: 2px dotted #008000;">Anna Sophia Putter</span> 
+ {18270918} 18 September 1827 <span style="border-bottom: 2px dotted #00FF00;">Willem Andries Pretorius</span>  <span style="border-bottom: 2px dotted #00FF00;">Anna Sophia Putter</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen Willem
 	 Andries Pretorius en mede wylen deszelfs huisvrouw Anna Sophia Putter in
@@ -73860,20 +73906,20 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Willem
   <thead><tr><td colspan='100%'>Slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">Adam</span></td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">Adam</span></td>
     </tr>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">Amsterdam</span></td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">Amsterdam</span></td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Cornelia</span></td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Cornelia</span></td>
     </tr>
     <tr>
-      <td>den slaaf <span style="border-bottom: 2px dotted #008000;">Fortuin</span> /overleden/</td>
+      <td>den slaaf <span style="border-bottom: 2px dotted #00FF00;">Fortuin</span> /overleden/</td>
     </tr>
     <tr>
-      <td>de slavin <span style="border-bottom: 2px dotted #008000;">Roslet</span> by Philippus Petrus
-		Minnaar P: zoon woonagtig aan de</td>
+      <td>de slavin <span style="border-bottom: 2px dotted #00FF00;">Roslet</span> by Philippus Petrus
+		Minnaar P: zoon woonagtig aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span></td>
     </tr>
   </tbody>
 </table>
@@ -73886,12 +73932,12 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Willem
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>van Isaac Visagie // bl:
+      <td>van Isaac Visagie / <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> / bl:
 		bewys d:d: 12 July 1824</td>
       <td>43:--</td>
     </tr>
     <tr>
-      <td>van de wed: Jan A: Olivier,, bl: brief d:d: 11 August
+      <td>van de wed: Jan A: Olivier, <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> , bl: brief d:d: 11 August
 		1826</td>
       <td>302:6</td>
     </tr>
@@ -73989,7 +74035,7 @@ J:L: Meintjes
 
 ## MOOC8/44.19
 
- {18181110} 10 November 1818 <span style="border-bottom: 2px dotted #008000;">Kilpatrick Colley</span> 
+ {18181110} 10 November 1818 <span style="border-bottom: 2px dotted #00FF00;">Kilpatrick Colley</span> 
 
 Lyst van de goederen van den overleeden Kilpatrick Colley door
 	 ondergeteekenden op de plaatz van G: Joubert den oude opgenomen den 10 November
@@ -74042,7 +74088,7 @@ Lyst van de goederen van den overleeden Kilpatrick Colley door
   </tbody>
 </table>
 
-Gedaanden 10 November
+Gedaan <span style="border-bottom: 2px dotted #FF0000;">Tradouw</span> den 10 November
 	 1818
 
 Getuygen: Willem Jordaan, J: Bruwer
@@ -74051,11 +74097,11 @@ A:J: van Coller, Vld cornet
 
 ## MOOC8/44.20
 
- {18241230} 30 December 1824 <span style="border-bottom: 2px dotted #008000;">Willem August</span> 
+ {18241230} 30 December 1824 <span style="border-bottom: 2px dotted #00FF00;">Willem August</span> 
 
 Inventaris ter nalatenschap van den ongedoopten bastaard Willem August,
 	 overleden ab intestato op den 15 December 1824 ter plaatse van Paul And:s
-	 Mouton aan dein den ouderdom van
+	 Mouton aan de <span style="border-bottom: 2px dotted #FF0000;">24 Rivieren</span> in den ouderdom van
 	 /naar gissing/ 60 jaren
 
 <table>
@@ -74118,7 +74164,7 @@ Inventaris ter nalatenschap van den ongedoopten bastaard Willem August,
       <td>15</td>
     </tr>
     <tr>
-      <td>aan den slaaf <span style="border-bottom: 2px dotted #008000;">Silvester</span> leyfeigen van
+      <td>aan den slaaf <span style="border-bottom: 2px dotted #00FF00;">Silvester</span> leyfeigen van
 		Gideon Joubert over koop van één paard</td>
       <td>30</td>
     </tr>
@@ -74164,15 +74210,16 @@ Inventaris ter nalatenschap van den ongedoopten bastaard Willem August,
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>van Jacobus van Wyk woonachtig opwegens negotie goederen</td>
+      <td>van Jacobus van Wyk woonachtig op <span style="border-bottom: 2px dotted #FF0000;">Onder
+		Roggeveld</span> wegens negotie goederen</td>
       <td>100</td>
     </tr>
   </tbody>
 </table>
 
 Aldus deze inventaris geformeerd ter plaatse van Paul And:s Mouton gelegen
-	 aan deop den 30 December 1824 en
-	 zulks naar aan en opgave van des overledenen byzet de slavin <span style="border-bottom: 2px dotted #008000;">Rachel</span> en des overledenen
+	 aan de <span style="border-bottom: 2px dotted #FF0000;">24 Rivieren</span> op den 30 December 1824 en
+	 zulks naar aan en opgave van des overledenen byzet de slavin <span style="border-bottom: 2px dotted #00FF00;">Rachel</span> en des overledenen
 	 broeder de bastaard Izaak August
 
 Als getuigen: H: Winterbach, B:T: Burger
@@ -74181,7 +74228,7 @@ J:G: Aspelingh, Ag:t van H:H: Wm:
 
 ## MOOC8/44.21
 
- {18280528} 28 My 1828 <span style="border-bottom: 2px dotted #008000;">Carolus</span> 
+ {18280528} 28 My 1828 <span style="border-bottom: 2px dotted #00FF00;">Carolus</span> 
 
 Lyst van de nagelaaten eygendommen van wylen den Hottentot Carolus dien
 	 overleeden is den maandt My laastleeden den 28:ste 1828 en dienst geweest zynde
@@ -74210,10 +74257,10 @@ C:F: van der West, Veld cornet
 
 ## MOOC8/44.22
 
- {18281203} 3 December 1828 <span style="border-bottom: 2px dotted #008000;">Caleb Arding</span> 
+ {18281203} 3 December 1828 <span style="border-bottom: 2px dotted #00FF00;">Caleb Arding</span> 
 
 Inventory of all such goods and effects as have been possessed by the late
-	 Caleb Arding born inwho died on the
+	 Caleb Arding born in <span style="border-bottom: 2px dotted #FF0000;">England</span> who died on the
 	 29:th December 1828 "abintestato"
 
 <table>
@@ -74397,7 +74444,8 @@ Inventory of all such goods and effects as have been possessed by the late
   </tbody>
 </table>
 
-Thus done and inventoried aton the 3:rd day of December 1828 in the presence of Johan Willem
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Graaff
+	 Reinet</span> on the 3:rd day of December 1828 in the presence of Johan Willem
 	 Sommers and J:J: Schindehutte as witnesses
 
 As witnesses: J:W: Sommers, J:J: Schindehutte
@@ -74406,9 +74454,9 @@ J: Auret, Agent
 
 ## MOOC8/44.23a
 
- {18260123} 23 January 1826 <span style="border-bottom: 2px dotted #008000;">Candas</span> 
+ {18260123} 23 January 1826 <span style="border-bottom: 2px dotted #00FF00;">Candas</span> 
 
-Extract journal held by the dep:ty Landdrost ofon Tuesday Jan:y 23 1826
+Extract journal held by the dep:ty Landdrost of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Tuesday Jan:y 23 1826
 
 The Hott:t Hend:k Blaauw appeared and stated that he has brought the
 	 remaining property of the estate of the deceased female Hottentot Candas with
@@ -74471,8 +74519,9 @@ the rest having died and eaten op thro’ poverty
       <td>4</td>
     </tr>
     <tr>
-      <td>She left some time ago fornear the, but I now
-		understand that she is gone toto her husband</td>
+      <td>She left some time ago for <span style="border-bottom: 2px dotted #FF0000;">Elands
+		Fountain</span> near the <span style="border-bottom: 2px dotted #FF0000;">Salt River</span> , but I now
+		understand that she is gone to <span style="border-bottom: 2px dotted #FF0000;">Graaff Reynet</span> to her husband</td>
       <td>What is become of the female Hottentot Truy, your
 		maids sister</td>
     </tr>
@@ -74481,7 +74530,7 @@ the rest having died and eaten op thro’ poverty
       <td>5</td>
     </tr>
     <tr>
-      <td>They lived upon them and before she leftthey had not one to
+      <td>They lived upon them and before she left <span style="border-bottom: 2px dotted #FF0000;">Elands Fountain</span> they had not one to
 		eat</td>
       <td>What is become of the sheep and goats she received</td>
     </tr>
@@ -74493,9 +74542,9 @@ The female Hottentot Lys appears or requisition and coroborates the
 
 The burger Jan Herm:s Coertz appears on requisition and states that he is
 	 also aware that the 20 sheep and goats received by the female Hott:t Truy
-	 daughter of the deceased Candas were all used atwhich she Truy was living with the
+	 daughter of the deceased Candas were all used at <span style="border-bottom: 2px dotted #FF0000;">Elands Fountain</span> which she Truy was living with the
 	 Hottentot Andries Jures then in the service of Adrian van Wyk sen:r of which
-	 circumstance the Englishman named Man is also acquainted with. He is now at the, district of, left sick but who is soon expected
+	 circumstance the Englishman named Man is also acquainted with. He is now at the <span style="border-bottom: 2px dotted #FF0000;">Waai Hoek</span> , district of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> , left sick but who is soon expected
 	 to return.
 
 Resolved that an extract hereof do accompany the auction roll of the
@@ -74506,9 +74555,9 @@ A true extract: J: Baird, D:y Land:t
 
 ## MOOC8/44.23b
 
- {18251117} 17 November 1825 <span style="border-bottom: 2px dotted #008000;">Candas</span> 
+ {18251117} 17 November 1825 <span style="border-bottom: 2px dotted #00FF00;">Candas</span> 
 
-Extract from the journal held by the Deputy Landdrost ofon Thursday 17 November 1825
+Extract from the journal held by the Deputy Landdrost of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Thursday 17 November 1825
 
 The bastard Hottentot Platje Kock aged ab:t 60 years and in the service of
 	 the burger Jan Herm:s Coertze states that his late wife the female Hottentot
@@ -74562,10 +74611,10 @@ A true extract: J: Baird, D:y Land:t
 
 ## MOOC8/44.24
 
- {18280920} 20 September 1828 <span style="border-bottom: 2px dotted #008000;">Benjamin Brown</span> 
+ {18280920} 20 September 1828 <span style="border-bottom: 2px dotted #00FF00;">Benjamin Brown</span> 
 
 Inventory of the property belonging to the estate of the late Benjamin
-	 Brown widower who died the 16:th day of September 1828 inaged about 29 years, a native ofleaving a female child, Lydia Brown,
+	 Brown widower who died the 16:th day of September 1828 in <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> aged about 29 years, a native of <span style="border-bottom: 2px dotted #FF0000;">England</span> leaving a female child, Lydia Brown,
 	 born 7:th of April 1827.
 
 Property sealed the day of decease above mentioned and seals found
@@ -75058,7 +75107,7 @@ Property sealed the day of decease above mentioned and seals found
 
 Twenty six pounds fourteen shillings sterling
 
-Thus done inventory taken and appraised aton the twentieth day of September one
+Thus done inventory taken and appraised at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> on the twentieth day of September one
 	 thousand eight hundred and twenty eight
 
 Witnesses: H:T: Jennings, Ja:s White
@@ -75068,12 +75117,12 @@ John Centlivres Chase, Ag:t Orph: Ch:r
 We the undersigned Robert Godlonton and James Wicks, inhabitants of this
 	 town, chosen appraisers for the intestate estate of the late Benjamin Brown do
 	 hereby make oath and declare that the foregoing estimate is to the best of our
-	 knowledge and belief a just and proper valuation.20:th Sepb:r 1828
+	 knowledge and belief a just and proper valuation. <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> 20:th Sepb:r 1828
 
-Sworn before me atthe 26:th
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> the 26:th
 	 of Sept:r 1828
 
-Dan: Campbell, J:P: forand
+Dan: Campbell, J:P: for <span style="border-bottom: 2px dotted #FF0000;">Albany</span> and <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> 
 
 R: Godlonton
 
@@ -75081,7 +75130,7 @@ Ja:s Weeks
 
 ## MOOC8/44.25
 
- {18290203} 3 February 1829 <span style="border-bottom: 2px dotted #008000;">Alexander Corlette</span> 
+ {18290203} 3 February 1829 <span style="border-bottom: 2px dotted #00FF00;">Alexander Corlette</span> 
 
 Exh:d the 4 February 1829, n:o 16
 
@@ -75095,7 +75144,7 @@ The aforesaid property having been taken under the administration of the
 	 been inventoried by me the undersigned and was found to consist in the
 	 following, viz:t
 
-In the house in, occupied by George Sibbald
+In the house in <span style="border-bottom: 2px dotted #FF0000;">Plein Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 21</span> , occupied by George Sibbald
 
 <table>
   <tbody>
@@ -75266,12 +75315,12 @@ In my presence: J:A: Munnik
 
 ## MOOC8/44.26
 
- {18290527} 27 May 1829 <span style="border-bottom: 2px dotted #008000;">Johanna Francina
+ {18290527} 27 May 1829 <span style="border-bottom: 2px dotted #00FF00;">Johanna Francina
 	 Appel</span> 
 
 Inventory of all such goods and effects as have been possessed by the late
 	 Johanna Francina Appel widow of the late Jacob Erasmus born in this Colony died
-	 on the 16 January 1829 at the place calledin the fieldcornetry, district, aged 44 years
+	 on the 16 January 1829 at the place called <span style="border-bottom: 2px dotted #FF0000;">Groenfontein</span> in the fieldcornetry <span style="border-bottom: 2px dotted #FF0000;">Buffelshoek</span> , district <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> , aged 44 years
 
 <table>
   <tbody>
@@ -75426,7 +75475,7 @@ Inventory of all such goods and effects as have been possessed by the late
   </tbody>
 </table>
 
-Thus done and inventoried at the placesituated in the fieldcornetryon the 27 day of May 1829
+Thus done and inventoried at the place <span style="border-bottom: 2px dotted #FF0000;">Hilgersdal</span> situated in the fieldcornetry <span style="border-bottom: 2px dotted #FF0000;">Buffelshoek</span> on the 27 day of May 1829
 	 according to the declaration of Barend Nicolaas Janzen, who declared that to
 	 the best of his knowledge he has given up all the effects that belong to the
 	 estate of the late Johanna Francina Appel widow of the late Jacob Erasmus with
@@ -75440,12 +75489,12 @@ As witnesses: G:J: Broekhuisen, C:A: Brink, V:d c:t
 
 ## MOOC8/44.27
 
- {18290425} 25 April 1829 <span style="border-bottom: 2px dotted #008000;">Christina Jacoba van
+ {18290425} 25 April 1829 <span style="border-bottom: 2px dotted #00FF00;">Christina Jacoba van
 	 Zijl</span> 
 
-Inventaris des boedels van Christina Jacoba van Zijl ter plaatzein het districtgelegen, geboren op den 12
-	 Augustus 1792 ter plaatze,
-	 gelegen in het districtin den
+Inventaris des boedels van Christina Jacoba van Zijl ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Vaderlandsche Rietkuil</span> in het district <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> gelegen, geboren op den 12
+	 Augustus 1792 ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Olifants Rivier</span> ,
+	 gelegen in het district <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> in den
 	 ouderdom van 36 jaren 7 maanden en 7 dagen overleeden nalatende haren
 	 echtgenoot Joseph Bensch en vyf onmondige kinderen, in namen
 
@@ -75542,7 +75591,9 @@ Welke inventaris door mij Aldert Hermias Cornelis van Zijl ten overstaan
   </tbody>
 </table>
 
-Aldus geinventariseerd ter plaatzegelegen in de wyk, districtop den
+Aldus geinventariseerd ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Vaderlandsche
+	 Rietkuil</span> gelegen in de wyk <span style="border-bottom: 2px dotted #FF0000;">Mond der Olifants
+	 Rivier</span> , district <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> op den
 	 25:ste April 1829.
 
 Voor de opgaaf: J: Bensch
@@ -75553,12 +75604,12 @@ Als getuigen: H: van Rhijn. J:D: van Zyl
 
 ## MOOC8/44.28
 
- {18300105} 5 January 1830 <span style="border-bottom: 2px dotted #008000;">Benjamin Blyth</span> 
+ {18300105} 5 January 1830 <span style="border-bottom: 2px dotted #00FF00;">Benjamin Blyth</span> 
 
 Copy
 
 Inventaris van Benjamin Blyth overleden den 6 January 1830 op den plaats
-	 van de heer Hend: Corn:s van Niekerk aan, als volgt
+	 van de heer Hend: Corn:s van Niekerk aan <span style="border-bottom: 2px dotted #FF0000;">Joostenberg</span> , als volgt
 
 <table>
   <tbody>
@@ -75688,14 +75739,14 @@ Nagezien en in zyn schoolvertrek gevonden den 5 January 1830
 
 ## MOOC8/44.29
 
- {18290630} 30 June 1829 <span style="border-bottom: 2px dotted #008000;">Carolus of Madagascar</span> 
+ {18290630} 30 June 1829 <span style="border-bottom: 2px dotted #00FF00;">Carolus of Madagascar</span> 
 
 Exh:d the 1 July 1829, n:o 17
 
 Inventory of all such property as has been relinquished by the death of
 	 Carolus of Madagascar on the 8:th day of the month of June in the year of our
 	 Lord one thousand eight hundred and twenty nine for the benefit of his two
-	 minor children named <span style="border-bottom: 2px dotted #008000;">Soente</span> and <span style="border-bottom: 2px dotted #008000;">Salea</span> , both slaves of
+	 minor children named <span style="border-bottom: 2px dotted #00FF00;">Soente</span> and <span style="border-bottom: 2px dotted #00FF00;">Salea</span> , both slaves of
 	 D:G: Aspeling.
 
 The aforesaid property having been taken under the administration of the
@@ -75703,7 +75754,8 @@ The aforesaid property having been taken under the administration of the
 	 and been inventoried by the undersigned and was found to consist in the
 	 following, viz:t
 
-In the house of J: M:cDonaldand in the back room
+In the house of J: M:cDonald <span style="border-bottom: 2px dotted #FF0000;">Keerom
+	 Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 26</span> and in the back room
 
 <table>
   <tbody>
@@ -75798,13 +75850,13 @@ In my presence: J:P: Berrangé
 
 ## MOOC8/44.30
 
- {18280617} 17 June 1828 <span style="border-bottom: 2px dotted #008000;">Jacobus Vievier</span>  <span style="border-bottom: 2px dotted #008000;">Catharina Sarah
+ {18280617} 17 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Vievier</span>  <span style="border-bottom: 2px dotted #00FF00;">Catharina Sarah
 	 Nielsen</span> 
 
 Inventory of the goods and effects belonging to the intestate estate of
 	 the late Jacobus Vievier and his surviving widow Catharina Sarah Nielsen, the
 	 said Jacobus Vievier having died on the 22:nd day of April one thousand eight
-	 hundred and twenty eight on a certain Government place situated at thein the district ofunder the field cornetcy of John Dryer
+	 hundred and twenty eight on a certain Government place situated at the <span style="border-bottom: 2px dotted #FF0000;">Hoenap River</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> under the field cornetcy of John Dryer
 	 aged 54 years 7 months and 10 days born in this Colony, leaving the following
 	 children
 
@@ -76064,7 +76116,7 @@ Inventory of the goods and effects belonging to the intestate estate of
     <tr>
       <td>paid 13 March 1828</td>
       <td>Jacobus Barnard Hendrik son
-		residing atin the district
+		residing at <span style="border-bottom: 2px dotted #FF0000;">Plentingberg’s Bay</span> in the district
 		of George by his written acknowledgement bearing date 21:st March
 		1821</td>
       <td>37:10:--</td>
@@ -76081,7 +76133,7 @@ Inventory of the goods and effects belonging to the intestate estate of
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>Erns Mosterd residing athis written
+      <td>Erns Mosterd residing at <span style="border-bottom: 2px dotted #FF0000;">Port Elizabeth</span> his written
 		acknowledgement</td>
       <td>6:15:--</td>
     </tr>
@@ -76102,7 +76154,7 @@ Two hundred sixteen pounds nine shillings and three pence half penny
 	 sterling
 
 Thus done inventory taken and appraised at the farm of Hermanus Lombard
-	 calledsituated on thein the district ofon the seventeenth day of June one
+	 called <span style="border-bottom: 2px dotted #FF0000;">Seekoehoek</span> situated on the <span style="border-bottom: 2px dotted #FF0000;">Fish River</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> on the seventeenth day of June one
 	 thousand eight hundred and twenty eight.
 
 As witnesses: Catharina Sara Wiewee, Hermanus Lombard
@@ -76110,23 +76162,23 @@ As witnesses: Catharina Sara Wiewee, Hermanus Lombard
 J:G: de Villiers, Agent
 
 We the undersigned Martinus Jacobus Potgieter and Hans Jury Lombaard,
-	 inhabitants of the district of, chosen
+	 inhabitants of the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> , chosen
 	 appraisers of the intestate estate of the late Jacobus Vievier and his
 	 surviving widow Catharina Sarah Nielsen do hereby make oath and declare that
 	 the foregoing estimate is to the best of our knowledge and belief a just and
 	 proper valuation.
 
-seventeenth day of June
+ <span style="border-bottom: 2px dotted #FF0000;">Seekoehoek</span> seventeenth day of June
 	 1828
 
 M:J: Potgieter, H:J: Lombaard
 
-Sworn before me atthis
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> this
 		26:th day of June 1828: W:B: Dundas, Commissioner
 
 ## MOOC8/44.31
 
- {18200623} 23 June 1820 <span style="border-bottom: 2px dotted #008000;">James Goodin</span> 
+ {18200623} 23 June 1820 <span style="border-bottom: 2px dotted #00FF00;">James Goodin</span> 
 
 Inventory of all such property as have been relinquished by the death ab
 	 intestato of James Goodin on the twenty third day of the month of June in the
@@ -76138,7 +76190,7 @@ The aforesaid property having been taken under the administration of the
 	 foreign heirs and been inventoried by the undersigned was found to consist in
 	 the following, viz:t
 
-At thewhere the deceased
+At the <span style="border-bottom: 2px dotted #FF0000;">Slave Lodge</span> where the deceased
 	 died.
 
 <table>
@@ -76386,7 +76438,7 @@ In my presence: Tho: Readwelch
 
 ## MOOC8/44.32
 
- {18240409} 9 April 1824 <span style="border-bottom: 2px dotted #008000;">Johan Willem Schieman</span> 
+ {18240409} 9 April 1824 <span style="border-bottom: 2px dotted #00FF00;">Johan Willem Schieman</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Vrydag den 9
 	 April in den jaare onzes Heeren een duizend acht honderd vier en twintig ab
@@ -76496,14 +76548,14 @@ J:J:L: Smuts
 
 ## MOOC8/44.33
 
- {18291010} 10 October 1829 <span style="border-bottom: 2px dotted #008000;">William Jacobus Buytendach</span> 
+ {18291010} 10 October 1829 <span style="border-bottom: 2px dotted #00FF00;">William Jacobus Buytendach</span> 
 
 Thursday sale 7 January 1830
 
 Inventory and appraisement of the effects left by the intestate death of
 	 William Jacobus Buytendach who departed this life on the 10:th of October 1829
-	 at the place calledsituated in the
-	 field cornetcy of, aged [
+	 at the place called <span style="border-bottom: 2px dotted #FF0000;">Roode Wal</span> situated in the
+	 field cornetcy of <span style="border-bottom: 2px dotted #FF0000;">Under Bushman River</span> , aged [
 	 ..... ] years to his surviving wife Susanna Margaretha du Preez and to their
 	 minor child begotten in marriage named Maria Susanna du Preez born in the year
 	 1826. On account of the aforesaid estate has been taken in writing by the field
@@ -76626,13 +76678,14 @@ As witnesses (sig:d): Fredrik Willem Breytenbach, G:J:
 ## MOOC8/44.34
 
  {18290511} 11 May
-	 1829 <span style="border-bottom: 2px dotted #008000;">William
+	 1829 <span style="border-bottom: 2px dotted #00FF00;">William
 	 Warren</span> 
 
 Exh:d the 13:th May 1829, n:o 30
 
 Inventory of all such property which has been relinquished by the demise
-	 of William Warren who died May 10:th 1829 at the house of Casper Scheffer
+	 of William Warren who died May 10:th 1829 at the house of Casper Scheffer <span style="border-bottom: 2px dotted #FF0000;">N: 420</span>  <span style="border-bottom: 2px dotted #FF0000;">Long
+	 Street</span> 
 
 <table>
   <tbody>
@@ -76703,12 +76756,12 @@ Tho: Readwelch
 
 ## MOOC8/44.35
 
- {18281213} 13 December 1828 <span style="border-bottom: 2px dotted #008000;">Regina Black</span> 
+ {18281213} 13 December 1828 <span style="border-bottom: 2px dotted #00FF00;">Regina Black</span> 
 
 Exh:d the 28:th January 1829 n:o 28
 
 An inventory of wearing apparel belonging to Regina Black deceased, late a
-	 servant of Mr Thomas Drury ofwho
+	 servant of Mr Thomas Drury of <span style="border-bottom: 2px dotted #FF0000;">Simons Town</span> who
 	 departed this life on the 13 Dec:r 1828
 
 <table>
@@ -76750,13 +76803,13 @@ Tho:s Drury
 
 ## MOOC8/44.36
 
- {18291022} 22 October 1829 <span style="border-bottom: 2px dotted #008000;">Elizabeth Catharina Kemp</span> 
+ {18291022} 22 October 1829 <span style="border-bottom: 2px dotted #00FF00;">Elizabeth Catharina Kemp</span> 
 
 Inventory and appraisment of the effects left by the intestate death of
 	 Elizabeth Catharina Kemp who departed this life on the 8:th July 1829 at the
-	 place calledsituated in the
-	 field cornetcy ofin the
-	 district ofaged 22 years to her
+	 place called <span style="border-bottom: 2px dotted #FF0000;">Kabiljouw’s River</span> situated in the
+	 field cornetcy of <span style="border-bottom: 2px dotted #FF0000;">Gamtoos River</span> in the
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> aged 22 years to her
 	 surviving husband Wessel Hendrik Wessels and to their two minor children
 	 begotten in marriage named Hermanus Johannes born on the 6:th of February 1825
 	 and Elizabeth Johanna Fredrika Wessels born on the 8 July 1829. On account of
@@ -76891,7 +76944,7 @@ I do hereby declare to be lawfully indebted the sum of rd:s650, (sig:d)
       <td>£</td>
     </tr>
     <tr>
-      <td>1) Piet Moolman ofdistrict for 24 head of cattle</td>
+      <td>1) Piet Moolman of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> district for 24 head of cattle</td>
       <td>250</td>
       <td>18:15</td>
     </tr>
@@ -76951,18 +77004,18 @@ I do hereby declare to be lawfully indebted the sum of rd:s650, (sig:d)
   </tbody>
 </table>
 
-22:nd October 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 22:nd October 1829
 
 Alex Tennant, Ag:t of the Orph: Cham:
 
 ## MOOC8/44.37
 
- {18300125} 25 January 1830 <span style="border-bottom: 2px dotted #008000;">Richard Craig</span> 
+ {18300125} 25 January 1830 <span style="border-bottom: 2px dotted #00FF00;">Richard Craig</span> 
 
 Sale 13:th Feb: 1830
 
 Inventory of all such property as has been relinquished by the demise of
-	 Richard Craig born atof, who died in the Somerset Hosptial
+	 Richard Craig born at <span style="border-bottom: 2px dotted #FF0000;">Ellenborough County</span> of <span style="border-bottom: 2px dotted #FF0000;">Cumberland</span> , who died in the Somerset Hosptial
 	 on the 22:nd Jan:y 1830, viz:
 
 <table>
@@ -77014,7 +77067,7 @@ By me: Tho: Read Welch
 
 ## MOOC8/44.38
 
- {18290126} 26 January 1829 <span style="border-bottom: 2px dotted #008000;">Benjamin Seel</span> 
+ {18290126} 26 January 1829 <span style="border-bottom: 2px dotted #00FF00;">Benjamin Seel</span> 
 
 Exh:d the 28:th January 1829, n:o 20
 
@@ -77183,7 +77236,7 @@ January 8:th 1829
 
 ## MOOC8/44.39
 
- {18240920} 20 September 1824 <span style="border-bottom: 2px dotted #008000;">William M:c Donald</span> 
+ {18240920} 20 September 1824 <span style="border-bottom: 2px dotted #00FF00;">William M:c Donald</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Maandag den
 	 twintigste September in den jare onzes Heeren een duijzend acht honderd vier en
@@ -77349,7 +77402,7 @@ My present: V: Myburgh
 
 ## MOOC8/44.40
 
- {18291219} 19 December 1829 <span style="border-bottom: 2px dotted #008000;">Fredrik Staal</span> 
+ {18291219} 19 December 1829 <span style="border-bottom: 2px dotted #00FF00;">Fredrik Staal</span> 
 
 N:o 1, received 5:th Jan:y 1830, D:J:V:R:
 
@@ -77452,17 +77505,17 @@ Inventaris van alle zodanige goederen als door Fredrik Staal met den dood
 </table>
 
 Aldus door mij ondergeteekende op speciaale last van de weled: Civile
-	 Commissaris bovenstaande inventaris geformeerd. Actum teden 19 December 1829
+	 Commissaris bovenstaande inventaris geformeerd. Actum te <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> den 19 December 1829
 
 J:A: Minnaar, Wijkmeester
 
 ## MOOC8/44.41
 
- {18300311} 11 March 1830 <span style="border-bottom: 2px dotted #008000;">Johannes Jacobsz</span>  <span style="border-bottom: 2px dotted #008000;">Johanna Maria Faber</span> 
+ {18300311} 11 March 1830 <span style="border-bottom: 2px dotted #00FF00;">Johannes Jacobsz</span>  <span style="border-bottom: 2px dotted #00FF00;">Johanna Maria Faber</span> 
 
 Inventory of all such good and effects as have been possessed in communion
 	 by the late Johannes Jacobsz Pietson born in this Colony died on the 4 December
-	 1829 aged 78 years at the placesituated in the fieldcornetcydistrict ofand surviving widow
+	 1829 aged 78 years at the place <span style="border-bottom: 2px dotted #FF0000;">Spreeuwfontein</span> situated in the fieldcornetcy <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> and surviving widow
 	 Johanna Maria Faber ab intestato
 
 <table>
@@ -77778,7 +77831,7 @@ Inventory of all such good and effects as have been possessed in communion
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>from Joh:s Philippus Jacobs Stephanus son,, for articles
+      <td>from Joh:s Philippus Jacobs Stephanus son, <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> , for articles
 		bought</td>
       <td>8:4</td>
     </tr>
@@ -77792,11 +77845,11 @@ Inventory of all such good and effects as have been possessed in communion
       <td>0:4</td>
     </tr>
     <tr>
-      <td>from Pieter Johannes van Nieuwkerk P:r son // for needles</td>
+      <td>from Pieter Johannes van Nieuwkerk P:r son / <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> / for needles</td>
       <td>0:4</td>
     </tr>
     <tr>
-      <td>from Pieter Erasmus sen:rfor 2lb tobacco</td>
+      <td>from Pieter Erasmus sen:r <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> for 2lb tobacco</td>
       <td>1:0</td>
     </tr>
     <tr>
@@ -77818,12 +77871,12 @@ Inventory of all such good and effects as have been possessed in communion
       <td>3:--</td>
     </tr>
     <tr>
-      <td>from Henning Joh:s Viljoen Dirk son,, for 2 whip
+      <td>from Henning Joh:s Viljoen Dirk son, <span style="border-bottom: 2px dotted #FF0000;">Nieuw Hantam</span> , for 2 whip
 		sticks</td>
       <td>6:--</td>
     </tr>
     <tr>
-      <td>from Johannes Hend:k Koekemoer Joh:s son,, for money
+      <td>from Johannes Hend:k Koekemoer Joh:s son, <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> , for money
 		borrowed</td>
       <td>9:--</td>
     </tr>
@@ -77838,7 +77891,7 @@ Inventory of all such good and effects as have been possessed in communion
       <td>193:--</td>
     </tr>
     <tr>
-      <td>from Willem Saunders,,
+      <td>from Willem Saunders, <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> ,
 		for 1lb tobacco</td>
       <td>0:4</td>
     </tr>
@@ -77930,7 +77983,7 @@ Inventory of all such good and effects as have been possessed in communion
   </tbody>
 </table>
 
-Thus done and inventoried at the placesituated in the field cornetcy, district ofthis 11 day of March 1800 thirty
+Thus done and inventoried at the place <span style="border-bottom: 2px dotted #FF0000;">Spreeuwfontein</span> situated in the field cornetcy <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> , district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> this 11 day of March 1800 thirty
 	 according to the declaration of Johanna Maria Faber widow of the late Johannes
 	 Jacobz Pietson who declared that to the best of her knowledge she has given up
 	 all the effects that belong to said estate with further promise should any
@@ -77948,7 +78001,7 @@ In my presence: J: Auret, Agent
 
 ## MOOC8/44.42
 
- {18291116} 16 November 1829 <span style="border-bottom: 2px dotted #008000;">Galenia</span> 
+ {18291116} 16 November 1829 <span style="border-bottom: 2px dotted #00FF00;">Galenia</span> 
 
 A true and perfect inventory of all and every the goods, chattels and
 	 wares as well moveable as not, debts, credits and other personal effects of the
@@ -78035,7 +78088,7 @@ A true and perfect inventory of all and every the goods, chattels and
   </tbody>
 </table>
 
-Thus done and registered in the village ofon the 16:th November 1829 in the presence
+Thus done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on the 16:th November 1829 in the presence
 	 of Messrs Christiaan Johannes Rabe and Johannes Bodenstein according to the
 	 statement of Mr John Baird by me
 
@@ -78047,7 +78100,7 @@ J:J: Meintjes, Ag:t to the Or: Chamber
 
 ## MOOC8/44.43
 
- {17911003} 3 October 1791 <span style="border-bottom: 2px dotted #008000;">Jan Jacob Meijer</span> 
+ {17911003} 3 October 1791 <span style="border-bottom: 2px dotted #00FF00;">Jan Jacob Meijer</span> 
 
 Rhenius
 
@@ -78090,13 +78143,13 @@ en vermits Heeren Weesm: bij meerm: dispositie tot executeurs en
   <tbody>
     <tr>
       <td>Een huys en erf staande ende geleegen in
-		  deesegroot in zijnen grond 19
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> groot in zijnen grond 19
 		  quad:n roeden en 96 quad:n voeten, sub 21 Jan: 1773 aan den overl:
 		  getransporteerd</td>
     </tr>
     <tr>
       <td>een pakhuys en erf staande ende gelegen in
-		  deesegroot in zijnen grond 19
+		  deese <span style="border-bottom: 2px dotted #FF0000;">Tafelvalleij</span> groot in zijnen grond 19
 		  quad: roeden, 75 quad: voeten en 24 gelijke duimen</td>
     </tr>
   </tbody>
@@ -79143,168 +79196,168 @@ In ’t woonhuis en aldaar
   <thead><tr><td colspan='100%'>Lijf eigene</td></tr></thead>
   <tbody>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">April van Boegies</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">April van Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">September van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">September van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Moses van de Caab</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Moses van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jan van de Caab</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jan van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">January van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">January van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Isaak van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Isaak van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mentor van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mentor van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Mentor van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Mentor van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Oerson van de Caab</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Oerson van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">October van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">October van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Abraham van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Abraham van
 		Mosambique</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Cupido van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Cupido van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Alexander van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Alexander van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Baatje van Boegies</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Baatje van Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Matthijs van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Matthijs van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Jek van Mosambicque</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Jek van Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">August van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">August van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Salomon van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Salomon van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Lakey van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Lakey van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Manuel van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Manuel van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Achilles van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Achilles van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Marthinus van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Marthinus van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Fortuijn van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Fortuijn van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Meuron van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Meuron van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">July van Boegies</span></td>
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">July van Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">January van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">January van
 		Bengalen</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">January van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">January van
 		Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Frans van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Frans van
 		Madagascar</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Philida van Ceijlon</span></td>
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Philida van Ceijlon</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Dina van
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Dina van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Rebecca van
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rebecca van
 		Mosambicque</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Diana van Mallabaar</span></td>
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Diana van Mallabaar</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Eva van de Caab</span></td>
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Eva van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Bientang van
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Bientang van
 		Boegies</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Caecilia van Caab</span> thans
-		in</td>
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Caecilia van Caab</span> thans
+		in <span style="border-bottom: 2px dotted #FF0000;">Europa</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Silvia van de Caab</span></td>
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Theresia van de
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Theresia van de
 		Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Alida van de Caab</span></td>
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Alida van de Caab</span></td>
     </tr>
     <tr>
-      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>een slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		Bengalen</span></td>
       <td>&nbsp;</td>
       <td rowspan='3' style='vertical-align: middle;'>toebehorende den capt:
 		Swetman</td>
     </tr>
     <tr>
-      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #008000;">Rosie van Boegies</span> met 2
+      <td>een slaven meijd gen:t <span style="border-bottom: 2px dotted #00FF00;">Rosie van Boegies</span> met 2
 		kinderen, gen:t</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jan</span> en</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jan</span> en</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Louisa</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louisa</span></td>
     </tr>
   </tbody>
 </table>
@@ -79774,7 +79827,7 @@ Höhne
 
 Specificatie van zodanig beestiaal, lijfeigene, etc:a als de
 	 ondergetekende schryver en bode als expresselijk gequalificeert zijnde tot den
-	 opneem derselve aan ’tonder ’t
+	 opneem derselve aan ’t <span style="border-bottom: 2px dotted #FF0000;">Zoute Rivier</span> onder ’t
 	 Caabsche district, toebehorende den boedel van wijlen den burger Jan Jacob
 	 Meijer bestaande deselve in ’t volgende te weeten
 
@@ -79793,15 +79846,15 @@ Specificatie van zodanig beestiaal, lijfeigene, etc:a als de
       <td>6 schietgeweeren</td>
     </tr>
     <tr>
-      <td>1 slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Frans van
+      <td>1 slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Frans van
 		  Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">Domingo van
+      <td>1 slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">Domingo van
 		  Mosambicque</span></td>
     </tr>
     <tr>
-      <td>1 slaven jonge gen:t <span style="border-bottom: 2px dotted #008000;">January van
+      <td>1 slaven jonge gen:t <span style="border-bottom: 2px dotted #00FF00;">January van
 		  Mallabaar</span></td>
     </tr>
   </tbody>
@@ -79815,7 +79868,7 @@ J:M: Prins
 
 ## MOOC8/44.44
 
- {18300521} 21 May 1830 <span style="border-bottom: 2px dotted #008000;">Michael Cohen</span> 
+ {18300521} 21 May 1830 <span style="border-bottom: 2px dotted #00FF00;">Michael Cohen</span> 
 
 Inventory of all such property as has been relinquished by the intestate
 	 death of Michael Cohen, born in Dublin, on the sixteenth day of the month of
@@ -79827,7 +79880,7 @@ The aforesaid property having been taken under the administration of the
 	 heirs and been inventoried by the undersigned special commissioners of the
 	 Board aforesaid was found to consist in the following, viz:t
 
-In a house occupied by Mr Taytasac
+In a house occupied by Mr Taytasac <span style="border-bottom: 2px dotted #FF0000;">N: 35</span>  <span style="border-bottom: 2px dotted #FF0000;">Roose Street</span> 
 
 <table>
   <tbody>
@@ -80337,15 +80390,16 @@ J: Taytasac
 
 Im my presence: H: Tennant, Secr:
 
-Mr Abraham Cohen at,
+Mr Abraham Cohen at <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span>  <span style="border-bottom: 2px dotted #FF0000;">Leicester Square</span> , <span style="border-bottom: 2px dotted #FF0000;">London</span> 
 
 ## MOOC8/44.45
 
- {18281028} 28 October 1828 <span style="border-bottom: 2px dotted #008000;">Johannis Jacobus Oosthuijsen</span> 
+ {18281028} 28 October 1828 <span style="border-bottom: 2px dotted #00FF00;">Johannis Jacobus Oosthuijsen</span> 
 
 Inventaris behooren tot den boedel van den overleedenen Johannis Jacobus
-	 Oosthuijsen zinior ouderdom van den overledenen 79 jaar en 7 maanden en desegebooren op den 26 Junij 1828
-	 overleeden op de plaas genaamt deaan de, nagelate
+	 Oosthuijsen zinior ouderdom van den overledenen 79 jaar en 7 maanden en dese <span style="border-bottom: 2px dotted #FF0000;">Uijthoek</span> gebooren op den 26 Junij 1828
+	 overleeden op de plaas genaamt de <span style="border-bottom: 2px dotted #FF0000;">Buffels
+	 Valij</span> aan de <span style="border-bottom: 2px dotted #FF0000;">Grootswartberg</span> , nagelate
 	 wedeuwe Catrina Geesie Gouws
 
 <table>
@@ -80365,7 +80419,7 @@ Inventaris behooren tot den boedel van den overleedenen Johannis Jacobus
     </tr>
     <tr>
       <td>2) Jacoba Catrina geheuwd met Andries Dejager, onmondinge vier
-		  kinderen, residing in thedistrict,</td>
+		  kinderen, residing in the <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> district,</td>
     </tr>
     <tr>
       <td>3) Stevanis Jacobus Aderjan geheuwd met Engela van der Berg,
@@ -80438,7 +80492,7 @@ Inventaris behooren tot den boedel van den overleedenen Johannis Jacobus
   </tbody>
 </table>
 
-De derde gedeelte van de opstal der lenings plaast genaamt degelegen aangekogt van Martienis
+De derde gedeelte van de opstal der lenings plaast genaamt de <span style="border-bottom: 2px dotted #FF0000;">Buffels Valeij</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Grootswartberg</span> gekogt van Martienis
 	 Oostheuijsen M:s zoon op den 27 Jannuareij 1828 voor de zomma van een deuijsent
 	 vier en sestig reijksdaalders
 
@@ -80589,7 +80643,7 @@ G:s Joubert, Veld c:t
 
 ## MOOC8/44.46
 
- {18261202} 2 December 1826 <span style="border-bottom: 2px dotted #008000;">Robert Bell</span> 
+ {18261202} 2 December 1826 <span style="border-bottom: 2px dotted #00FF00;">Robert Bell</span> 
 
 Inventory of all such property as have been relinquished by the death ab
 	 intestato of Robert Bell on the twenty fifth day of the month of November in
@@ -80602,8 +80656,9 @@ Inventory of all such property as have been relinquished by the death ab
 <table>
   <tbody>
     <tr>
-      <td>A house and premises situated in thisbetween the Castle and the
-		  prolongedinbeing</td>
+      <td>A house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> between the Castle and the
+		  prolonged <span style="border-bottom: 2px dotted #FF0000;">Ziekedwars Street</span> in <span style="border-bottom: 2px dotted #FF0000;">Blok C:</span> being <span style="border-bottom: 2px dotted #FF0000;">N:o 8,
+		  9, 23 and 24</span></td>
     </tr>
     <tr>
       <td>a set of tables consisting in three</td>
@@ -81089,7 +81144,7 @@ Inventory of all such property as have been relinquished by the death ab
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Alexander Dick atfor two buckets and 1 yiest
+      <td>from Alexander Dick at <span style="border-bottom: 2px dotted #FF0000;">Wynberg</span> for two buckets and 1 yiest
 		tub</td>
       <td>15</td>
     </tr>
@@ -81145,7 +81200,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.47
 
- {18280712} 12 Julij 1828 <span style="border-bottom: 2px dotted #008000;">Johannes Jacobus
+ {18280712} 12 Julij 1828 <span style="border-bottom: 2px dotted #00FF00;">Johannes Jacobus
 	 Cilliers</span> 
 
 Exh:d the 26 November 1828, No. 10
@@ -81349,7 +81404,7 @@ Den overledene is besteed geweest door de executeure in zyns ouders
 
 ## MOOC8/44.48
 
- {18291029} 29 October 1829 <span style="border-bottom: 2px dotted #008000;">Jan Adriaan Venter</span>  <span style="border-bottom: 2px dotted #008000;">Maria Catharina Elisabeth
+ {18291029} 29 October 1829 <span style="border-bottom: 2px dotted #00FF00;">Jan Adriaan Venter</span>  <span style="border-bottom: 2px dotted #00FF00;">Maria Catharina Elisabeth
 	 Venter</span> 
 
 J:G: Brink
@@ -81357,8 +81412,8 @@ J:G: Brink
 A true and perfect inventory of all and every the goods, chattels, wares
 	 and merchandise as well moveable as not, debts, credits and other personal
 	 effects of Maria Catharina Elisabeth Venter and deceased husband Jan Adriaan
-	 Venter which latter died at the placeon the 23:rd July last between the hours of 11 and 12 p:m: within the field
-	 cornetcy of Hermanus van der Westhuisen in thedistrict ofand given up as follows
+	 Venter which latter died at the place <span style="border-bottom: 2px dotted #FF0000;">Rondavel</span> on the 23:rd July last between the hours of 11 and 12 p:m: within the field
+	 cornetcy of Hermanus van der Westhuisen in the <span style="border-bottom: 2px dotted #FF0000;">Traka</span> district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> and given up as follows
 
 <table>
   <tbody>
@@ -81541,7 +81596,7 @@ A true and perfect inventory of all and every the goods, chattels, wares
   </tbody>
 </table>
 
-Thus done in thein the district ofat the place theon the 29:th day of October 1829
+Thus done in the <span style="border-bottom: 2px dotted #FF0000;">Traka</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> at the place the <span style="border-bottom: 2px dotted #FF0000;">Rondavel</span> on the 29:th day of October 1829
 	 according to the statement of Maria Catharina Elisabeth Venter who declared in
 	 her above statement of this estate to have acted honestly and truly that
 	 nothing has been held back to the best of her knowledge and judgement and to be
@@ -81558,10 +81613,10 @@ J:J: Meintjes, A: V:c:
 
 ## MOOC8/44.49a
 
- {18300201} 1 February 1830 <span style="border-bottom: 2px dotted #008000;">Frans Villnagel</span> 
+ {18300201} 1 February 1830 <span style="border-bottom: 2px dotted #00FF00;">Frans Villnagel</span> 
 
 Inventory of all such property as has been relinquished by the intestate
-	 death of Frans Villnagel (born atin) on the 29:th day of the month of
+	 death of Frans Villnagel (born at <span style="border-bottom: 2px dotted #FF0000;">Eselingen</span> in <span style="border-bottom: 2px dotted #FF0000;">Wurtenburg</span> ) on the 29:th day of the month of
 	 January in the year of our Lord one thousand eight hundred and thirty at half
 	 past seven o’ clock in the evening for the benefit if his unknown foreign
 	 heirs. The aforesaid property having taken under the administration of the
@@ -81610,7 +81665,7 @@ At the house of Mr Fred:k Lod:k Lieching
       <td>three p:r of spectacle glasses</td>
     </tr>
     <tr>
-      <td>a map of</td>
+      <td>a map of <span style="border-bottom: 2px dotted #FF0000;">London</span></td>
     </tr>
     <tr>
       <td>a p:r of pocket pistols</td>
@@ -82354,10 +82409,10 @@ Catalogus of books belonging to the estate of the late Mr J:C: Villnagel
       <td>3 maps,</td>
     </tr>
     <tr>
-      <td>1 ofand</td>
+      <td>1 of <span style="border-bottom: 2px dotted #FF0000;">Europe</span> and</td>
     </tr>
     <tr>
-      <td>2 of</td>
+      <td>2 of <span style="border-bottom: 2px dotted #FF0000;">Germany</span></td>
     </tr>
     <tr>
       <td>an English saddle and bridle</td>
@@ -82368,7 +82423,7 @@ Catalogus of books belonging to the estate of the late Mr J:C: Villnagel
 ## MOOC8/44.50
 
  {18290803} 3 August
-	 1829 <span style="border-bottom: 2px dotted #008000;">Hugh Chaffin</span> 
+	 1829 <span style="border-bottom: 2px dotted #00FF00;">Hugh Chaffin</span> 
 
 Exh:d the 5:th August 1829 n:o 17
 
@@ -82382,7 +82437,8 @@ Inventory of all such property as has been relinquished by the death
 	 aforesaid heirs and been inventoried by me the undersigned was found to consist
 	 in the following articles, viz:t
 
-In the house of Mr J: Bosman in
+In the house of Mr J: Bosman in <span style="border-bottom: 2px dotted #FF0000;">Rose
+	 Street</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 13</span> 
 
 <table>
   <tbody>
@@ -82502,7 +82558,7 @@ Ampliation, the following articles has been found amongst the cloaths of
 ## MOOC8/44.51
 
  {18300216} 16 February
-	 1830 <span style="border-bottom: 2px dotted #008000;">Johan Casper</span> 
+	 1830 <span style="border-bottom: 2px dotted #00FF00;">Johan Casper</span> 
 
 Inventory of all such property as has been relinquished by the intestate
 	 death of Johan Casper on the 16:th day of February in the year of our Lord one
@@ -82600,7 +82656,7 @@ John Locke, Gaoler
 
 ## MOOC8/44.52
 
- {18280102} 2 Januarij 1828 <span style="border-bottom: 2px dotted #008000;">Gabruel Jakobus Leroe</span>  <span style="border-bottom: 2px dotted #008000;">Johanna Aletta
+ {18280102} 2 Januarij 1828 <span style="border-bottom: 2px dotted #00FF00;">Gabruel Jakobus Leroe</span>  <span style="border-bottom: 2px dotted #00FF00;">Johanna Aletta
 	 Sanneberg</span> 
 
 Exhib: 27 Feb:y 1828, n:o 34
@@ -82646,7 +82702,7 @@ Nalatenschapin in het volgende te weeten
     </tr>
     <tr>
       <td>Een halve andeel van opstal der lening plaats
-		  genaamt degetakzeert door
+		  genaamt de <span style="border-bottom: 2px dotted #FF0000;">Bosjemans Rievier</span> getakzeert door
 		  denondergetekende Veld cornet en bywezende getuyge voormelde plaats voor de
 		  prijs van</td>
       <td>3333:2:4</td>
@@ -82662,32 +82718,32 @@ Nalatenschapin in het volgende te weeten
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Vielander van Moszinbiek</span> o:t 30
+      <td><span style="border-bottom: 2px dotted #00FF00;">Vielander van Moszinbiek</span> o:t 30
 		jaare</td>
       <td>400</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Vloris
+      <td><span style="border-bottom: 2px dotted #00FF00;">Vloris
 		van de Kaap</span> o:t 30 jaare</td>
       <td>750</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Riegina van Moszumbiek</span> o:t 30
+      <td><span style="border-bottom: 2px dotted #00FF00;">Riegina van Moszumbiek</span> o:t 30
 		jaare</td>
       <td>500</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Zauwwel van de Kaap</span> o:t 10
+      <td><span style="border-bottom: 2px dotted #00FF00;">Zauwwel van de Kaap</span> o:t 10
 		jaare</td>
       <td>350</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Klara
+      <td><span style="border-bottom: 2px dotted #00FF00;">Klara
 		van de Kaap</span> o:t 5 jaare</td>
       <td>250</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Mentoor van de Kaap</span> o:t 3
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mentoor van de Kaap</span> o:t 3
 		jaare</td>
       <td>200</td>
     </tr>
@@ -83118,7 +83174,7 @@ Nalatenschapin in het volgende te weeten
       <td>1788</td>
     </tr>
     <tr>
-      <td>diminished by purchase of slave <span style="border-bottom: 2px dotted #008000;">Zanol</span> for 800 rd:s</td>
+      <td>diminished by purchase of slave <span style="border-bottom: 2px dotted #00FF00;">Zanol</span> for 800 rd:s</td>
     </tr>
     <tr>
       <td>aan Jakobus en Gidejon en Wilm van Zijl te
@@ -83138,7 +83194,7 @@ Nalatenschapin in het volgende te weeten
 </table>
 
 Aldus geinventariseert ter woon plaatse van mejufrouw de weduwe wijlen den
-	 burger Gabruel Jakobus Leroe en Jakobus Peterus Zanneberg genaamtgelegen in hetin ’t distriktop den 2:de Januarij 1828 in
+	 burger Gabruel Jakobus Leroe en Jakobus Peterus Zanneberg genaamt <span style="border-bottom: 2px dotted #FF0000;">Bosjesmans Kloof</span> gelegen in het <span style="border-bottom: 2px dotted #FF0000;">Bosjesveld</span> in ’t distrikt <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> op den 2:de Januarij 1828 in
 	 tegenwoordighijt der hierondergetekende en zulks op het angeve van gemelde
 	 huijsvrouw Johanna Aletta Zanneberg en mondige ergenaame Ziman Jakobus Leroe en
 	 Gabruel Johannis Leroe en Abram Ermanis Leroe welke verklaar en genoege te
@@ -83191,20 +83247,20 @@ List of heirs in estate of the late Gab: J: le Roe and surviving widow
   </tbody>
 </table>
 
-Sept: 29:th 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> Sept: 29:th 1829
 
 ## MOOC8/44.53
 
- {18290615} 15 June 1829 <span style="border-bottom: 2px dotted #008000;">George Coffee</span> 
+ {18290615} 15 June 1829 <span style="border-bottom: 2px dotted #00FF00;">George Coffee</span> 
 
-Inventory of the estate of George Coffee, a mason by trade, born inon the 15 March 1799 and who died as a
-	 bachelor ab intestate at the place(situated in this district) of the widow B:F: Lubbe born Sophia van Wyk, on the
+Inventory of the estate of George Coffee, a mason by trade, born in <span style="border-bottom: 2px dotted #FF0000;">Cork</span> on the 15 March 1799 and who died as a
+	 bachelor ab intestate at the place <span style="border-bottom: 2px dotted #FF0000;">Ezelsbank</span> (situated in this district) of the widow B:F: Lubbe born Sophia van Wyk, on the
 	 11:th June 1829 about 3 oclock a:m: aged about 30 years two months and 26 days
 	 leaving behind, according to the statement made by his brother John Coffee at
-	 present residing in thedistrict of/his father George
+	 present residing in the <span style="border-bottom: 2px dotted #FF0000;">Koude Bokke Veld</span> district of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> /his father George
 	 Coffee and mother Jane Burnet and his brothers William Coffee, Daniel Coffee,
 	 Thomas Coffee, and the abovementioned John Coffee, all with exception of the
-	 last mentioned residing in the north part ofwhich inventory was framed by me Dercillus
+	 last mentioned residing in the north part of <span style="border-bottom: 2px dotted #FF0000;">Cork</span> which inventory was framed by me Dercillus
 	 Schonnberg acting for the Agent for the Board of Orphan Masters, assisted by
 	 Robert Cowsert and Kady Kalahan as witnesses which inventory contained the
 	 following artikels, viz:t
@@ -83306,29 +83362,29 @@ Inventory of the estate of George Coffee, a mason by trade, born inon the 15 Mar
     <tr>
       <td>ent:d</td>
       <td>a note of hand of S:W: Lubbe residing in the
-		district of</td>
+		district of <span style="border-bottom: 2px dotted #FF0000;">Clan William</span></td>
       <td>27</td>
     </tr>
     <tr>
       <td>paid 19 August 1829</td>
       <td>a note of hand of J:H: du Plisies
-		residing in the, district</td>
+		residing in the <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> , district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span></td>
       <td>40</td>
     </tr>
     <tr>
       <td>ent:d</td>
-      <td>Andries P: Lubbe residing in the ward, districtfor masons work</td>
+      <td>Andries P: Lubbe residing in the ward <span style="border-bottom: 2px dotted #FF0000;">Bidouw</span> , district <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> for masons work</td>
       <td>8</td>
     </tr>
     <tr>
       <td>ent:d</td>
-      <td>Joh:s David van Aarde residing in the ward of, dist:, for masons
+      <td>Joh:s David van Aarde residing in the ward of <span style="border-bottom: 2px dotted #FF0000;">Berg en lange Vally</span> , dist: <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> , for masons
 		work</td>
       <td>6</td>
     </tr>
     <tr>
       <td>ent:d</td>
-      <td>W: Lubbe residing at the placein the ward, dist:for</td>
+      <td>W: Lubbe residing at the place <span style="border-bottom: 2px dotted #FF0000;">Roode Hoogte</span> in the ward <span style="border-bottom: 2px dotted #FF0000;">Oliphants River</span> , dist: <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> for</td>
       <td>6</td>
     </tr>
   </tbody>
@@ -83345,17 +83401,18 @@ Inventory of the estate of George Coffee, a mason by trade, born inon the 15 Mar
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid 8 March 1830</td>
       <td>to John Foster residing at
-		the drosdy</td>
+		the drosdy <span style="border-bottom: 2px dotted #FF0000;">Clan
+		William</span></td>
       <td>87:4:3</td>
     </tr>
     <tr>
-      <td>Robert Cowsert residing at the drosdy</td>
+      <td>Robert Cowsert residing at the drosdy <span style="border-bottom: 2px dotted #FF0000;">Clan William</span></td>
       <td>51</td>
     </tr>
   </tbody>
 </table>
 
-Thus done atat the Cape of
+Thus done at <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> at the Cape of
 	 Good Hope on the 15 June 1829.
 
 J: Schönnberg
@@ -83366,12 +83423,12 @@ As witnesses: R: Cousert, K: Callaghan
 
 ## MOOC8/44.54
 
- {18280620} 20 June 1828 <span style="border-bottom: 2px dotted #008000;">Robert Moco</span> 
+ {18280620} 20 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Robert Moco</span> 
 
 Sold 7 Octob: 1829
 
 List of such property as has been left at the demise of Robert Moco at the
-	 house of Mr Moll,, June 20:th
+	 house of Mr Moll, <span style="border-bottom: 2px dotted #FF0000;">Rose Street</span> , June 20:th
 	 1828
 
 <table>
@@ -83402,19 +83459,19 @@ Witness: C: Moll
 
 ## MOOC8/44.55
 
- {18270724} 24 July 1827 <span style="border-bottom: 2px dotted #008000;">John Harrison</span> 
+ {18270724} 24 July 1827 <span style="border-bottom: 2px dotted #00FF00;">John Harrison</span> 
 
 J: Munnik
 
 Inventory of property belonging to the estate of the late John Harrison
-	 alias Hammond who was discovered on the 16:th day of June 1827 atin the district ofof whom the following is a
+	 alias Hammond who was discovered on the 16:th day of June 1827 at <span style="border-bottom: 2px dotted #FF0000;">Port Francis</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> of whom the following is a
 	 description
 
 his age, about twenty eight
 
 has never been married
 
-born in
+born in <span style="border-bottom: 2px dotted #FF0000;">London</span> 
 
 occupation coxwain at the Cowie
 
@@ -83452,19 +83509,19 @@ Thus done and inventory taken
 
 In my presence: Daniel J: Cloete, Agent to Orphan Chamber
 
-24:th July 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> 24:th July 1827
 
 the watch was claimed by the owner, H:J:
 
 ## MOOC8/44.56
 
- {18290120} 20 January 1829 <span style="border-bottom: 2px dotted #008000;">Malbroek</span> 
+ {18290120} 20 January 1829 <span style="border-bottom: 2px dotted #00FF00;">Malbroek</span> 
 
-Extract missive geschreven door den Agent der Weeskamer C:J: Auret teaan den Secretaris der Weeskamer
+Extract missive geschreven door den Agent der Weeskamer C:J: Auret te <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> aan den Secretaris der Weeskamer
 	 J:J:L: Smuts in dato 20 January 1829.
 
 I also enclose the vendue roll of the sale of the cattle of the late
-	 freeblack Malbroek which were sent toby the field cornet of. In his
+	 freeblack Malbroek which were sent to <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> by the field cornet of <span style="border-bottom: 2px dotted #FF0000;">Zwagershoek</span> . In his
 	 report to me he mentioned 10 head of cattle but nine were only in the
 	 deceased’s possession and one the estate has to claim from a Hottentot named
 	 David Prins which I will endeavour to recover as early as possible and have it
@@ -83475,10 +83532,10 @@ A true extract
 
 ## MOOC8/44.57
 
- {18290122} 22 January 1829 <span style="border-bottom: 2px dotted #008000;">John Poulston</span> 
+ {18290122} 22 January 1829 <span style="border-bottom: 2px dotted #00FF00;">John Poulston</span> 
 
 Inventory of the property found in the estate of the late John Poulston
-	 (laborer) who died intestate atnear, district ofon the 28:th December 1828, aged 27
+	 (laborer) who died intestate at <span style="border-bottom: 2px dotted #FF0000;">Manleys Flat</span> near <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> , district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> on the 28:th December 1828, aged 27
 	 years
 
 <table>
@@ -83532,14 +83589,14 @@ We the undersigned chosen appraisers for the intestate estate of the late
 
 John Paskin, Christopher Dale
 
-Sworn before me atthis 22:d
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> this 22:d
 	 day of Jan:y 1829
 
 Dan: Campbell, J:P: for a: V:S:
 
 Exh:d the 4:t February 1829, n:o 3
 
-, 22:nd Jan:y 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> , 22:nd Jan:y 1829
 
 Sir!
 
@@ -83563,7 +83620,7 @@ J:J:L: Smuts Esq:r, Sec:y Orph:n Cham:r
 
 ## MOOC8/44.58
 
- {18290727} 27 July 1829 <span style="border-bottom: 2px dotted #008000;">Adriaan Louw</span> 
+ {18290727} 27 July 1829 <span style="border-bottom: 2px dotted #00FF00;">Adriaan Louw</span> 
 
 Vendutie 27 July 29
 
@@ -83605,7 +83662,7 @@ Inventory of all such property as has been relinquished by the intestate
     </tr>
     <tr>
       <td>10) Johannes Wynand Louw born [ ..... ] 1808</td>
-      <td rowspan='2' style='vertical-align: middle;'>borgtogt gesteld, veld c:t Christian Lombaardzal aan Ad: Louw r:10
+      <td rowspan='2' style='vertical-align: middle;'>borgtogt gesteld, veld c:t Christian Lombaard <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> zal aan Ad: Louw r:10
 		  geven</td>
     </tr>
     <tr>
@@ -83619,7 +83676,7 @@ The aforesaid property having been taken under the administration of the
 	 inventoried by the undersigned special Commissioner of the Board aforesaid was
 	 found to consist in the following, viz:t
 
-At the place of Mr Pieter Jacob de Villiers situated at
+At the place of Mr Pieter Jacob de Villiers situated at <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> 
 
 <table>
   <tbody>
@@ -83716,23 +83773,23 @@ At the place of Mr Pieter Jacob de Villiers situated at
   <tbody>
     <tr>
       <td>verkogt</td>
-      <td><span style="border-bottom: 2px dotted #008000;">David of this Colony</span> 62 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">David of this Colony</span> 62 years of age</td>
     </tr>
     <tr>
       <td>verkogt</td>
-      <td><span style="border-bottom: 2px dotted #008000;">July of this Colony</span> 43 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">July of this Colony</span> 43 years of age</td>
     </tr>
     <tr>
       <td>verkogt</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Frans of Mosambique</span> 53 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Frans of Mosambique</span> 53 years of age</td>
     </tr>
     <tr>
       <td>verkogt</td>
-      <td><span style="border-bottom: 2px dotted #008000;">America of this Colony</span> 14 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">America of this Colony</span> 14 years of age</td>
     </tr>
     <tr>
       <td>verkogt</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Rozet of this Colony</span> 45 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rozet of this Colony</span> 45 years of age</td>
     </tr>
   </tbody>
 </table>
@@ -83749,7 +83806,7 @@ At the place of Mr Pieter Jacob de Villiers situated at
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid 10 September 1830</td>
       <td>from the wedow
-		Benjamin Lombaard atdistrictfor 5 days hire of a smiths boy
+		Benjamin Lombaard at <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> district <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for 5 days hire of a smiths boy
 		at 2 1/2 r: per day</td>
       <td>12:24</td>
     </tr>
@@ -83761,7 +83818,7 @@ At the place of Mr Pieter Jacob de Villiers situated at
     </tr>
     <tr>
       <td>ent:d, paid 11 Sep:r 1829</td>
-      <td>from Jan Hendrik Loedolff,,for 7 days work of a smiths boy on a
+      <td>from Jan Hendrik Loedolff, <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> , <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for 7 days work of a smiths boy on a
 		note of hand</td>
       <td>&nbsp;</td>
       <td>17:24</td>
@@ -83781,14 +83838,14 @@ At the place of Mr Pieter Jacob de Villiers situated at
     <tr>
       <td>paid in part of this debt rd:s5:30 10 September
 		1830</td>
-      <td>from Johannes Gerh:s Lombaard of,for 4 3/4 days hire of smiths boy note
+      <td>from Johannes Gerh:s Lombaard of <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> , <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for 4 3/4 days hire of smiths boy note
 		of hand dated 21 May 1828</td>
       <td>&nbsp;</td>
       <td>11:42</td>
     </tr>
     <tr>
       <td>paid 10 September 1830</td>
-      <td>from Christiaan Lombaard,, dist:for 3 days hire of smiths boy on
+      <td>from Christiaan Lombaard, <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> , dist: <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for 3 days hire of smiths boy on
 		two notes of hand dated 20 March and 13 July
 		1829</td>
       <td>&nbsp;</td>
@@ -83797,7 +83854,7 @@ At the place of Mr Pieter Jacob de Villiers situated at
     <tr>
       <td>paid in part rd:7 10 Sep:r 1830</td>
       <td>from Hendrik van der
-		Westhuyzen,,for 3 days hire of smiths boy on
+		Westhuyzen, <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> , <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for 3 days hire of smiths boy on
 		a note of hand dated 16 May 1829</td>
       <td>&nbsp;</td>
       <td>7:24</td>
@@ -83811,7 +83868,7 @@ At the place of Mr Pieter Jacob de Villiers situated at
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Jacobus J: Lombaard,,for 4 days hire of smiths
+      <td>from Jacobus J: Lombaard, <span style="border-bottom: 2px dotted #FF0000;">Ribeeks Kasteel</span> , <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for 4 days hire of smiths
 		boy</td>
       <td>&nbsp;</td>
       <td>10:--</td>
@@ -83819,19 +83876,19 @@ At the place of Mr Pieter Jacob de Villiers situated at
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid 10 September 1830</td>
       <td>from Step:s S:
-		Lombaard,, for hire of smiths boy for
+		Lombaard, <span style="border-bottom: 2px dotted #FF0000;">Koeberg</span> , for hire of smiths boy for
 		3 days on a note of hand dated 4 July 1829</td>
       <td>&nbsp;</td>
       <td>7:24</td>
     </tr>
     <tr>
-      <td>from Cornelis de Waal,,
+      <td>from Cornelis de Waal, <span style="border-bottom: 2px dotted #FF0000;">Koeberg</span> ,
 		for 2 days hire of smiths boy</td>
       <td>5:--</td>
     </tr>
     <tr>
       <td>paid 10 Sept:r 1830</td>
-      <td>from Adriaan de Waal,, for hire of smiths boy for 6
+      <td>from Adriaan de Waal, <span style="border-bottom: 2px dotted #FF0000;">Koeberg</span> , for hire of smiths boy for 6
 		days</td>
       <td>&nbsp;</td>
       <td>15:--</td>
@@ -83839,13 +83896,15 @@ At the place of Mr Pieter Jacob de Villiers situated at
     <tr>
       <td>paid 10 Sept:r 1830</td>
       <td>from J:S: Viljoen for hire of
-		smiths boy for 2 1/2 days,</td>
+		smiths boy for 2 1/2 days, <span style="border-bottom: 2px dotted #FF0000;">Ribeeks
+		Kasteel</span></td>
       <td>&nbsp;</td>
       <td>6:12</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from H: Greef,, on a note of hand dated 21 June 1822 for a bullock and
+      <td>from H: Greef, <span style="border-bottom: 2px dotted #FF0000;">Klein
+		Drakenstein</span> , on a note of hand dated 21 June 1822 for a bullock and
 		three sheep</td>
       <td>&nbsp;</td>
       <td>35:24</td>
@@ -83891,7 +83950,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.59
 
- {18160420} 20 April 1816 <span style="border-bottom: 2px dotted #008000;">J:J: Kuul</span> 
+ {18160420} 20 April 1816 <span style="border-bottom: 2px dotted #00FF00;">J:J: Kuul</span> 
 
 De nalatigschap van J:J: Kuul nagesien door den ondergeteekende veltcornet
 	 in persentie van den burger N: van Wielligh, en bevonde als volg
@@ -83968,14 +84027,14 @@ Als getuijge: W:H: v: Niekerk
 
 S: Mala, Veld cornet
 
-den 20 April 1816
+ <span style="border-bottom: 2px dotted #FF0000;">Koeberg</span> den 20 April 1816
 
 ## MOOC8/44.60
 
- {18290702} 2 July 1829 <span style="border-bottom: 2px dotted #008000;">Stoffel</span> 
+ {18290702} 2 July 1829 <span style="border-bottom: 2px dotted #00FF00;">Stoffel</span> 
 
 Inventory of all such cattle as have been relinquished by the late
-	 Hottentot Stoffel who died on the 7:th January 1829 in the town of
+	 Hottentot Stoffel who died on the 7:th January 1829 in the town of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> 
 
 <table>
   <tbody>
@@ -83999,14 +84058,14 @@ Inventory of all such cattle as have been relinquished by the late
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>to the male slave <span style="border-bottom: 2px dotted #008000;">Piet</span> of Petrus Johannis du
-		Toit atfor money
+      <td>to the male slave <span style="border-bottom: 2px dotted #00FF00;">Piet</span> of Petrus Johannis du
+		Toit at <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> for money
 		borrowed</td>
       <td>10</td>
     </tr>
     <tr>
       <td>to the Hottentot girl Klara now in the service of the widow
-		Nicolaas Smit atfor a
+		Nicolaas Smit at <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> for a
 		shawl</td>
       <td>6</td>
     </tr>
@@ -84022,7 +84081,8 @@ Inventory of all such cattle as have been relinquished by the late
   </tbody>
 </table>
 
-Thus done and inventoried aton the 2:nd day of July 1829 in the presence of J: Boshof and
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Graaff
+	 Reinet</span> on the 2:nd day of July 1829 in the presence of J: Boshof and
 	 C:T: Papenfus as witnesses.
 
 As witnesses: J: Boshof, C:T: Papenfus
@@ -84031,7 +84091,7 @@ J: Auret, Agent
 
 ## MOOC8/44.61
 
- {18270622} 22 Juny 1827 <span style="border-bottom: 2px dotted #008000;">Samia van de Kaap</span> 
+ {18270622} 22 Juny 1827 <span style="border-bottom: 2px dotted #00FF00;">Samia van de Kaap</span> 
 
 Inventaris van alle zodanige goederen als met de dood zyn nagelaten door
 	 Samia van de Kaap eerst slavin van Rynier Beck, doch naderhand door de
@@ -84196,14 +84256,16 @@ R: Beck
 
 ## MOOC8/44.62
 
- {18281213} 13 December 1828 <span style="border-bottom: 2px dotted #008000;">Felix September</span> 
+ {18281213} 13 December 1828 <span style="border-bottom: 2px dotted #00FF00;">Felix September</span> 
 
 Inventory of all such property as has been relinquished by the death ab
 	 intestato of bastard Hottentot Felix September on the 6:th day of the month of
 	 December in the year of our Lord one thousand eight hundred and twenty
 	 eight.
 
-At the place of Philip Botha calledsituated in the field cornetcy of
+At the place of Philip Botha called <span style="border-bottom: 2px dotted #FF0000;">Buffels
+	 Hoek</span> situated in the field cornetcy of <span style="border-bottom: 2px dotted #FF0000;">Zwagers
+	 Hoek</span> 
 
 <table>
   <tbody>
@@ -84260,15 +84322,17 @@ At the place of Philip Botha calledsituated in the field cornetcy of
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>to Jan Strooy living in the field cornetcy of</td>
+      <td>to Jan Strooy living in the field cornetcy of <span style="border-bottom: 2px dotted #FF0000;">Zwagers Hoek</span></td>
       <td>5</td>
     </tr>
     <tr>
-      <td>to David de Villiers residing at</td>
+      <td>to David de Villiers residing at <span style="border-bottom: 2px dotted #FF0000;">Graaff
+		Reinet</span></td>
       <td>7</td>
     </tr>
     <tr>
-      <td>to Piet Kruger</td>
+      <td>to Piet Kruger <span style="border-bottom: 2px dotted #FF0000;">Buffels
+		Hoek</span></td>
       <td>12</td>
     </tr>
   </tbody>
@@ -84312,13 +84376,13 @@ C:L: Auret
 
 ## MOOC8/44.63
 
- {18301029} 30 October 1829 <span style="border-bottom: 2px dotted #008000;">Roelof van Wyk</span>  <span style="border-bottom: 2px dotted #008000;">Magdalena Catharina Smit</span> 
+ {18301029} 30 October 1829 <span style="border-bottom: 2px dotted #00FF00;">Roelof van Wyk</span>  <span style="border-bottom: 2px dotted #00FF00;">Magdalena Catharina Smit</span> 
 
 Inventory of all such goods and effects as have been possessed in
 	 communion of property by the late Magdalena Catharina Smit widow of the late
 	 Roelof van Wyk born in this Colony died in the month of July 1823 aged 39 years
-	 in the field cornetcyat the
-	 placedistrict ofand surviving husband Johannes
+	 in the field cornetcy <span style="border-bottom: 2px dotted #FF0000;">Nieuw Hantam</span> at the
+	 place <span style="border-bottom: 2px dotted #FF0000;">Taayboschfontein</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> and surviving husband Johannes
 	 Petrus Strydom ab intestato
 
 <table>
@@ -84399,7 +84463,8 @@ Inventory of all such goods and effects as have been possessed in
   </tbody>
 </table>
 
-Thus done and inventoried aton the 30:th October 1829 according to the declaration of
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Graaff
+	 Reinet</span> on the 30:th October 1829 according to the declaration of
 	 Johannes Petrus Strydom who declared that to the best of his knowledge he has
 	 given up all the effects that belong to said estate with further promise should
 	 any thing be found afterwards to add it to this inventory for all which he
@@ -84416,7 +84481,7 @@ In my presence: J: Auret, Agent
 
 ## MOOC8/44.64
 
- {18290711} 11 Julij 1829 <span style="border-bottom: 2px dotted #008000;">Trijn</span> 
+ {18290711} 11 Julij 1829 <span style="border-bottom: 2px dotted #00FF00;">Trijn</span> 
 
 Inventaris der nalatenschap van die door den dood ontruijm de
 	 Hottentottinne Trijn, als
@@ -84435,16 +84500,16 @@ Inventaris der nalatenschap van die door den dood ontruijm de
   </tbody>
 </table>
 
-Geinventariseert op degelegen onderden 11:de Julij
+Geinventariseert op de <span style="border-bottom: 2px dotted #FF0000;">Schuynskraal</span> gelegen onder <span style="border-bottom: 2px dotted #FF0000;">Camiesberg</span> den 11:de Julij
 	 1829
 
 Ter presentie der getuijge: C:W: Meijer, P:A: Rossouw
 
 H:A: Engelbrecht, Veld Cornet
 
-den 11 Julij 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Camiesberg</span> den 11 Julij 1829
 
-Aan de heer C:M: Lind, Agent der Weeskamer te
+Aan de heer C:M: Lind, Agent der Weeskamer te <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> 
 
 Myn heer
 
@@ -84484,9 +84549,9 @@ H:A: Engelbrecht, Veld Cornet
 
 ## MOOC8/44.65
 
- {18270730} 30 Juny 1827 <span style="border-bottom: 2px dotted #008000;">Jager</span> 
+ {18270730} 30 Juny 1827 <span style="border-bottom: 2px dotted #00FF00;">Jager</span> 
 
-Extract missive geschreven door den gerechtsbode W: de Jong teaan den Agent aldaar J:G: Aspeling
+Extract missive geschreven door den gerechtsbode W: de Jong te <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> aan den Agent aldaar J:G: Aspeling
 	 in dato 30 Juny 1827.
 
 Op heden ben ik by de erfgenamen van wylen Andries Olivier aangekomen en
@@ -84497,7 +84562,7 @@ Ook moet ik U Ed: melden als dat door de erfgenamen almede aan my is
 	 dienst staande Hottentot met naam Jager zonder testament, nalatende vier
 	 aanteel beesten, twee paarden, in de vyftig schapen, een ysere pot, en wat oude
 	 klederen en geven meede te kennen by zyn leeftyd hem hebben horen zeggen dat hy
-	 nog een meid in leven zouden hebben, met naam Sara woonachtig in deop een kraal doch niet wetende op welke
+	 nog een meid in leven zouden hebben, met naam Sara woonachtig in de <span style="border-bottom: 2px dotted #FF0000;">Touwe</span> op een kraal doch niet wetende op welke
 	 kraal is vermeld en wenschten? wel als U ed: die nalatenschap meede wilde doen
 	 verkopen zoo het U Ed: goedvind.
 
@@ -84505,7 +84570,7 @@ A true extract
 
 ## MOOC8/44.66
 
- {18271110} 10 November 1827 <span style="border-bottom: 2px dotted #008000;">Rachel Enkel</span> 
+ {18271110} 10 November 1827 <span style="border-bottom: 2px dotted #00FF00;">Rachel Enkel</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen Rachel
 	 Enkel zyn bezeten en by deszelfs overlyden /ab intestato/ op den 24 August 1827
@@ -84604,7 +84669,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Rachel
       <td>een katel</td>
     </tr>
     <tr>
-      <td>een huis en halve erf gelegen in dein dit dorp</td>
+      <td>een huis en halve erf gelegen in de <span style="border-bottom: 2px dotted #FF0000;">Droogerivierstraat</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 2</span> in dit dorp</td>
     </tr>
   </tbody>
 </table>
@@ -84636,7 +84701,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Rachel
       <td>12:--</td>
     </tr>
     <tr>
-      <td>aan den slaaf <span style="border-bottom: 2px dotted #008000;">Salomon</span> bl:
+      <td>aan den slaaf <span style="border-bottom: 2px dotted #00FF00;">Salomon</span> bl:
 		reekning</td>
       <td>8:--</td>
     </tr>
@@ -84657,7 +84722,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Rachel
 </table>
 
 Aldus gedaan en geinventariseerd door my ond:e Agent der Weeskamer ten
-	 dorpeop den 10 November 1827
+	 dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 10 November 1827
 	 ter presentie van Jacobus Johannes Meintjes en Gysbert Johannes
 	 Broekhuizen
 
@@ -84667,7 +84732,7 @@ J: Meintjes
 
 ## MOOC8/44.67
 
- {18280520} 20 May 1828 <span style="border-bottom: 2px dotted #008000;">Joseph Ince</span> 
+ {18280520} 20 May 1828 <span style="border-bottom: 2px dotted #00FF00;">Joseph Ince</span> 
 
 Inventory of all such property as has been relinquished by the death ab
 	 intestato of Joseph Ince on the twentieth day of the month of May in the year
@@ -84885,7 +84950,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/44.68
 
- {18180310} 10 Maart 1818 <span style="border-bottom: 2px dotted #008000;">Jan Hendrik
+ {18180310} 10 Maart 1818 <span style="border-bottom: 2px dotted #00FF00;">Jan Hendrik
 	 Haselhorst</span> 
 
 Inventaris van alle zodanige goederen als er op Vrydag den zesden dag
@@ -84896,7 +84961,7 @@ Inventaris van alle zodanige goederen als er op Vrydag den zesden dag
 	 aan het vrye meisje Maria Dorothea Fredrica van de Kaap, kind van Sinet van
 	 Mosambique, een legaat van zeeven duyzend guldens Indische valuatie onder
 	 zeekere restrictie besprooken en tot zyne eenige en universeele erfgenaamen
-	 genomineerd en geinstitueerd te hebben zyne gezamentlyke zusters tewoonagtig, met naamen
+	 genomineerd en geinstitueerd te hebben zyne gezamentlyke zusters te <span style="border-bottom: 2px dotted #FF0000;">Amsterdam</span> woonagtig, met naamen
 
 <table>
   <tbody>
@@ -85170,7 +85235,7 @@ P:E: Faure, Ad:t C:
 
 ## MOOC8/44.69
 
- {18250704} 4 July 1825 <span style="border-bottom: 2px dotted #008000;">Thomas Hammond</span> 
+ {18250704} 4 July 1825 <span style="border-bottom: 2px dotted #00FF00;">Thomas Hammond</span> 
 
 Exh:d the 13 July 1825
 
@@ -85243,31 +85308,32 @@ By me inventoried, July 4:th 1825: Tho: Read Welch
 ## MOOC8/44.70a
 
  {18280817} 17 Augustus
-	 1828 <span style="border-bottom: 2px dotted #008000;">Jacobus Daniel
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Daniel
 	 Jordaan</span> 
 
 19 March
 
 Staad en inventaris van weylen den heer J:D: Jordaan die op den 17
 	 Augustus 1828 is komen te overleden, is gevormeert en in geschrift gebrogt door
-	 mijn als Feld Cornett vanen twee
+	 mijn als Feld Cornett van <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> en twee
 	 getuygen de heer Henderik Fransous van de Merwe en de heer Johan Albertus Dell,
 	 door aanweysing van de heer Hend:k Christoffel de Wet heb ik gevonden zo als
 	 volg
 
-Vasten goederen op de plaats genaamd de
+Vasten goederen op de plaats genaamd de <span style="border-bottom: 2px dotted #FF0000;">Klip
+	 Heuvel</span> 
 
 <table>
   <tbody>
     <tr>
-      <td>De plaats genaamd</td>
+      <td>De plaats genaamd <span style="border-bottom: 2px dotted #FF0000;">Klip Heuvel</span></td>
     </tr>
     <tr>
-      <td>9 <span style="border-bottom: 2px dotted #008000;">mans
+      <td>9 <span style="border-bottom: 2px dotted #00FF00;">mans
 		  slaven</span></td>
     </tr>
     <tr>
-      <td>10 <span style="border-bottom: 2px dotted #008000;">slaafinne
+      <td>10 <span style="border-bottom: 2px dotted #00FF00;">slaafinne
 		  slaven</span></td>
     </tr>
     <tr>
@@ -86200,7 +86266,7 @@ En daar ik als Veld cornet en twee getuijgen met de aanweysen van de
 	 goederen nits meer heb kunnen vinden zo bekragtig wy en het met onze gewone
 	 handtekening
 
-den 20 Augustus 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Klip Heuvel</span> den 20 Augustus 1828
 
 Voor de zuyfere opgaaff: H:C: de Wet
 
@@ -86214,66 +86280,66 @@ De slaven en slavinne in de voorste zeyde negentien in getal, niet by
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">October</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">October</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Isauw</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Isauw</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Present</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Present</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">David</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">September</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">September</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Arent</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Arent</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Marienus</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Marienus</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jefta</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jefta</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Errenst</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Errenst</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sabiena</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sabiena</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Romana</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Romana</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Clarindas</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Clarindas</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Doortje</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doortje</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Caatje</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Caatje</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Roos</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Roos</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Fielieda</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Fielieda</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara</span> van deze Colonie</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sabiena</span> van deze Colonie</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sabiena</span> van deze Colonie</td>
     </tr>
   </tbody>
 </table>
 
-op den 20 Augustus
+ <span style="border-bottom: 2px dotted #FF0000;">Klip Heuvel</span> op den 20 Augustus
 	 1828
 
 Als voren voor de opgaaf: H:C: de Wet
@@ -86284,11 +86350,12 @@ H:F: van der Merwe, J:A: Dell
 
 ## MOOC8/44.70b
 
- {18290318} 18 March 1829 <span style="border-bottom: 2px dotted #008000;">Jacobus Daniel
+ {18290318} 18 March 1829 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Daniel
 	 Jordaan</span> 
 
 Inventory of the estate of the late Jacobus Dan: Jordaan (Jac: son)
-	 deceased the 17:th August 1828 at the place,aged 49 years 9 months
+	 deceased the 17:th August 1828 at the place <span style="border-bottom: 2px dotted #FF0000;">Klip
+	 Heuvel</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> aged 49 years 9 months
 	 24 days
 
 <table>
@@ -86313,7 +86380,8 @@ Inventory of the estate of the late Jacobus Dan: Jordaan (Jac: son)
   <thead><tr><td colspan='100%'>Property, goods and effects</td></tr></thead>
   <tbody>
     <tr>
-      <td>The loan place</td>
+      <td>The loan place <span style="border-bottom: 2px dotted #FF0000;">Klip
+		Heuvel</span></td>
     </tr>
   </tbody>
 </table>
@@ -86322,57 +86390,57 @@ Inventory of the estate of the late Jacobus Dan: Jordaan (Jac: son)
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">October</span> about 36 years of age</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">October</span> about 36 years of age</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Present</span> 19</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Present</span> 19</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David</span> 17</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">David</span> 17</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">September</span> 11</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">September</span> 11</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara</span> 52 1/2</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara</span> 52 1/2</td>
     </tr>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Romana</span> 36, children to Romana</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jeftha</span> 8</td>
+      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Romana</span> 36, children to Romana</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jeftha</span> 8</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sara</span> 5</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sara</span> 5</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Clarinda</span> 30</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Clarinda</span> 30</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Doortje</span> 23</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doortje</span> 23</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Caatje</span> 18</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Caatje</span> 18</td>
     </tr>
     <tr>
-      <td rowspan='4' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Sabina</span> 30, children to Sabina</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Marinis</span> 10 1/2</td>
+      <td rowspan='4' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Sabina</span> 30, children to Sabina</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Marinis</span> 10 1/2</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Philida</span> 8</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Philida</span> 8</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Ernst</span> 6</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Ernst</span> 6</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Sabina</span> 2</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Sabina</span> 2</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Roos</span> 17</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Roos</span> 17</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Esau</span> 17</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Esau</span> 17</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaron</span> 14</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaron</span> 14</td>
     </tr>
   </tbody>
 </table>
@@ -87020,132 +87088,135 @@ Inventory of the estate of the late Jacobus Dan: Jordaan (Jac: son)
     <tr>
       <td>&nbsp;</td>
       <td>notarial bond by Pieter Dan: de Wet Hend:k zon
-		resid:g in,district</td>
+		resid:g in <span style="border-bottom: 2px dotted #FF0000;">Brandt Vally</span> , <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> district</td>
       <td>1900:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>notarial bond by Hend:k Ch:l de Wet,</td>
+      <td>notarial bond by Hend:k Ch:l de Wet, <span style="border-bottom: 2px dotted #FF0000;">Waagens Boom’s
+		Kloof</span></td>
       <td>&nbsp;</td>
       <td>17000</td>
     </tr>
     <tr>
       <td>paid 2 Aug:t 1830</td>
       <td>note of hand by W:C: Swart residing
-		in the district offor which J:W:
-		Wessells,is
+		in the district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> for which J:W:
+		Wessells, <span style="border-bottom: 2px dotted #FF0000;">Quartel Fonteyn</span> is
 		security</td>
       <td>1800:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by J:P: Maree of</td>
+      <td>note of hand by J:P: Maree of <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>400:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by J:P: Maree of</td>
+      <td>note of hand by J:P: Maree of <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>400:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Barend J: Erasmus,for</td>
+      <td>note of hand by Barend J: Erasmus <span style="border-bottom: 2px dotted #FF0000;">Truetjes River</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> for</td>
       <td>200:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Barend J: Erasmus,for</td>
+      <td>note of hand by Barend J: Erasmus <span style="border-bottom: 2px dotted #FF0000;">Truetjes River</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> for</td>
       <td>100:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Barend J: Erasmus,for</td>
+      <td>note of hand by Barend J: Erasmus <span style="border-bottom: 2px dotted #FF0000;">Truetjes River</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> for</td>
       <td>100:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand by Pieter Jac: de Wet in the district of</td>
+      <td>note of hand by Pieter Jac: de Wet in the district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span></td>
       <td>1000:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Piet H: Maree,</td>
+      <td>note of hand by Piet H: Maree <span style="border-bottom: 2px dotted #FF0000;">Sergius Rivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>200:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Dan: J: de Wet, district</td>
+      <td>note of hand by Dan: J: de Wet <span style="border-bottom: 2px dotted #FF0000;">Brandt Vally</span> , district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span></td>
       <td>600:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand by J:G: van Graan,for rd:s68 of which 50 appear to be
+      <td>note of hand by J:G: van Graan <span style="border-bottom: 2px dotted #FF0000;">Bot Rivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> for rd:s68 of which 50 appear to be
 		paid</td>
       <td>18:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Dirk de Vos</td>
+      <td>note of hand by Dirk de Vos <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>44:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by F:J: de Kok,,</td>
+      <td>note of hand by F:J: de Kok, <span style="border-bottom: 2px dotted #FF0000;">Kaars Rivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>110:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by Hend:k de Wet,</td>
+      <td>note of hand by Hend:k de Wet <span style="border-bottom: 2px dotted #FF0000;">Waagen Booms Kloof</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>40:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand by P: de Brun jun:r,</td>
+      <td>note of hand by P: de Brun jun:r, <span style="border-bottom: 2px dotted #FF0000;">Rivier Zonder
+		Einde</span></td>
       <td>100:--:--</td>
     </tr>
     <tr>
       <td>paid Octob: 1830</td>
-      <td>note of hand by J:D: de Bruin,</td>
+      <td>note of hand by J:D: de Bruin <span style="border-bottom: 2px dotted #FF0000;">Hansjes Rivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>200:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand from W:M: Geering</td>
+      <td>note of hand from W:M: Geering <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>100:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand from J:M: de Wet district of</td>
+      <td>note of hand from J:M: de Wet district of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span></td>
       <td>100:--:--</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand from G:S: de Kock,</td>
+      <td>note of hand from G:S: de Kock <span style="border-bottom: 2px dotted #FF0000;">Boontjes Kraal</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>16:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand from Godliep C: de Wet, district</td>
+      <td>note of hand from Godliep C: de Wet <span style="border-bottom: 2px dotted #FF0000;">Rivier Zonder Einde</span> , district <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>200:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand from Godliep C: de Wet, district</td>
+      <td>note of hand from Godliep C: de Wet <span style="border-bottom: 2px dotted #FF0000;">Rivier Zonder Einde</span> , district <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>200:--:--</td>
     </tr>
     <tr>
       <td>paid Octob: 1830</td>
-      <td>note of hand from Corn:s Swart sen:r,</td>
+      <td>note of hand from Corn:s Swart sen:r <span style="border-bottom: 2px dotted #FF0000;">Boontjes Kraal</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>25:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand from Dan:l du Toit (D: son),</td>
+      <td>note of hand from Dan:l du Toit (D: son) <span style="border-bottom: 2px dotted #FF0000;">Boontjes Kraal</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>30:--:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>note of hand from L:M: Maree,</td>
+      <td>note of hand from L:M: Maree <span style="border-bottom: 2px dotted #FF0000;">Salt River</span> , <span style="border-bottom: 2px dotted #FF0000;">Rivier
+		Zonder Einde</span></td>
       <td>150:--:--</td>
     </tr>
     <tr>
@@ -87156,18 +87227,18 @@ Inventory of the estate of the late Jacobus Dan: Jordaan (Jac: son)
     </tr>
     <tr>
       <td>paid</td>
-      <td>note of hand from B: Badenhorst,</td>
+      <td>note of hand from B: Badenhorst <span style="border-bottom: 2px dotted #FF0000;">Woolf Gat</span> , <span style="border-bottom: 2px dotted #FF0000;">Caledon</span></td>
       <td>160:--:--</td>
     </tr>
     <tr>
       <td>paid 18 Octob: 1830</td>
-      <td>note of hand from J:D: Ungerur</td>
+      <td>note of hand from J:D: Ungerur <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
       <td>6:4:--</td>
     </tr>
     <tr>
       <td>on mortgage 1 July 1830</td>
       <td>note of hand from Daniel du
-		Toit Frans son residing at</td>
+		Toit Frans son residing at <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span></td>
       <td>600:--:--</td>
     </tr>
   </tbody>
@@ -87177,7 +87248,7 @@ The above inventory taken in presence of Mr H:C: de Wet and J:S: le Roex
 	 late in charge of the estate who hereby certify that to the best of their
 	 knowlege it contain the whole of deceased’s property
 
-18:th March 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Klip Heuvel</span> 18:th March 1829
 
 <table>
   <thead><tr><td colspan='100%'>Claims against the estate</td></tr></thead>
@@ -87202,7 +87273,7 @@ T:s Rawstone, Agent to Orp: Ch:r
 
 ## MOOC8/44.71
 
- {18120201} 1 February 1812 <span style="border-bottom: 2px dotted #008000;">Jacobus Beekman</span> 
+ {18120201} 1 February 1812 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Beekman</span> 
 
 Inventaris van alle zodanige goederen als er op den zeeven en twintigsten
 	 December des gepasseerden jaars een duysend acht honderd en elf ab intestato
@@ -87287,7 +87358,7 @@ Mij present: G:A: Watermeijer, e:C:
 
 ## MOOC8/44.72
 
- {18290312} 12 March 1829 <span style="border-bottom: 2px dotted #008000;">Johan David Warneck</span>  <span style="border-bottom: 2px dotted #008000;">Abichael Catharina de
+ {18290312} 12 March 1829 <span style="border-bottom: 2px dotted #00FF00;">Johan David Warneck</span>  <span style="border-bottom: 2px dotted #00FF00;">Abichael Catharina de
 	 Wit</span> 
 
 Correct with the books of the Slave Office, N: 9
@@ -87320,7 +87391,7 @@ At the house of Mrs the wid: Adriaan Smuts, the late residence of the
 <table>
   <tbody>
     <tr>
-      <td>Certain house and premises situated in thisonbeing part marked Lit: G: of the
+      <td>Certain house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> on <span style="border-bottom: 2px dotted #FF0000;">Roeland Street</span> being part marked Lit: G: of the
 		  property of the late widow J:A: Neumeister which the deceased has desired in
 		  her will should be left unsold for the use of the heir during his live
 		  time</td>
@@ -87426,7 +87497,7 @@ At the house of Mrs the wid: Adriaan Smuts, the late residence of the
     <tr>
       <td>nineteen sifts</td>
       <td rowspan='15' style='vertical-align: middle;'>bequeathed to
-		  the female slave <span style="border-bottom: 2px dotted #008000;">Cornelia Catharina</span> of the Cape
+		  the female slave <span style="border-bottom: 2px dotted #00FF00;">Cornelia Catharina</span> of the Cape
 		  according to above codicil of the 5 Feb:y 1824</td>
     </tr>
     <tr>
@@ -87502,24 +87573,24 @@ At the house of Mrs the wid: Adriaan Smuts, the late residence of the
   <tbody>
     <tr>
       <td rowspan='4' style='vertical-align: middle;'>manumitted on the 11 Aug:t 1829</td>
-      <td rowspan='4' style='vertical-align: middle;'>a female salve n:d <span style="border-bottom: 2px dotted #008000;">Spasie</span> of this Colony 37 y:s of age housemaid
+      <td rowspan='4' style='vertical-align: middle;'>a female salve n:d <span style="border-bottom: 2px dotted #00FF00;">Spasie</span> of this Colony 37 y:s of age housemaid
 		with her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Saterjan</span> born 16 Octob: 1816</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Saterjan</span> born 16 Octob: 1816</td>
       <td rowspan='4' style='vertical-align: middle;'>to be emancipated according to a
 		codicil dated 24 December 1828</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Doortje</span> born 10 Sep: 1818</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Doortje</span> born 10 Sep: 1818</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rasia</span> born 6 April 1821</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rasia</span> born 6 April 1821</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Frans</span> born 8 July 1824</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Frans</span> born 8 July 1824</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a female slave n:d <span style="border-bottom: 2px dotted #008000;">Cornelia</span> of this Colony
+      <td>a female slave n:d <span style="border-bottom: 2px dotted #00FF00;">Cornelia</span> of this Colony
 		80 y:s of age, housemaid</td>
       <td>&nbsp;</td>
       <td>left to her option to serve
@@ -87527,17 +87598,17 @@ At the house of Mrs the wid: Adriaan Smuts, the late residence of the
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Francois of Mosambique</span> 54 y:s of age, labourer</td>
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Francois of Mosambique</span> 54 y:s of age, labourer</td>
       <td>&nbsp;</td>
       <td rowspan='2' style='vertical-align: middle;'>to be emancipated
 		according to the last will and testament of the deceased dated 2 June 1818 but
-		according to a codicil dated 14 Decemb: 1827 the freedom of <span style="border-bottom: 2px dotted #008000;">Francois</span> is cancelled
+		according to a codicil dated 14 Decemb: 1827 the freedom of <span style="border-bottom: 2px dotted #00FF00;">Francois</span> is cancelled
 		and is to live with the heir</td>
     </tr>
     <tr>
       <td>manumitted on the 11 Aug:t 1829</td>
       <td>a male
-		slave <span style="border-bottom: 2px dotted #008000;">April of Bengal</span> 42
+		slave <span style="border-bottom: 2px dotted #00FF00;">April of Bengal</span> 42
 		y:s of age, houseboy</td>
     </tr>
   </tbody>
@@ -87728,7 +87799,7 @@ At the house of Mrs the wid: Adriaan Smuts, the late residence of the
     <tr>
       <td>&nbsp;</td>
       <td>to the female slave of the deceased
-		named <span style="border-bottom: 2px dotted #008000;">Cornelia</span> of the
+		named <span style="border-bottom: 2px dotted #00FF00;">Cornelia</span> of the
 		Cape according to said codicil of the 5 Feb:y 1824 in order to tend for the
 		expence of her funeral</td>
       <td>100:--</td>
@@ -87736,7 +87807,7 @@ At the house of Mrs the wid: Adriaan Smuts, the late residence of the
     <tr>
       <td>&nbsp;</td>
       <td>to the female slave of the deceased
-		named <span style="border-bottom: 2px dotted #008000;">Cornelia</span> to be
+		named <span style="border-bottom: 2px dotted #00FF00;">Cornelia</span> to be
 		paid out of the interest which will accrue from the inheritance of the heir of
 		the deceased according to codicil of the 24 Decemb: 1828 ten rd: per month to
 		the five children of Johan Coenraad Steyn s:r procreated in wedlock by Susanna
@@ -87852,13 +87923,13 @@ T:H: Silvester
 
 ## MOOC8/44.73
 
- {18300723} 23 July 1830 <span style="border-bottom: 2px dotted #008000;">John
+ {18300723} 23 July 1830 <span style="border-bottom: 2px dotted #00FF00;">John
 	 Cooper</span> 
 
 Exh:d the 28 of July 1830, n:o 31
 
 Inventory of all such property as has been relinquished by the demise of
-	 John Cooper native of
+	 John Cooper native of <span style="border-bottom: 2px dotted #FF0000;">England</span> 
 
 <table>
   <tbody>
@@ -87980,12 +88051,12 @@ Tho: Read Welch
 
 ## MOOC8/44.74
 
- {18300723} 23 July 1830 <span style="border-bottom: 2px dotted #008000;">George Cooper</span> 
+ {18300723} 23 July 1830 <span style="border-bottom: 2px dotted #00FF00;">George Cooper</span> 
 
 Exh:d the 28 July 1830, n:o 31
 
 Inventory of all such property as has been relinquished by the demise of
-	 George Cooper native of
+	 George Cooper native of <span style="border-bottom: 2px dotted #FF0000;">England</span> 
 
 <table>
   <tbody>
@@ -88039,7 +88110,7 @@ Tho: Read Welch, Office Keeper
 
 ## MOOC8/45.1
 
- {18251026} 26 October 1826 <span style="border-bottom: 2px dotted #008000;">Fredrik Liebman</span> 
+ {18251026} 26 October 1826 <span style="border-bottom: 2px dotted #00FF00;">Fredrik Liebman</span> 
 
 Exh:d the 2:nd of November 1825, n:o 19
 
@@ -88095,7 +88166,7 @@ Claims ast: Town Treasury 3
 
 ## MOOC8/45.2
 
- {18241213} 13 December 1824 <span style="border-bottom: 2px dotted #008000;">Joseph Malcomb</span> 
+ {18241213} 13 December 1824 <span style="border-bottom: 2px dotted #00FF00;">Joseph Malcomb</span> 
 
 Exh:d 15 Dec: 1824
 
@@ -88194,10 +88265,10 @@ Mij present: J:C: Overbeek
 
 ## MOOC8/45.3
 
- {18261205} 5 December 1826 <span style="border-bottom: 2px dotted #008000;">Donald Robertson</span> 
+ {18261205} 5 December 1826 <span style="border-bottom: 2px dotted #00FF00;">Donald Robertson</span> 
 
 Inventory of the cloaths and effects, left by the late Donald Robertson
-	 born inwho died in the barraks aton Monday the 2nd October 1826
+	 born in <span style="border-bottom: 2px dotted #FF0000;">America</span> who died in the barraks at <span style="border-bottom: 2px dotted #FF0000;">Muisenberg</span> on Monday the 2nd October 1826
 
 The said cloaths and effects consisting in as follows
 
@@ -88269,14 +88340,14 @@ The said cloaths and effects consisting in as follows
   </tbody>
 </table>
 
-Thus done and executed aton
+Thus done and executed at <span style="border-bottom: 2px dotted #FF0000;">Muisenberg</span> on
 	 the 5th December 1826.
 
 J: Osmond jn:r, Agent
 
 ## MOOC8/45.4
 
- {18260120} 20 January 1826 <span style="border-bottom: 2px dotted #008000;">Dorothea Florissen</span> 
+ {18260120} 20 January 1826 <span style="border-bottom: 2px dotted #00FF00;">Dorothea Florissen</span> 
 
 Exh:d the 25:th of January 1826, n:o 22
 
@@ -88467,8 +88538,8 @@ In my presence: H: Myburgh
 
 ## MOOC8/45.5
 
- {18270115} 5 January 1827 <span style="border-bottom: 2px dotted #008000;">Gideon Laurens Strydom Matthys
-	 zoon</span>  <span style="border-bottom: 2px dotted #008000;">Cornelia
+ {18270115} 5 January 1827 <span style="border-bottom: 2px dotted #00FF00;">Gideon Laurens Strydom Matthys
+	 zoon</span>  <span style="border-bottom: 2px dotted #00FF00;">Cornelia
 	 Susara Bezuidenhout</span> 
 
 J:G: Brink
@@ -88576,7 +88647,7 @@ Inventaris van alle zoodanige goederen en effecten als met den dood
 
 Geene uitstaande gelden, als alleen de pretensie welke den overgebleven
 	 man vermeent te hebben op den boedel van wylen zyn schoonvader Piet
-	 Bezuydenhout Pieterz onderen in het
+	 Bezuydenhout Pieterz onder <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> en in het
 	 afgelopen jaar, aldaar gestorven.
 
 <table>
@@ -88591,7 +88662,7 @@ Geene uitstaande gelden, als alleen de pretensie welke den overgebleven
 		over 3 ossen</td>
     </tr>
     <tr>
-      <td>voor doctor’s loon, aan Doctor Cowie te, doch het bedragen onbekend</td>
+      <td>voor doctor’s loon, aan Doctor Cowie te <span style="border-bottom: 2px dotted #FF0000;">Grahamstad</span> , doch het bedragen onbekend</td>
     </tr>
   </tbody>
 </table>
@@ -88623,7 +88694,7 @@ Verklarende wyders my in de opgave myner goederen getrouw en na myn beste
 	 mogt worden ontdekt, dezelve dan hierby te zullen voegen, en dit alles onder
 	 belofte van des vereischt wordende daarvoor den eed te zullen presteeren.
 
-Aldus gedaan in het veldcornetschapop den 15 January 1827
+Aldus gedaan in het veldcornetschap <span style="border-bottom: 2px dotted #FF0000;">Winterhoek</span> op den 15 January 1827
 
 Kruis merk + van Gideon Laurens Strydom
 
@@ -88631,7 +88702,7 @@ In kennisse van my: J:J:F: Roselt, Agent
 
 ## MOOC8/45.6
 
- {YYYY} 30 April [ ..... ] <span style="border-bottom: 2px dotted #008000;">William Dawson</span> 
+ {YYYY} 30 April [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">William Dawson</span> 
 
 Inventaris van alle zodanige goederen als welke door den weled: heer J:J:
 	 Tesselaar zijn opgegeeven te behooren aan den boedel van wylen den policie
@@ -88820,7 +88891,8 @@ Inventaris van alle zodanige goederen als welke door den weled: heer J:J:
   </tbody>
 </table>
 
-Aldus geinventariseerd op de plaatsdistrict, op jaar
+Aldus geinventariseerd op de plaats <span style="border-bottom: 2px dotted #FF0000;">Steenbok’s
+	 Revier</span> district <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , op jaar
 	 maand en dag voorschreev
 
 Als getuijgen: A:T: Spengler, W:H: Kleyn
@@ -88829,7 +88901,7 @@ A:N: Botha
 
 ## MOOC8/45.7
 
- {18300501} 1 Mei 1830 <span style="border-bottom: 2px dotted #008000;">Dragonder</span> 
+ {18300501} 1 Mei 1830 <span style="border-bottom: 2px dotted #00FF00;">Dragonder</span> 
 
 Inventaris van alle zodanige goederen als er door den overledenen
 	 hottentot Dragonder zyn nagelaten als
@@ -88848,13 +88920,13 @@ Inventaris van alle zodanige goederen als er door den overledenen
   </tbody>
 </table>
 
-den 1 Mei 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Zwagershoek</span> den 1 Mei 1830
 
 P:G: Bothma, veldcornet
 
 ## MOOC8/45.8
 
- {18250721} 21 July 1825 <span style="border-bottom: 2px dotted #008000;">Tomas Ledler</span> 
+ {18250721} 21 July 1825 <span style="border-bottom: 2px dotted #00FF00;">Tomas Ledler</span> 
 
 Invantares van den nalatenschap van den overledene Tomas Ledler zyn door
 	 den ondergetekendens op heden den 21 July 1825 naukeurig opgenomen en aan
@@ -88892,7 +88964,7 @@ Invantares van den nalatenschap van den overledene Tomas Ledler zyn door
   </tbody>
 </table>
 
-Aldus gedaan in de
+Aldus gedaan in de <span style="border-bottom: 2px dotted #FF0000;">F:s Hoek</span> 
 
 Als getuigen: A:P:Leroex, P:A: van der Merwe
 
@@ -88900,7 +88972,7 @@ D: Hugo, Veldc:t
 
 ## MOOC8/45.9
 
- {18280828} 28 Augustus 1828 <span style="border-bottom: 2px dotted #008000;">Marthinus Stephanus Bekker</span> 
+ {18280828} 28 Augustus 1828 <span style="border-bottom: 2px dotted #00FF00;">Marthinus Stephanus Bekker</span> 
 
 Inventaris van alle zodanige goederen als er op den 28:ste Augustus 1828
 	 als intestato zijn ontruimd en naargelaten doer den burger Marthinus Stephanus
@@ -89097,7 +89169,7 @@ J: Janse van Vuuren, Velt cornet
 
 ## MOOC8/45.10
 
- {18260425} 25 Aprel 1826 <span style="border-bottom: 2px dotted #008000;">Ragel</span> 
+ {18260425} 25 Aprel 1826 <span style="border-bottom: 2px dotted #00FF00;">Ragel</span> 
 
 Eh: 31 May 26
 
@@ -89136,13 +89208,13 @@ Lyst van goederen van den hottentottin Ragel die op den 4 April 1826 is
   </tbody>
 </table>
 
-den 25 Aprel 1826
+ <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> den 25 Aprel 1826
 
 R:P: du Toit, Veld cornet
 
 ## MOOC8/45.11
 
- {18271015} 15 October 1827 <span style="border-bottom: 2px dotted #008000;">·Pieter Johannes van der
+ {18271015} 15 October 1827 <span style="border-bottom: 2px dotted #00FF00;">·Pieter Johannes van der
 	 Broek</span> 
 
 Inventory of such goods and effects found in the house of Pieter Francois
@@ -89245,10 +89317,11 @@ Inventory of such goods and effects found in the house of Pieter Francois
 </table>
 
 Thus done and inventory taken of all such goods found and stated as the
-	 property of the late Petrus Joh:s van der Broek native ofin, the late being a widower and left a minor daughter 5 a 6
+	 property of the late Petrus Joh:s van der Broek native of <span style="border-bottom: 2px dotted #FF0000;">Tuinkerken</span> in <span style="border-bottom: 2px dotted #FF0000;">French
+	 Netherlands</span> , the late being a widower and left a minor daughter 5 a 6
 	 years of age.
 
-15th October 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 15th October 1827
 
 In presence: sig:d S: Kerr, Veld cornet, J:J:F: Leclus, Messenger
 
@@ -89258,7 +89331,7 @@ A true copy: J:J:F: Roselt
 
 ## MOOC8/45.12
 
- {18281128} 28 November 1828 <span style="border-bottom: 2px dotted #008000;">Hendrik Adriaan Roets</span> , <span style="border-bottom: 2px dotted #008000;">Susanna Christina
+ {18281128} 28 November 1828 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Adriaan Roets</span> , <span style="border-bottom: 2px dotted #00FF00;">Susanna Christina
 	 Jacobse</span> 
 
 NB: geadverteerd om den 5 January 1829 te worden verkogt.
@@ -89340,7 +89413,7 @@ The survivor having requested to retain possession of the estate by fixing
   </tbody>
 </table>
 
-17:th November 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> 17:th November 1828
 
 In my presence: C:J: Auret
 
@@ -89348,7 +89421,7 @@ I the undersigned do hereby make oath that the property belonging to the
 	 estate of Hendrik Adriaan Roets and deceased wife Susanna Christina Jacobse has
 	 been appraised by me to the best of my knowledge and ability
 
-Sworn before me atthis 28th day
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> this 28th day
 	 of November 1828
 
 Rich:d Hart, Ant:y Rill
@@ -89359,7 +89432,7 @@ I the undersigned do hereby make oath that the property belonging to the
 	 estate of Hendrik Adriaan Roets and deceased wife Susanna Christina Jacobse has
 	 been valued by me to the best of my knowledge and ability
 
-Sworn before me atthis 21:t day
+Sworn before me at <span style="border-bottom: 2px dotted #FF0000;">Cradock</span> this 21:t day
 	 of November 1828
 
 J:s Marais, Justice of the Peace
@@ -89368,10 +89441,10 @@ Adam Gilfillan
 
 ## MOOC8/45.13
 
- {18240908} 8 September 1824 <span style="border-bottom: 2px dotted #008000;">John Marsden</span> 
+ {18240908} 8 September 1824 <span style="border-bottom: 2px dotted #00FF00;">John Marsden</span> 
 
 Inventory of effects belonging to the late John Marsdin /ali:s/ Hartshorn/
-	 private soldier in the late Royal African Corps a native ofin, supposed to have a wife and children dide
+	 private soldier in the late Royal African Corps a native of <span style="border-bottom: 2px dotted #FF0000;">Bermingham</span> in <span style="border-bottom: 2px dotted #FF0000;">Warwick</span> , supposed to have a wife and children dide
 	 suddenly in the constables room here on the 15:th May 1824
 
 <table>
@@ -89454,16 +89527,16 @@ Inventory of effects belonging to the late John Marsdin /ali:s/ Hartshorn/
 
 I do certify that the above inventory is correct
 
-8th September 1824
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> 8th September 1824
 
 John Etchells, Sheriff
 
 ## MOOC8/45.14
 
- {18281009} 9 October 1828 <span style="border-bottom: 2px dotted #008000;">Esther Leeuwenhof</span> 
+ {18281009} 9 October 1828 <span style="border-bottom: 2px dotted #00FF00;">Esther Leeuwenhof</span> 
 
 Inventory of all such property as has been relinquished by the demise of
-	 the free woman Esther Leeuwenhof who died in the house of H:k Wicht inOct: 9:th 1828
+	 the free woman Esther Leeuwenhof who died in the house of H:k Wicht in <span style="border-bottom: 2px dotted #FF0000;">Keerom Street</span> Oct: 9:th 1828
 
 <table>
   <tbody>
@@ -89570,7 +89643,7 @@ Inventory of all such property as has been relinquished by the demise of
 
 Given up by her sister Elizabeth Leuwenaar
 
-Oct:r 9:th 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> Oct:r 9:th 1828
 
 Witness: the mark + of Elizabeth Leuwenaar
 
@@ -89593,7 +89666,7 @@ Tho: Read Welch
 ## MOOC8/45.15
 
  {18080322} 22 Maart
-	 1808 <span style="border-bottom: 2px dotted #008000;">Christiaan
+	 1808 <span style="border-bottom: 2px dotted #00FF00;">Christiaan
 	 Godlieb Baarts</span> 
 
 <table>
@@ -89628,7 +89701,7 @@ Als getuijgen: Schalk W: v:d: Merwen, Coenraad Meijer
 
 De bovenstaande goederen behorende tot de nalatenschap van wylen
 	 Christiaan Godlieb Baarts hebben zij bevinden bij de weduwe Jacobus Smith aan
-	 de
+	 de <span style="border-bottom: 2px dotted #FF0000;">Klipheuvel</span> 
 
 Notitie der nagelatene goederen van de overleedene Christiaan Godliep
 	 Baarts
@@ -89796,14 +89869,14 @@ Nog heeft de overleedene wel gesprooken van dat by de weduwe Jacobus Smit
   </tbody>
 </table>
 
-den 22 Maart
+ <span style="border-bottom: 2px dotted #FF0000;">Vleermuijs-drift</span> den 22 Maart
 	 1808
 
 Niecolaas J: van der Merwe
 
 ## MOOC8/45.16
 
- {18240520} 20 May 1824 <span style="border-bottom: 2px dotted #008000;">Richard Blogg</span> 
+ {18240520} 20 May 1824 <span style="border-bottom: 2px dotted #00FF00;">Richard Blogg</span> 
 
 Inventaris van alle zodanige goederen als er op Woensdag den negentiende
 	 dag dezer lopende maand May in den jare onzes Heeren een duizend achthonderd
@@ -90006,7 +90079,7 @@ My present: J: Overbeek
 
 ## MOOC8/45.17
 
- {18231110} 10 November 1823 <span style="border-bottom: 2px dotted #008000;">Jacques Ferdinand Bertran</span> 
+ {18231110} 10 November 1823 <span style="border-bottom: 2px dotted #00FF00;">Jacques Ferdinand Bertran</span> 
 
 Inventaris van alle zodanige goederen als er op Zondag den negenden dag
 	 dezer lopende maand November in den jaare onzes Heeren een duizend acht honderd
@@ -90113,12 +90186,12 @@ My present: J: Serrurier, Adj:t C:s
 
 ## MOOC8/45.18
 
- {18290921} 21 September 1829 <span style="border-bottom: 2px dotted #008000;">Jan Arend Coolhaas</span> 
+ {18290921} 21 September 1829 <span style="border-bottom: 2px dotted #00FF00;">Jan Arend Coolhaas</span> 
 
 Exh:d the 30:th September 1829, n:o 20
 
 List of articles belonging to the late Jan Arend Coolhaas lately residing
-	 at Mr Minnaar
+	 at Mr Minnaar <span style="border-bottom: 2px dotted #FF0000;">Drakenstein</span> 
 
 <table>
   <tbody>
@@ -90149,16 +90222,16 @@ List of articles belonging to the late Jan Arend Coolhaas lately residing
   </tbody>
 </table>
 
-24th Septb:r 1829.
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> 24th Septb:r 1829.
 
 John Locke, Gaoler
 
 Ampliation
 
-Jan Minnaar aan de
+Jan Minnaar aan de <span style="border-bottom: 2px dotted #FF0000;">Banhoek</span> 
 
 Mr J:M: de Wet states that the late Coolhaas came to his house yesterday
-	 on horseback, from Mr Jan Minnaar at,
+	 on horseback, from Mr Jan Minnaar at <span style="border-bottom: 2px dotted #FF0000;">Banghoek</span> ,
 	 where he resided, that he knows the horse to be the property of Mr Minnaar but
 	 the saddle and bridle to be the deceased property, that he presumes his other
 	 property to be with Mr Minnaar.
@@ -90294,7 +90367,7 @@ Lyst der goederen van de overleden J:A: Koolhaas
   </tbody>
 </table>
 
-den 14 October 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Banhoek</span> den 14 October 1830
 
 J:J: Minnaar Janzoon
 
@@ -90302,12 +90375,13 @@ The above articles would not pay the the carriage to toun
 
 ## MOOC8/45.19
 
- {18300608} 8 June 1830 <span style="border-bottom: 2px dotted #008000;">Henry Grant</span> 
+ {18300608} 8 June 1830 <span style="border-bottom: 2px dotted #00FF00;">Henry Grant</span> 
 
 Exh:d the 9:th of June 1830, n:o 32
 
 Inventory of all such property as has been relinquished by the demis of
-	 Henry Grant /a native of/ who died at the Somerset Hospital Cape of Good Hope June 6:th
+	 Henry Grant /a native of <span style="border-bottom: 2px dotted #FF0000;">Somersetshire
+	 England</span> / who died at the Somerset Hospital Cape of Good Hope June 6:th
 	 1830
 
 <table>
@@ -90349,7 +90423,7 @@ Inventory of all such property as has been relinquished by the demis of
   </tbody>
 </table>
 
-Somerset HospitalJune 8:th
+Somerset Hospital <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> June 8:th
 	 1830
 
 Witness: J:O: Williams, bookkeeper Somerset Hospital
@@ -90421,13 +90495,13 @@ Inventory of the property of the aforesaid Henry Grant received from Major
   </tbody>
 </table>
 
-June 14:th 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> June 14:th 1830
 
 Tho: Read Welch, Office Keeper
 
 ## MOOC8/45.20
 
- {18260617} 17 Juny 1826 <span style="border-bottom: 2px dotted #008000;">Caatje Smit</span> 
+ {18260617} 17 Juny 1826 <span style="border-bottom: 2px dotted #00FF00;">Caatje Smit</span> 
 
 H: Somerset
 
@@ -90618,7 +90692,7 @@ Inventaris van alle zodanige goederen als er door wylen Caatje Smit
     </tr>
     <tr>
       <td>paid</td>
-      <td>van John Watkins thans tebl: bewys d:d: 22:e November
+      <td>van John Watkins thans te <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> bl: bewys d:d: 22:e November
 		1825</td>
       <td>59</td>
     </tr>
@@ -90651,12 +90725,12 @@ Inventaris van alle zodanige goederen als er door wylen Caatje Smit
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>van de Hottentottin Clara</td>
+      <td>van de Hottentottin Clara <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>10</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>van den Hott: Daniel //</td>
+      <td>van den Hott: Daniel / <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> /</td>
       <td>9</td>
     </tr>
     <tr>
@@ -90667,7 +90741,7 @@ Inventaris van alle zodanige goederen als er door wylen Caatje Smit
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>van den Hott: Smit () 2 beesten</td>
+      <td>van den Hott: Smit ( <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> ) 2 beesten</td>
       <td>[ ..... ]</td>
     </tr>
     <tr>
@@ -90728,7 +90802,7 @@ Inventaris van alle zodanige goederen als er door wylen Caatje Smit
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ten dorpeop den 17:e Juny 1826 volgens
+Aldus gedaan en geinventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 17:e Juny 1826 volgens
 	 aanwyzing door Thomas Horton gedaan ter presentie van Hend:k Adriaan Meintjes
 	 en Gysb:t Joh:s Broekhuizen door my.
 
@@ -90738,12 +90812,12 @@ J: Meintjes
 
 ## MOOC8/45.21
 
- {18270205} 5 February 1827 <span style="border-bottom: 2px dotted #008000;">Jacobus Petrus le Roe</span> 
+ {18270205} 5 February 1827 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Petrus le Roe</span> 
 
 J:G: Brink
 
 Inventory of the goods and effects belonging to the estate of the late
-	 Jacobus Petrus Leroe who departed on the 29:th January last, at the place.
+	 Jacobus Petrus Leroe who departed on the 29:th January last, at the place <span style="border-bottom: 2px dotted #FF0000;">Saras Rivier</span> .
 
 Done by Eduard Christiaan Leroe at the rekwisietien of the Board of Orphan
 	 Masters at the Cape of Good Hope in their capacity as guardions of the minor
@@ -90783,7 +90857,7 @@ Consisting of the goods and effects as foll:, viz:
 <table>
   <tbody>
     <tr>
-      <td>One half of the loan place, called</td>
+      <td>One half of the loan place, called <span style="border-bottom: 2px dotted #FF0000;">Saras Rivier</span></td>
     </tr>
     <tr>
       <td>twelve oxen</td>
@@ -90855,7 +90929,8 @@ On this day the 5:th February 1827 appeared before me Johannes Petrus
 	 case to amplify this inventory with the same, being finally ready to make oath
 	 for the truth of this statement
 
-This done and executed at the place, 1827
+This done and executed at the place <span style="border-bottom: 2px dotted #FF0000;">Saraas
+	 Rivier</span> , 1827
 
 As witnesses: H:s J:s Crous, Thomas Clarke
 
@@ -90864,7 +90939,7 @@ E:C: Leroe
 In my presence: J:P: Muller
 
 Inventory of the goods and effects belonging to the estate of the late
-	 Jacobus Petrus Leroe who departed on the 29:th Jan:y last at the placedone by Eduard Christiaan Leroe at
+	 Jacobus Petrus Leroe who departed on the 29:th Jan:y last at the place <span style="border-bottom: 2px dotted #FF0000;">Saras River</span> done by Eduard Christiaan Leroe at
 	 requisition of the Board of Orphan Masters at the Cape of Good Hope in their
 	 capacity as guardians of the minor heirs of said Leroe being his brothers and
 	 sisters named
@@ -90901,7 +90976,7 @@ Consisting of the goods and effects as following, viz:
 <table>
   <tbody>
     <tr>
-      <td>One half of the loan place, called</td>
+      <td>One half of the loan place, called <span style="border-bottom: 2px dotted #FF0000;">Saraas Rivier</span></td>
     </tr>
     <tr>
       <td>twelve oxen</td>
@@ -90973,7 +91048,8 @@ On this the 5:th February 1827 appeared before me J:P: Muller duly
 	 case to amplify this inventory with the same being finally ready to make oath
 	 for the truth of this his statement
 
-This done and executed at the placein the district1827.
+This done and executed at the place <span style="border-bottom: 2px dotted #FF0000;">Saraas
+	 Rivier</span> in the district <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> 1827.
 
 /Sig:d/ E:C: Leroe
 
@@ -90983,7 +91059,7 @@ A true copy: J:F: Bam
 
 ## MOOC8/45.22
 
- {18260807} 7 August 1826 <span style="border-bottom: 2px dotted #008000;">Albrecht Johannes Herhold</span> 
+ {18260807} 7 August 1826 <span style="border-bottom: 2px dotted #00FF00;">Albrecht Johannes Herhold</span> 
 
 Inventory of the property relinquished by the death ab intestato of
 	 Albrecht Johannes Herhold (and his predeceased wife Justina Susanna Kuuhl) on
@@ -91005,7 +91081,7 @@ the aforesaid property having been inventoried by the undersigned
 	 Commissioners from the Board of Orphan Masters according to a statement made by
 	 David Benjamin Kuuhl was found to consist as follows
 
-In a house beloning to m:r P:J: Pentz situated inat the so called, in which the deceased
+In a house beloning to m:r P:J: Pentz situated in <span style="border-bottom: 2px dotted #FF0000;">Waale Street</span> at the so called <span style="border-bottom: 2px dotted #FF0000;">Schotze Kloof</span> , in which the deceased
 	 dwelled
 
 <table>
@@ -91254,17 +91330,17 @@ In a house beloning to m:r P:J: Pentz situated inat the so called, in which the 
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td rowspan='3' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #008000;">Daphne of the Cape</span> aged 23
+      <td rowspan='3' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Daphne of the Cape</span> aged 23
 		years, housemaid, with her two children named</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Badon</span> born on the 8 August 1822
+      <td><span style="border-bottom: 2px dotted #00FF00;">Badon</span> born on the 8 August 1822
 		and</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Saptoe</span> born on the [ ..... ] March 1826</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Saptoe</span> born on the [ ..... ] March 1826</td>
     </tr>
     <tr>
-      <td>on the 17th July 1830 the said female slave <span style="border-bottom: 2px dotted #008000;">Daphne</span> has been delivered
-		of a boy named <span style="border-bottom: 2px dotted #008000;">September</span> [registered 22 July 1830]</td>
+      <td>on the 17th July 1830 the said female slave <span style="border-bottom: 2px dotted #00FF00;">Daphne</span> has been delivered
+		of a boy named <span style="border-bottom: 2px dotted #00FF00;">September</span> [registered 22 July 1830]</td>
     </tr>
   </tbody>
 </table>
@@ -91318,7 +91394,7 @@ In my presence: P:G: Myburgh
 
 ## MOOC8/45.23
 
- {18271009} 9 October 1827 <span style="border-bottom: 2px dotted #008000;">Anna Cornelia van
+ {18271009} 9 October 1827 <span style="border-bottom: 2px dotted #00FF00;">Anna Cornelia van
 	 Tonderen</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen Anna
@@ -91384,7 +91460,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Anna
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ten dorpeop den 9 October 1827 volgens op en
+Aldus gedaan en geinventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 9 October 1827 volgens op en
 	 aangave van Hendrik Fredrik Swanepoel dewelke verklaarde zig in het op en
 	 aangeeven des voormelde boedels ter goeder trouwe te hebben gedragen en niets
 	 met weten verswegen of agtergehouden te hebben alles doende onder aanbod van
@@ -91401,7 +91477,7 @@ J: Meintjes
 
 ## MOOC8/45.24
 
- {18271016} 16 October 1827 <span style="border-bottom: 2px dotted #008000;">Thomas Horton</span> 
+ {18271016} 16 October 1827 <span style="border-bottom: 2px dotted #00FF00;">Thomas Horton</span> 
 
 Inventaris van alle zodanige goederen en effecten als er door wylen Thomas
 	 Horton zyn bezeten en by deszelfs overlyden /ab intestato/ op den 16 October
@@ -91525,7 +91601,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Thomas
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ten dorpeop den 16 October 1827 door my
+Aldus gedaan en geinventariseerd ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> op den 16 October 1827 door my
 	 ondergetekende Agent der Weeskamer ter presentie van Jacobus Johannes Meintjes
 	 en Gysbert Johannes Broekhuizen.
 
@@ -91535,7 +91611,7 @@ J: Meintjes
 
 ## MOOC8/45.25
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Johannes
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Johannes
 	 Louw Roelofs son</span> 
 
 Inventory of the estate of the Johannes Louw Roelofs son
@@ -91699,7 +91775,7 @@ Inventory of the estate of the Johannes Louw Roelofs son
 ## MOOC8/45.26
 
  {18231125} 25 November
-	 1823 <span style="border-bottom: 2px dotted #008000;">Sarah
+	 1823 <span style="border-bottom: 2px dotted #00FF00;">Sarah
 	 Hockwell</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Dingsdag
@@ -91807,7 +91883,7 @@ My present: J:A: Munnik
 
 ## MOOC8/45.27
 
- {18190626} 26 Juny 1819 <span style="border-bottom: 2px dotted #008000;">Pieter Swart</span> , <span style="border-bottom: 2px dotted #008000;">Margaretha Toorn</span> 
+ {18190626} 26 Juny 1819 <span style="border-bottom: 2px dotted #00FF00;">Pieter Swart</span> , <span style="border-bottom: 2px dotted #00FF00;">Margaretha Toorn</span> 
 
 H:V: Cloete
 
@@ -92065,7 +92141,7 @@ Inventaris van alle zodanige goederen en effecten als er door wylen Pieter
   </tbody>
 </table>
 
-Aldus gedaan en g’inventariseerd op Zaturdag den 26:e Juny 1819 ten dorpevolgens op en aangeven van Margaretha
+Aldus gedaan en g’inventariseerd op Zaturdag den 26:e Juny 1819 ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> volgens op en aangeven van Margaretha
 	 Toorn wed:e wylen Pieter Swart dewelke betuigde zig in ’t op en aangeve des
 	 voorm: boedels ter goeder trouw te hebben gedragen en niets met weeten
 	 verswegen of agter gehouden te hebben verklaarende zig dus bereid deeze haare
@@ -92085,7 +92161,7 @@ J: Baird, Adj:t Land:t
 
 ## MOOC8/45.28
 
- {18291105} 5 November 1829 <span style="border-bottom: 2px dotted #008000;">Lena Kaffer</span> 
+ {18291105} 5 November 1829 <span style="border-bottom: 2px dotted #00FF00;">Lena Kaffer</span> 
 
 Exh:d the 18:t November 1829, n:o 15
 
@@ -92112,7 +92188,7 @@ Inventaris van goederen van den Hottentottin Lena Kaffer die op den 29
   </tbody>
 </table>
 
-den 5 November anno
+ <span style="border-bottom: 2px dotted #FF0000;">Pekwetberg</span> den 5 November anno
 	 1829.
 
 Als getuijgen: Jacobus S: Burger, John James
@@ -92136,7 +92212,7 @@ Word door haar nagelaten twee kinderen
 
 Volgens opgaaf van P: Burger sen:r den 16 Nov: 1829
 
-Veldc: Jan Basson, GroenvaleyKapsch de lant
+Veldc: Jan Basson, Groenvaley <span style="border-bottom: 2px dotted #FF0000;">Picketbergen</span> Kapsch de lant
 
 J: Burgers offers to bring those children up, and to provide for them,
 	 provided they be apprenticed to him, till they will have attained 21 years of
@@ -92146,7 +92222,7 @@ J:J:L:S:
 
 ## MOOC8/45.29
 
- {18290416} 16 April 1829 <span style="border-bottom: 2px dotted #008000;">Cornelis Hougan</span> 
+ {18290416} 16 April 1829 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Hougan</span> 
 
 Exh:d the 22:nd of April 1829, n:o 10
 
@@ -92247,7 +92323,7 @@ John Locke, Gaoler
 ## MOOC8/45.30
 
  {YYYY} [ .....
-	 ] <span style="border-bottom: 2px dotted #008000;">Abraham Samaay</span> 
+	 ] <span style="border-bottom: 2px dotted #00FF00;">Abraham Samaay</span> 
 
 Inventaris van de zoodaanige goederen als toe behoord hebbende aan den
 	 overleedene bastaard Abraham Samaay
@@ -92353,7 +92429,7 @@ D:k Verwey, Veld cornet
 
 ## MOOC8/45.31
 
- {17991128} 28 November 1799 <span style="border-bottom: 2px dotted #008000;">Gideon Fredrik Hoek</span> 
+ {17991128} 28 November 1799 <span style="border-bottom: 2px dotted #00FF00;">Gideon Fredrik Hoek</span> 
 
 Inventaris van alle zodanige goederen als er ab intestato metter dood zyn
 	 ontruymd ende naargelaten door den burger en jonkman Gideon Fredrik Hoek
@@ -92370,7 +92446,7 @@ Inventaris van alle zodanige goederen als er ab intestato metter dood zyn
 		  Hendrik Albertus en</td>
     </tr>
     <tr>
-      <td>b) Anna Elizabeth Hoek gehuuwd met Johan Andries Wiellich, te</td>
+      <td>b) Anna Elizabeth Hoek gehuuwd met Johan Andries Wiellich, te <span style="border-bottom: 2px dotted #FF0000;">Ceilon</span></td>
     </tr>
     <tr>
       <td>3) Arnoldus Zadel zynde een halve broeder van den
@@ -92445,7 +92521,7 @@ Ter onzer presentie: H:E: Blanckenberg, J: Stuwe
 
 ## MOOC8/45.32
 
- {18281012} 12 October 1828 <span style="border-bottom: 2px dotted #008000;">Carel Wilhelm
+ {18281012} 12 October 1828 <span style="border-bottom: 2px dotted #00FF00;">Carel Wilhelm
 	 Schwartz</span> 
 
 Inventaris van den nalatenschap van den overledenen docter Swarts
@@ -92525,14 +92601,14 @@ Inventaris van den nalatenschap van den overledenen docter Swarts
   </tbody>
 </table>
 
-den 12:de Octoober
+ <span style="border-bottom: 2px dotted #FF0000;">Valschrivier</span> den 12:de Octoober
 	 1828
 
 J:W: Smalberger, V:d cornet
 
 ## MOOC8/45.33
 
- {18290713} 13 July 1829 <span style="border-bottom: 2px dotted #008000;">Benjamin Sandvort</span> 
+ {18290713} 13 July 1829 <span style="border-bottom: 2px dotted #00FF00;">Benjamin Sandvort</span> 
 
 Den 13 July 1829
 
@@ -92653,7 +92729,7 @@ J:E: Kleijnhans, Veldc:
 
 ## MOOC8/45.34
 
- {18261027} 27 October 1826 <span style="border-bottom: 2px dotted #008000;">Fredrik de Jongh</span> 
+ {18261027} 27 October 1826 <span style="border-bottom: 2px dotted #00FF00;">Fredrik de Jongh</span> 
 
 J:G: Brink
 
@@ -92754,7 +92830,7 @@ In the store belonging to Mr Abraham Faure s:r and occupied by him the
     <tr>
       <td>Geertruida Obermeyer states that this statement is
 		  incorrect, it belongs to the estate</td>
-      <td>1 topas broach pin belonging to <span style="border-bottom: 2px dotted #008000;">Coenraad</span> slave boy of M:
+      <td>1 topas broach pin belonging to <span style="border-bottom: 2px dotted #00FF00;">Coenraad</span> slave boy of M:
 		  van Breda</td>
     </tr>
     <tr>
@@ -93248,7 +93324,7 @@ In the store belonging to Mr Abraham Faure s:r and occupied by him the
       <td>G: Overmeyer states that it is incorrect that the
 		  deceased has bought the chairs from Mrs Doughty</td>
       <td>3 chairs belonging
-		  to <span style="border-bottom: 2px dotted #008000;">Coenraad</span> slave of Mr
+		  to <span style="border-bottom: 2px dotted #00FF00;">Coenraad</span> slave of Mr
 		  M: van Breda</td>
     </tr>
     <tr>
@@ -93373,7 +93449,7 @@ In the store belonging to Mr Abraham Faure s:r and occupied by him the
     </tr>
     <tr>
       <td>correct</td>
-      <td>1 schepel belonging to <span style="border-bottom: 2px dotted #008000;">Jack of Ceylon</span></td>
+      <td>1 schepel belonging to <span style="border-bottom: 2px dotted #00FF00;">Jack of Ceylon</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -93584,7 +93660,7 @@ In the store belonging to Mr Abraham Faure s:r and occupied by him the
     <tr>
       <td>correct</td>
       <td>1 feather bed belonging to the
-		boy <span style="border-bottom: 2px dotted #008000;">Lalie</span></td>
+		boy <span style="border-bottom: 2px dotted #00FF00;">Lalie</span></td>
     </tr>
     <tr>
       <td>correct</td>
@@ -93615,7 +93691,7 @@ In the store belonging to Mr Abraham Faure s:r and occupied by him the
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>1 unfinished cupboard belonging to a <span style="border-bottom: 2px dotted #008000;">slave</span> of the widow Hertzog</td>
+      <td>1 unfinished cupboard belonging to a <span style="border-bottom: 2px dotted #00FF00;">slave</span> of the widow Hertzog</td>
     </tr>
     <tr>
       <td>correct</td>
@@ -93705,7 +93781,7 @@ A further return of property discovered by Johan Henoch Neethling Esquire
       <td>1 black coat</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Salie of the Cape</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Salie of the Cape</span> ,
 		  tailor</td>
     </tr>
   </tbody>
@@ -93960,7 +94036,7 @@ Orphan Chamber 30:th of December 1826
 
 M: Theron
 
-The undersigned <span style="border-bottom: 2px dotted #008000;">Coenraad</span> slave of m:r Michiel van Breda
+The undersigned <span style="border-bottom: 2px dotted #00FF00;">Coenraad</span> slave of m:r Michiel van Breda
 	 Pieterson do acknowledge by these presents to have received of Hercules Tennant
 	 Esq: Secretary to the Orphan Chamber, a gold ring mounted with pearls, in lieu
 	 of a broach belonged to me and sold for account of the estate of the late
@@ -93968,18 +94044,18 @@ The undersigned <span style="border-bottom: 2px dotted #008000;">Coenraad</span>
 
 Orphan Chamber Cape of Good Hope this 22:d May 1830
 
-Mark + of <span style="border-bottom: 2px dotted #008000;">Coenraad</span> slave of Mr Michiel van Breda Pieterson
+Mark + of <span style="border-bottom: 2px dotted #00FF00;">Coenraad</span> slave of Mr Michiel van Breda Pieterson
 
 As witnesses: B: de Wet, P:G: Myburgh
 
 ## MOOC8/45.35
 
- {18300115} 15 January 1830 <span style="border-bottom: 2px dotted #008000;">Edo</span> 
+ {18300115} 15 January 1830 <span style="border-bottom: 2px dotted #00FF00;">Edo</span> 
 
-den 15 January 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Brak Rivier</span> den 15 January 1830
 
 Staat en inventaris van den na gelaaten goederen van den overleedene
-	 slaaff <span style="border-bottom: 2px dotted #008000;">Eedo</span> 
+	 slaaff <span style="border-bottom: 2px dotted #00FF00;">Eedo</span> 
 
 <table>
   <tbody>
@@ -93999,10 +94075,11 @@ A: Pretorius, Veldc:
 
 ## MOOC8/45.36
 
- {18300706} 6 July 1830 <span style="border-bottom: 2px dotted #008000;">Hendrik Graebe</span> 
+ {18300706} 6 July 1830 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Graebe</span> 
 
 Inventaris der nalatenschap van wijlen den school meester Hendrik Graebe,
-	 overleden bij Charel du Plessie aan de, zo als dezelve bevonden zijn, van mij ondergeteekende Christiaan
+	 overleden bij Charel du Plessie aan de <span style="border-bottom: 2px dotted #FF0000;">Roode
+	 Berg</span> , zo als dezelve bevonden zijn, van mij ondergeteekende Christiaan
 	 Cloete, veldcornet op huiden den 3 Julij 1830 als volgt
 
 <table>
@@ -94152,7 +94229,7 @@ C: Cloete, Veld cornet
 
 ## MOOC8/45.37
 
- {18281126} 26 November 1828 <span style="border-bottom: 2px dotted #008000;">Hester Roos</span> 
+ {18281126} 26 November 1828 <span style="border-bottom: 2px dotted #00FF00;">Hester Roos</span> 
 
 Vendutie 13 Dec:
 
@@ -94466,7 +94543,7 @@ Bestaande deze in het volgende, te weeten
   <thead><tr><td colspan='100%'>Lyfeigenen des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lea van de
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lea van de
 		Kaap</span> tans oud 34 jaaren, huismeid</td>
     </tr>
   </tbody>
@@ -94549,21 +94626,21 @@ Bestaande deze in het volgende, te weeten
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>een winkel rekening tot lasten de meid <span style="border-bottom: 2px dotted #008000;">Alida van de Kaap</span> voorheen
+      <td>een winkel rekening tot lasten de meid <span style="border-bottom: 2px dotted #00FF00;">Alida van de Kaap</span> voorheen
 		slavin van H: Greef H: z:n daarna van Philippus Minnaar J: z:n tans de eigendom
-		van de heer Pieter de Vos Wouterzoon woonachtig aan degroot</td>
+		van de heer Pieter de Vos Wouterzoon woonachtig aan de <span style="border-bottom: 2px dotted #FF0000;">Heksrivier</span> groot</td>
       <td>26:2:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>een winkel reekening de meid <span style="border-bottom: 2px dotted #008000;">Milda</span> toebehorende aan
+      <td>een winkel reekening de meid <span style="border-bottom: 2px dotted #00FF00;">Milda</span> toebehorende aan
 		Christiaan Liebenberg groot</td>
       <td>21:6:4</td>
     </tr>
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd aan ’t sterfhuis alhier aan deden 26 Nov: 1828 ende zulks op het op,
+Aldus gedaan en geinventariseerd aan ’t sterfhuis alhier aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> den 26 Nov: 1828 ende zulks op het op,
 	 en aangeven van den heer Stephanus Wernich St:z dewelke verklaarde, zich
 	 daaromtrend ter goeder trouwe te hebben gedragen, en niets met opzet verzwegen,
 	 of agtergehouden te hebben, het geen tot de gem:e nalatenschap is behoorende,
@@ -94596,7 +94673,7 @@ Ampliation
 ## MOOC8/45.38
 
  {18290416} 16 April
-	 1829 <span style="border-bottom: 2px dotted #008000;">George
+	 1829 <span style="border-bottom: 2px dotted #00FF00;">George
 	 Findley</span> 
 
 Inventory of effects belonging to the late George Findley who departed
@@ -94671,7 +94748,7 @@ Witnesses: Geo: Findlay, Alexander Mc:lod
 
 ## MOOC8/45.39
 
- {18120528} 28 Maij 1812 <span style="border-bottom: 2px dotted #008000;">Maria Elizabeth de
+ {18120528} 28 Maij 1812 <span style="border-bottom: 2px dotted #00FF00;">Maria Elizabeth de
 	 Vries</span> 
 
 Inventaris van alle zodanige goederen en effecten als er ab intestato
@@ -94775,7 +94852,7 @@ Ter plaatze van de wed:e Jacobus Augustus Buurman
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>woond aan de</td>
+      <td>woond aan de <span style="border-bottom: 2px dotted #FF0000;">Paardeberg</span></td>
       <td>Johannes Petrus du Toit
 		Danielsz:n op een onderhandsch obligatie de dato 24 November 1808 aan
 		capitaal</td>
@@ -94811,7 +94888,7 @@ Ter plaatze van de wed:e Jacobus Augustus Buurman
 </table>
 
 Wordende wyders alhier bekend gesteld dat door de overleedene in den jaare
-	 [ ..... ] bij haaren zoon Izaak Cirke Buijs woonagtig opop de helfte van aanteel heeft
+	 [ ..... ] bij haaren zoon Izaak Cirke Buijs woonagtig op <span style="border-bottom: 2px dotted #FF0000;">Sneeuwberg</span> op de helfte van aanteel heeft
 	 gegeeven een quantiteit schapen, waarvan egter het getal niet bepaaldelijk kan
 	 worden opgegeeven.
 
@@ -94828,7 +94905,7 @@ Alsmeede dat men meend dat van de penningen uit den aanteel der schaapen
 	 aan zijne zuster Alida Buijs wed:e Jac:s Augustus Buurman zyn afgegeeven.
 
 Aldus g’inventariseerd aan de Kaap de Goede Hoop ter plaatse van den
-	 burger Dirk Johannes Kotzee gelegen aan deop der 28 Maij 1812 ende zulks op het op
+	 burger Dirk Johannes Kotzee gelegen aan de <span style="border-bottom: 2px dotted #FF0000;">Paardenberg</span> op der 28 Maij 1812 ende zulks op het op
 	 en aangeeven van de in den hoofde deeses gemelde Jan Hendrik Kotzee dewelke
 	 veklaarde zig hierinne ter goeder trouwe gedragen en zynes weetens niets
 	 verzweegen of te rug gehouden te hebben van al het geen tot den boedel en
@@ -94851,7 +94928,7 @@ Mij present: G:A: Watermeijer, E:C:
 
 ## MOOC8/45.40
 
- {18280508} 8 May 1828 <span style="border-bottom: 2px dotted #008000;">Andrew Mather</span> 
+ {18280508} 8 May 1828 <span style="border-bottom: 2px dotted #00FF00;">Andrew Mather</span> 
 
 Inventory of all such property as has been relinquished by the death of
 	 Andrew Mather on the fifth day of the month of May in the year of our Lord one
@@ -95223,7 +95300,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/45.41
 
- {18280510} 10 May 1828 <span style="border-bottom: 2px dotted #008000;">Andrew Mather</span> , <span style="border-bottom: 2px dotted #008000;">Edward George</span> 
+ {18280510} 10 May 1828 <span style="border-bottom: 2px dotted #00FF00;">Andrew Mather</span> , <span style="border-bottom: 2px dotted #00FF00;">Edward George</span> 
 
 Inventory and appraisement of all such joint stock belonging to Edward
 	 George and Andrew Mather, relinquished by the death of the last mentioned on
@@ -96804,7 +96881,7 @@ Sworn before me by the said appraisers this 21:st day of May 1828: B:
 
 ## MOOC8/45.42
 
- {18290108} 8 January 1829 <span style="border-bottom: 2px dotted #008000;">Andrew Mather</span> 
+ {18290108} 8 January 1829 <span style="border-bottom: 2px dotted #00FF00;">Andrew Mather</span> 
 
 Exh:d the 25 February 1829, n:o 28
 
@@ -96881,7 +96958,7 @@ Fr: Brand, C: Blanckenberg
 
 ## MOOC8/45.43
 
- {18300628} 28 June 1830 <span style="border-bottom: 2px dotted #008000;">Joseph Rankin</span> , <span style="border-bottom: 2px dotted #008000;">Alexander Scott</span> 
+ {18300628} 28 June 1830 <span style="border-bottom: 2px dotted #00FF00;">Joseph Rankin</span> , <span style="border-bottom: 2px dotted #00FF00;">Alexander Scott</span> 
 
 Property found in the stores of the late firm of Rankin and Scott June
 	 28:th 1830
@@ -96921,13 +96998,13 @@ Property found in the stores of the late firm of Rankin and Scott June
   </tbody>
 </table>
 
-June 28:th 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> June 28:th 1830
 
 Tho: Read Welch
 
 ## MOOC8/45.44
 
- {18210716} 16 July 1821 <span style="border-bottom: 2px dotted #008000;">Botes van der Westhuisen Jans zoon</span> 
+ {18210716} 16 July 1821 <span style="border-bottom: 2px dotted #00FF00;">Botes van der Westhuisen Jans zoon</span> 
 
 Exh: 15 Aug:t 1821, n:o 5
 
@@ -96935,7 +97012,7 @@ H: Ellis
 
 Inventaris van alle zodanige goederen en effecten als door wylen Botes van
 	 der Westhuisen Jans zoon met er dood ontruimd en nagelaten mitsgaders heden
-	 door de ondergetekende Landdrost vanopgenomen en in waren weesen zyn bevonden geworden te weten
+	 door de ondergetekende Landdrost van <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span> opgenomen en in waren weesen zyn bevonden geworden te weten
 
 <table>
   <tbody>
@@ -97116,7 +97193,7 @@ Inventaris van alle zodanige goederen en effecten als door wylen Botes van
     <tr>
       <td>over zo veel voor heeren regt en transport op
 		de door den overledenen in het jaar 1815 publiek ingekogte opstal van de
-		leningsplaatsgel: aan dedebet is, zynde gem: plaats op den
+		leningsplaats <span style="border-bottom: 2px dotted #FF0000;">Modderfontein</span> gel: aan de <span style="border-bottom: 2px dotted #FF0000;">Rietrivier</span> debet is, zynde gem: plaats op den
 		20 October des gem: jaars door der ondergetekende namens Heeren Weesmeesteren
 		voor rekening des boedels van Andries Cornelis Esterhuisen verkogt en door den
 		overledenen in gemeind</td>
@@ -97124,7 +97201,7 @@ Inventaris van alle zodanige goederen en effecten als door wylen Botes van
     <tr>
       <td>aan Frans Stephanus Marits senior en Johannes Rasmus van der Merwe
 		die zig als borgen voor een schuld groot agt hondert ryxdaalders blykens
-		notarieele obligatie d:d: 25 April 1814 voor den toenmaligen Secretaris vanJ:F: Munnik en getuigen gepasseerd ten
+		notarieele obligatie d:d: 25 April 1814 voor den toenmaligen Secretaris van <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span> J:F: Munnik en getuigen gepasseerd ten
 		behoeve de minderjarige kinderen van wylen Gerrit Olivier en Hester Myburg,
 		hebbende geinterponeerd die schuld op den 6 Maart en 17 April 1820 ingevolge
 		het hierby gevoegd bewys hebben betaald</td>
@@ -97207,8 +97284,8 @@ De overledenen nimmer gehuuwd geweest zynde succedeeren als zyne
   </tbody>
 </table>
 
-Aldus gedaan en g’inventariseerd op den 16 July 1821 in deop de legplaats van Johannes Gerhardus
-	 Coetzé door de ondergetekende Landdrost vanten overstaan van de mede ondergetekende
+Aldus gedaan en g’inventariseerd op den 16 July 1821 in de <span style="border-bottom: 2px dotted #FF0000;">Caroo</span> op de legplaats van Johannes Gerhardus
+	 Coetzé door de ondergetekende Landdrost van <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span> ten overstaan van de mede ondergetekende
 	 getuigen J:C: Winterbach en Willem de Jongh dewelke verklaarden niets dan het
 	 bovenstaande te hebben gevonden bereid zynde desen inventaris ten allen tyde
 	 des gevordert wordende met solemneele eede te staven en verdere belofte zo iets
@@ -97330,7 +97407,7 @@ Gerrit Visser Floris z:n geh: met Christina van der Westhuisen dogter van
 
 ## MOOC8/45.45
 
- {18300417} 17 April 1830 <span style="border-bottom: 2px dotted #008000;">Carel Wilhelm Ludwich Schnaar</span> , <span style="border-bottom: 2px dotted #008000;">Anna Catharina
+ {18300417} 17 April 1830 <span style="border-bottom: 2px dotted #00FF00;">Carel Wilhelm Ludwich Schnaar</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Catharina
 	 Pfluger</span> 
 
 Sale 17 and 18 May 1830
@@ -97370,10 +97447,11 @@ and has further requested and appointed the Board of Orphan Masters of
 <table>
   <tbody>
     <tr>
-      <td>Certain house store and erf situated in thisin</td>
+      <td>Certain house store and erf situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Zieke Dwars Straat</span></td>
     </tr>
     <tr>
-      <td>certain house and premises situated in thisinbeing part of</td>
+      <td>certain house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Blok
+		  O:O:</span> being part of <span style="border-bottom: 2px dotted #FF0000;">N:o 9</span></td>
     </tr>
   </tbody>
 </table>
@@ -98544,21 +98622,21 @@ In the firstmentioned house
   <thead><tr><td colspan='100%'>Slaves of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Anthon of this Colony</span> born
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Anthon of this Colony</span> born
 		20 January 1819</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adam of this Colony</span> born 17
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adam of this Colony</span> born 17
 		April 1820</td>
     </tr>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #008000;">Lena of this Colony</span> about 31
+      <td rowspan='2' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Lena of this Colony</span> about 31
 		years of age with her two children, named</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Louisa</span> born 12 Octob: 1825
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louisa</span> born 12 Octob: 1825
 		and</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lena</span> born 17 April 1827</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lena</span> born 17 April 1827</td>
     </tr>
   </tbody>
 </table>
@@ -99003,7 +99081,7 @@ De ondergeteekende beken hier meede als dat zij een defek kaamer orgel
 ## MOOC8/45.46
 
  {18250608} 8 June
-	 1825 <span style="border-bottom: 2px dotted #008000;">Pieter
+	 1825 <span style="border-bottom: 2px dotted #00FF00;">Pieter
 	 Christiaan Schouw</span> 
 
 Sale on the 23 July 1825
@@ -99095,7 +99173,7 @@ The aforesaid property having been inventoried in presence of the two
   </tbody>
 </table>
 
-Thus inventoried aton the 8:th
+Thus inventoried at <span style="border-bottom: 2px dotted #FF0000;">Wineberg</span> on the 8:th
 	 June 1825 according to a statement made by the aforesaid widow who declared to
 	 have acted herein bonafide, and that to the best of her knowledge she has not
 	 withheld or secreted any thing that belonged to the aforesaid estate. And the
@@ -99114,7 +99192,7 @@ Elizabeth Margaretha Schouw, geboore Smith
 
 ## MOOC8/45.47
 
- {18270426} 26 April 1827 <span style="border-bottom: 2px dotted #008000;">Johan Willem Palm</span> 
+ {18270426} 26 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Johan Willem Palm</span> 
 
 The will in the hands of Mr Barker 6 March 1830
 
@@ -99148,8 +99226,8 @@ In consequence of which the aforesaid property was duly inventoried by the
 	 undersigned special Commissioners from the Orphan Board and was found to
 	 consist in the following, viz:t
 
-In the mill calledsituated at
-	 thewhere the deceased died
+In the mill called <span style="border-bottom: 2px dotted #FF0000;">Palmboom</span> situated at
+	 the <span style="border-bottom: 2px dotted #FF0000;">Rondeboschje</span> where the deceased died
 
 <table>
   <tbody>
@@ -99272,23 +99350,23 @@ In the mill calledsituated at
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jacob</span> aged 61 years of Java,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jacob</span> aged 61 years of Java,
 		carpenter</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jan of Mosambique</span> aged 50
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jan of Mosambique</span> aged 50
 		years, gardiner</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">David of this Colony</span> aged
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">David of this Colony</span> aged
 		40 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Carolus</span> sold to Mr
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Carolus</span> sold to Mr
 		Laurens Cloete, labourer, Mosambique, 52 years</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Sanna of this Colony</span> aged
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sanna of this Colony</span> aged
 		about 40 years, housemaid</td>
     </tr>
   </tbody>
@@ -99300,7 +99378,8 @@ Thus inventoried on the 26:th April 1826 and will be continued in Cape
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in thisinmarkedbeing part of</td>
+      <td>A house and erf situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">S:t
+		  Jans Street</span> marked <span style="border-bottom: 2px dotted #FF0000;">L:a F:</span> being part of <span style="border-bottom: 2px dotted #FF0000;">N:os 9 and 10</span></td>
     </tr>
   </tbody>
 </table>
@@ -99401,7 +99480,7 @@ Thus inventoried on the 26:th April 1826 and will be continued in Cape
     <tr>
       <td>&nbsp;</td>
       <td>from Ludwig Kribs for money lent to him the sum
-		however cannot be ascertained by the heirs /:at:/</td>
+		however cannot be ascertained by the heirs /:at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> :/</td>
       <td>&nbsp;</td>
       <td>[ .....
 		]</td>
@@ -99538,7 +99617,7 @@ List of clothes belonging to the deceased
 ## MOOC8/45.48
 
  {18000714} 14 Julij
-	 1800 <span style="border-bottom: 2px dotted #008000;">Maria de Waal</span> 
+	 1800 <span style="border-bottom: 2px dotted #00FF00;">Maria de Waal</span> 
 
 Inventaris van alle sodanige goederen en effecten als ab intestato metter
 	 dood zijn ontruijmd ende nagelaten door juffrouw Maria de Waal ten voordeele
@@ -99813,13 +99892,13 @@ Zoodanig als ’t een en ander door opgemelde manhaft Cornelis Botman aan
     </tr>
     <tr>
       <td>van Joachim Fredrik Mentz over koop van een
-		slavenjonge, genaamd <span style="border-bottom: 2px dotted #008000;">Telemachus van de
+		slavenjonge, genaamd <span style="border-bottom: 2px dotted #00FF00;">Telemachus van de
 		Caab</span></td>
       <td>&nbsp;</td>
       <td>600:--</td>
     </tr>
     <tr>
-      <td>van Hendrik Mentz over koop van een slavinne genaamd <span style="border-bottom: 2px dotted #008000;">Spatie van de Caab</span> almeede</td>
+      <td>van Hendrik Mentz over koop van een slavinne genaamd <span style="border-bottom: 2px dotted #00FF00;">Spatie van de Caab</span> almeede</td>
       <td>&nbsp;</td>
       <td>600:--</td>
     </tr>
@@ -99993,7 +100072,7 @@ Mij present: G:A: Watermeijer, g:C:
 
 ## MOOC8/45.49a
 
- {18300318} 18 Maart 1830 <span style="border-bottom: 2px dotted #008000;">Jan Westeraad</span> , <span style="border-bottom: 2px dotted #008000;">Maria Catharina van
+ {18300318} 18 Maart 1830 <span style="border-bottom: 2px dotted #00FF00;">Jan Westeraad</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Catharina van
 	 Weyngaardt</span> 
 
 Tauxatie des boedels van wylen Maria Catharina van Weyngaardt en nagelaten
@@ -100190,8 +100269,8 @@ Geen uitstaande penningen
 </table>
 
 Aldus getauxeerd in presentie van den Agent der Weeskamer en van J:
-	 Westraat ter plaatse genaamdin het
-	 districtop Donderdag den 18 Maart
+	 Westraat ter plaatse genaamd <span style="border-bottom: 2px dotted #FF0000;">Afontuur</span> in het
+	 district <span style="border-bottom: 2px dotted #FF0000;">George</span> op Donderdag den 18 Maart
 	 1830.
 
 Voor den op en aangaaf: merk + van Jan Westraat
@@ -100215,7 +100294,7 @@ Mr H: Meyer being on a journey, I beg you will be pleased to return this
 
 ## MOOC8/45.49b
 
- {18300318} 18 Maart 1830 <span style="border-bottom: 2px dotted #008000;">Jan Westeraad</span> , <span style="border-bottom: 2px dotted #008000;">Maria Catharina van
+ {18300318} 18 Maart 1830 <span style="border-bottom: 2px dotted #00FF00;">Jan Westeraad</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Catharina van
 	 Weyngaardt</span> 
 
 Invantaars van weyllen de laatenschap van Jan Westteraad in zeijn overlede
@@ -100356,7 +100435,7 @@ Mijn husvrou Mariia Catrina van Wijngaard is geboren in het jaar 1806 op
 ## MOOC8/45.50
 
  {18270613} 13 June
-	 1827 <span style="border-bottom: 2px dotted #008000;">Johanna
+	 1827 <span style="border-bottom: 2px dotted #00FF00;">Johanna
 	 Catharina Luyten</span> 
 
 Inventory of all such property as have been relinquished by the death of
@@ -100391,7 +100470,7 @@ In consequence of which the aforesaid property was duly inventoried by the
 	 undersigned special Commissioners from the Orphan Board was found to consist in
 	 the following, viz:t
 
-In a house belonging to L: Roufout situated in
+In a house belonging to L: Roufout situated in <span style="border-bottom: 2px dotted #FF0000;">Rose Street n:o 10</span> 
 
 <table>
   <thead><tr><td colspan='100%'>In the passage</td></tr></thead>
@@ -100477,13 +100556,13 @@ In my presence: J: Serrurier
 
 ## MOOC8/45.51
 
- {18251122} 22 November 1825 <span style="border-bottom: 2px dotted #008000;">Frans Carlo
+ {18251122} 22 November 1825 <span style="border-bottom: 2px dotted #00FF00;">Frans Carlo
 	 Baccarinie</span> 
 
 H: Somerset
 
 Staat en inventaris van al zoodanige goederen en effecten als door Frans
-	 Carlo Baccarinie /:geboren teinen overleden ter plaatse alhier op den
+	 Carlo Baccarinie /:geboren te <span style="border-bottom: 2px dotted #FF0000;">Verrona</span> in <span style="border-bottom: 2px dotted #FF0000;">Italie</span> en overleden ter plaatse alhier op den
 	 4 dezer te 3 uren a:m: in den ouderdom van 34 jaren, 2 maanden en 18 dagen :/
 	 met er dood ontruimd en nagelaten geworden als
 
@@ -100704,12 +100783,12 @@ Staat en inventaris van al zoodanige goederen en effecten als door Frans
       <td>56:--</td>
     </tr>
     <tr>
-      <td>aan den slaaf <span style="border-bottom: 2px dotted #008000;">Adam</span> van opgen: Liebenberg
+      <td>aan den slaaf <span style="border-bottom: 2px dotted #00FF00;">Adam</span> van opgen: Liebenberg
 		wegens kontant geleend</td>
       <td>5:--</td>
     </tr>
     <tr>
-      <td>aan de slavin <span style="border-bottom: 2px dotted #008000;">Jenira</span> van de wed: Bart van
+      <td>aan de slavin <span style="border-bottom: 2px dotted #00FF00;">Jenira</span> van de wed: Bart van
 		den Vyver een rol bladertabak</td>
       <td>2:4</td>
     </tr>
@@ -100726,7 +100805,7 @@ Staat en inventaris van al zoodanige goederen en effecten als door Frans
   </tbody>
 </table>
 
-Aldus geinventariseerd op den 22 November 1825 ter plaatse “” gelegen in de kom van, en zulks op aangave van Christ:n
+Aldus geinventariseerd op den 22 November 1825 ter plaatse “ <span style="border-bottom: 2px dotted #FF0000;">Twee Jonge Gezellen</span> ” gelegen in de kom van <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span> , en zulks op aangave van Christ:n
 	 Jac:s Liebenberg dewelke verklaarde in het opgeven getrouwelyk te zyn te werk
 	 gegaan, zonder willens of wetens iets te hebben verzwegen of achtergehouden
 	 bereid zynde zulks des vereischt wordende met eede te bevestigen
@@ -100739,7 +100818,7 @@ My present: J:G: Aspeling
 
 ## MOOC8/45.52
 
- {18270509} 9 May 1827 <span style="border-bottom: 2px dotted #008000;">Johannes Henricus
+ {18270509} 9 May 1827 <span style="border-bottom: 2px dotted #00FF00;">Johannes Henricus
 	 Voget</span> 
 
 Inventory of all such property as have been relinquished by the death ab
@@ -100760,7 +100839,8 @@ The aforesaid property having been inventoried by the undersigned
 		  situated in the Cape district</td>
     </tr>
     <tr>
-      <td>a house store and premises situated in thisin</td>
+      <td>a house store and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Long
+		  Street, N:o [ ..... ]</span></td>
     </tr>
   </tbody>
 </table>
@@ -101000,7 +101080,7 @@ At the aforesaid place
   </tbody>
 </table>
 
-At the house of Mrs the widow Joh:s Carolus de Wet in
+At the house of Mrs the widow Joh:s Carolus de Wet in <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> 
 
 <table>
   <tbody>
@@ -101055,25 +101135,25 @@ At the house of Mrs the widow Joh:s Carolus de Wet in
   <thead><tr><td colspan='100%'>Slaves belonging to the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Anthonie of Mosambiek</span> 41 years of age, a taylor</td>
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Anthonie of Mosambiek</span> 41 years of age, a taylor</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jasmyn of Mosambiek</span> 38
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jasmyn of Mosambiek</span> 38
 		years of age, labourer</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Carolina of the Cape</span> 21
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Carolina of the Cape</span> 21
 		years of age</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Adam of the Cape</span> 34 years of
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Adam of the Cape</span> 34 years of
 		age, a taylor</td>
       <td>1827 June 9 paid Rd:s30</td>
     </tr>
   </tbody>
 </table>
 
-Which last mentiond slave <span style="border-bottom: 2px dotted #008000;">Adam
+Which last mentiond slave <span style="border-bottom: 2px dotted #00FF00;">Adam
 	 of the Cape</span> declared to the undersigned Commissioners, that his late
 	 master agreed to allow him his freedom on his paying the sum of one thousand
 	 eight hundred rixdollars and produced in confirmation of this statement that he
@@ -101217,7 +101297,7 @@ G:J: Rogers, Insp:
 
 ## MOOC8/45.53a
 
- {18300807} 7 Augustus 1830 <span style="border-bottom: 2px dotted #008000;">Henderik Blikx</span> 
+ {18300807} 7 Augustus 1830 <span style="border-bottom: 2px dotted #00FF00;">Henderik Blikx</span> 
 
 Inventaris van den nalatenschap van den overledenen Henderik Blikx
 
@@ -101327,7 +101407,7 @@ J:N: Smalbergen, V:dcornet
 
 ## MOOC8/45.53b
 
- {18300913} 13 September 1830 <span style="border-bottom: 2px dotted #008000;">Hendrick Blikx</span> 
+ {18300913} 13 September 1830 <span style="border-bottom: 2px dotted #00FF00;">Hendrick Blikx</span> 
 
 Inventaris van den nalatenschap van overledene Hendrick Blikx
 
@@ -101468,7 +101548,7 @@ Inventaris van den nalatenschap van overledene Hendrick Blikx
   </tbody>
 </table>
 
-den 13:de September
+ <span style="border-bottom: 2px dotted #FF0000;">Valsch Rivier</span> den 13:de September
 	 1830
 
 J:H: Smalberger, V:dc:
@@ -101481,13 +101561,13 @@ Additional to inventory of estate of the late Hendrick Blikx estate from
 	 letters of Field Cornet J:H: Smalberger of the 11 Aug:t and 13 Sept: 1830.
 
 Hendrick Blik died on the 4 August 1830 at the place of Solomon Sauerman
-	 field cornetcy of
+	 field cornetcy of <span style="border-bottom: 2px dotted #FF0000;">Valsch Rivier</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Heir</td></tr></thead>
   <tbody>
     <tr>
-      <td>a child residing at Stephanus Wyders,district name and age unknown</td>
+      <td>a child residing at Stephanus Wyders <span style="border-bottom: 2px dotted #FF0000;">Plettenberg’s Bay</span> , <span style="border-bottom: 2px dotted #FF0000;">George</span> district name and age unknown</td>
     </tr>
   </tbody>
 </table>
@@ -101533,7 +101613,7 @@ Hendrick Blik died on the 4 August 1830 at the place of Solomon Sauerman
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>Hottentot Piet Juriedistrict in service of [ .... ]
+      <td>Hottentot Piet Jurie <span style="border-bottom: 2px dotted #FF0000;">George</span> district in service of [ .... ]
 		Stiets</td>
       <td>16:--</td>
     </tr>
@@ -101555,19 +101635,19 @@ Hendrick Blik died on the 4 August 1830 at the place of Solomon Sauerman
   </tbody>
 </table>
 
-Sept: 30 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> Sept: 30 1830
 
 J: Rawstorne, Orphan Chamber
 
 ## MOOC8/45.54
 
- {18300715} 15 July 1830 <span style="border-bottom: 2px dotted #008000;">Cornelis Hendrik Davel</span> , <span style="border-bottom: 2px dotted #008000;">Maria Elisabeth
+ {18300715} 15 July 1830 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Hendrik Davel</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Elisabeth
 	 Herbst</span> 
 
 Inventory of all such goods and effects as have been possessed in
 	 communion of property by the late Cornelis Hendrik Davel born in this Colony
-	 died on the 12:th day of April 1830 aged 43 years at the placesituated in the
-	 fieldcornetcydistrict, and surviving widow Maria
+	 died on the 12:th day of April 1830 aged 43 years at the place <span style="border-bottom: 2px dotted #FF0000;">Nieuwjaars Fontein</span> situated in the
+	 fieldcornetcy <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> district <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> , and surviving widow Maria
 	 Elisabeth Herbst ab intestato.
 
 <table>
@@ -101805,7 +101885,7 @@ Inventory of all such goods and effects as have been possessed in
   </tbody>
 </table>
 
-Thus done and inventoried at the placesituated in the fieldcornetcy ofdistrict ofon the 15 day of July 1830
+Thus done and inventoried at the place <span style="border-bottom: 2px dotted #FF0000;">Nieuwjaarsfontein</span> situated in the fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> on the 15 day of July 1830
 	 according to the declaration of Maria Elisabeth Herbst widow of the late
 	 Cornelis Hendrik Davel who declared that to the best of her knowledge she has
 	 given up all the effects that belong to said estate, with further promise
@@ -101823,7 +101903,7 @@ In my presence: J: Auret, Agent
 
 ## MOOC8/45.55
 
- {18021006} 6 October 1802 <span style="border-bottom: 2px dotted #008000;">George Carel Wenscz</span> 
+ {18021006} 6 October 1802 <span style="border-bottom: 2px dotted #00FF00;">George Carel Wenscz</span> 
 
 De 6 October 1802
 
@@ -101889,7 +101969,7 @@ By den overlede oude Wenscz bevonden
       <td>1 saal bok zyde</td>
     </tr>
     <tr>
-      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #008000;">Silvia</span> , hoog bejaard en
+      <td>een slavinne gen:t <span style="border-bottom: 2px dotted #00FF00;">Silvia</span> , hoog bejaard en
 		  vrij zoude zijn</td>
     </tr>
   </tbody>
@@ -101901,7 +101981,7 @@ Als getuyge: Jacobus Mattheis, J:G: Seyffert, J:G:
 ## MOOC8/45.56
 
  {18270417} 17
-	 April 1827 <span style="border-bottom: 2px dotted #008000;">Johannes
+	 April 1827 <span style="border-bottom: 2px dotted #00FF00;">Johannes
 	 Nicolaas Botes</span> 
 
 Exh:d the 18:th April 1827, n:o 34
@@ -101929,7 +102009,7 @@ The aforesaid property having been taken under the administration of the
 	 and been inventoried by the undersigned was found to consist in the following,
 	 viz:t
 
-In the house of the widow Arnoldus Maasdorp in
+In the house of the widow Arnoldus Maasdorp in <span style="border-bottom: 2px dotted #FF0000;">Strand Street N:o 30</span> 
 
 <table>
   <tbody>
@@ -102004,12 +102084,12 @@ In the house of the widow Arnoldus Maasdorp in
     <tr>
       <td>Greeff filed a claim against the estate of 441:42</td>
       <td>from
-		Matthys Johannes Greeff for labour</td>
+		Matthys Johannes Greeff for labour <span style="border-bottom: 2px dotted #FF0000;">Steenberg</span></td>
       <td>352:4</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Stoffel Laurens at Carel Frouds</td>
+      <td>from Stoffel Laurens at Carel Frouds <span style="border-bottom: 2px dotted #FF0000;">Groenekloof</span></td>
       <td>28:--</td>
     </tr>
   </tbody>
@@ -102045,13 +102125,13 @@ In my presence: C:J: Auret
 
 ## MOOC8/45.57
 
- {18300715} 15 July 1830 <span style="border-bottom: 2px dotted #008000;">Adriaan Petrus van der
-	 Linde</span> , <span style="border-bottom: 2px dotted #008000;">Cornelia
+ {18300715} 15 July 1830 <span style="border-bottom: 2px dotted #00FF00;">Adriaan Petrus van der
+	 Linde</span> , <span style="border-bottom: 2px dotted #00FF00;">Cornelia
 	 Elisabeth Kleyngeld</span> 
 
 Inventory of all such goods and effects as have been possessed in
 	 communion of property by the late Adriaan Petrus van der Linde born in this
-	 Colony died on the 5th day of March 1830 aged 30 years at the placesituated beyond the, and surviving widow Cornelia
+	 Colony died on the 5th day of March 1830 aged 30 years at the place <span style="border-bottom: 2px dotted #FF0000;">Goeymansberg</span> situated beyond the <span style="border-bottom: 2px dotted #FF0000;">Orange River</span> , and surviving widow Cornelia
 	 Elisabeth Kleyngeld ab intestato
 
 <table>
@@ -102158,7 +102238,7 @@ Inventory of all such goods and effects as have been possessed in
   </tbody>
 </table>
 
-Thus done and inventoried at the placesituated in the fieldcornetcy ofdistrict ofon the 15 day of July 1830
+Thus done and inventoried at the place <span style="border-bottom: 2px dotted #FF0000;">Nieuwjaarsfontein</span> situated in the fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Winterveld</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> on the 15 day of July 1830
 	 according to the declaration of Cornelia Elisabeth Klyngeld widow of the late
 	 Adriaan Petrus van der Linde who declared that to the best of her knowledge she
 	 has given up all the effects that belong to said estate with further promise
@@ -102176,7 +102256,7 @@ In my presence: J: Auret, Agent
 
 ## MOOC8/45.58
 
- {18300401} 1 April 1830 <span style="border-bottom: 2px dotted #008000;">Jantje</span> 
+ {18300401} 1 April 1830 <span style="border-bottom: 2px dotted #00FF00;">Jantje</span> 
 
 Inventaris van alle zodanige goederen als er door den overledenen
 	 Hottentot Jantje zijn nagelaten als
@@ -102192,15 +102272,15 @@ Inventaris van alle zodanige goederen als er door den overledenen
   </tbody>
 </table>
 
-den 1 April 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Zwagershoek</span> den 1 April 1830
 
 P:G: Bothma, Veldcornet
 
 ## MOOC8/45.59
 
- {18290421} 21 April 1829 <span style="border-bottom: 2px dotted #008000;">Izac Marays</span> 
+ {18290421} 21 April 1829 <span style="border-bottom: 2px dotted #00FF00;">Izac Marays</span> 
 
-den 21 April 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> den 21 April 1829
 
 Envantaris des boedels van Izac Marays
 
@@ -102306,7 +102386,7 @@ Bij den erfgenaam: Wellem Jacobus Pretorius met twee getuijgen:
 
 ## MOOC8/45.60
 
- {18280715} 15 July 1828 <span style="border-bottom: 2px dotted #008000;">Johanna Lowiesa Beets</span> 
+ {18280715} 15 July 1828 <span style="border-bottom: 2px dotted #00FF00;">Johanna Lowiesa Beets</span> 
 
 Infentaris des boedels van wylen Johanna Lowiesa Beets weduwe wylen Johan
 	 Justus Range geboortig van de Caap is Johanna Lowies Beets en gestorven den 13
@@ -102350,7 +102430,7 @@ Infentaris des boedels van wylen Johanna Lowiesa Beets weduwe wylen Johan
 <table>
   <tbody>
     <tr>
-      <td>Een lenings plaats genaamt de</td>
+      <td>Een lenings plaats genaamt de <span style="border-bottom: 2px dotted #FF0000;">Springfontyn</span></td>
     </tr>
     <tr>
       <td>1 ry paard</td>
@@ -102611,23 +102691,23 @@ Infentaris des boedels van wylen Johanna Lowiesa Beets weduwe wylen Johan
   <thead><tr><td colspan='100%'>Contante syn deese te weeten met de uytstaande</td></tr></thead>
   <tbody>
     <tr>
-      <td>Cornelis van der Wat schuldig 10 ryxd: onderbehorende op den 8:ste July
+      <td>Cornelis van der Wat schuldig 10 ryxd: onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span> behorende op den 8:ste July
 		1828</td>
     </tr>
     <tr>
-      <td>Jan Leroex schuldig 117 ryxd: behorende onderop den 6 July 1828</td>
+      <td>Jan Leroex schuldig 117 ryxd: behorende onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> op den 6 July 1828</td>
     </tr>
     <tr>
       <td>Hendrik J: Neuwenheusen schuldig 10 ryxd: 4 schelng behoorende
-		onderden 16 Desember 1828</td>
+		onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span> den 16 Desember 1828</td>
     </tr>
     <tr>
-      <td>Joseph Barry schuldig ryxd: 436 behoorende onderden 26 April 1826 met de renten en
+      <td>Joseph Barry schuldig ryxd: 436 behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span> den 26 April 1826 met de renten en
 		er is op af betaald soo veel als gem: Barry sal bewysen</td>
     </tr>
     <tr>
       <td>J:S:J: v: Rinsburg en Adriaan J: Janse van Rinsburg schuldig ryxd:
-		123 of een en veertig bekwame schapen te leferen onder het distrikden 16 Vebruary 1826</td>
+		123 of een en veertig bekwame schapen te leferen onder het distrik <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> den 16 Vebruary 1826</td>
     </tr>
   </tbody>
 </table>
@@ -102637,53 +102717,53 @@ Infentaris des boedels van wylen Johanna Lowiesa Beets weduwe wylen Johan
   <tbody>
     <tr>
       <td>aan Zara Mulder de weduwe wylen Johan Phielip Schnegelsberg
-		schuldig vier duysent guldens dinkende in 20 jaaren behoorende onder</td>
+		schuldig vier duysent guldens dinkende in 20 jaaren behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>aan Wilhelmiena Dorothea Mulder schuldig 940 ryxd: in de maant My
-		1828 behorende onder</td>
+		1828 behorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>aan P:M: Tesselaar schuldig in de seventig ryxd: in de maant
-		January 1827 aan de</td>
+		January 1827 aan de <span style="border-bottom: 2px dotted #FF0000;">Caapstad</span></td>
     </tr>
     <tr>
       <td>voor de begraffenis schuldig 17 ryx: 4 schelng</td>
     </tr>
     <tr>
       <td>aan Hendrik Range schuldig 51 ryxd: omtrend 5 jaar gelegen
-		behorende onder</td>
+		behorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>aan Johanna Catariena Range schuldig 9 ryxd: in de maant November
-		1827 behorende onder</td>
+		1827 behorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
-      <td>aan de weduwe J:W: Horn schuldig 42 ryxd: behoorende onderin de maant Maart 1828</td>
+      <td>aan de weduwe J:W: Horn schuldig 42 ryxd: behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span> in de maant Maart 1828</td>
     </tr>
     <tr>
       <td>aan de weduwe C: Hanlan schuldig 11 ryxd: in de maand Vebruary
-		1828 behoorende onder</td>
+		1828 behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>aan Piet Legransie schuldig 40 ryxd: in het jaar 1827 behoorende
-		onder</td>
+		onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>aan Barent Crous schuldig rykxd:21 in het jaar 1827 behoorende
-		onder</td>
+		onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>aan Johannes Willem Horn voor makeloon van den doot kist
-		ryxd:1:6:2 den 15 July 1828 onder</td>
+		ryxd:1:6:2 den 15 July 1828 onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>aan Christiaan Cloete schuldig 3 ryxd: in maan April 1828
-		behoorende onder</td>
+		behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>aan Arnoldus van der Bank schuldig 5 ryxd: in het jaar 1828
-		behorende onder</td>
+		behorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
   </tbody>
 </table>
@@ -102697,7 +102777,7 @@ Als getuygen: J:F: Serfontyn, A: v:d: Bank
 C: Cloete, Veldcornet
 
 De boedel van wylen de weeduwee Johannes Willem Horring schuldig voor een
-	 ploegschaar 15 rijxd: het jaar 1822 behoorende onder
+	 ploegschaar 15 rijxd: het jaar 1822 behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> 
 
 Ik onder getekend bekenne schuldig te seijn aan Piet Legransie de somma
 	 van seven en dertig reyksdaalders en een half over dri maande te voldoen
@@ -102714,7 +102794,7 @@ D:W: Range
 
 ## MOOC8/45.61
 
- {18280813} 13 Augustus 1828 <span style="border-bottom: 2px dotted #008000;">Johan Jacob Mulder</span> , <span style="border-bottom: 2px dotted #008000;">Margretha Blok</span> 
+ {18280813} 13 Augustus 1828 <span style="border-bottom: 2px dotted #00FF00;">Johan Jacob Mulder</span> , <span style="border-bottom: 2px dotted #00FF00;">Margretha Blok</span> 
 
 Submited to the agent of Holland
 
@@ -102833,7 +102913,7 @@ Inventaris des boedels van wylen Johan Jacob Mulder en nagelaten vrouw
   </tbody>
 </table>
 
-den 13 August 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Vette Rivier</span> den 13 August 1828
 
 Als getuigen /get: J:J: Voogelt en C:J: Esterhuysen
 
@@ -102883,12 +102963,12 @@ De boedel heef geen schult nog uijtstaande
 
 ## MOOC8/45.62
 
- {18290123} 23 Januarij 1829 <span style="border-bottom: 2px dotted #008000;">Johannis Augustinus
+ {18290123} 23 Januarij 1829 <span style="border-bottom: 2px dotted #00FF00;">Johannis Augustinus
 	 Clijngeld</span> 
 
 Rec:d Feb:y 7:th 1829, J:A:
 
-den 23 Januarij 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Middenveld</span> den 23 Januarij 1829
 
 Invantaris van wijlens den boedel van den overledene Johannis Augustinus
 	 Clijngeld is overleden den 27 Mij 1828 nagelatene frouw: Anna Elisabettha
@@ -103030,7 +103110,7 @@ S:W: Burger, V: cornet
   </tbody>
 </table>
 
-Aldus gedaan en geinvantariseerd in het veld cornetschapter plaatse genaandop den 4 Junij 1829 volgens op
+Aldus gedaan en geinvantariseerd in het veld cornetschap <span style="border-bottom: 2px dotted #FF0000;">Middenveld</span> ter plaatse genaand <span style="border-bottom: 2px dotted #FF0000;">Bossemans Valij</span> op den 4 Junij 1829 volgens op
 	 een aan geven van dewelke verklaarde zig in het op en aan geven van gemelde
 	 boedel ter goeder trouwe te hebben gezagen en niets met weten verswegen of
 	 agter gehouden te hebben het geen tot den boedel behoord verklarende zig bereid
@@ -103047,7 +103127,7 @@ S:W: Burger, V: cornet
 
 ## MOOC8/45.63
 
- {18301104} 4 November 1830 <span style="border-bottom: 2px dotted #008000;">Jacomina Mosterd</span> 
+ {18301104} 4 November 1830 <span style="border-bottom: 2px dotted #00FF00;">Jacomina Mosterd</span> 
 
 Sale 26 Novemb: 1830
 
@@ -103092,7 +103172,8 @@ At the house of the wid: Schwaeble
 <table>
   <tbody>
     <tr>
-      <td>A house and premises situated in thisin thepart ofmeasuring seven square roods and 90 square feet</td>
+      <td>A house and premises situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in the <span style="border-bottom: 2px dotted #FF0000;">Block N: 2</span> part of <span style="border-bottom: 2px dotted #FF0000;">N:o
+		  4</span> measuring seven square roods and 90 square feet</td>
     </tr>
     <tr>
       <td>twelve chairs</td>
@@ -103166,19 +103247,19 @@ At the house of the wid: Schwaeble
     <tr>
       <td rowspan='4' style='vertical-align: middle;'>not mortgaged</td>
       <td>a female slave
-		named <span style="border-bottom: 2px dotted #008000;">Zyda of the Cape</span> 54
+		named <span style="border-bottom: 2px dotted #00FF00;">Zyda of the Cape</span> 54
 		years of age</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Mariana of the Cape</span> 14
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Mariana of the Cape</span> 14
 		3/4 years</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Rachel</span> born 24 April 1818,
-		child of <span style="border-bottom: 2px dotted #008000;">Zijda</span></td>
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Rachel</span> born 24 April 1818,
+		child of <span style="border-bottom: 2px dotted #00FF00;">Zijda</span></td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">November of
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">November of
 		Malibaar</span></td>
     </tr>
   </tbody>
@@ -103193,7 +103274,7 @@ At the house of the wid: Schwaeble
 		rent from the 1:st instant at the rate of Rd:s32 per month</td>
     </tr>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'>residing at</td>
+      <td rowspan='2' style='vertical-align: middle;'>residing at <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
       <td>from Bernardus Rens for
 		securityship to the amount of Rd:s2000 respecting which Mr G:H: Maasdorp can
 		give explanation</td>
@@ -103204,7 +103285,7 @@ At the house of the wid: Schwaeble
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Gerhardus ScholtzRds:100 advanced to him</td>
+      <td>from Gerhardus Scholtz <span style="border-bottom: 2px dotted #FF0000;">Paardeberg</span> Rds:100 advanced to him</td>
     </tr>
   </tbody>
 </table>
@@ -103352,7 +103433,7 @@ Scholz [ ..... ] to 17 Nov: 1830
 Hiernevens de kwitantie van de koster en timmerman, agt en vijftig rd:s
 	 dat in de kast was, is tot de begravenis bij gedaan, zodat het in mindering van
 	 de lijst is die er heeft, ook zind ik de kwitantie van de Bank, van dise jaars
-	 rente en is een misgissing in de stoele, er is maar 10, Nötthing woont op
+	 rente en is een misgissing in de stoele, er is maar 10, Nötthing woont op <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> 
 
 E: Edwards
 
@@ -103362,7 +103443,7 @@ received 6 November 1830
 
 ## MOOC8/45.64
 
- {18260125} 25 January 1826 <span style="border-bottom: 2px dotted #008000;">Godlieb Seijps</span> 
+ {18260125} 25 January 1826 <span style="border-bottom: 2px dotted #00FF00;">Godlieb Seijps</span> 
 
 Exh:d the 25:th of January 1826, n:o 22
 
@@ -103491,7 +103572,7 @@ H:J:
 ## MOOC8/45.65
 
  {18270712} 12
-	 July 1827 <span style="border-bottom: 2px dotted #008000;">Leonora
+	 July 1827 <span style="border-bottom: 2px dotted #00FF00;">Leonora
 	 Loret</span> 
 
 Inventory of all such property as have been been relinquished by the death
@@ -103592,7 +103673,7 @@ In consequence of which the aforesaid property has been duly inventoried
 	 by the undersigned special Commissioners from the Orphan Board and was found to
 	 consist in the following, viz:t
 
-At the house of Mrs the widow Abraham Brunt situated at the corner of theand the.
+At the house of Mrs the widow Abraham Brunt situated at the corner of the <span style="border-bottom: 2px dotted #FF0000;">Vrede Street</span> and the <span style="border-bottom: 2px dotted #FF0000;">Tuin Plein</span> .
 
 <table>
   <tbody>
@@ -103774,41 +103855,41 @@ At the house of Mrs the widow Abraham Brunt situated at the corner of theand the
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jan of this Colony</span> , wagoner
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jan of this Colony</span> , wagoner
 		74 years of age which the present heirs request may be emancipated for his long
 		and faithful services</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Cupido of this Colony</span> ,
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Cupido of this Colony</span> ,
 		labourer 21 years of age</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Theresia of this Colony</span> ,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Theresia of this Colony</span> ,
 		cook 71 years of age which the present heirs request may be emancipated for her
 		long and faithful services</td>
     </tr>
     <tr>
-      <td rowspan='5' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #008000;">Sara of this Colony</span> ,
+      <td rowspan='5' style='vertical-align: middle;'>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Sara of this Colony</span> ,
 		housemaid 29 years of age with her children, named</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Ephraim of this Colony</span> , born on
+      <td><span style="border-bottom: 2px dotted #00FF00;">Ephraim of this Colony</span> , born on
 		the 1st August 1817</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jonathan of this Colony</span> , born on the 19 April 1819</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jonathan of this Colony</span> , born on the 19 April 1819</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel
 		of this Colony</span> , born on the 13 January 1821</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Mary of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Mary of
 		this Colony</span> , born on the 20 December 1822</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Christina of this Colony</span> , born on the 20 May 1825</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Christina of this Colony</span> , born on the 20 May 1825</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Christina of Malabar</span> ,
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Christina of Malabar</span> ,
 		washerwoman 46 years of age</td>
     </tr>
   </tbody>
@@ -104044,14 +104125,14 @@ Paid up to the 1:st December 1828 the 10:th June 1829
 
 ## MOOC8/45.66
 
- {18261113} 13 November 1826 <span style="border-bottom: 2px dotted #008000;">Martha Elisabeth Adriana
+ {18261113} 13 November 1826 <span style="border-bottom: 2px dotted #00FF00;">Martha Elisabeth Adriana
 	 de Coker</span> 
 
 H: Somerset
 
 A true and perfect inventory of all goods, chattels and effects as also
 	 credits and debts of the estate of the deceased Martha Elisabeth Adriana de
-	 Coker, last widow of the late Hendrik Janssen who died intestate in thesubdistrict, on the 5:th Ocober 1826, viz:t
+	 Coker, last widow of the late Hendrik Janssen who died intestate in the <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> subdistrict <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> , on the 5:th Ocober 1826, viz:t
 
 <table>
   <thead><tr><td colspan='100%'>At the request farm Blyde
@@ -104392,7 +104473,8 @@ A true and perfect inventory of all goods, chattels and effects as also
   </tbody>
 </table>
 
-This done and registered at the placesandinsub-districton the 13:th November 1826 by me the
+This done and registered at the places <span style="border-bottom: 2px dotted #FF0000;">Blyde
+	 Voortuitsicht</span> and <span style="border-bottom: 2px dotted #FF0000;">Steenkamps Hoek</span> in <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> sub-district <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on the 13:th November 1826 by me the
 	 undersigned Secretary in the presence of the clerk Christian Johannes Rabe and
 	 auctioneer Hartwich Johannes Luttig as witnesses, according to the statement of
 	 Johannes van der Horst senior, (late with service of the deceased and still
@@ -104411,14 +104493,14 @@ T:N: G:s Muller Secr:
 
 ## MOOC8/45.67
 
- {18281223} 23 December 1828 <span style="border-bottom: 2px dotted #008000;">Gerit Rossouw</span> , <span style="border-bottom: 2px dotted #008000;">Hanna Catarina van
+ {18281223} 23 December 1828 <span style="border-bottom: 2px dotted #00FF00;">Gerit Rossouw</span> , <span style="border-bottom: 2px dotted #00FF00;">Hanna Catarina van
 	 Zyl</span> 
 
 Inventaris van den boedel van wylen Hanna Catarina van Zyl en nagelatenen
 	 man Gerit Rossouw
 
 Hanna Cat:a van Zyl is gestorven den 23 Dec:r 1828 in de ouderdom van 41
-	 jaaren, 6 maanden 25 dagen, op de plaats
+	 jaaren, 6 maanden 25 dagen, op de plaats <span style="border-bottom: 2px dotted #FF0000;">Klipkuyl</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Erfgenaamen</td></tr></thead>
@@ -104612,7 +104694,7 @@ J:F: Conradie, Veld Cornet
 
 ## MOOC8/45.68
 
- {18290115} 15 Januarij 1829 <span style="border-bottom: 2px dotted #008000;">Johannes Nortje</span> 
+ {18290115} 15 Januarij 1829 <span style="border-bottom: 2px dotted #00FF00;">Johannes Nortje</span> 
 
 Inventaris van alle zodanige goederen, als ’er op den 15 Januarij 1829
 	 intestato zijn ontruimd en naargelaten, door den burger Johannis Nortje ten
@@ -104647,7 +104729,7 @@ Zodanig als deselve door mij ondergetekende Veltcornet ter op en aangave
 <table>
   <tbody>
     <tr>
-      <td>1 halve plaatsgenaamt (loan place)</td>
+      <td>1 halve plaats <span style="border-bottom: 2px dotted #FF0000;">Misgunst</span> genaamt (loan place)</td>
     </tr>
     <tr>
       <td>osse wagen compleet</td>
@@ -104976,7 +105058,7 @@ J: Janse van Vuuren, Velt Cornet
 
 ## MOOC8/45.69
 
- {18300617} 17 June 1830 <span style="border-bottom: 2px dotted #008000;">C:M: Zaijman</span> , <span style="border-bottom: 2px dotted #008000;">Criestiena Margareta
+ {18300617} 17 June 1830 <span style="border-bottom: 2px dotted #00FF00;">C:M: Zaijman</span> , <span style="border-bottom: 2px dotted #00FF00;">Criestiena Margareta
 	 Reijnaard</span> 
 
 Invantaris der nalatenschap van weijlen Criestiena Margareta Reijnaard en
@@ -105174,7 +105256,7 @@ Invantaris der nalatenschap van weijlen Criestiena Margareta Reijnaard en
   </tbody>
 </table>
 
-den 17 Junij 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Kliep Vontijn</span> den 17 Junij 1830
 
 N:s Jansen v: R:burg, V:C: Nelz
 
@@ -105184,13 +105266,13 @@ Mr Corn: M: Zaayman on delivery of this inventory acqaints the undersigned
 	 Agent to the Orphan Chamber that a mistake has been made in the number of
 	 chairs which instead of six ought to be one only
 
-June 14 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> June 14 1830
 
 J: Rawstorne, Ag:t Orph: Cham:
 
 ## MOOC8/45.70
 
- {18280625} 25 June 1828 <span style="border-bottom: 2px dotted #008000;">Johannes Jacobus van den
+ {18280625} 25 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Johannes Jacobus van den
 	 Burgh</span> 
 
 Exh:d the 2:d of July 1828, n:o 13
@@ -105305,7 +105387,7 @@ R: v: Breda
 
 ## MOOC8/45.71
 
- {18290522} 22 May 1829 <span style="border-bottom: 2px dotted #008000;">Cornelis de Waal</span> 
+ {18290522} 22 May 1829 <span style="border-bottom: 2px dotted #00FF00;">Cornelis de Waal</span> 
 
 [A list of the debtors given to the messenger Welch, to call the amounts
 	 in, 17 July 1829]
@@ -105355,7 +105437,7 @@ The aforesaid property having been taken under the administration of the
 <table>
   <tbody>
     <tr>
-      <td>A house and erf situated in thisaccording to transfer dated 13
+      <td>A house and erf situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> according to transfer dated 13
 		  Septemb: 1816</td>
       <td rowspan='2' style='vertical-align: middle;'>ƒ35100</td>
     </tr>
@@ -105365,7 +105447,7 @@ The aforesaid property having been taken under the administration of the
     </tr>
     <tr>
       <td>a house and erf with a hire house thereto
-		  annexed situated in the village ofpurchased out of the insolvent estate
+		  annexed situated in the village of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> purchased out of the insolvent estate
 		  of J:N: Knoop /not yet transferred</td>
     </tr>
   </tbody>
@@ -105536,7 +105618,7 @@ The aforesaid property having been taken under the administration of the
     <tr>
       <td>six pictures</td>
       <td rowspan='2' style='vertical-align: middle;'>according to the
-		statement of the female slave <span style="border-bottom: 2px dotted #008000;">Regina</span> belonging to the female slave <span style="border-bottom: 2px dotted #008000;">Stientje</span> of Mr Jan
+		statement of the female slave <span style="border-bottom: 2px dotted #00FF00;">Regina</span> belonging to the female slave <span style="border-bottom: 2px dotted #00FF00;">Stientje</span> of Mr Jan
 		Laubscher</td>
     </tr>
     <tr>
@@ -105545,7 +105627,7 @@ The aforesaid property having been taken under the administration of the
     <tr>
       <td>three cupboards</td>
       <td rowspan='8' style='vertical-align: middle;'>according to the
-		statement of the female slave <span style="border-bottom: 2px dotted #008000;">Regina</span> belonging to her</td>
+		statement of the female slave <span style="border-bottom: 2px dotted #00FF00;">Regina</span> belonging to her</td>
     </tr>
     <tr>
       <td>a large chest</td>
@@ -105791,35 +105873,35 @@ The aforesaid property having been taken under the administration of the
   <thead><tr><td colspan='100%'>Slaves of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Salomon of this Colony</span> ,
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Salomon of this Colony</span> ,
 		38 years of age labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">David of this Colony</span> , 33
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">David of this Colony</span> , 33
 		years of age labourer</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Mey of this Colony</span> , 28 years
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Mey of this Colony</span> , 28 years
 		of age labourer</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Possie of this Colony</span> , 25
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Possie of this Colony</span> , 25
 		years of age</td>
     </tr>
     <tr>
-      <td>a male slave <span style="border-bottom: 2px dotted #008000;">Frans of this Colony</span> , born
+      <td>a male slave <span style="border-bottom: 2px dotted #00FF00;">Frans of this Colony</span> , born
 		19 September 1816</td>
     </tr>
     <tr>
-      <td rowspan='3' style='vertical-align: middle;'>a female slave 1 <span style="border-bottom: 2px dotted #008000;">Regina of this Colony</span> , 35
+      <td rowspan='3' style='vertical-align: middle;'>a female slave 1 <span style="border-bottom: 2px dotted #00FF00;">Regina of this Colony</span> , 35
 		years of age, servant maid with her three children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Jan</span> , born 6 February 1821</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jan</span> , born 6 February 1821</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leentje</span> , born 21 Octob: 1823</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leentje</span> , born 21 Octob: 1823</td>
     </tr>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">Regina</span> , born 5 September 1825</td>
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">Regina</span> , born 5 September 1825</td>
     </tr>
   </tbody>
 </table>
@@ -106106,7 +106188,7 @@ Tho: Read Welch, Mess:
 
 ## MOOC8/45.72
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Roelof van Tonder</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Roelof van Tonder</span> 
 
 Inventaris van alle zodaniege heijpotiek en goederen welke behooren tot de
 	 nalatenshappen van wijlen Roelof van Tonder en desselfs na gelatene weduwe
@@ -106294,7 +106376,7 @@ Inventaris van alle zodaniege heijpotiek en goederen welke behooren tot de
   </tbody>
 </table>
 
-Aldus geinventariceert op de plaats van Cornelis van Tonder genaamdgeleegen in deonder ’t district vanonder de wijk van den proviecionele
+Aldus geinventariceert op de plaats van Cornelis van Tonder genaamd <span style="border-bottom: 2px dotted #FF0000;">Dolfs Kraal</span> geleegen in de <span style="border-bottom: 2px dotted #FF0000;">Coup</span> onder ’t district van <span style="border-bottom: 2px dotted #FF0000;">Tulbagh</span> onder de wijk van den proviecionele
 	 veldcornet Pieter Enst Kruger
 
 Als getuigen: W:A: Germishuijsen, Adolph Jonker
@@ -106303,14 +106385,14 @@ Pieter Ernst Kruger, provieseonele Veldcornet
 
 ## MOOC8/45.73
 
- {18310121} 21 Jan:y 1831 <span style="border-bottom: 2px dotted #008000;">John McAuley</span> 
+ {18310121} 21 Jan:y 1831 <span style="border-bottom: 2px dotted #00FF00;">John McAuley</span> 
 
 Exh:d 26 Jan:y 1831, n:o 21
 
-[Seaman in employ of Mr Twycross, drowned inon 19 Jan: 1831.]
+[Seaman in employ of Mr Twycross, drowned in <span style="border-bottom: 2px dotted #FF0000;">Table Bay</span> on 19 Jan: 1831.]
 
 Inventory of all such property as has been relinquished by the demise of
-	 John McAuley a native of
+	 John McAuley a native of <span style="border-bottom: 2px dotted #FF0000;">Scotland</span> 
 
 [Heirs unknown]
 
@@ -106351,7 +106433,7 @@ Inventory of all such property as has been relinquished by the demise of
 
 Witness: Sara Janse
 
-Jan:y 21:st 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> Jan:y 21:st 1831
 
 Tho: Read Welch
 
@@ -106373,15 +106455,16 @@ Debts not ascertained
 ## MOOC8/45.74
 
  {18310121} 21 January
-	 1831 <span style="border-bottom: 2px dotted #008000;">William
+	 1831 <span style="border-bottom: 2px dotted #00FF00;">William
 	 Munroe</span> 
 
 Exh:d 26 January 1831, n:o 21
 
-Seaman in employ of Mr Twycross drowned inon 19 Jan: 1831.
+Seaman in employ of Mr Twycross drowned in <span style="border-bottom: 2px dotted #FF0000;">Table
+	 Bay</span> on 19 Jan: 1831.
 
 Inventory of all such property as has been relinquished by the demise of
-	 William Munroe a native of/heirs
+	 William Munroe a native of <span style="border-bottom: 2px dotted #FF0000;">Scotland</span> /heirs
 	 unknown/
 
 <table>
@@ -106439,16 +106522,16 @@ Tho: Read Welch
 ## MOOC8/45.75
 
  {18290103} 3 January
-	 1820 <span style="border-bottom: 2px dotted #008000;">Susanna
+	 1820 <span style="border-bottom: 2px dotted #00FF00;">Susanna
 	 Elizabeth Lombard</span> 
 
-Sale 27 Feb:y in the village of
+Sale 27 Feb:y in the village of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> 
 
 Inventory of the estate of the late Susanna Eliz: Lombard widow Jacobus
-	 Henry Coetzee deceased 1:st January 1829 in the village ofaged thirty nine years, eight
+	 Henry Coetzee deceased 1:st January 1829 in the village of <span style="border-bottom: 2px dotted #FF0000;">Swellendam,</span> aged thirty nine years, eight
 	 months.
 
-Jan:y 3:rd 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> Jan:y 3:rd 1829
 
 <table>
   <thead><tr><td colspan='100%'>Heirs</td></tr></thead>
@@ -106498,49 +106581,49 @@ Jan:y 3:rd 1829
   <thead><tr><td colspan='100%'>Effects and property</td></tr></thead>
   <tbody>
     <tr>
-      <td>A house and erf in the village of</td>
+      <td>A house and erf in the village of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span></td>
     </tr>
     <tr>
-      <td>slaves <span style="border-bottom: 2px dotted #008000;">Castor</span> , aged about 60 years</td>
+      <td>slaves <span style="border-bottom: 2px dotted #00FF00;">Castor</span> , aged about 60 years</td>
     </tr>
     <tr>
-      <td>slaves <span style="border-bottom: 2px dotted #008000;">Kupido</span> , aged about 50</td>
+      <td>slaves <span style="border-bottom: 2px dotted #00FF00;">Kupido</span> , aged about 50</td>
     </tr>
     <tr>
-      <td>slaves <span style="border-bottom: 2px dotted #008000;">August</span> , aged about 35</td>
+      <td>slaves <span style="border-bottom: 2px dotted #00FF00;">August</span> , aged about 35</td>
     </tr>
     <tr>
-      <td rowspan='4' style='vertical-align: middle;'>female <span style="border-bottom: 2px dotted #008000;">Victoria</span> , aged about 36,
+      <td rowspan='4' style='vertical-align: middle;'>female <span style="border-bottom: 2px dotted #00FF00;">Victoria</span> , aged about 36,
 		her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Samira</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Samira</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">October</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">October</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Damon</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Damon</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Willem</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Willem</span></td>
     </tr>
     <tr>
-      <td rowspan='5' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Clara</span> , aged about 35, her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Louisa</span></td>
+      <td rowspan='5' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Clara</span> , aged about 35, her children</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louisa</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cena</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cena</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">November</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">November</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Abram</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abram</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Simon</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Simon</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Leonora</span> , aged about 35</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Leonora</span> , aged about 35</td>
     </tr>
     <tr>
       <td>1 ward robe</td>
@@ -106862,7 +106945,7 @@ Exh:d the 28 January 1829, n:o 8
 List of the children of the late widow J:H: Coetzee and of their claims on
 	 her estate for balance due on their paternal inheritances
 
-Jan:y 20:t 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> Jan:y 20:t 1829
 
 <table>
   <tbody>
@@ -106915,14 +106998,14 @@ J: Rawstorne, Agent Orp:n Cham:
 
 ## MOOC8/45.76
 
- {18280607} 7 June 1828 <span style="border-bottom: 2px dotted #008000;">Dirk Coetzee</span> , <span style="border-bottom: 2px dotted #008000;">Barbara van Zyl</span> 
+ {18280607} 7 June 1828 <span style="border-bottom: 2px dotted #00FF00;">Dirk Coetzee</span> , <span style="border-bottom: 2px dotted #00FF00;">Barbara van Zyl</span> 
 
-June 7:th 1828
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> June 7:th 1828
 
 Inventory of the goods and effects of the estate of the late Dirk Coetzee
 	 and surviving widow Barbara van Zyl.
 
-Mr Dirk Coetzee died on the 20:th May 1827 inleaving the following heirs
+Mr Dirk Coetzee died on the 20:th May 1827 in <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> leaving the following heirs
 
 <table>
   <tbody>
@@ -106947,7 +107030,7 @@ Mr Dirk Coetzee died on the 20:th May 1827 inleaving the following heirs
   <thead><tr><td colspan='100%'>Property and effects</td></tr></thead>
   <tbody>
     <tr>
-      <td>An erf situated in the, near the village of, purchased by the deceased for the
+      <td>An erf situated in the <span style="border-bottom: 2px dotted #FF0000;">Poespas Valley</span> , near the village of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> , purchased by the deceased for the
 		sum of Rd:s600 but the title deeds not delivered nor the purchase money paid.
 		This erf is burthened with the expences of three preceeding sales from
 		individuals either insolvent or absent</td>
@@ -107032,12 +107115,12 @@ J: Rawstorne Agent to Orp: Ch:
 
 ## MOOC8/45.77
 
- {18290207} 7 February 1829 <span style="border-bottom: 2px dotted #008000;">Cornelis Johannes Nortje</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Elisabeth
+ {18290207} 7 February 1829 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Johannes Nortje</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Elisabeth
 	 Engelbrecht</span> 
 
 9 April
 
-Agent at
+Agent at <span style="border-bottom: 2px dotted #FF0000;">George</span> 
 
 Infentaris van alle soodanige goederen, als er op den 6:d January 1812 ab
 	 intestato meter dood syn ontruijmt, door Cornelis Johannes Nortje en nagelaten
@@ -107101,11 +107184,11 @@ Infentaris van alle soodanige goederen, als er op den 6:d January 1812 ab
   <thead><tr><td colspan='100%'>Vaste goederen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een lenings plaats genaamd, geleegen aan dein erfpacht gemeeten en</td>
-      <td rowspan='2' style='vertical-align: middle;'>zynde beide geleegen in het district van</td>
+      <td>een lenings plaats genaamd <span style="border-bottom: 2px dotted #FF0000;">Camnasies Loop</span> , geleegen aan de <span style="border-bottom: 2px dotted #FF0000;">Camnasie</span> in erfpacht gemeeten en</td>
+      <td rowspan='2' style='vertical-align: middle;'>zynde beide geleegen in het district van <span style="border-bottom: 2px dotted #FF0000;">George</span></td>
     </tr>
     <tr>
-      <td>de derde part van de lenings plaats genaamdgeleegen over deby dein erfpagt opgemeeten</td>
+      <td>de derde part van de lenings plaats genaamd <span style="border-bottom: 2px dotted #FF0000;">Gamtousberg</span> geleegen over de <span style="border-bottom: 2px dotted #FF0000;">Doorn Rivier</span> by de <span style="border-bottom: 2px dotted #FF0000;">Roode Heuvel</span> in erfpagt opgemeeten</td>
     </tr>
   </tbody>
 </table>
@@ -107299,8 +107382,8 @@ Aldus gedaan en geinfentariseert door myn Veltcornet en getuijgen, op den
 	 behoorende, aan Heeren Weesmeesteren dan wel, aan hun Eerwaardens Agent van het
 	 district opgaaven te sullen doen.
 
-Aldus gedaan aan den,
-	 districktop den 7 February
+Aldus gedaan aan den <span style="border-bottom: 2px dotted #FF0000;">Olyphants Rivier</span> ,
+	 districkt <span style="border-bottom: 2px dotted #FF0000;">George</span> op den 7 February
 	 1829.
 
 Als getuygen: G:J: van Sijl, C:M: Al: Nortje
@@ -107309,7 +107392,7 @@ C:P: Snyman, fungeerende Veltcornet
 
 ## MOOC8/45.78
 
- {18260621} 21 Juny 1826 <span style="border-bottom: 2px dotted #008000;">Johan Christiaan
+ {18260621} 21 Juny 1826 <span style="border-bottom: 2px dotted #00FF00;">Johan Christiaan
 	 Vogel</span> 
 
 22 July
@@ -107328,7 +107411,8 @@ Inventaris van alle zoodanige goederen en effecten als behoorende zyn tot
   <tbody>
     <tr>
       <td>Een huis en erf met de twee daarop
-		  geconstrueerde hecht en sterke huizen met annexe tuin, te</td>
+		  geconstrueerde hecht en sterke huizen met annexe tuin, te <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span>  <span style="border-bottom: 2px dotted #FF0000;">N:o 13
+		  Cuylerstraat</span></td>
     </tr>
   </tbody>
 </table>
@@ -107727,13 +107811,13 @@ In hetselve huis
   <thead><tr><td colspan='100%'>Lyfeigenen des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Louisa
+      <td><span style="border-bottom: 2px dotted #00FF00;">Louisa
 		van de Kaap</span> , dewelke blykens onderhandsche bewys in dato 31 Maart 1826
 		volgens begeerte van den overledenen ten kosten van den boedel in vrydom moet
 		gesteld worden wegens hare bewezene getrouwe diensten</td>
     </tr>
     <tr>
-      <td>een slave jonge gen:d <span style="border-bottom: 2px dotted #008000;">Azor</span> , van deezen uithoek
+      <td>een slave jonge gen:d <span style="border-bottom: 2px dotted #00FF00;">Azor</span> , van deezen uithoek
 		geboortig</td>
     </tr>
   </tbody>
@@ -107793,7 +107877,7 @@ Terwyl de baten en lasten des boedels voorals nog onbekend zyn
     <tr>
       <td>&nbsp;</td>
       <td>7) Maria Catharina Vogel gehuwd met Hermanus Steyn
-		/onder/</td>
+		/onder <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> /</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -107836,7 +107920,7 @@ Verklarende de ondergeteekende erfgenamen wyders zich in de op en aangave
 	 boedel behoort, als dan deze inventaris daarmede te zullen amplieeren en by
 	 aldien het vereischt wordt, de zelve met eede te bevestigen.
 
-Aldus geinventariseerd tevoormeld op den 21 Juny 1826
+Aldus geinventariseerd te <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> voormeld op den 21 Juny 1826
 
 L: Janse van Vuuren
 
@@ -107849,12 +107933,12 @@ My praesent: J:J:F: Roselt
 Copie
 
 Ik ondergeteekende verklare by deze dat het myn wil en begeerte is dat
-	 myne slave meid genaamd <span style="border-bottom: 2px dotted #008000;">Louisa
+	 myne slave meid genaamd <span style="border-bottom: 2px dotted #00FF00;">Louisa
 	 van Mosambique</span> uit hoofde van hare getrouwe diensten en goede oppassing
 	 aan my bewezen, door myne erfgenamen na myn dood ten kosten van myn boedel
 	 dadelyk in vrydom zal moeten worden gesteld.
 
-Deze myne begeerte heb ik eigenhandig onderteekend teden 31 Maart 1826.
+Deze myne begeerte heb ik eigenhandig onderteekend te <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> den 31 Maart 1826.
 
 (get:d) J:C: Vogel
 
@@ -107865,7 +107949,7 @@ Accordeert: J:J:F: Roselt
 
 ## MOOC8/45.79
 
- {18250929} 29 September 1825 <span style="border-bottom: 2px dotted #008000;">James McCullock</span> 
+ {18250929} 29 September 1825 <span style="border-bottom: 2px dotted #00FF00;">James McCullock</span> 
 
 2 Nov: 1825
 
@@ -108017,9 +108101,9 @@ Tho:s Williamson
 
 ## MOOC8/45.80a
 
- {18300226} 26 February 1830 <span style="border-bottom: 2px dotted #008000;">Johan George Schwartz</span> 
+ {18300226} 26 February 1830 <span style="border-bottom: 2px dotted #00FF00;">Johan George Schwartz</span> 
 
-Inventaris des boedels van Johan George Schwartz ingeboren ter plaatzein de wykin het districtgelegen op den 9:de Februarij 1830
+Inventaris des boedels van Johan George Schwartz in <span style="border-bottom: 2px dotted #FF0000;">Duitschland</span> geboren ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Bakalay Plaats</span> in de wyk <span style="border-bottom: 2px dotted #FF0000;">Olifants Rivier</span> in het district <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> gelegen op den 9:de Februarij 1830
 	 te 8 uren des morgens overleden na gissing in den ouderdom van 59 jaren
 	 nalatende zijne echtgenote Anna Lasea Christina Willemina Smith en 6 onmondige
 	 kinderen, in name
@@ -108056,7 +108140,7 @@ Welke inventaris door my Aldert Heremias Cornelis van Zijl ten overstaan
 <table>
   <tbody>
     <tr>
-      <td>Een leningsplaatz</td>
+      <td>Een leningsplaatz <span style="border-bottom: 2px dotted #FF0000;">Rode Klipheuvel</span></td>
     </tr>
     <tr>
       <td>7 ossen</td>
@@ -108210,7 +108294,7 @@ Welke inventaris door my Aldert Heremias Cornelis van Zijl ten overstaan
     </tr>
     <tr>
       <td>1 grote Nieuwe Hoogduitsche Bybel met nogt eenige boeken [thans
-		  bij den heer A: Bergh te]</td>
+		  bij den heer A: Bergh te <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> ]</td>
     </tr>
     <tr>
       <td>een kleine tafel</td>
@@ -108267,7 +108351,9 @@ Welke inventaris door my Aldert Heremias Cornelis van Zijl ten overstaan
   </tbody>
 </table>
 
-Aldus geinventariseerd ter plaatzegelegen in de wyk mond derop den 26:ste Feb:y 1830
+Aldus geinventariseerd ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Rode
+	 Klipheuvel</span> gelegen in de wyk mond der <span style="border-bottom: 2px dotted #FF0000;">Olifants
+	 Rivier</span> op den 26:ste Feb:y 1830
 
 Voor de opgaaf: A:L:C:W: Smith
 
@@ -108277,7 +108363,7 @@ A:H:C: van Zijl, Veldc:t
 
 ## MOOC8/45.80b
 
- {18300226} 26 February 1830 <span style="border-bottom: 2px dotted #008000;">Johan George Schwartz</span> , <span style="border-bottom: 2px dotted #008000;">Anna Lasea
+ {18300226} 26 February 1830 <span style="border-bottom: 2px dotted #00FF00;">Johan George Schwartz</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Lasea
 	 Christina Willemina Smith</span> 
 
 Exhib: 23 March 1830
@@ -108296,7 +108382,7 @@ Taxatie volgens inventaris des boedels van wijlen Johan George Schwartz en
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>een lenings plaats</td>
+      <td>een lenings plaats <span style="border-bottom: 2px dotted #FF0000;">Rode Klipheuvel</span></td>
       <td>800:--</td>
     </tr>
     <tr>
@@ -108498,7 +108584,7 @@ Taxatie volgens inventaris des boedels van wijlen Johan George Schwartz en
     </tr>
     <tr>
       <td>1 grote nieuwe H:duitsche Bybel met nogt eenige boeken [thans by
-		  den h:r A: Bergh te]</td>
+		  den h:r A: Bergh te <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> ]</td>
       <td>[
 		  ..... ]</td>
     </tr>
@@ -108574,7 +108660,9 @@ Taxatie volgens inventaris des boedels van wijlen Johan George Schwartz en
   </tbody>
 </table>
 
-Aldus getaxeerd ter plaatzegelegen in de wyk monde desop den 26:ste February 1830.
+Aldus getaxeerd ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Rode
+	 Klipheuvel</span> gelegen in de wyk monde des <span style="border-bottom: 2px dotted #FF0000;">Olif:ts
+	 Rivier</span> op den 26:ste February 1830.
 
 Wy ondergetekendens taxateuren verklaren by deze de voorenstaande goederen
 	 na onze gemoedbeweging te hebben getaxeerd.
@@ -108585,12 +108673,12 @@ A:H:C: van Zijl, Veldcornet
 
 ## MOOC8/45.81
 
- {18271006} 6 October 1827 <span style="border-bottom: 2px dotted #008000;">George Lyon</span> 
+ {18271006} 6 October 1827 <span style="border-bottom: 2px dotted #00FF00;">George Lyon</span> 
 
 J: Mostert
 
 Inventory of property belonging to the intestate estate of the late George
-	 Lyon who died aton the 6:th day
+	 Lyon who died at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> on the 6:th day
 	 of October 1827.
 
 <table>
@@ -108615,14 +108703,14 @@ Inventory of property belonging to the intestate estate of the late George
   </tbody>
 </table>
 
-Thus done and inventory taken this 6:th day of October 1827, at, in the district of
+Thus done and inventory taken this 6:th day of October 1827, at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> , in the district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> 
 
 Daniel J: Cloete, Agent in Albany
 
 ## MOOC8/45.82
 
- {18190807} 7 Augustus 1819 <span style="border-bottom: 2px dotted #008000;">Jacobus Remerius Verster d’
-	 oude</span> , <span style="border-bottom: 2px dotted #008000;">Maria Susanna
+ {18190807} 7 Augustus 1819 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Remerius Verster d’
+	 oude</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Susanna
 	 Theron</span> 
 
 19 Jan: 1820
@@ -108786,7 +108874,7 @@ Inventaris van alle zodanige goederen en effecten, als behooren tot den
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd ter adjunct Drostdyeop den 7 Augustus 1819 en zulks
+Aldus gedaan en geinventariseerd ter adjunct Drostdye <span style="border-bottom: 2px dotted #FF0000;">Cradock</span> op den 7 Augustus 1819 en zulks
 	 volgens op en aangave van de in den hoofden deezes gem: Jacobus Remerius
 	 Verster d’ oude dewelke verklaarde niets met zyn weeten versweegen of agter
 	 gehouden te hebben, met offerte indien iets nader tot den boedel behoorende
@@ -108803,8 +108891,8 @@ In kennisse van mij J:F: van de Graaff, Adj:Landd:
 
 ## MOOC8/45.83
 
- {18220809} 9 August 1822 <span style="border-bottom: 2px dotted #008000;">Cornelis Carel Hendrik de
-	 Vries</span> , <span style="border-bottom: 2px dotted #008000;">Sophia van
+ {18220809} 9 August 1822 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Carel Hendrik de
+	 Vries</span> , <span style="border-bottom: 2px dotted #00FF00;">Sophia van
 	 Wyk</span> 
 
 H:V: Cloete
@@ -108907,11 +108995,11 @@ Inventaris van alle zodanige goederen en effecten als door wijlen Sophia
   <thead><tr><td colspan='100%'>Baaten des boedels</td></tr></thead>
   <tbody>
     <tr>
-      <td>van Albert Smit /bastaard/ woonagtig in dede som van 15 rd:s over koop van een
+      <td>van Albert Smit /bastaard/ woonagtig in de <span style="border-bottom: 2px dotted #FF0000;">Ghaup</span> de som van 15 rd:s over koop van een
 		yzere remketting waarvan geen bewijs</td>
     </tr>
     <tr>
-      <td>van den burger Willem Ludeke woonagtig oponder het veldcornet J: Burger de
+      <td>van den burger Willem Ludeke woonagtig op <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> onder het veldcornet J: Burger de
 		som van 4 rd:s in mindering wegens koop van een os waarvan geen bewijs</td>
     </tr>
   </tbody>
@@ -108924,7 +109012,7 @@ Inventaris van alle zodanige goederen en effecten als door wijlen Sophia
       <td>aan David de Koker /de oude/ een os dan wel geld</td>
     </tr>
     <tr>
-      <td>aan den metzeler Spandile woonagtig opde som van 19 rd:s en 4 sch: over koop
+      <td>aan den metzeler Spandile woonagtig op <span style="border-bottom: 2px dotted #FF0000;">Graaf Rijnet</span> de som van 19 rd:s en 4 sch: over koop
 		van negotie goederen waarvan een bewijs gevonden</td>
     </tr>
     <tr>
@@ -108959,7 +109047,7 @@ Inventaris van alle zodanige goederen en effecten als door wijlen Sophia
   </tbody>
 </table>
 
-Aldus gedaan en geinventariseerd op Vrydag den 9 August 1822 ten dorpevolgens op en aangaaf van hem
+Aldus gedaan en geinventariseerd op Vrydag den 9 August 1822 ten dorpe <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> volgens op en aangaaf van hem
 	 Cornelis Carel Hendrik de Vries dewelke betuigde zich in het op en aangeeve des
 	 voormelde boedels ter goeder trouw te hebben gedraagen, en niets met weeten
 	 versweegen of agter gehouden te hebben en verklaarde hij dus bereid deze zijne
@@ -108979,7 +109067,7 @@ J: Baird Adj: Landd:
 
 ## MOOC8/45.84
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Casper
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Casper
 	 Smit</span> 
 
 Infetaris van de overledene Casper Smit
@@ -109017,7 +109105,7 @@ Als getuig: J:s A:s Laubscher J:z:, J: J:s Hanekom
 
 ## MOOC8/45.85a
 
- {18290117} 17 January 1829 <span style="border-bottom: 2px dotted #008000;">Johannes Lodewyk Sertyn</span> 
+ {18290117} 17 January 1829 <span style="border-bottom: 2px dotted #00FF00;">Johannes Lodewyk Sertyn</span> 
 
 Sale 17 January 1829
 
@@ -109075,7 +109163,7 @@ the aforesaid property having been taken under the administration of the
 	 Commissioners of the Board aforesaid was found to consist in the following,
 	 viz:t
 
-At the loanplace calledsituated indistrict ofsold to Izaak Abrah: de
+At the loanplace called <span style="border-bottom: 2px dotted #FF0000;">Lely Fontein</span> situated in <span style="border-bottom: 2px dotted #FF0000;">Swartland</span> district of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> sold to Izaak Abrah: de
 	 Villiers
 
 <table>
@@ -109254,11 +109342,11 @@ At the loanplace calledsituated indistrict ofsold to Izaak Abrah: de
   <thead><tr><td colspan='100%'>Slaves of the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">David of this Colony</span> , 42
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">David of this Colony</span> , 42
 		years of age [correct]</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Klara of this Colony</span> , 38
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Klara of this Colony</span> , 38
 		y:s of age</td>
     </tr>
   </tbody>
@@ -109506,8 +109594,8 @@ Ampliation
 ## MOOC8/45.85b
 
  {18290117} 17 Jannuary
-	 1829 <span style="border-bottom: 2px dotted #008000;">Johannes
-	 Lodewijk Sertijn</span> , <span style="border-bottom: 2px dotted #008000;">Johanna Maria
+	 1829 <span style="border-bottom: 2px dotted #00FF00;">Johannes
+	 Lodewijk Sertijn</span> , <span style="border-bottom: 2px dotted #00FF00;">Johanna Maria
 	 Petronella Smith</span> 
 
 17 Jan:y 1829
@@ -109519,20 +109607,20 @@ Inventaris van alle zodanige goederen en effectens als tot den
 <table>
   <tbody>
     <tr>
-      <td>De leningsplaats genaamdgelegen inin het district, door de overledene bij zijn
+      <td>De leningsplaats genaamd <span style="border-bottom: 2px dotted #FF0000;">Lelijfontein</span> gelegen in <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span> in het district <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , door de overledene bij zijn
 		  leeftijd verkogt aan Izaak Abraham de Villiers voor de somma van 10000ƒ
 		  credit</td>
     </tr>
     <tr>
-      <td>een slave jonge genaamd <span style="border-bottom: 2px dotted #008000;">David</span> , 42 y:s geboren in
+      <td>een slave jonge genaamd <span style="border-bottom: 2px dotted #00FF00;">David</span> , 42 y:s geboren in
 		  deeze Colonie</td>
     </tr>
     <tr>
-      <td>eene slave meid genaamd <span style="border-bottom: 2px dotted #008000;">Klara</span> , 38 geboren in deeze
+      <td>eene slave meid genaamd <span style="border-bottom: 2px dotted #00FF00;">Klara</span> , 38 geboren in deeze
 		  Colonie en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Salie</span> , 44 overld: in de mand Feb: 1828</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Salie</span> , 44 overld: in de mand Feb: 1828</td>
     </tr>
     <tr>
       <td>elf trek ossen</td>
@@ -109769,13 +109857,13 @@ Inventaris van alle zodanige goederen en effectens als tot den
       <td>120</td>
     </tr>
     <tr>
-      <td>W:m Vermeulen</td>
+      <td>W:m Vermeulen <span style="border-bottom: 2px dotted #FF0000;">Piketb:g</span></td>
       <td>17</td>
     </tr>
   </tbody>
 </table>
 
-Aldus geinventariseerd op de plaats dein hetgelegen in het district vanten bijweeze der getuigen
+Aldus geinventariseerd op de plaats de <span style="border-bottom: 2px dotted #FF0000;">Lelijfontein</span> in het <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span> gelegen in het district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> ten bijweeze der getuigen
 	 Johannes George Lochner en Hendrik Godfried Heijdenrijch op den 8 December
 	 1828.
 
@@ -109801,13 +109889,13 @@ aan schuld register
 
 ## MOOC8/45.86
 
- {18300217} 17 February 1830 <span style="border-bottom: 2px dotted #008000;">Hendrik Daniel van Dyk</span> 
+ {18300217} 17 February 1830 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Daniel van Dyk</span> 
 
 Exh:d the 24:th February 1830, n:o 22
 
 Inventory of all such property as has been relinquished by the intestate
 	 death of Hendrik Daniel van Dyk on the 29:th day of January in the year of our
-	 Lord one thousand eight hundred and thirty at the place calleddistrict offor the benefit of his under mentioned
+	 Lord one thousand eight hundred and thirty at the place called <span style="border-bottom: 2px dotted #FF0000;">Paardeberg</span> district of <span style="border-bottom: 2px dotted #FF0000;">Caledon</span> for the benefit of his under mentioned
 	 children procreated in wedlock with his predeceased wife Anna Groenewald,
 	 namely
 
@@ -109852,8 +109940,8 @@ the aforesaid property having been taken under the administration of the
       <td>a few articles of old wearing apparel</td>
     </tr>
     <tr>
-      <td>a slave boy named <span style="border-bottom: 2px dotted #008000;">Philip</span> , 53 years of age
-		  born at</td>
+      <td>a slave boy named <span style="border-bottom: 2px dotted #00FF00;">Philip</span> , 53 years of age
+		  born at <span style="border-bottom: 2px dotted #FF0000;">Bengal</span></td>
     </tr>
   </tbody>
 </table>
@@ -109915,42 +110003,42 @@ Jacobus Johannes van Dyk further states that the following slaves stand
 <table>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Welkom</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Welkom</span></td>
       <td>since departed this
 		  life</td>
       <td>Sena and William to Anna Maria Wium marr:d to Josias
 		  Hoffman</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jan</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jan</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jannetje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jannetje</span></td>
       <td>&nbsp;</td>
       <td>to Catharina Jacoba
 		  marr:d to H:D: van Dyk</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Isabella</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Isabella</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Cya</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Cya</span></td>
       <td rowspan='2' style='vertical-align: middle;'>since departed this
 		  life</td>
       <td>to P:S: Wium</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Philida</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Philida</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Saartje</span></td>
-      <td>child of <span style="border-bottom: 2px dotted #008000;">Jannetje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Saartje</span></td>
+      <td>child of <span style="border-bottom: 2px dotted #00FF00;">Jannetje</span></td>
       <td>to
 		  Eduard Wium</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Hanna</span></td>
-      <td>child of <span style="border-bottom: 2px dotted #008000;">Jannetje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hanna</span></td>
+      <td>child of <span style="border-bottom: 2px dotted #00FF00;">Jannetje</span></td>
       <td>to
 		  Emerentia Jacoba Wium</td>
     </tr>
@@ -110006,11 +110094,11 @@ D:J: Aspeling s:r
 
 ## MOOC8/45.87a
 
- {18300513} 13 May 1830 <span style="border-bottom: 2px dotted #008000;">Jacobus Petrus
+ {18300513} 13 May 1830 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Petrus
 	 Coetzer</span> 
 
 Inventaris van zoodanige goederen als door my zyn bevonden op de plaats
-	 van den heer Daniel Russouw nabywoonachtig, toebehoorende tot de nalatenschap van wylen Jacobus Petrus Coetzer
+	 van den heer Daniel Russouw naby <span style="border-bottom: 2px dotted #FF0000;">Steenberg</span> woonachtig, toebehoorende tot de nalatenschap van wylen Jacobus Petrus Coetzer
 	 en door gem:e Daniel Russouw aangegeven als
 
 <table>
@@ -110096,7 +110184,7 @@ J: v: Reede van Oudtshoorn, Veldcornet
 
 ## MOOC8/45.87b
 
- {18300116} 16 January 1830 <span style="border-bottom: 2px dotted #008000;">Jacob Petrus Coetser</span> 
+ {18300116} 16 January 1830 <span style="border-bottom: 2px dotted #00FF00;">Jacob Petrus Coetser</span> 
 
 Exh:d the 27 January 1830, n:o 20
 
@@ -110184,7 +110272,7 @@ Wy ondergetekende certiviceere by dese dat de goederen van de nalatenschap
 	 van den overleedene Jacob Petrus Coetzer door ons is bezigtig geworden bevonden
 	 is als boven staad voormeld
 
-den 16 January 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Steenberg</span> den 16 January 1830
 
 Als getuyge: G: Rousseau, J:C: van Helsdingen, W:R: Osmond, N: Russouw
 		D:zn
@@ -110192,7 +110280,7 @@ Als getuyge: G: Rousseau, J:C: van Helsdingen, W:R: Osmond, N: Russouw
 ## MOOC8/45.88
 
  {18300629} 29 Juny
-	 1830 <span style="border-bottom: 2px dotted #008000;">Susanna Francina
+	 1830 <span style="border-bottom: 2px dotted #00FF00;">Susanna Francina
 	 Cillie</span> 
 
 Staat en inventaris van zodanige goederen als op den 22:ste Mey 1830, met
@@ -110202,7 +110290,7 @@ Staat en inventaris van zodanige goederen als op den 22:ste Mey 1830, met
 	 alwaar gemelde Susanna Francina Cillie is komen te overlyden ter rekwesitie van
 	 hem P:N: Lategaan geformeerden en in geschrifte gebragt door my Albertus
 	 Philippus Hiebner geadmitteerd en beëdigde Notaris Publiek aan de Kaap de Goede
-	 Hoop, resideerende aan depresent de
+	 Hoop, resideerende aan de <span style="border-bottom: 2px dotted #FF0000;">Paarl</span> present de
 	 natenoemene getuigen. Bestaande dezelve in het navolgende te weeten
 
 <table>
@@ -110267,7 +110355,7 @@ Staat en inventaris van zodanige goederen als op den 22:ste Mey 1830, met
   </tbody>
 </table>
 
-Aldus gedaan en geinventarisseerd aan het sterfhuis, alhier tedistrict vanop den 29 Juny 1830, ende zulks
+Aldus gedaan en geinventarisseerd aan het sterfhuis, alhier te <span style="border-bottom: 2px dotted #FF0000;">Klyn Drakenstein</span> district van <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> op den 29 Juny 1830, ende zulks
 	 op het op en aangeeven van de in den hoofde deses gemelde heer Petrus Nicolaas
 	 Lategaan, dewelke betuigde zig daaromtrend ter goeder trouw te hebben gekweeten
 	 en niets met opset versweegen of agtergehouden te hebben, het geen tot de
@@ -110284,7 +110372,7 @@ Quod attestor: P: Hiebner, Not: Pub:
 
 ## MOOC8/45.89
 
- {18101227} 27 December 1810 <span style="border-bottom: 2px dotted #008000;">Susanna van Wijk</span> 
+ {18101227} 27 December 1810 <span style="border-bottom: 2px dotted #00FF00;">Susanna van Wijk</span> 
 
 Inventaris van zodanige goederen als ’er in den gepasseerden jaare 1806 ab
 	 intestato met er dood zijn ontruijmd, ende nagelaten door Susanna van Wijk
@@ -110456,7 +110544,7 @@ Mij present: P:E: Faure, Adj:t C:
 
 ## MOOC8/45.90
 
- {18190710} 10 Julij 1819 <span style="border-bottom: 2px dotted #008000;">Hendrik Peter Auret</span> 
+ {18190710} 10 Julij 1819 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Peter Auret</span> 
 
 Capetown
 
@@ -110833,11 +110921,11 @@ In een huurhuis van mejuff: de wed: Eg:s B:s Ziervogel en aldaar
   <thead><tr><td colspan='100%'>Lijfeigenen</td></tr></thead>
   <tbody>
     <tr>
-      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #008000;">Jacob van de Kaap</span> , oud 25
+      <td>een mansslaaf gen:d <span style="border-bottom: 2px dotted #00FF00;">Jacob van de Kaap</span> , oud 25
 		jaren, werksjongen</td>
     </tr>
     <tr>
-      <td>eene slavinne gen:d <span style="border-bottom: 2px dotted #008000;">Maria van de Kaap</span> , oud 33
+      <td>eene slavinne gen:d <span style="border-bottom: 2px dotted #00FF00;">Maria van de Kaap</span> , oud 33
 		jaren, huismeid</td>
     </tr>
   </tbody>
@@ -110900,7 +110988,7 @@ Pro memorie word alhier genoteerd dat tot den boedel nog behoord zeker
 	 1817 en voorts
 
 dat den overleden heeft openstaande rek:g met de heeren J:C: Fleck als
-	 gem: Sec:s van ’t Kaapsch dist:t en C: Allen Sec:s te
+	 gem: Sec:s van ’t Kaapsch dist:t en C: Allen Sec:s te <span style="border-bottom: 2px dotted #FF0000;">Uitenhagen</span> 
 
 Aldus g’inventariseerd aan de Kaap de Goede Hoop en den 10 July 1819 ten
 	 huyze voorm: ende zulx op het op en aangeven van de in den hoofde deezes gem:
@@ -110979,12 +111067,12 @@ Mij present: P:E: Faure, Adj:t C:
 
 ## MOOC8/45.91
 
- {18300216} 16 February 1830 <span style="border-bottom: 2px dotted #008000;">Jose</span> 
+ {18300216} 16 February 1830 <span style="border-bottom: 2px dotted #00FF00;">Jose</span> 
 
 Exh:d the 17:e February 1830, n:o 20
 
 Inventory of all such property which has been relinquished by the demise
-	 of the late free man Jose, who died at the house occupied by Dr Smith
+	 of the late free man Jose, who died at the house occupied by Dr Smith <span style="border-bottom: 2px dotted #FF0000;">N:o 8 Mosterd Street</span> 
 
 <table>
   <tbody>
@@ -111043,7 +111131,7 @@ By me: Tho: Read Welch
 ## MOOC8/45.92
 
  {18280509} 9 May
-	 1828 <span style="border-bottom: 2px dotted #008000;">Johanna Susanna
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Johanna Susanna
 	 de Necker</span> 
 
 Inventory of all such property as has been relinquished by the death of
@@ -111090,18 +111178,18 @@ And having further requested and appointed in the aforesaid will the
 <table>
   <tbody>
     <tr>
-      <td>An erff situated into the extent of 197 square roods and 132
+      <td>An erff situated in <span style="border-bottom: 2px dotted #FF0000;">Simons Bay</span> to the extent of 197 square roods and 132
 		  square feet, with the buildings erected thereon consisting in two stores and
 		  four houses</td>
     </tr>
     <tr>
-      <td>an erff situated into the extent of 315 sq: roods and 4 sq:
+      <td>an erff situated in <span style="border-bottom: 2px dotted #FF0000;">Simons Bay</span> to the extent of 315 sq: roods and 4 sq:
 		  feet of which however is sold to Pieter D:l Rossouw apart to the extent of 41
 		  sq: roods 61 sq: feet and 72 sq: inches with the buildings erected
 		  thereon</td>
     </tr>
     <tr>
-      <td>one erff situated inwith the buildings erected thereon
+      <td>one erff situated in <span style="border-bottom: 2px dotted #FF0000;">Simons Bay</span> with the buildings erected thereon
 		  the diagram in possession of Mr J: Osmond [ƒ20000]</td>
     </tr>
   </tbody>
@@ -111129,7 +111217,7 @@ In a house of Mr Bressler lately occupied by the deceased
 		a document found in the same of the following tainaur</td>
       <td>deeze kast
 		met al het geen er in is bekomt aan Anna Barbera Eliz:h Cox klederen van haar
-		overledene moeder7 Juny 1825 /get/
+		overledene moeder <span style="border-bottom: 2px dotted #FF0000;">Kaapstad</span> 7 Juny 1825 /get/
 		Eliz: G: Rossouw</td>
     </tr>
     <tr>
@@ -111283,30 +111371,30 @@ The clothes of the deceased as well those bequeathed to A:B:E: Cox will be
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Bachus
+      <td><span style="border-bottom: 2px dotted #00FF00;">Bachus
 		of Malacca</span> , old 48 years mason</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Jephta
+      <td><span style="border-bottom: 2px dotted #00FF00;">Jephta
 		of the Cape</span> , old 47 years shoemaker</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Gert of
+      <td><span style="border-bottom: 2px dotted #00FF00;">Gert of
 		the Cape</span> , old 30 years, mason [not to be sold, has purchased his freedom
 		for Rd:s1200]</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Saiboe
+      <td><span style="border-bottom: 2px dotted #00FF00;">Saiboe
 		of the Cape</span> , old 13 years</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Regina of this Colony</span> , 27
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Regina of this Colony</span> , 27
 		y:s of age, sempstress, with her child</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Abdol</span> , born on the 10 Nov:
+      <td><span style="border-bottom: 2px dotted #00FF00;">Abdol</span> , born on the 10 Nov:
 		1821</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Jamila of the Cape</span> , 29 y:s
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Jamila of the Cape</span> , 29 y:s
 		of age, cook, bequeathed according to the last will of the deceased to Ann
 		Barbara Eliz:h Cox</td>
     </tr>
@@ -111771,7 +111859,7 @@ List of wearing apparel etc: left to Anne Barbara Eliz:th Cox by her
       <td>4 agate crosses</td>
     </tr>
     <tr>
-      <td>3 stones ()</td>
+      <td>3 stones ( <span style="border-bottom: 2px dotted #FF0000;">Ceylon</span> )</td>
     </tr>
     <tr>
       <td>2 pair of [stones] ear-rings</td>
@@ -111836,7 +111924,7 @@ Cape Town 9:th May 1828.
 
 ## MOOC8/45.93
 
- {18260510} 10 May 1826 <span style="border-bottom: 2px dotted #008000;">Johannes Jacobsen And:s s:n</span> 
+ {18260510} 10 May 1826 <span style="border-bottom: 2px dotted #00FF00;">Johannes Jacobsen And:s s:n</span> 
 
 Exh:d 6:th September 1826, n:o 28
 
@@ -111861,7 +111949,8 @@ Inventory of all such property as have been relinquished by the death ab
 The aforesaid property having been inventoried according to a statement
 	 made by the aforesaid widow was found to consist as follows.
 
-In a house of W: Dieleman situated in
+In a house of W: Dieleman situated in <span style="border-bottom: 2px dotted #FF0000;">Breede
+	 Street N:o 2</span> 
 
 <table>
   <tbody>
@@ -112104,7 +112193,7 @@ De weduwe Jacopen gebore Krugel
 
 ## MOOC8/45.94
 
- {18240402} 2 April 1824 <span style="border-bottom: 2px dotted #008000;">Keij Lourens Stammer</span> 
+ {18240402} 2 April 1824 <span style="border-bottom: 2px dotted #00FF00;">Keij Lourens Stammer</span> 
 
 Inventaris taxatie van sodanige goederen van Keij Lourens Stammer dat
 	 bevonden is ten huijse van Wynand Jacobus Louw door ons als provie veldcornet
@@ -112328,13 +112417,13 @@ Als provie veldcornet: P:G: Joubert
 
 ## MOOC8/45.95
 
- {18221022} 22 October 1822 <span style="border-bottom: 2px dotted #008000;">Johannes Jacobus
+ {18221022} 22 October 1822 <span style="border-bottom: 2px dotted #00FF00;">Johannes Jacobus
 	 Willemse</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Vrydag den
 	 achtiende dag der maand October in den jaare onzes Heeren een duizend acht
 	 honderd twee en twintig ab intestato metter dood zyn ontruimd ende nagelaten
-	 door Johannes Jacobus Willemse geboortig van, ten voordeele zyner onbekende uitlandige
+	 door Johannes Jacobus Willemse geboortig van <span style="border-bottom: 2px dotted #FF0000;">Middleburg</span> , ten voordeele zyner onbekende uitlandige
 	 erfgenamen, zodanig als dezelve nalatenschap door my ondergetekende ter
 	 presentie van de mede getuigen is geinveentariseerd en in geschrifte gebragt,
 	 bestaande alle deeze goederen in de volgende, namelyk
@@ -112548,7 +112637,7 @@ My present: J:F: Munnik
 
 ## MOOC8/45.96
 
- {18270816} 16 August 1827 <span style="border-bottom: 2px dotted #008000;">Hendrik Jacobus Visser Gert son</span> , <span style="border-bottom: 2px dotted #008000;">Anna Gysberta
+ {18270816} 16 August 1827 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Jacobus Visser Gert son</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Gysberta
 	 Elisabeth Basson Michiels daughter</span> 
 
 Inventory of all such property of Hendrik Jacobus Visser Gert son and his
@@ -112580,7 +112669,7 @@ The aforesaid property having been taken under the administration of the
 	 been inventoried by the undersigned was found to consist in the following,
 	 viz:t
 
-At the placesituated atbelonging to Gerrit Visser
+At the place <span style="border-bottom: 2px dotted #FF0000;">Volvedans</span> situated at <span style="border-bottom: 2px dotted #FF0000;">Swartland</span> belonging to Gerrit Visser
 
 <table>
   <thead><tr><td colspan='100%'>In the hall</td></tr></thead>
@@ -112960,19 +113049,19 @@ At the placesituated atbelonging to Gerrit Visser
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Joan of Madagascar</span> , 47
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Joan of Madagascar</span> , 47
 		1/2 years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Jan of Mosambique</span> , 40
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Jan of Mosambique</span> , 40
 		years, labourer</td>
     </tr>
     <tr>
-      <td>a male slave named <span style="border-bottom: 2px dotted #008000;">Hector</span> , born on the 21
+      <td>a male slave named <span style="border-bottom: 2px dotted #00FF00;">Hector</span> , born on the 21
 		January 1820 whose mother is dead</td>
     </tr>
     <tr>
-      <td>a female slave named <span style="border-bottom: 2px dotted #008000;">Rachel</span> , born on the 30
+      <td>a female slave named <span style="border-bottom: 2px dotted #00FF00;">Rachel</span> , born on the 30
 		Dec:r 1817</td>
     </tr>
   </tbody>
@@ -113023,7 +113112,7 @@ At the placesituated atbelonging to Gerrit Visser
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid 25 March 1828</td>
       <td>to Gerrit Visser for one
-		years interest of the place</td>
+		years interest of the place <span style="border-bottom: 2px dotted #FF0000;">Wolvedans</span></td>
       <td>240:--</td>
     </tr>
     <tr>
@@ -113051,7 +113140,7 @@ At the placesituated atbelonging to Gerrit Visser
   </tbody>
 </table>
 
-Thus inventoried at the Cape of Good Hope at the placeon the sixteenth day of the month of
+Thus inventoried at the Cape of Good Hope at the place <span style="border-bottom: 2px dotted #FF0000;">Wolvedans</span> on the sixteenth day of the month of
 	 August in the year of our Lord one thousand eight hundred and twenty seven,
 	 according to a statement made by the widow who declared to have acted herein
 	 bonafide, and that to the best of her knowledge she has not withheld or
@@ -113073,7 +113162,7 @@ In my presence: J:J:L: Smuts
 
 ## MOOC8/45.97
 
- {18250317} 17 March 1825 <span style="border-bottom: 2px dotted #008000;">John Haslam</span> 
+ {18250317} 17 March 1825 <span style="border-bottom: 2px dotted #00FF00;">John Haslam</span> 
 
 date 17 M:ch 1825
 
@@ -113167,19 +113256,19 @@ Ampliation
     </tr>
     <tr>
       <td>paid 20:th July 1831</td>
-      <td>from W:C: Coetzer at theas per note of
+      <td>from W:C: Coetzer at the <span style="border-bottom: 2px dotted #FF0000;">Tarca</span> as per note of
 		  hand</td>
       <td>45:--</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from P:J: van Heerden at theas per note of
+      <td>from P:J: van Heerden at the <span style="border-bottom: 2px dotted #FF0000;">Tarca</span> as per note of
 		  hand</td>
       <td>13:24</td>
     </tr>
     <tr>
       <td>paid</td>
-      <td>from J:P: Jordaan at theas per note of
+      <td>from J:P: Jordaan at the <span style="border-bottom: 2px dotted #FF0000;">Tarca</span> as per note of
 		  hand</td>
       <td>16:--</td>
     </tr>
@@ -113207,7 +113296,7 @@ According to a statement made by the Hottentot Izaak Rut, the deceased
       <td>with Jan Wilkens some handkerchiefs and a red shawl</td>
     </tr>
     <tr>
-      <td>with Rasmus at thenear
+      <td>with Rasmus at the <span style="border-bottom: 2px dotted #FF0000;">Tarca</span> near
 		  the farm of Adriaan Muller five goats</td>
     </tr>
     <tr>
@@ -113215,7 +113304,7 @@ According to a statement made by the Hottentot Izaak Rut, the deceased
 		  pounds of corals [beads, kraalen]</td>
     </tr>
     <tr>
-      <td>with Schalk Pienaar ()
+      <td>with Schalk Pienaar ( <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> )
 		  one mare and one foal</td>
     </tr>
     <tr>
@@ -113227,7 +113316,7 @@ According to a statement made by the Hottentot Izaak Rut, the deceased
 ## MOOC8/45.98
 
  {18250225} 25 February
-	 1830 <span style="border-bottom: 2px dotted #008000;">Johan Fredrik
+	 1830 <span style="border-bottom: 2px dotted #00FF00;">Johan Fredrik
 	 Getze</span> 
 
 Inventory of all such property as has been relinquished by the intestate
@@ -113552,12 +113641,14 @@ In my presence: J: Serrurier, Chief Clerk
 
 ## MOOC8/45.99
 
- {18310321} 21 March 1831 <span style="border-bottom: 2px dotted #008000;">Willem Petrus Louw Jac:s
+ {18310321} 21 March 1831 <span style="border-bottom: 2px dotted #00FF00;">Willem Petrus Louw Jac:s
 	 son</span> 
 
 Inventory of the property left by the intestate deceased Willem Petrus
-	 Louw Jac:s son, who was born at the placedistrict ofand
-	 died on the 18:th of Jan:y 1831 at the place de,, district of, about 14 years of age leaving his mother the widow of Jac:s
+	 Louw Jac:s son, who was born at the place <span style="border-bottom: 2px dotted #FF0000;">Drie
+	 Fonteinen</span> district of <span style="border-bottom: 2px dotted #FF0000;">Clan William</span> and
+	 died on the 18:th of Jan:y 1831 at the place de <span style="border-bottom: 2px dotted #FF0000;">Gemerkte Caree Houteboom</span> , <span style="border-bottom: 2px dotted #FF0000;">Hantam</span> , district of <span style="border-bottom: 2px dotted #FF0000;">Clan
+	 William</span> , about 14 years of age leaving his mother the widow of Jac:s
 	 Louw, now remarried to Jac:s Nic:s Redelinghuis, and his brother Jac:s Adriaan
 	 Louw
 
@@ -113578,7 +113669,7 @@ Inventory of the property left by the intestate deceased Willem Petrus
   </tbody>
 </table>
 
-Thus done and inventoried atthe 21:st of March 1831
+Thus done and inventoried at <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> the 21:st of March 1831
 
 Witnesses: A:E: van Wyk, W:P: Louw
 
@@ -113588,7 +113679,7 @@ In my presence: J:N: Lind, Agent
 
 ## MOOC8/45.100
 
- {18280826} 26 August 1828 <span style="border-bottom: 2px dotted #008000;">Johan Hendrik Range</span> 
+ {18280826} 26 August 1828 <span style="border-bottom: 2px dotted #00FF00;">Johan Hendrik Range</span> 
 
 Infentaris des boedel van wylen Johan Hendrik Range jong man, ouderdom 31
 	 jaar, 6 maande en 6 dagen, zyne erfgenamen syn gemeld in syn testament
@@ -113650,13 +113741,13 @@ Note: claim in favor of the estate from Stoffil Arenson a note of hand
       <td>&nbsp;</td>
       <td>van Martienus Hermanus Leroes volgens onderhants
 		obliegatie een hondert vyf en twintig ryxd: van den 20 November 1827 behoorende
-		onder</td>
+		onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>Collected and remitted by the Agent Rd:s30 28 Feb:y 1830. Paid in
 		part Rd:s12:32 14 July 1831</td>
       <td>van Jan Bastiaan Rabie volgens
-		onderhans obligatie vyftig ryxd: van den 17:de Augustus 1828 behoorende onder</td>
+		onderhans obligatie vyftig ryxd: van den 17:de Augustus 1828 behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -113671,12 +113762,12 @@ Note: claim in favor of the estate from Stoffil Arenson a note of hand
     <tr>
       <td>&nbsp;</td>
       <td>van Christoffel Arentse 2 ryxd: 4 schelng volgens syn
-		eygen opgaaf onder</td>
+		eygen opgaaf onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
       <td>van Christiaan Jacobus Serfontyn volgens opgaaf van
-		Christoffel Arentse 4 ryxd:s onder</td>
+		Christoffel Arentse 4 ryxd:s onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
   </tbody>
 </table>
@@ -113685,14 +113776,14 @@ Note: claim in favor of the estate from Stoffil Arenson a note of hand
   <thead><tr><td colspan='100%'>De schulden zyn dese</td></tr></thead>
   <tbody>
     <tr>
-      <td>aan Daniel Frasays Joubert sefen ryxd:s behoorende onder</td>
+      <td>aan Daniel Frasays Joubert sefen ryxd:s behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>voor de begraffenis aan Christiaan Cloete 21 ryxd:s behoorende
-		onder</td>
+		onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
-      <td>aan Christiaan Cloete 10 ryxd:s schuldig behoorende onder</td>
+      <td>aan Christiaan Cloete 10 ryxd:s schuldig behoorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
   </tbody>
 </table>
@@ -113708,7 +113799,7 @@ Christiaan Cloete, Veld Cornet
 
 ## MOOC8/45.101
 
- {18310514} 14 May 1831 <span style="border-bottom: 2px dotted #008000;">Alida Johanna van der
+ {18310514} 14 May 1831 <span style="border-bottom: 2px dotted #00FF00;">Alida Johanna van der
 	 Lith</span> 
 
 Exh:d the 18:th of May 1831, n:o 43
@@ -113757,7 +113848,9 @@ The aforesaid property having been taken under the administration of the
 <table>
   <tbody>
     <tr>
-      <td>A house and store house situated in thisinin thebeing parts ofas also part ofas per deed of
+      <td>A house and store house situated in this <span style="border-bottom: 2px dotted #FF0000;">Table Valley</span> in <span style="border-bottom: 2px dotted #FF0000;">Lelie Street</span> in the <span style="border-bottom: 2px dotted #FF0000;">Row
+		  L:a F:</span> being parts of <span style="border-bottom: 2px dotted #FF0000;">N:o 6, 7, 8, 9 and
+		  10</span> as also part of <span style="border-bottom: 2px dotted #FF0000;">N:o 1</span> as per deed of
 		  transfer dated 8 March 1811</td>
     </tr>
   </tbody>
@@ -114276,33 +114369,33 @@ In aforesaid dwelling house
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Lender</span> , 46 years born at, labourer</td>
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Lender</span> , 46 years born at <span style="border-bottom: 2px dotted #FF0000;">Mosambique</span> , labourer</td>
     </tr>
     <tr>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Azor</span> , 36 y:s of age of, cook</td>
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Azor</span> , 36 y:s of age of <span style="border-bottom: 2px dotted #FF0000;">Mosambique</span> , cook</td>
     </tr>
     <tr>
-      <td>a male slave n:d <span style="border-bottom: 2px dotted #008000;">Charles</span> , 17 y:s of this
+      <td>a male slave n:d <span style="border-bottom: 2px dotted #00FF00;">Charles</span> , 17 y:s of this
 		Colony /absconded/</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Minerva</span> , 58 y:s of age
-		of, housemaid</td>
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Minerva</span> , 58 y:s of age
+		of <span style="border-bottom: 2px dotted #FF0000;">Macasser</span> , housemaid</td>
     </tr>
     <tr>
-      <td>a female slave <span style="border-bottom: 2px dotted #008000;">Carolina</span> , 44 y:s of this
+      <td>a female slave <span style="border-bottom: 2px dotted #00FF00;">Carolina</span> , 44 y:s of this
 		Colony, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave n:d <span style="border-bottom: 2px dotted #008000;">Jacoba</span> , 38 y:s of this
+      <td>a female slave n:d <span style="border-bottom: 2px dotted #00FF00;">Jacoba</span> , 38 y:s of this
 		Colony, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave n:d <span style="border-bottom: 2px dotted #008000;">Rosali</span> , 28 y:s of this
+      <td>a female slave n:d <span style="border-bottom: 2px dotted #00FF00;">Rosali</span> , 28 y:s of this
 		Colony, housemaid</td>
     </tr>
     <tr>
-      <td>a female slave n:d <span style="border-bottom: 2px dotted #008000;">Julia</span> , 22 y:s of age of
+      <td>a female slave n:d <span style="border-bottom: 2px dotted #00FF00;">Julia</span> , 22 y:s of age of
 		this Colony, housemaid</td>
     </tr>
   </tbody>
@@ -114408,7 +114501,7 @@ In my presence: J: Serrurier, Chief Clerk
 
 ## MOOC8/45.102
 
- {18310315} 15 Maart 1831 <span style="border-bottom: 2px dotted #008000;">Hendrik Jacobus Rust</span>  <span style="border-bottom: 2px dotted #008000;">Aanna Jacoba Louw</span> 
+ {18310315} 15 Maart 1831 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Jacobus Rust</span>  <span style="border-bottom: 2px dotted #00FF00;">Aanna Jacoba Louw</span> 
 
 Sale 9:th April 31
 
@@ -114609,14 +114702,14 @@ Inventaris van den gemeenschaplyke boedel van wylen Hendrik Jacobus Rust
   <thead><tr><td colspan='100%'>Lyfeigen slaven</td></tr></thead>
   <tbody>
     <tr>
-      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Altye</span> met twee kinderen</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Spasi</span> en</td>
+      <td rowspan='2' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Altye</span> met twee kinderen</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Spasi</span> en</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaltje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaltje</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Ragel</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Ragel</span></td>
     </tr>
     <tr>
       <td>9 trek paarden</td>
@@ -114652,13 +114745,13 @@ Inventaris van den gemeenschaplyke boedel van wylen Hendrik Jacobus Rust
       <td>ox A:J: de Klerk for 3 muid of corn</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Picquetberg</span></td>
       <td>Jacobus
 		Coezee /purchase of a horse</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Groenekloof</span></td>
       <td>Daniel
 		September /purchase of a horse</td>
       <td>25</td>
@@ -114759,7 +114852,7 @@ Inventaris van den gemeenschaplyke boedel van wylen Hendrik Jacobus Rust
   </tbody>
 </table>
 
-den 15 Maart 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Kleygat</span> den 15 Maart 1831
 
 En verklaare ik ondergeteekende weduwe mij in de gedaane opgaaf opregtelyk
 	 te hebbe gedragen
@@ -114772,9 +114865,9 @@ J:G: Blanckenberg, Veldc:
 
 Exh:d the 13:th of April 1831 n:o 22
 
-L:a R: f:o 124
+L:a R: f:o 124 <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> 
 
-Extract from the registers kept at the Slave Registry Office5 April 1831
+Extract from the registers kept at the Slave Registry Office <span style="border-bottom: 2px dotted #FF0000;">Cape Town</span> 5 April 1831
 
 <table>
   <thead><tr><td colspan='100%'>Hendrik Jacobus Rust</td></tr></thead>
@@ -114797,12 +114890,12 @@ Extract from the registers kept at the Slave Registry Office5 April 1831
     <tr>
       <td>1817 April 17</td>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Maart</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Maart</span></td>
       <td>male</td>
       <td>ab:t 30
 		years</td>
       <td>died</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Mosambique</span></td>
       <td>herdsman</td>
       <td>died
 		Jan: 1822</td>
@@ -114810,12 +114903,12 @@ Extract from the registers kept at the Slave Registry Office5 April 1831
     <tr>
       <td>1830 Aug:t 19</td>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Anthony</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Anthony</span></td>
       <td>male</td>
       <td>ab:t
 		50 years</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Mosambique</span></td>
       <td>labourer</td>
       <td>died in
 		1818</td>
@@ -114823,12 +114916,12 @@ Extract from the registers kept at the Slave Registry Office5 April 1831
     <tr>
       <td>1820 Aug:t 19</td>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Rachel</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rachel</span></td>
       <td>female</td>
       <td>ab:t 43 2/3
 		years</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Mosambique</span></td>
       <td>housemaid</td>
       <td>r: f:o
 		74 [ƒ9000 Louis Nel]</td>
@@ -114836,7 +114929,7 @@ Extract from the registers kept at the Slave Registry Office5 April 1831
     <tr>
       <td>1820 Aug:t 19</td>
       <td>1</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaltje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaltje</span></td>
       <td>female</td>
       <td>ab:t 16 3/4
 		years</td>
@@ -114849,11 +114942,11 @@ Extract from the registers kept at the Slave Registry Office5 April 1831
     <tr>
       <td>1822 Aug:t 24</td>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Martha</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Martha</span></td>
       <td>female</td>
       <td>born 5:th June
 		1822</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaltje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaltje</span></td>
       <td>this
 		Colony</td>
       <td>&nbsp;</td>
@@ -114862,21 +114955,21 @@ Extract from the registers kept at the Slave Registry Office5 April 1831
     <tr>
       <td>1827 Febru:ry 12</td>
       <td>&nbsp;</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Spaasie</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Spaasie</span></td>
       <td>female</td>
       <td>born 20:th Jan:y
 		1827</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaltje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaltje</span></td>
       <td>this Colony</td>
     </tr>
     <tr>
       <td>1829 Aug:t 10</td>
       <td>2</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaltje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaltje</span></td>
       <td>female</td>
       <td>born 18:th April
 		1829</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Aaltje</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Aaltje</span></td>
       <td>this Colony</td>
     </tr>
   </tbody>
@@ -114890,7 +114983,7 @@ Exam:d: G:N: Paine
 
 ## MOOC8/45.103
 
- {18310217} 17 February 1831 <span style="border-bottom: 2px dotted #008000;">Jacobus Hendrik Oppel</span> 
+ {18310217} 17 February 1831 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Hendrik Oppel</span> 
 
 Exhibited 4 March 1831
 
@@ -115160,12 +115253,13 @@ In my presence: A: v: Breda, Clerk
 
 ## MOOC8/45.104
 
- {18280922} 22 September 1828 <span style="border-bottom: 2px dotted #008000;">Frans Piek</span> 
+ {18280922} 22 September 1828 <span style="border-bottom: 2px dotted #00FF00;">Frans Piek</span> 
 
 A true and perfect inventory of all and every the goods, chattels and
 	 wares as well moveable as not, debts, credits and other personal effects of the
-	 deceased Frans Piek old about 42 years born atin, died aton the 29 day of July 1827 at midday within the fieldcornetcy of
-	 Gerrit Coetzee district ofand given
+	 deceased Frans Piek old about 42 years born at <span style="border-bottom: 2px dotted #FF0000;">Lewarden</span> in <span style="border-bottom: 2px dotted #FF0000;">Holland</span> , died at <span style="border-bottom: 2px dotted #FF0000;">Nieuwejaarskraal</span>  <span style="border-bottom: 2px dotted #FF0000;">Riet
+	 Rivier</span> on the 29 day of July 1827 at midday within the fieldcornetcy of
+	 Gerrit Coetzee district of <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> and given
 	 up as follows
 
 <table>
@@ -115231,12 +115325,12 @@ A true and perfect inventory of all and every the goods, chattels and
       <td>Rd:s</td>
     </tr>
     <tr>
-      <td>from David Stephanus Forie Fieldcornetfor instruction to his
+      <td>from David Stephanus Forie Fieldcornet <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> for instruction to his
 		children</td>
       <td>16</td>
     </tr>
     <tr>
-      <td>from Nicolaas Janze van Rensburgfor instruction of his
+      <td>from Nicolaas Janze van Rensburg <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> for instruction of his
 		children</td>
       <td>27</td>
     </tr>
@@ -115271,7 +115365,7 @@ A true and perfect inventory of all and every the goods, chattels and
   </tbody>
 </table>
 
-Thus done and registered in the village ofon Monday the 22:nd of September 1828 in
+Thus done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Monday the 22:nd of September 1828 in
 	 the presence of mess:rs Walter Harding and M:J: Weeber as witnesses according
 	 to the statement of Laurens Johannes Erasmus by me.
 
@@ -115310,13 +115404,13 @@ Onkosse gemaak op de begrafven van de overlede Frans Piek
   </tbody>
 </table>
 
-den 29 July
+ <span style="border-bottom: 2px dotted #FF0000;">Ryttereveer</span> den 29 July
 	 1826
 
 ## MOOC8/45.105
 
  {18310124} 24 Januarij
-	 1831 <span style="border-bottom: 2px dotted #008000;">Johannes David van der Westhuize</span> , <span style="border-bottom: 2px dotted #008000;">Anna Hendrica
+	 1831 <span style="border-bottom: 2px dotted #00FF00;">Johannes David van der Westhuize</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Hendrica
 	 Margarieta Brand</span> 
 
 Infantaris van den gesamentlijke boedel van wijle Johannes David van der
@@ -115513,7 +115607,8 @@ Infantaris van den gesamentlijke boedel van wijle Johannes David van der
   </tbody>
 </table>
 
-Door mij ond:t geinfantariseerd op de plaats,Kaaps distrik den 24 Jannuarij 1831.
+Door mij ond:t geinfantariseerd op de plaats <span style="border-bottom: 2px dotted #FF0000;">Grote Drif</span> , <span style="border-bottom: 2px dotted #FF0000;">Verlooren
+	 Valeij</span> Kaaps distrik den 24 Jannuarij 1831.
 
 Als getuige: F:H: Brand
 
@@ -115521,10 +115616,10 @@ H:J: Kotze, Veltc:
 
 ## MOOC8/45.106
 
- {18310425} 25 April 1831 <span style="border-bottom: 2px dotted #008000;">Thomas Frederick Hutchinson</span> 
+ {18310425} 25 April 1831 <span style="border-bottom: 2px dotted #00FF00;">Thomas Frederick Hutchinson</span> 
 
 Inventory of all such property as has been relinquished by the intestate
-	 death of Major Thom:s Fredrik Hutchinson of the 20 Reg:tarmy on the twenty second day of the
+	 death of Major Thom:s Fredrik Hutchinson of the 20 Reg:t <span style="border-bottom: 2px dotted #FF0000;">Bengal</span> army on the twenty second day of the
 	 month of April in the year of our Lord one thousand eight hundred and thirty
 	 one, [aged 43 y:s] for the benefit of his unknown foreign heirs
 
@@ -115964,14 +116059,15 @@ J: Cambier
 
 In my presence: H: Tennant, Sec:
 
-Thomas Frederik Hutchinson Major 20:th RegimentNative Infantry died on Friday 22:nd April
-	 1831 aged 43 years son of Thomas Hutchinson late ofdoctor of medicine
+Thomas Frederik Hutchinson Major 20:th Regiment <span style="border-bottom: 2px dotted #FF0000;">Bengal</span> Native Infantry died on Friday 22:nd April
+	 1831 aged 43 years son of Thomas Hutchinson late of <span style="border-bottom: 2px dotted #FF0000;">Harrowgate</span> doctor of medicine
 
 <table>
   <thead><tr><td colspan='100%'>Heirs</td></tr></thead>
   <tbody>
     <tr>
-      <td>his wife Isabella residing at</td>
+      <td>his wife Isabella residing at <span style="border-bottom: 2px dotted #FF0000;">Esk Grove
+		Innesk: Musselburgh</span></td>
     </tr>
     <tr>
       <td rowspan='4' style='vertical-align: middle;'>his children</td>
@@ -116000,8 +116096,8 @@ Thomas Frederik Hutchinson Major 20:th RegimentNative Infantry died on Friday 22
       <td>Jane Harriet and</td>
     </tr>
     <tr>
-      <td>Anne Hutchinson ofin
-		the county of</td>
+      <td>Anne Hutchinson of <span style="border-bottom: 2px dotted #FF0000;">Harrowgate</span> in
+		the county of <span style="border-bottom: 2px dotted #FF0000;">York</span></td>
     </tr>
   </tbody>
 </table>
@@ -116010,7 +116106,7 @@ Thomas Frederik Hutchinson Major 20:th RegimentNative Infantry died on Friday 22
   <thead><tr><td colspan='100%'>Brothers</td></tr></thead>
   <tbody>
     <tr>
-      <td>Capt: George Hutchinson of</td>
+      <td>Capt: George Hutchinson of <span style="border-bottom: 2px dotted #FF0000;">Calcutta</span></td>
     </tr>
   </tbody>
 </table>
@@ -116019,7 +116115,7 @@ Thomas Frederik Hutchinson Major 20:th RegimentNative Infantry died on Friday 22
   <thead><tr><td colspan='100%'>Agents</td></tr></thead>
   <tbody>
     <tr>
-      <td>Johnsson and co: of</td>
+      <td>Johnsson and co: of <span style="border-bottom: 2px dotted #FF0000;">Calcutta</span></td>
     </tr>
   </tbody>
 </table>
@@ -116105,8 +116201,8 @@ Dividend due 1 Jan: 1844, 1838 £
 
 ## MOOC8/45.107
 
- {18271108} 8 November 1827 <span style="border-bottom: 2px dotted #008000;">Hendrik Johannes
-	 Nieuwenhuijs</span> , <span style="border-bottom: 2px dotted #008000;">Cathriena Elisabeth Swanepoel</span> 
+ {18271108} 8 November 1827 <span style="border-bottom: 2px dotted #00FF00;">Hendrik Johannes
+	 Nieuwenhuijs</span> , <span style="border-bottom: 2px dotted #00FF00;">Cathriena Elisabeth Swanepoel</span> 
 
 Staat en inventaris van alle goederen en effecten, baten en lasten des
 	 boedels van Hendrik Johannes Nieuwenhuijs en Cathriena Eliesabeth Swanepoel zoo
@@ -116157,7 +116253,7 @@ Bestaande gez: nalatenschap in
 <table>
   <tbody>
     <tr>
-      <td>de slaavin <span style="border-bottom: 2px dotted #008000;">Christina van de Kaap</span></td>
+      <td>de slaavin <span style="border-bottom: 2px dotted #00FF00;">Christina van de Kaap</span></td>
     </tr>
     <tr>
       <td>een ossenwagen met zijn toebehooren</td>
@@ -116228,7 +116324,7 @@ Bestaande gez: nalatenschap in
   </tbody>
 </table>
 
-Aldus geinventariseerd aanop den 8 Novb:r 1827, en zulks
+Aldus geinventariseerd aan <span style="border-bottom: 2px dotted #FF0000;">Kleijnzwarteberg</span> op den 8 Novb:r 1827, en zulks
 	 ingevolge opgaaf van de langsslevende voorn: C:E: Swanepoel dewelke verklaarde
 	 met haar weten niets te hebben agtergehouden of verzwegen, en bereid te zijnde,
 	 met den behoorlijken boedels eed te versterken
@@ -116243,19 +116339,19 @@ C: Bird
 
 L:a M: f:o 1 to L:a N: f:o 1
 
-Office for the enregisterment of slaves7:th August 1819
+Office for the enregisterment of slaves <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> 7:th August 1819
 
 These are to certify that m:r Pieter Willem Moller junior having sold to
 	 m:r Hendrik Johannes Nieuwenhuijs senior residing in this district, as it
 	 appears by a document dated this seventh day of August 1819 and deposited in
-	 this office his female slave named <span style="border-bottom: 2px dotted #008000;">Christina</span> now old about twenty six and 3/4 years born in
+	 this office his female slave named <span style="border-bottom: 2px dotted #00FF00;">Christina</span> now old about twenty six and 3/4 years born in
 	 this Colony being a housemaid said slave has accordingly been transcribed and
 	 duly registered as the property of said m:r Hendrik Johannes Nieuwenhuys
 	 senior
 
 G:C: Deneys, D:C:
 
-Office for the enregis:t of slaves,1st April 1824
+Office for the enregis:t of slaves, <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> 1st April 1824
 
 The proprietor of the above described slave having removed to this
 	 district, said slave has this day been transcribed into the registers here L:a
@@ -116265,7 +116361,7 @@ J:G: Aspeling, D:C:
 
 ## MOOC8/45.108
 
- {18301024} 24 October 1830 <span style="border-bottom: 2px dotted #008000;">Johannes Petrus Mosterd</span> , <span style="border-bottom: 2px dotted #008000;">Belial Brand</span> 
+ {18301024} 24 October 1830 <span style="border-bottom: 2px dotted #00FF00;">Johannes Petrus Mosterd</span> , <span style="border-bottom: 2px dotted #00FF00;">Belial Brand</span> 
 
 Exh:d the 3:rd of November 1830, n:o 3
 
@@ -116274,6 +116370,8 @@ Sale 10:th of January 1831
 Eventaris des boedels van Johannes Petrus Mosterd en overledene huisvrouw
 	 Belial Brand overleden den 14 October 1830, en in geschrft gebragt den 24
 	 daarop volgende in presentie van de onderteekenden getuigen
+
+ <span style="border-bottom: 2px dotted #FF0000;">Piquetberg</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Kapitaal schulden</td></tr></thead>
@@ -116387,7 +116485,8 @@ Eventaris des boedels van Johannes Petrus Mosterd en overledene huisvrouw
     <tr>
       <td>paid</td>
       <td>van James Laker 200 rijksdaalders note of hand
-		dated 1 first October 1830 district, place</td>
+		dated 1 first October 1830 district <span style="border-bottom: 2px dotted #FF0000;">Berg
+		Rivier</span> , place <span style="border-bottom: 2px dotted #FF0000;">Klipheuvel</span></td>
     </tr>
     <tr>
       <td>paid Sep:r 1831</td>
@@ -116397,7 +116496,7 @@ Eventaris des boedels van Johannes Petrus Mosterd en overledene huisvrouw
     <tr>
       <td>paid Aug:t 1831</td>
       <td>van Albert Rust 44 rijksdaalders for
-		taken over a share in certain uitspanplaats /</td>
+		taken over a share in certain uitspanplaats / <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span></td>
     </tr>
   </tbody>
 </table>
@@ -116405,15 +116504,15 @@ Eventaris des boedels van Johannes Petrus Mosterd en overledene huisvrouw
 <table>
   <tbody>
     <tr>
-      <td>2 <span style="border-bottom: 2px dotted #008000;">slaven
+      <td>2 <span style="border-bottom: 2px dotted #00FF00;">slaven
 		  jongens</span> , ouwd en gebrekkelijk</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slaven
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slaven
 		  jongen</span> , beneden de 16 jaaren</td>
     </tr>
     <tr>
-      <td>1 <span style="border-bottom: 2px dotted #008000;">slave
+      <td>1 <span style="border-bottom: 2px dotted #00FF00;">slave
 		  meid</span> , boven de 16 jaaren</td>
     </tr>
     <tr>
@@ -116631,7 +116730,7 @@ Eventaris des boedels van Johannes Petrus Mosterd en overledene huisvrouw
       <td>2 mud rogge gezaaijt</td>
     </tr>
     <tr>
-      <td>een halven lenings plaats genaamd degroot 291 1/2 morgendistrict[paid up to 31 Decemb: 1828] jaarlyk
+      <td>een halven lenings plaats genaamd de <span style="border-bottom: 2px dotted #FF0000;">Zuure Fontijn</span> groot 291 1/2 morgen <span style="border-bottom: 2px dotted #FF0000;">Nieuw Land</span> district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> [paid up to 31 Decemb: 1828] jaarlyk
 		  R:24</td>
     </tr>
   </tbody>
@@ -116641,20 +116740,20 @@ Eventaris des boedels van Johannes Petrus Mosterd en overledene huisvrouw
   <thead><tr><td colspan='100%'>Slaves</td></tr></thead>
   <tbody>
     <tr>
-      <td>1 male slave <span style="border-bottom: 2px dotted #008000;">Bastian of Mosambique</span> ,
+      <td>1 male slave <span style="border-bottom: 2px dotted #00FF00;">Bastian of Mosambique</span> ,
 		labourer aged 74 years</td>
       <td rowspan='4' style='vertical-align: middle;'>not mortgaged</td>
     </tr>
     <tr>
-      <td>1 male slave <span style="border-bottom: 2px dotted #008000;">Galant</span> , wagon driver aged 54 y:rs</td>
+      <td>1 male slave <span style="border-bottom: 2px dotted #00FF00;">Galant</span> , wagon driver aged 54 y:rs</td>
     </tr>
     <tr>
-      <td>1 male <span style="border-bottom: 2px dotted #008000;">slave
-		child</span> of <span style="border-bottom: 2px dotted #008000;">Jamar</span> , born 14 Aug:t
+      <td>1 male <span style="border-bottom: 2px dotted #00FF00;">slave
+		child</span> of <span style="border-bottom: 2px dotted #00FF00;">Jamar</span> , born 14 Aug:t
 		1817</td>
     </tr>
     <tr>
-      <td>1 female slave <span style="border-bottom: 2px dotted #008000;">Jamar</span> , housemaid aged 50 y:rs</td>
+      <td>1 female slave <span style="border-bottom: 2px dotted #00FF00;">Jamar</span> , housemaid aged 50 y:rs</td>
     </tr>
   </tbody>
 </table>
@@ -116666,7 +116765,7 @@ Cornelis Thiers
 Fredrik Hendrik Brand
 
 Namen der kinderen van Johannes Petrus Mosterd en overledene huisvrouw
-	 Belial Brandden 24 October
+	 Belial Brand <span style="border-bottom: 2px dotted #FF0000;">Zuure Fontijn</span> den 24 October
 	 1830
 
 <table>
@@ -116703,11 +116802,11 @@ Namen der kinderen van Johannes Petrus Mosterd en overledene huisvrouw
 ## MOOC8/45.109
 
  {18310330} 30 March
-	 1831 <span style="border-bottom: 2px dotted #008000;">Sara Elisabeth
+	 1831 <span style="border-bottom: 2px dotted #00FF00;">Sara Elisabeth
 	 van Coller</span> 
 
 Inventory of the estate of the late Sara Elizabeth van Coller deceased on
-	 the 28:th January 1831 at the residence of Pieter Chris: de Jager at the place,in the district ofaged 18 years and 8 months.
+	 the 28:th January 1831 at the residence of Pieter Chris: de Jager at the place <span style="border-bottom: 2px dotted #FF0000;">Krans Fontyn</span> , <span style="border-bottom: 2px dotted #FF0000;">Kafferkuils Rivier</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> aged 18 years and 8 months.
 
 Heirs, her brothers and sisters, children of Philippus Martinus van Coller
 	 and Susanna Catherina Cronje (both deceased) by name
@@ -116800,7 +116899,7 @@ I undersigned, guardian to the late Sara Eliz: van Coller, according to
 	 certify that to the best of my belief the above is a true and correct inventory
 	 of the estate of the said deceased.
 
-March 30. 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> March 30. 1831
 
 P:H: de Necker
 
@@ -116808,12 +116907,14 @@ J: Rawstorne, Ag:t Orph: Cham:
 
 ## MOOC8/45.110
 
- {18290421} 21 April 1829 <span style="border-bottom: 2px dotted #008000;">Hercules Venter</span> , <span style="border-bottom: 2px dotted #008000;">Engela Elisabeth
+ {18290421} 21 April 1829 <span style="border-bottom: 2px dotted #00FF00;">Hercules Venter</span> , <span style="border-bottom: 2px dotted #00FF00;">Engela Elisabeth
 	 Pretorius</span> 
 
 Inventory of all such goods and effects as have been possessed in
 	 communion by the late Hercules Venter, born in this Colony died on the 1:st
-	 February 1829 aged 41 years at the placesituated in the fieldcornetcydistrictand surviving widow Engela Elisabeth Pretorius ab intestato
+	 February 1829 aged 41 years at the place <span style="border-bottom: 2px dotted #FF0000;">Knoffel
+	 Valey</span> situated in the fieldcornetcy <span style="border-bottom: 2px dotted #FF0000;">Lower
+	 Seacow Rivier</span> district <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> and surviving widow Engela Elisabeth Pretorius ab intestato
 
 <table>
   <tbody>
@@ -117013,7 +117114,7 @@ Inventory of all such goods and effects as have been possessed in
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>from Gert Strydom ofand P: Delarey ofas executors of the estate of the late
+      <td>from Gert Strydom of <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> and P: Delarey of <span style="border-bottom: 2px dotted #FF0000;">George</span> as executors of the estate of the late
 		widow [ ..... ] Strydom for inheritance due to Johanna Hendrina Catharina
 		Grobler late wife of Hercules Venter as per annexed
 		letter</td>
@@ -117115,7 +117216,9 @@ Inventory of all such goods and effects as have been possessed in
   </tbody>
 </table>
 
-Thus done and inventoried at the placesituated in the fieldcornetcydistrict ofon the 30 April 1829 according to the declaration of Engela Elisabeth Pretorius
+Thus done and inventoried at the place <span style="border-bottom: 2px dotted #FF0000;">Knoffel
+	 Valey</span> situated in the fieldcornetcy <span style="border-bottom: 2px dotted #FF0000;">Lower
+	 Seacow Rivier</span> district of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> on the 30 April 1829 according to the declaration of Engela Elisabeth Pretorius
 	 widow of the late Herculas Venter who declared that to the best of her
 	 knowledge she has given up all the effects that belong to said estate, with
 	 further promise should anything be found afterwards to add it to this inventory
@@ -117132,13 +117235,13 @@ J: Auret, Agent
 
 ## MOOC8/45.111
 
- {18260702} 2 July 1826 <span style="border-bottom: 2px dotted #008000;">Samuel Wilhelm Fisscher</span> 
+ {18260702} 2 July 1826 <span style="border-bottom: 2px dotted #00FF00;">Samuel Wilhelm Fisscher</span> 
 
 Inventaaris des boedels van wylen Samuel Wilhelm Fisscher de welken op den
 	 6 dezer in den ouderdom van ruym 61 jaaren by den edele Piter de la Rey is
 	 overleeden en den 8 naar behoore ter aarde is bestelt
 
-T geboortig uitin
+T geboortig uit <span style="border-bottom: 2px dotted #FF0000;">Berlyn</span> in <span style="border-bottom: 2px dotted #FF0000;">Pragzen</span> 
 
 <table>
   <tbody>
@@ -117191,7 +117294,7 @@ T geboortig uitin
       <td>1 hoet</td>
     </tr>
     <tr>
-      <td>een slaafd <span style="border-bottom: 2px dotted #008000;">knegt</span></td>
+      <td>een slaafd <span style="border-bottom: 2px dotted #00FF00;">knegt</span></td>
     </tr>
     <tr>
       <td>1 oude Bybel</td>
@@ -117209,7 +117312,7 @@ Ik ondergetekende verklaaren by deze dat ik met oprechtighydt des gemoets
 	 hebben op geschreven het welk den overledene Samuel Wilhelm Visscher heeft bij
 	 myn nagelaaten
 
-den 2 July 1826
+ <span style="border-bottom: 2px dotted #FF0000;">Cango</span> den 2 July 1826
 
 P: de la Rey J:z
 
@@ -117263,12 +117366,12 @@ In mijn tegen woordighyd met getuygen: P:R: Bota, J:M: Wessels
 L:J: Botha, Veltcornet
 
 Den heer De Larey verklaardt dat den overleedene Visscher 11 rd:s schuldig
-	 is aan meester Guntel Copman op.
+	 is aan meester Guntel Copman op <span style="border-bottom: 2px dotted #FF0000;">George</span> .
 
 ## MOOC8/45.112
 
  {18280515} 15 Mey
-	 1828 <span style="border-bottom: 2px dotted #008000;">Petronella
+	 1828 <span style="border-bottom: 2px dotted #00FF00;">Petronella
 	 Cisielia Leroes</span> 
 
 Inventaris des boedels van wylen Petronella Ciesieliä Leroes weduwe wylen
@@ -117313,7 +117416,7 @@ Namen der erfgenamen als mede de ouderdommen
 <table>
   <tbody>
     <tr>
-      <td>1 lening plaats gen:d</td>
+      <td>1 lening plaats gen:d <span style="border-bottom: 2px dotted #FF0000;">Viesantefontyn</span></td>
     </tr>
     <tr>
       <td>2 ry paarden</td>
@@ -117512,45 +117615,45 @@ Namen der erfgenamen als mede de ouderdommen
     </tr>
     <tr>
       <td>42 ryxd:s uytstaande te vragen aande weduwe J:n Range de plaats
-		  gen:in de maant 1828 onder</td>
+		  gen: <span style="border-bottom: 2px dotted #FF0000;">Spring Fontyn</span> in de maant 1828 onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>14 ryxd:s uytstaande te vragen aan Johannes Hartwiek van der
-		  Bank in het jaar 1810 behorende onder</td>
+		  Bank in het jaar 1810 behorende onder <span style="border-bottom: 2px dotted #FF0000;">George</span></td>
     </tr>
     <tr>
       <td>24 ryxd: uytstaande te vrage aan Jan Blignaut in het jaar 1827
-		  onder[paid]</td>
+		  onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> [paid]</td>
     </tr>
     <tr>
       <td>148 ryxd:s schuldig aan Antony Lombaart in de maant Augustus
-		  1827 met de verlope rente van gesegte capietaal behorende onder</td>
+		  1827 met de verlope rente van gesegte capietaal behorende onder <span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
     </tr>
     <tr>
       <td>38 ryxd:s schuldig aan Jacobus Bota in de maant September 1827
-		  behorende aan der</td>
+		  behorende aan der <span style="border-bottom: 2px dotted #FF0000;">Graafrijnet</span></td>
     </tr>
     <tr>
       <td>12 ryxd: schuldig aan Piet Strydom menende in de maant Juny 1825
-		  de plaats gen: deonder</td>
+		  de plaats gen: de <span style="border-bottom: 2px dotted #FF0000;">Wolfen Vontyn</span> onder <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span></td>
     </tr>
     <tr>
-      <td>20 ryxd: schuldig aan Piet Bota de plaatsonderin de maant Augustus 1827</td>
+      <td>20 ryxd: schuldig aan Piet Bota de plaats <span style="border-bottom: 2px dotted #FF0000;">Klynvisrievier</span> onder <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> in de maant Augustus 1827</td>
     </tr>
     <tr>
-      <td>4 ryxd: schuldig aan Louw Strydom in de maant Juny 1825 onderde plaats gen: de</td>
+      <td>4 ryxd: schuldig aan Louw Strydom in de maant Juny 1825 onder <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> de plaats gen: de <span style="border-bottom: 2px dotted #FF0000;">Wolfenfontyn</span></td>
     </tr>
     <tr>
       <td>100 ryxd: schuldig aan Jan Blignaut sal hy bewysen de tyd door
-		  syn pretentie onderbehoren</td>
+		  syn pretentie onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span> behoren</td>
     </tr>
     <tr>
       <td>10 ryxd: schuldig aan Christiaan Bester in de maant My 1827
-		  behorende onder</td>
+		  behorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>10 rykx:d schuldig aan Daniel F: Joubert D: zoon in de maant
-		  July 1825 behorende onder</td>
+		  July 1825 behorende onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>27 ryxd: schuldig aan mejonge juffer Dorothea Mulder in het jaar
@@ -117558,34 +117661,34 @@ Namen der erfgenamen als mede de ouderdommen
     </tr>
     <tr>
       <td>10 ryxd: aande weduwe Pieter de Plooij schuldig in de maant Juny
-		  1827 onder</td>
+		  1827 onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
-      <td>26 ryxd: schuldig aan Hendrik Range in de maant Juny 1827 onder</td>
+      <td>26 ryxd: schuldig aan Hendrik Range in de maant Juny 1827 onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
-      <td>6 ryxd: schuldig aan Vorie in de jaar 1826 onder</td>
+      <td>6 ryxd: schuldig aan Vorie in de jaar 1826 onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
       <td>22 ryxd: schuldig aan Christiaan Cloete in het jaar 1827 de
-		  plaats over de berg deonder</td>
+		  plaats over de berg de <span style="border-bottom: 2px dotted #FF0000;">Muys Kraal</span> onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span></td>
     </tr>
     <tr>
-      <td>24 ryxd: schuldig aan den hottentot Coert in het jaar 1826 onderveldcornetschap</td>
+      <td>24 ryxd: schuldig aan den hottentot Coert in het jaar 1826 onder <span style="border-bottom: 2px dotted #FF0000;">Zwellendam</span> veldcornetschap <span style="border-bottom: 2px dotted #FF0000;">Langeberg</span></td>
     </tr>
     <tr>
       <td>24 ryxd: schuldig aan Jannes Niecolaas Gerhardus Andries Voslo
-		  in het jaar 1827 onder</td>
+		  in het jaar 1827 onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
-      <td>8 ryxd: schuldig aan Johannes Olrieg Spies in de jaar 1827 onder</td>
+      <td>8 ryxd: schuldig aan Johannes Olrieg Spies in de jaar 1827 onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
       <td>23 ryxd: schuldig aan Johannes Willem Horn in het jaar 1828
-		  onder</td>
+		  onder <span style="border-bottom: 2px dotted #FF0000;">Zwillendam</span></td>
     </tr>
     <tr>
-      <td>4 ryxd: schuldig aan Jacobus Petrus Horn in het jaar 1828 onder</td>
+      <td>4 ryxd: schuldig aan Jacobus Petrus Horn in het jaar 1828 onder <span style="border-bottom: 2px dotted #FF0000;">Swillendam</span></td>
     </tr>
   </tbody>
 </table>
@@ -117601,7 +117704,7 @@ Christiaan Cloete, Veld Cornet
 
 ## MOOC8/45.113
 
- {18220726} 26 July 1822 <span style="border-bottom: 2px dotted #008000;">Godlieb Laurens</span> 
+ {18220726} 26 July 1822 <span style="border-bottom: 2px dotted #00FF00;">Godlieb Laurens</span> 
 
 Inventaris van alle zodanige goederen als er op den 21 July l:l: ab
 	 intestato met er dood zyn ontruimd en naargelaten door den persoon van Godlieb
@@ -117856,7 +117959,7 @@ In tegens woordigheid van my: J:F: Meijer, N: zoon, Veld
 ## MOOC8/45.114
 
  {18291116} 16
-	 November 1829 <span style="border-bottom: 2px dotted #008000;">Jacobus
+	 November 1829 <span style="border-bottom: 2px dotted #00FF00;">Jacobus
 	 Petrus Horn</span> 
 
 On reconsideration I think we may take as a rule, for future accordance
@@ -117998,20 +118101,20 @@ Inventory of the estate of the late Jacobus Petrus Horn deceased 16th
   </tbody>
 </table>
 
-den 31 Dec: 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Langenberg</span> den 31 Dec: 1829
 
 P:J:P:L: Leyruisy, provisie Veldcornet
 
 ## MOOC8/45.115
 
- {18291031} 31 October 1829 <span style="border-bottom: 2px dotted #008000;">Coenraad Scheepers</span> 
+ {18291031} 31 October 1829 <span style="border-bottom: 2px dotted #00FF00;">Coenraad Scheepers</span> 
 
 Thursday, sale 7 January 1830
 
 Inventory and appraisement of the effects left by the intestate death of
 	 Coenraad Scheepers, who departed this life on the 29:th August 1829 at the
-	 place calledsituated in the
-	 Field Cornetcy ofaged
+	 place called <span style="border-bottom: 2px dotted #FF0000;">Dekselfontyn</span> situated in the
+	 Field Cornetcy of <span style="border-bottom: 2px dotted #FF0000;">Under Bushman River</span> aged
 	 about 83 years to his four surviving aged children begotten in marriage by his
 	 deceased wife Elsje Oosthuyzen named Magdalena Scheepers, Frederik Johannes
 	 Scheepers, Petronella Scheepers, Johannes Marthinus Scheepers and to their
@@ -118183,14 +118286,14 @@ Names of the grand children and great grand child, viz:
   </tbody>
 </table>
 
-31 October 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Kruysfontein</span> 31 October 1829
 
 As witnesses: signed: C:F: Scheepers F: son, C: Scheepers G:t son
 
 Signed: C: V: Buchner, Field C:t
 
 Zertieveert als dat ik op heden den 31 October 1829 meij hebben begeven
-	 ter platze van de wedewe Gert Scheepers genaamten al daar en present van den na te
+	 ter platze van de wedewe Gert Scheepers genaamt <span style="border-bottom: 2px dotted #FF0000;">Kruijsfontijn</span> en al daar en present van den na te
 	 melde getuigen onder inventaris genoomen hebben de volgende goederen het
 	 nalatenschap van den overledenen Coenderaad Scheepers de oude overleden op den
 	 29:st Augustus 1829 zijnde er gene testament werdende als
@@ -118330,7 +118433,7 @@ Cornielis Tobias Vermaak segt als dat hij eenen vordering tegen deese
   </tbody>
 </table>
 
-den 31 October
+ <span style="border-bottom: 2px dotted #FF0000;">Kruijs Vontuijn</span> den 31 October
 	 1829
 
 Als getuigen: C:F: Scheepers F: zoon, C: Scheepers Gert zoon
@@ -118347,20 +118450,20 @@ C:V: Buchner, Veldcornet
 
 ## MOOC8/45.116
 
- {18291016} 16 October 1829 <span style="border-bottom: 2px dotted #008000;">Maria Elizabeth
+ {18291016} 16 October 1829 <span style="border-bottom: 2px dotted #00FF00;">Maria Elizabeth
 	 Klopper</span> 
 
 Inventory two sheets
 
-To be held atin the
-	 fieldcornetcy ofon the 1:t Dec:r next,
+To be held at <span style="border-bottom: 2px dotted #FF0000;">Roets Hoek</span> in the
+	 fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> on the 1:t Dec:r next,
 	 Somerset
 
-Pieter du Plessies p:d for a piece of land calledreference to the Landdrost offor report on the 4 Novemb:
+Pieter du Plessies p:d for a piece of land called <span style="border-bottom: 2px dotted #FF0000;">Renosterhoek</span> reference to the Landdrost of <span style="border-bottom: 2px dotted #FF0000;">Graaff Reinet</span> for report on the 4 Novemb:
 	 1825
 
 Inventory of all such property as has been relinquished by the death of
-	 Maria Elizabeth Klopper on the 22:d July 1829 atin the fieldcornetcy ofat the age of twenty nine years, two
+	 Maria Elizabeth Klopper on the 22:d July 1829 at <span style="border-bottom: 2px dotted #FF0000;">Roets Hoek</span> in the fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> at the age of twenty nine years, two
 	 months and thirteen days for the benefit of her surviving husband Pieter du
 	 Plessies Piet son on the one and her five children, viz:t
 
@@ -118391,13 +118494,13 @@ Inventory of all such property as has been relinquished by the death of
   </tbody>
 </table>
 
-At the placesituated in the
-	 fieldcornetcy of
+At the place <span style="border-bottom: 2px dotted #FF0000;">Roets Hoek</span> situated in the
+	 fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> 
 
 <table>
   <tbody>
     <tr>
-      <td>A request place calledsituated in the fieldcornetcy of</td>
+      <td>A request place called <span style="border-bottom: 2px dotted #FF0000;">Roets Hoek</span> situated in the fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Tarka</span></td>
     </tr>
   </tbody>
 </table>
@@ -118639,8 +118742,8 @@ At the placesituated in the
   </tbody>
 </table>
 
-Thus inventoried atin the
-	 fieldcornetcy ofin the district ofon the sixteenth day of October in
+Thus inventoried at <span style="border-bottom: 2px dotted #FF0000;">Roets Hoek</span> in the
+	 fieldcornetcy of <span style="border-bottom: 2px dotted #FF0000;">Tarka</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> on the sixteenth day of October in
 	 the year of our Lord one thousand eight hundred and twenty nine according to a
 	 statement made by the survivor who declared to have acted herein bonafide and
 	 that to the best of his knowledge he has not witheld or secreted any thing that
@@ -118659,7 +118762,7 @@ In my presence: C:E: Möller
 
 ## MOOC8/45.117
 
- {18270222} 22 February 1827 <span style="border-bottom: 2px dotted #008000;">Ockert Gouws</span> , <span style="border-bottom: 2px dotted #008000;">Helena Gouws</span> 
+ {18270222} 22 February 1827 <span style="border-bottom: 2px dotted #00FF00;">Ockert Gouws</span> , <span style="border-bottom: 2px dotted #00FF00;">Helena Gouws</span> 
 
 Supplement tot den inventaris des boedels van wylen Ockert Gousch en
 	 nagelatene weduwe Helena Gousch op den 12 September 1824 g’inventariseerd
@@ -118679,24 +118782,24 @@ Supplement tot den inventaris des boedels van wylen Ockert Gousch en
       <td>50</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Somerset</span></td>
       <td>van
-		Christiaan Arnoldus Hatting woonagtig teweg:s geleend geld zedert den 10 Mei 1803
+		Christiaan Arnoldus Hatting woonagtig te <span style="border-bottom: 2px dotted #FF0000;">Somerset</span> weg:s geleend geld zedert den 10 Mei 1803
 		waarvan ook geen bewys is</td>
       <td>60</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">George</span></td>
       <td>van Marthinus
 		Bekker d’ oude nu reeds overleden dog zyne wed:e hertrouwd met Petrus Meiring
-		tewoonagtig over koop van hamels en
+		te <span style="border-bottom: 2px dotted #FF0000;">George</span> woonagtig over koop van hamels en
 		bokken waarvan geen bewys is</td>
       <td>35</td>
     </tr>
     <tr>
-      <td>paid</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> paid</td>
       <td>van
-		Willem Buitendag tewoonagtig over
+		Willem Buitendag te <span style="border-bottom: 2px dotted #FF0000;">Uitenhaage</span> woonagtig over
 		koop van hamels waarvan ook geen bewys is</td>
       <td>9</td>
     </tr>
@@ -118708,15 +118811,16 @@ Supplement tot den inventaris des boedels van wylen Ockert Gousch en
       <td>100</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td><span style="border-bottom: 2px dotted #FF0000;">Uiteh:g</span></td>
       <td>van Jacob
-		Joh:s Erasmus Jacobz: woonagtig teover koop van een paard bl: bewys d:d: 5 Dec:r 1806</td>
+		Joh:s Erasmus Jacobz: woonagtig te <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> over koop van een paard bl: bewys d:d: 5 Dec:r 1806</td>
       <td>45</td>
     </tr>
   </tbody>
 </table>
 
-Aldus gepasseert ter Drostdyeop den 22 February 1827
+Aldus gepasseert ter Drostdye <span style="border-bottom: 2px dotted #FF0000;">Graaff
+	 Reinet</span> op den 22 February 1827
 
 Als getuigen: C:n J: Meintjes, G:J: Broekhuisen
 
@@ -118735,11 +118839,11 @@ Jacob Johannis Eerasmus +
 
 ## MOOC8/45.118
 
- {18301230} 30 December 1830 <span style="border-bottom: 2px dotted #008000;">Eeljas Lourens Kamver</span> 
+ {18301230} 30 December 1830 <span style="border-bottom: 2px dotted #00FF00;">Eeljas Lourens Kamver</span> 
 
 Enventaris des boedels van wijle Eeljas Lourens Kamver gebooren den 8
-	 Deetsem: 1775 gebooren in het distriksout geworden 55 jaar, 8 dagen in het
-	 distriksoverleeden op den 16
+	 Deetsem: 1775 gebooren in het distriks <span style="border-bottom: 2px dotted #FF0000;">Gravrenet</span> out geworden 55 jaar, 8 dagen in het
+	 distriks <span style="border-bottom: 2px dotted #FF0000;">Clanwiliam</span> overleeden op den 16
 	 Deetsemb: 1830
 
 Na laatende syn weduwe Johanna Maria Mouton en den volgende onmondige
@@ -118901,7 +119005,8 @@ Na laatende syn weduwe Johanna Maria Mouton en den volgende onmondige
   </tbody>
 </table>
 
-Aldus geinventariseert ter plaats diein de wijkdistriksop den 30 Deetsemb: 1830
+Aldus geinventariseert ter plaats die <span style="border-bottom: 2px dotted #FF0000;">Ijland
+	 Valij</span> in de wijk <span style="border-bottom: 2px dotted #FF0000;">Biedouw</span> distriks <span style="border-bottom: 2px dotted #FF0000;">Clanwiliam</span> op den 30 Deetsemb: 1830
 
 Als geteuijgen: Johanes J: van Wijk, Schalk W: Lubbe
 
@@ -118909,8 +119014,8 @@ Frans J: Lubbe, Veltcornet
 
 ## MOOC8/45.119
 
- {18260608} 8 Juny 1826 <span style="border-bottom: 2px dotted #008000;">Nicolaas Jacob van
-	 Loggerenberg</span> , <span style="border-bottom: 2px dotted #008000;">Maria
+ {18260608} 8 Juny 1826 <span style="border-bottom: 2px dotted #00FF00;">Nicolaas Jacob van
+	 Loggerenberg</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria
 	 Alberta Joubert</span> 
 
 Op heden den 8 Juny 1826 zyn de ondergeteekende belanghebbenden en
@@ -119130,7 +119235,7 @@ Wy ondergeteekenden als erfgenamen verklaren genoegen te nemen met de
 	 gedane waardeering der goederen, als mede ook omtrent ieder punt begrepen in al
 	 het geen hierboven geschreven staat.
 
-den 8 Juny 1826.
+ <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> den 8 Juny 1826.
 
 Kruis + + + merken van Nicolaas Loggerenberg
 
@@ -119150,9 +119255,9 @@ Mij present: J:J:F: Roselt, Agent
 
 ## MOOC8/45.120
 
- {18310106} 6 Jannuari 1831 <span style="border-bottom: 2px dotted #008000;">Karl Groning</span> 
+ {18310106} 6 Jannuari 1831 <span style="border-bottom: 2px dotted #00FF00;">Karl Groning</span> 
 
-den 6 Jannuari 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> den 6 Jannuari 1831
 
 Envantaris van den goederen van den overleden Karl Groning
 
@@ -119217,7 +119322,7 @@ W:F: du Toit, Veld Cornet
 
 ## MOOC8/45.121
 
- {18251019} 19 October 1825 <span style="border-bottom: 2px dotted #008000;">Francois Jacobus du Toit</span> , <span style="border-bottom: 2px dotted #008000;">Maria Cloudina
+ {18251019} 19 October 1825 <span style="border-bottom: 2px dotted #00FF00;">Francois Jacobus du Toit</span> , <span style="border-bottom: 2px dotted #00FF00;">Maria Cloudina
 	 Venter</span> 
 
 H: Somerset
@@ -119367,10 +119472,11 @@ J: Meintjes
 
 ## MOOC8/45.122
 
- {18290611} 11 June 1829 <span style="border-bottom: 2px dotted #008000;">Laurens Salmon Erasmus</span> 
+ {18290611} 11 June 1829 <span style="border-bottom: 2px dotted #00FF00;">Laurens Salmon Erasmus</span> 
 
 Inventory of the estate of the late Laurens Salmon Erasmus deceased on the
-	 11:th June 1829 at the place
+	 11:th June 1829 at the place <span style="border-bottom: 2px dotted #FF0000;">Klein Ezel
+	 Jagt</span> 
 
 <table>
   <thead><tr><td colspan='100%'>Heirs</td></tr></thead>
@@ -119394,7 +119500,7 @@ Inventory of the estate of the late Laurens Salmon Erasmus deceased on the
   <thead><tr><td colspan='100%'>Property and effects</td></tr></thead>
   <tbody>
     <tr>
-      <td>The half share of the eigendom leening’s placelying on the</td>
+      <td>The half share of the eigendom leening’s place <span style="border-bottom: 2px dotted #FF0000;">Kleine Ezel Jagt</span> lying on the <span style="border-bottom: 2px dotted #FF0000;">River Zonder Einde</span></td>
     </tr>
     <tr>
       <td>1 waggon</td>
@@ -119715,7 +119821,7 @@ Additional effects claimed by the heirs or others in consequence of a
       <td>60</td>
     </tr>
     <tr>
-      <td>H:P: Byers,</td>
+      <td>H:P: Byers <span style="border-bottom: 2px dotted #FF0000;">Drakenstein</span> , <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>10</td>
     </tr>
     <tr>
@@ -119758,35 +119864,36 @@ Additional claims in favour of and against estate of the late Lau: S:
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>on Johannes Wasterman residing at</td>
+      <td>on Johannes Wasterman residing at <span style="border-bottom: 2px dotted #FF0000;">Vergaadering Kraal</span></td>
       <td>[ .....
 		]</td>
     </tr>
     <tr>
       <td>p:d</td>
-      <td>F:d cor:t S: Ferrarifor 8 oxen in exchange for a
+      <td>F:d cor:t S: Ferrari <span style="border-bottom: 2px dotted #FF0000;">Uitenage</span> for 8 oxen in exchange for a
 		gun</td>
       <td>[ ..... ]</td>
     </tr>
     <tr>
       <td>p:d</td>
-      <td>on Joh:s Vorree,,for one ox and one
+      <td>on Joh:s Vorree <span style="border-bottom: 2px dotted #FF0000;">Swaanpoels Kraal</span> , <span style="border-bottom: 2px dotted #FF0000;">Zondag
+		Rivier</span> , <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> for one ox and one
 		cow</td>
       <td>[ ..... ]</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>on Mich:l Human</td>
+      <td>on Mich:l Human <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span></td>
       <td>61:--</td>
     </tr>
     <tr>
       <td>p:d</td>
-      <td>on Enoch Hockers, Hottentot</td>
+      <td>on Enoch Hockers, Hottentot <span style="border-bottom: 2px dotted #FF0000;">Genadendal</span></td>
       <td>8:--</td>
     </tr>
     <tr>
       <td>p:d</td>
-      <td>P: Norman, Hottentot</td>
+      <td>P: Norman, Hottentot <span style="border-bottom: 2px dotted #FF0000;">Genadendal</span></td>
       <td>1:4</td>
     </tr>
     <tr>
@@ -119825,23 +119932,24 @@ Additional claims in favour of and against estate of the late Lau: S:
   </tbody>
 </table>
 
-Mr Dan:l Hoffman ofhaving
+Mr Dan:l Hoffman of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> having
 	 been employed by deceased to recover the debt of M: Haman is stated to have
 	 made expences on that account, said Haman is supposed to possess nothing.
 
-, August 7:th
+ <span style="border-bottom: 2px dotted #FF0000;">Ezel Jagt</span> , August 7:th
 	 1829.
 
 ## MOOC8/45.123
 
  {18290716} 16 July
-	 1829 <span style="border-bottom: 2px dotted #008000;">Jacobus Lubbe</span> 
+	 1829 <span style="border-bottom: 2px dotted #00FF00;">Jacobus Lubbe</span> 
 
-Inventaris der nalatenschap van Jacobus Lubbe ter plaatzegelegen aangeboren op den 23 December 1756
-	 ter plaatze van Andries Lubbe gelegen aanop den 1 July 1829, 7 uuren des morgens is koomen te
+Inventaris der nalatenschap van Jacobus Lubbe ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Moddervantyn</span> gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Olifantsrivier</span> geboren op den 23 December 1756
+	 ter plaatze van Andries Lubbe gelegen aan <span style="border-bottom: 2px dotted #FF0000;">Olifants
+	 Rivier</span> op den 1 July 1829, 7 uuren des morgens is koomen te
 	 overlyden.
 
-Welke inventaris door my H:Z: Visagie Veldcornet van de wykgeassisteerd door de
+Welke inventaris door my H:Z: Visagie Veldcornet van de wyk <span style="border-bottom: 2px dotted #FF0000;">Olifantsrivier</span> geassisteerd door de
 	 ondergetekende getuigen in in gevolge opgaaf van A: Mouton ter wiens plaatze
 	 voorzegde nu wylen Jacobus Lubbe is komen te overlyden is geinvormeert welke
 	 goederen waren als volgt
@@ -119861,7 +119969,7 @@ Welke inventaris door my H:Z: Visagie Veldcornet van de wykgeassisteerd door de
   </tbody>
 </table>
 
-Aldus geinventariseert ter plaatzegelegen in het districtop den 16 July 1829
+Aldus geinventariseert ter plaatze <span style="border-bottom: 2px dotted #FF0000;">Moddervantyn</span> gelegen in het district <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> op den 16 July 1829
 
 Voor de opgaaf: Abraham Mouton
 
@@ -119869,7 +119977,7 @@ H:Z: Visagie, Veld c:t
 
 Als getuigen: Isak S:J: van de Merwe, Johannes Amsler
 
-den 29 July 1829
+ <span style="border-bottom: 2px dotted #FF0000;">Olifantsrivier</span> den 29 July 1829
 
 Myn heer
 
@@ -119882,7 +119990,7 @@ U e:d:w: dienaar
 
 H:Z: Visagie, Veld C:t
 
-Den heere C:M: Lind, Agend der Weeskamer,
+Den heere C:M: Lind, Agend der Weeskamer, <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> 
 
 Erfgenamen van wylen Jacobus Lubbe
 
@@ -119915,15 +120023,15 @@ Broeders en zusters na den rang van ouderdom dewelke reeds alle mondig
   </tbody>
 </table>
 
-Bovenstaande perzoonen woonen alle in het distriksuyt genoomen Abraham Mouton allen
-	 in het distriks
+Bovenstaande perzoonen woonen alle in het distriks <span style="border-bottom: 2px dotted #FF0000;">Graafrynet</span> uyt genoomen Abraham Mouton allen
+	 in het distriks <span style="border-bottom: 2px dotted #FF0000;">Clanwilliam</span> 
 
 ## MOOC8/45.124
 
- {18300804} 4 Augustus 1830 <span style="border-bottom: 2px dotted #008000;">Cornelis Joh:s van
+ {18300804} 4 Augustus 1830 <span style="border-bottom: 2px dotted #00FF00;">Cornelis Joh:s van
 	 Tonder</span> 
 
-den 4 Augustus 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Brak Rivier</span> den 4 Augustus 1830
 
 Staat en inventaris van zodanige goederen als met er dood ontruymt in
 	 nagelaten zeyn bey weylen Cornelis Joh:s van Tonder ten behoeve van zeyn na
@@ -120064,9 +120172,9 @@ Schult wat ik weet aan [ ..... ]
 
 ## MOOC8/45.125
 
- {18300803} 3 Augustus 1830 <span style="border-bottom: 2px dotted #008000;">Fredrik van Zeyl</span> 
+ {18300803} 3 Augustus 1830 <span style="border-bottom: 2px dotted #00FF00;">Fredrik van Zeyl</span> 
 
-den 3 Augustus 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Brak Rivier</span> den 3 Augustus 1830
 
 Staat en inventaris van zodanige goederen als met er dood ontruymt in
 	 nagelaten zeyn by weylen Fredrik van Zeyl ten behoeve van zeyne na gebleevene
@@ -120215,16 +120323,16 @@ Johanna Adrijana van der Linde weduwe van Zijl
 
 ## MOOC8/45.126
 
- {18291022} 22 October 1829 <span style="border-bottom: 2px dotted #008000;">Piet Kees</span> 
+ {18291022} 22 October 1829 <span style="border-bottom: 2px dotted #00FF00;">Piet Kees</span> 
 
-den 22 October
+ <span style="border-bottom: 2px dotted #FF0000;">Plettenbergs Baaij</span> den 22 October
 	 1829
 
 Mijn heer
 
 Hier in dese wijk sijn een Hottentot overleeden gen: Piet Kees en heef
 	 nagelaten zijn voorgevende vrouw Anna Roos een dogter Truij en drie kinderen
-	 dien verondersteld was de laserus te hebben zijn versonden naar deen heeft nagelaten tien trek
+	 dien verondersteld was de laserus te hebben zijn versonden naar de <span style="border-bottom: 2px dotted #FF0000;">Hemel en Aarde</span> en heeft nagelaten tien trek
 	 ossen
 
 Nu wens gem: Anna Roos te weeten hoedanig sij haar sal gedragen met de
@@ -120236,17 +120344,17 @@ Uwe d:w: dienaar: N: van Huijssteen, V:C:
 
 De heer P:S: Wemmer, Agent van de Weeskamer
 
-Stad
+ <span style="border-bottom: 2px dotted #FF0000;">George</span> Stad
 
 ## MOOC8/45.127
 
- {18310407} 7 April 1831 <span style="border-bottom: 2px dotted #008000;">Samuel Gilham</span> 
+ {18310407} 7 April 1831 <span style="border-bottom: 2px dotted #00FF00;">Samuel Gilham</span> 
 
 Inventory of effects belonging to the estate of the late Samuel Gilham who
 	 died in Somerset Hospital April 5:th 1831 and made by the undersigned in the
 	 presence of the undersigned witnesses. April 7, 1831
 
-Sole heiress the mother of the dec:d Elizabeth Gilham ofin the county
+Sole heiress the mother of the dec:d Elizabeth Gilham of <span style="border-bottom: 2px dotted #FF0000;">West Lynn</span> in the county <span style="border-bottom: 2px dotted #FF0000;">Suffolk</span> 
 
 <table>
   <tbody>
@@ -120353,9 +120461,9 @@ Tho: Read Welch
 
 ## MOOC8/45.128
 
- {18310203} 3 February 1831 <span style="border-bottom: 2px dotted #008000;">Thomas Young</span> 
+ {18310203} 3 February 1831 <span style="border-bottom: 2px dotted #00FF00;">Thomas Young</span> 
 
-Inventory of the estate of the late Thomas Young deceased aton the night of the 31:st Jan:y
+Inventory of the estate of the late Thomas Young deceased at <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> on the night of the 31:st Jan:y
 	 1831
 
 <table>
@@ -120481,7 +120589,7 @@ Inventory of the estate of the late Thomas Young deceased aton the night of the 
   </tbody>
 </table>
 
-Feb:y 3rd 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> Feb:y 3rd 1831
 
 J: Rawstorne, Ag:t Orph: Chamber
 
@@ -120499,16 +120607,16 @@ Joseph Barry, Tho:s Barry
   </tbody>
 </table>
 
-17:th Feb:y 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Swellendam</span> 17:th Feb:y 1831
 
 J: Rawstorne, Ag:t Orph: Chamb:
 
 ## MOOC8/45.129
 
- {18301012} 12 October 1830 <span style="border-bottom: 2px dotted #008000;">Joseph Tobias Adriaan de
+ {18301012} 12 October 1830 <span style="border-bottom: 2px dotted #00FF00;">Joseph Tobias Adriaan de
 	 Klerk</span> 
 
-, f:o 20
+ <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , f:o 20
 
 Inventory of the effects of Mr Joseph Tobias Adriaan de Klerk deceased,
 	 relinquished by him on the 7:th day of September last, and drawn up by me
@@ -120521,8 +120629,9 @@ Landed property
 <table>
   <tbody>
     <tr>
-      <td>Certain freehold place named “” with a piece of perpetual quitrent
-		  land adjoining thereto situate atin the fieldcornetcy of Mr C:P: Theron, measuring 23 morgen,
+      <td>Certain freehold place named “ <span style="border-bottom: 2px dotted #FF0000;">Knollevallei</span> ” with a piece of perpetual quitrent
+		  land adjoining thereto situate at <span style="border-bottom: 2px dotted #FF0000;">Klein
+		  Drakenstein</span> in the fieldcornetcy of Mr C:P: Theron, measuring 23 morgen,
 		  and sixty six square roods of freehold, and fifty seven morgen, and one hundred
 		  and twenty square roods of perpetual quitrent land, with the buildings erected
 		  thereon</td>
@@ -120786,11 +120895,12 @@ Moveable property
   <thead><tr><td colspan='100%'>In the winestore</td></tr></thead>
   <tbody>
     <tr>
-      <td>6 stuckvats, proof which is said to belong to Mr A:A: Hanekom of</td>
+      <td>6 stuckvats, proof which is said to belong to Mr A:A: Hanekom of <span style="border-bottom: 2px dotted #FF0000;">Zwartland</span></td>
     </tr>
     <tr>
       <td>8 large fermentation tubs, of which one is said to belong to
-		Daniel, and one to Piet Celliers of</td>
+		Daniel, and one to Piet Celliers of <span style="border-bottom: 2px dotted #FF0000;">Groot
+		Drakenstein</span></td>
     </tr>
     <tr>
       <td>1 pressing tub complete</td>
@@ -120872,41 +120982,41 @@ Moveable property
   <thead><tr><td colspan='100%'>Slaves belonging to the estate</td></tr></thead>
   <tbody>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Damon</span> 38 y:rs, a native of, wagoner</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Damon</span> 38 y:rs, a native of <span style="border-bottom: 2px dotted #FF0000;">Mosambique</span> , wagoner</td>
       <td>&nbsp;</td>
       <td rowspan='10' style='vertical-align: middle;'>not mortgaged</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David</span> 23 y:rs, a native of this Colony, herdsman</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">David</span> 23 y:rs, a native of this Colony, herdsman</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Flora</span> 53 y:rs, a native of this Colony, housemaid</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Flora</span> 53 y:rs, a native of this Colony, housemaid</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Hermanus</span> 14 y:rs born 11 Septemb: 1816, herdsman child of <span style="border-bottom: 2px dotted #008000;">Flora</span></td>
-      <td rowspan='2' style='vertical-align: middle;'>children of <span style="border-bottom: 2px dotted #008000;">Flora</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Hermanus</span> 14 y:rs born 11 Septemb: 1816, herdsman child of <span style="border-bottom: 2px dotted #00FF00;">Flora</span></td>
+      <td rowspan='2' style='vertical-align: middle;'>children of <span style="border-bottom: 2px dotted #00FF00;">Flora</span></td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">David</span> 10 y:rs born 23 Novemb: 1820 child of <span style="border-bottom: 2px dotted #008000;">Flora</span></td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">David</span> 10 y:rs born 23 Novemb: 1820 child of <span style="border-bottom: 2px dotted #00FF00;">Flora</span></td>
     </tr>
     <tr>
-      <td rowspan='5' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #008000;">Carolina</span> 29 1/2 y:rs a native of this Colony, housemaid,
+      <td rowspan='5' style='vertical-align: middle;'><span style="border-bottom: 2px dotted #00FF00;">Carolina</span> 29 1/2 y:rs a native of this Colony, housemaid,
 		with her children</td>
-      <td><span style="border-bottom: 2px dotted #008000;">Rebecca</span> 12 y:rs</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Rebecca</span> 12 y:rs</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Philida</span> 10 y:rs born 27 Decemb: 1820 child of Carolina
+      <td><span style="border-bottom: 2px dotted #00FF00;">Philida</span> 10 y:rs born 27 Decemb: 1820 child of Carolina
 		1:st</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Lys</span> 7 y:rs born 27 June 1823 child of Carolina 1:st</td>
+      <td><span style="border-bottom: 2px dotted #00FF00;">Lys</span> 7 y:rs born 27 June 1823 child of Carolina 1:st</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Carolina</span> 5 y:rs born 20 August 1825 child of Carolina
+      <td><span style="border-bottom: 2px dotted #00FF00;">Carolina</span> 5 y:rs born 20 August 1825 child of Carolina
 		1:st</td>
     </tr>
     <tr>
-      <td><span style="border-bottom: 2px dotted #008000;">Kaatje</span> born 11 Septemb: 1827 child of Carolina 1:st, died
+      <td><span style="border-bottom: 2px dotted #00FF00;">Kaatje</span> born 11 Septemb: 1827 child of Carolina 1:st, died
 		in July 1829 death reported to F:d Cornet Theron</td>
     </tr>
   </tbody>
@@ -120924,13 +121034,13 @@ Moveable property
       <td rowspan='2' style='vertical-align: middle;'>called upon for paym:t 17 Nov: 1830, paid the 28th Jan:y
 		1831</td>
       <td>&nbsp;</td>
-      <td>Tieleman de Villiers Isacson, residing atfor the purchase of two
+      <td>Tieleman de Villiers Isacson, residing at <span style="border-bottom: 2px dotted #FF0000;">Groenberg</span> for the purchase of two
 		oxen</td>
       <td>50</td>
     </tr>
     <tr>
       <td>paid the 28:th Jan:y 1831</td>
-      <td>Charles Wynand du Plessis,3 years interest one on a
+      <td>Charles Wynand du Plessis, <span style="border-bottom: 2px dotted #FF0000;">Klein Drakenstein</span> 3 years interest one on a
 		primissary note, the principal amount being rd:s200 having been paid on the
 		3:rd day of September 1829</td>
       <td>36</td>
@@ -120966,7 +121076,7 @@ N:B: a partnership having existed between Hendrik A: Hanekom and the late
       <td>317</td>
     </tr>
     <tr>
-      <td>Jacobus Petrus Malan Jacobus son ofby mortgage
+      <td>Jacobus Petrus Malan Jacobus son of <span style="border-bottom: 2px dotted #FF0000;">Wagenmakers Valleij</span> by mortgage
 		bond</td>
       <td>&nbsp;</td>
       <td>13000</td>
@@ -121008,7 +121118,7 @@ N:B: a partnership having existed between Hendrik A: Hanekom and the late
   </tbody>
 </table>
 
-Thus done and inventoried at the place “” situated atin the district of, on the 12:th day of the month of
+Thus done and inventoried at the place “ <span style="border-bottom: 2px dotted #FF0000;">Knollevallei</span> ” situated at <span style="border-bottom: 2px dotted #FF0000;">Klein Drakenstein</span> in the district of <span style="border-bottom: 2px dotted #FF0000;">Stellenbosch</span> , on the 12:th day of the month of
 	 October in the year of our Lord 1800 and thirty, in the presence of Mr Petrus
 	 Jacobus Bosman, as witness, whilst Mr Joseph Adriaan de Klerk, the only son of
 	 age, undertook should any other property be found to inform me thereof, in
@@ -121020,7 +121130,7 @@ P: Korsten
 
 ## MOOC8/45.130
 
- {18210827} 27 Augustus 1821 <span style="border-bottom: 2px dotted #008000;">William Ward</span> 
+ {18210827} 27 Augustus 1821 <span style="border-bottom: 2px dotted #00FF00;">William Ward</span> 
 
 Inventaris van alle zodanige goederen en effecten als er op Vrydag den vyf
 	 en twintigsten dag deeser loopende maand Augustus in den jaare onzes Heeren een
@@ -121094,7 +121204,7 @@ In een huurhuis van Karsten alwaar de overledene het laatst woonagtig is
       <td>62</td>
     </tr>
     <tr>
-      <td>van George Luck als agent van G: Smith te</td>
+      <td>van George Luck als agent van G: Smith te <span style="border-bottom: 2px dotted #FF0000;">Uitenhagen</span></td>
       <td>13</td>
     </tr>
     <tr>
@@ -121193,7 +121303,7 @@ My present: J:J:L: Smuts
 
 ## MOOC8/45.131
 
- {18210828} 28 August 1821 <span style="border-bottom: 2px dotted #008000;">William Ward</span> 
+ {18210828} 28 August 1821 <span style="border-bottom: 2px dotted #00FF00;">William Ward</span> 
 
 Ampliatie tot den inventaris van wylen William Ward
 
@@ -121213,7 +121323,7 @@ J:J:L: Smuts
 
 ## MOOC8/45.132
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Zacharias Joseph de Beer</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Zacharias Joseph de Beer</span> 
 
 Lyst van zodanige goederen die bevonden is in den boedel van weylen
 	 Zagarias Joseph de Beer senior als
@@ -121467,12 +121577,12 @@ F:F: Muller
 
 ## MOOC8/45.133
 
- {18300515} 15 May 1830 <span style="border-bottom: 2px dotted #008000;">Zacharias Joseph de Beer</span> , <span style="border-bottom: 2px dotted #008000;">Anna Susanna
+ {18300515} 15 May 1830 <span style="border-bottom: 2px dotted #00FF00;">Zacharias Joseph de Beer</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Susanna
 	 Tinnerholm</span> 
 
 Supplement inventory of the estate of the late Zacharias Joseph de Beer
-	 and predeceased wife Anna Susanna Tinnerholm which former died at the placeon the [ ..... ]
-	 day of January 1830 in the field cornetcy of Christiaan Hatting.
+	 and predeceased wife Anna Susanna Tinnerholm which former died at the place <span style="border-bottom: 2px dotted #FF0000;">Vris Gewaagd is Half Gewonnen</span> on the [ ..... ]
+	 day of January 1830 in the field cornetcy of Christiaan Hatting <span style="border-bottom: 2px dotted #FF0000;">Zwarteberg</span> .
 
 <table>
   <thead><tr><td colspan='100%'>Credits of the estate</td></tr></thead>
@@ -121490,7 +121600,7 @@ Supplement inventory of the estate of the late Zacharias Joseph de Beer
     </tr>
     <tr>
       <td rowspan='2' style='vertical-align: middle;'>paid 30 Novemb: 1831</td>
-      <td>from Mr C: Veldsman,as per note of hand dated 27 January
+      <td>from Mr C: Veldsman <span style="border-bottom: 2px dotted #FF0000;">Anysberg</span> , <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> as per note of hand dated 27 January
 		1823</td>
       <td>267:--</td>
     </tr>
@@ -121596,7 +121706,7 @@ Supplement inventory of the estate of the late Zacharias Joseph de Beer
   </tbody>
 </table>
 
-Thus done and registered in the village ofon Saturday the 15 day of May 1830 in the
+Thus done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Saturday the 15 day of May 1830 in the
 	 presence of Hartwig Johannes Luttig and Joseph Kersner according to the
 	 statement of Geertruida Elisabeth de Beer.
 
@@ -121608,7 +121718,7 @@ J:J: Meintjes, Agent to the Or: Chamber
 
 ## MOOC8/45.134
 
- {18300922} 22 September 1830 <span style="border-bottom: 2px dotted #008000;">Zacharias Joseph de Beer</span> , <span style="border-bottom: 2px dotted #008000;">Anna Susanna
+ {18300922} 22 September 1830 <span style="border-bottom: 2px dotted #00FF00;">Zacharias Joseph de Beer</span> , <span style="border-bottom: 2px dotted #00FF00;">Anna Susanna
 	 Tinnerholm</span> 
 
 Supplement inventory of the estate of the late Zacharias de Beer and
@@ -121629,7 +121739,7 @@ Supplement inventory of the estate of the late Zacharias de Beer and
   </tbody>
 </table>
 
-Thus done and registered in the village ofon Wednesday the 22:nd day of September
+Thus done and registered in the village of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Wednesday the 22:nd day of September
 	 1830 in the presence of Johan Coenraad Wegelien and Johannes
 	 Bodenstein.
 
@@ -121639,7 +121749,7 @@ J:J: Meintjes, Agent Or: Ch:
 
 ## MOOC8/45.135
 
- {18270312} 12 Maart 1827 <span style="border-bottom: 2px dotted #008000;">Thomas Wesley Oldham</span> 
+ {18270312} 12 Maart 1827 <span style="border-bottom: 2px dotted #00FF00;">Thomas Wesley Oldham</span> 
 
 Inventaris van alle zoodanige goederen en effecten als behooren tot den ab
 	 intestato nagelaten boedel van wylen Thomas Wesley Oldham, zynde dezelve op den
@@ -121653,7 +121763,7 @@ Inventaris van alle zoodanige goederen en effecten als behooren tot den ab
   <tbody>
     <tr>
       <td>Een stuk eeuwig durend erfpachland groot
-		omtrent 7 morgen gelegen tebuiten de garnisoen’s limiten</td>
+		omtrent 7 morgen gelegen te <span style="border-bottom: 2px dotted #FF0000;">Port Elizabeth</span> buiten de garnisoen’s limiten</td>
     </tr>
   </tbody>
 </table>
@@ -122389,7 +122499,7 @@ Inventaris van alle zoodanige goederen en effecten als behooren tot den ab
       <td>een pak duigen</td>
     </tr>
     <tr>
-      <td>een party duigen in schoven by mr J:O: Smith te[niet te verkopen]</td>
+      <td>een party duigen in schoven by mr J:O: Smith te <span style="border-bottom: 2px dotted #FF0000;">Port Elizabeth</span> [niet te verkopen]</td>
     </tr>
     <tr>
       <td>een bondel oude hoepels</td>
@@ -122630,7 +122740,7 @@ Uitstaande crediten des boedels onbekend, doch moet geblyken uit het groot
 	 boek van den overledene.
 
 Voorts ook nog de volgende goederen welke in den boedel zyn gevonden en
-	 toebehoorende zyn aan de kooplieden G: en E: Kemp teaan den overledene ter verkoop gezonden,
+	 toebehoorende zyn aan de kooplieden G: en E: Kemp te <span style="border-bottom: 2px dotted #FF0000;">Bethelsdorp</span> aan den overledene ter verkoop gezonden,
 	 en door G:J: Kemp terug genomen
 
 <table>
@@ -122825,7 +122935,7 @@ Ook nog twee groote vaten met boter welke door de overledene zyn gekocht
 	 geworden van Isaak Meyer voor contant geld, doch niet betaald, en de boter ook
 	 niet gewogen geworden, en alzo niet te behooren tot den boedel als mede ook nog
 	 9 1/2 ellen blaauw laken en vyf ellen swart cassimier zynde restanten van
-	 stukken door John Owen Smith teaan den overledene ter verkoop gezonden.
+	 stukken door John Owen Smith te <span style="border-bottom: 2px dotted #FF0000;">Port Elizabeth</span> aan den overledene ter verkoop gezonden.
 
 Aldus geinventariseerd volgens de gedane op en aangave van de in den
 	 hoofde dezes gemelde persoonen, die by deze verklaren zulks naar hun beste
@@ -122836,7 +122946,7 @@ Aldus geinventariseerd volgens de gedane op en aangave van de in den
 	 te zyn de waar-en-zuiverheid hunnes gedane opgave met solemneele eede te zullen
 	 bevestigen
 
-Aan dein het veldcornetschapdistrictden 12 Maart 1827.
+Aan de <span style="border-bottom: 2px dotted #FF0000;">Krom Rivier</span> in het veldcornetschap <span style="border-bottom: 2px dotted #FF0000;">Gamtoos Rivier</span> district <span style="border-bottom: 2px dotted #FF0000;">Uitenhage</span> den 12 Maart 1827.
 
 Merk van Tho:s Will:m + Stevens, John McConnachie
 
@@ -122844,15 +122954,15 @@ In kennisse van my: J:J:F: Roselt, Agent
 
 ## MOOC8/45.136
 
- {18301224} 24 December 1830 <span style="border-bottom: 2px dotted #008000;">Jasper Danieël Coetzee
-	 Jasperson</span> , <span style="border-bottom: 2px dotted #008000;">Aletta
+ {18301224} 24 December 1830 <span style="border-bottom: 2px dotted #00FF00;">Jasper Danieël Coetzee
+	 Jasperson</span> , <span style="border-bottom: 2px dotted #00FF00;">Aletta
 	 Gertruida Basson</span> 
 
 Sale Wednesday 12:th January 1831
 
-Op plaats van Johannes Hermanus Coetzee genaamd
+Op plaats van Johannes Hermanus Coetzee genaamd <span style="border-bottom: 2px dotted #FF0000;">Witwater</span> 
 
-den 24 December 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Witwater</span> den 24 December 1830
 
 Infantaris van het gesamentlijke boedel, van Jasper Danieël Coetzee
 	 Jasperson en nagebleven huisvrou, Aletta Gertruida Basson.
@@ -122876,8 +122986,8 @@ Infantaris van het gesamentlijke boedel, van Jasper Danieël Coetzee
 <table>
   <tbody>
     <tr>
-      <td>1 slavin <span style="border-bottom: 2px dotted #008000;">Rosa</span> [49 y:s of age,
-		  housemaid] met hare kind <span style="border-bottom: 2px dotted #008000;">Jacob</span> [15 1/2 year] bijde geboren aan dese uithoek</td>
+      <td>1 slavin <span style="border-bottom: 2px dotted #00FF00;">Rosa</span> [49 y:s of age,
+		  housemaid] met hare kind <span style="border-bottom: 2px dotted #00FF00;">Jacob</span> [15 1/2 year] bijde geboren aan dese uithoek</td>
     </tr>
     <tr>
       <td>1 paarde wagen met toebehorde</td>
@@ -123164,7 +123274,7 @@ Lyst van pretensien en lasten des boedels van wylen Jasper Daniel Coetzee
   </tbody>
 </table>
 
-, agterden 12 January 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Witwater</span> , agter <span style="border-bottom: 2px dotted #FF0000;">Piketbergen</span> den 12 January 1831
 
 Aleta G: Coetze
 
@@ -123176,7 +123286,7 @@ H:J:
 
 ## MOOC8/45.137
 
- {18301211} 11 December 1830 <span style="border-bottom: 2px dotted #008000;">Johannes Amsler</span> 
+ {18301211} 11 December 1830 <span style="border-bottom: 2px dotted #00FF00;">Johannes Amsler</span> 
 
 Een gedeelte der nalatenschap van wylen Johannes Amsler door my
 	 ondergetekende als Veldcornet met twee getuigen in berusting gelaten hebbende
@@ -123283,7 +123393,7 @@ Een gedeelte der nalatenschap van wylen Johannes Amsler door my
 Deze bove staande goederen is door my als Veldc:t met twee getuigen ter
 	 plaatze van Ch: D: Ras bevonden
 
-onderden 11:de December 1830
+ <span style="border-bottom: 2px dotted #FF0000;">Brak Rivier</span> onder <span style="border-bottom: 2px dotted #FF0000;">Bokkeveld</span> den 11:de December 1830
 
 Als getuigen: S: Wolfsteen, D:G: Louiy J:z
 
@@ -123291,7 +123401,7 @@ H:C: Nieuwoudt, Veldcor:t
 
 ## MOOC8/45.138
 
- {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #008000;">Johannes Amsler</span> 
+ {YYYY} [ ..... ] <span style="border-bottom: 2px dotted #00FF00;">Johannes Amsler</span> 
 
 Lijst van goedern van wijlen Johannes Amsler
 
@@ -123370,13 +123480,13 @@ Door mijn getekent: Floris Brand s:r
 
 ## MOOC8/45.139
 
- {18310312} 12 March 1831 <span style="border-bottom: 2px dotted #008000;">Louis Nel</span> , <span style="border-bottom: 2px dotted #008000;">Dina Carolina
+ {18310312} 12 March 1831 <span style="border-bottom: 2px dotted #00FF00;">Louis Nel</span> , <span style="border-bottom: 2px dotted #00FF00;">Dina Carolina
 	 Oosthuisen</span> 
 
 A true and perfect inventory of all and every the goods, chattels wares,
 	 etc:a, as well moveable as not debts, credits and other personal effects of the
 	 late Louis Nel and surviving widow Dina Carolina Oosthuisen, which former was
-	 murdered at the placein thein this district on the 28:th June
+	 murdered at the place <span style="border-bottom: 2px dotted #FF0000;">Konka’s Fontein</span> in the <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> in this district on the 28:th June
 	 1828 between the hours of 7 and 8 o clock p:m: and given up as follows,
 	 viz:
 
@@ -123453,7 +123563,7 @@ A true and perfect inventory of all and every the goods, chattels wares,
   </tbody>
 </table>
 
-Thus done and registered in the town ofon Saturday the 12:th day of March 1831, in
+Thus done and registered in the town of <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> on Saturday the 12:th day of March 1831, in
 	 the presence of Hartwig Johannes Luttig and Joseph Kirsner to the statement of
 	 Dina Carolina Oosthuisen widow of said Louis Nel, who declared in her above
 	 statement of the estate to have acted honestly and truly that nothing has been
@@ -123471,22 +123581,22 @@ J:J: Meintjes, A:O:C:
 Copy
 
 On this the 12:th March 1831 appeared before me J:J: Meintjes Agent to the
-	 Orphan Chamber atDina Carolina
-	 Oosthuisen widow of the late Louis Nel, residing at, this district, who states:
+	 Orphan Chamber at <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> Dina Carolina
+	 Oosthuisen widow of the late Louis Nel, residing at <span style="border-bottom: 2px dotted #FF0000;">Zwarteberg</span> , this district, who states:
 
 The articles, namely the waggon, guns and chest mentioned in the inventory
-	 are in the possession of the Field Commandant Redelinghuis of the,district, as I have been informed by a
-	 letter from the Field Commandant Pieter Daniel Jacobs of theof this district.
+	 are in the possession of the Field Commandant Redelinghuis of the <span style="border-bottom: 2px dotted #FF0000;">Nieuwe Hanton</span> , <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> district, as I have been informed by a
+	 letter from the Field Commandant Pieter Daniel Jacobs of the <span style="border-bottom: 2px dotted #FF0000;">Nieuweveld</span> of this district.
 
 The two mares and one horse I have given up in the inventory I have been
-	 obliged to sell for my immediate maintenance after I had escaped from the placewhere my husband had been
+	 obliged to sell for my immediate maintenance after I had escaped from the place <span style="border-bottom: 2px dotted #FF0000;">Konkasfontein</span> where my husband had been
 	 murdered on the 28:th June 1828.
 
 The debt against De Neys is the amount of a butcher’s bill passed by Frans
 	 Caverneels for cattle bought from my husband and the said bill has alse been
 	 taken away amongst my other possessions.
 
-At12:th March 1831
+At <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> 12:th March 1831
 
 Witness (signed): Dina Carolina Oosthuysen w: Nel
 
@@ -123498,13 +123608,13 @@ A true copy: J:J: Meintjes, Orph: Camb: Agent
 
 Copy
 
-den 12:e Maart 1831
+ <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> den 12:e Maart 1831
 
 Myn heer!
 
 Ik heb u edele te melden dat ik door den commandand Redelinghuis van het
-	 district, een brief heb ontvangen,
-	 waarin hy meldt dat door zekere bastaards van deby hem zyn aangebragt, een wagen, en
+	 district <span style="border-bottom: 2px dotted #FF0000;">Worcester</span> , een brief heb ontvangen,
+	 waarin hy meldt dat door zekere bastaards van de <span style="border-bottom: 2px dotted #FF0000;">Groote Rivier</span> by hem zyn aangebragt, een wagen, en
 	 twee schietgeweeren, welke medegevoerd zoude geworden zyn, door den benden die
 	 wylen Louis Nel en zyn kinderen hebben vermoord.
 
@@ -123514,27 +123624,28 @@ P:O: Jacobs
 
 A true copy: J:J: Meintjes, Orph: Chamb: Agent
 
-Den Heer J:J: Meintjes, Agent der Weeskamer
+Den Heer J:J: Meintjes, Agent der Weeskamer <span style="border-bottom: 2px dotted #FF0000;">Beaufort</span> 
 
 ## MOOC8/45.140
 
- {18270815} 15 August 1827 <span style="border-bottom: 2px dotted #008000;">Robert Price</span> 
+ {18270815} 15 August 1827 <span style="border-bottom: 2px dotted #00FF00;">Robert Price</span> 
 
 J: Mostert
 
 Inventory of property belonging to the intestate estate of Robert Price
-	 who died without issue atin the
-	 district ofin August 1826.
+	 who died without issue at <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> in the
+	 district of <span style="border-bottom: 2px dotted #FF0000;">Albany</span> in August 1826.
 
-N:B: The deceased was born in,
-	 in the county of,, and was formerly a serjeant in H:M:’s
+N:B: The deceased was born in <span style="border-bottom: 2px dotted #FF0000;">Shrewsbury</span> ,
+	 in the county of <span style="border-bottom: 2px dotted #FF0000;">Shropshire</span> , <span style="border-bottom: 2px dotted #FF0000;">England</span> , and was formerly a serjeant in H:M:’s
 	 21:st Light Dragoons
 
 <table>
   <thead><tr><td colspan='100%'>Immovable property</td></tr></thead>
   <tbody>
     <tr>
-      <td>An erf in, not built upon and unenclosed</td>
+      <td>An erf in <span style="border-bottom: 2px dotted #FF0000;">Grahams
+		Town</span> , not built upon and unenclosed</td>
     </tr>
   </tbody>
 </table>
@@ -123551,7 +123662,7 @@ N:B: The deceased was born in,
 Thus done and inventory taken this fifteenth day of August one thousand
 	 eight hundred and twenty seven.
 
-15:th Aug:st 1827
+ <span style="border-bottom: 2px dotted #FF0000;">Grahams Town</span> 15:th Aug:st 1827
 
 Daniel J: Cloete, Agent in Albany
 
