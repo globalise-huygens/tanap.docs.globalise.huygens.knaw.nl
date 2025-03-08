@@ -7,8 +7,8 @@ On this website, the [GLOBALISE project](https://globalise.huygens.knaw.nl/) pre
 ## Branches
 
 - The main branch contains the files that Material for MkDocs processes to generate the static site.
-- The gh-pages branch contains the static site.
-- The source-files branch contains the files shared by the National Archives of the Netherlands in January 2025, a script that converts these to Markdown format, and a 2018 Web Archive image of the former TANAP website.
+- The [gh-pages branch](https://github.com/globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/tree/gh-pages) contains the static site.
+- The [source-files branch](https://github.com/globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/tree/source-files) contains the files shared by the National Archives of the Netherlands in January 2025, a script that converts these to Markdown format, and a 2018 Web Archive image of the former TANAP website.
 
 ## Development
 These static pages are generated with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) using a GitHub Action on every push (see the [`gh-pages`](https://github.com/globalise-huygens/docs.globalise.huygens.knaw.nl/tree/gh-pages) branch). For local development, follow the instructions below.
