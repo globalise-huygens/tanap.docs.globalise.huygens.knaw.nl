@@ -1,5 +1,7 @@
 # TANAP Transcriptions
 
+The TANAP website previously featured a substantial collection of transcriptions of VOC-related documents from the Cape Town Archives Repository in South Africa. These transcriptions are now presented below. Additional transcriptions concerning the VOC history of the Cape area are available for purchase on a data carrier through the Tracing History Trust: [https://tracinghistorytrust.co.za/products.htm](https://tracinghistorytrust.co.za/products.htm).
+
 ## Orphan Chamber
 
 The links below point to transcriptions of papers from deceased estates administered by the Orphan Chamber at the Cape, created by the TEPC Transcription Project (2004-2008), executed in the Western Cape Archives and Records Service in Cape Town. Please consult the [Introduction by the TEPC Transcription Team](pdf/introduction_to_the_inventories_of_the_orphan_chamber.pdf) for more information.

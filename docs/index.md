@@ -18,7 +18,7 @@ On this website, the [GLOBALISE project](https://globalise.huygens.knaw.nl/) pre
 - [Archival inventories of VOC-related collections worldwide](archival-inventories/index.md)
 - [Settlement reconstructions, listing VOC archival materials related to specific settlements](settlement-reconstructions/index.md)
 - [Cape of Good Hope transcriptions, a collection of manually transcribed documents from the Orphan Chamber and Council of Policy](cape-transcriptions/index.md)
-- [A Web Archive snapshot of the TANAP website from 2018 for local browsing](static/tanap-website.zip)
+- [A Web Archive snapshot of the TANAP website from 2018 for local browsing](static/tanap-website.zip) (c.65 MB)
 
 ## TANAP
 

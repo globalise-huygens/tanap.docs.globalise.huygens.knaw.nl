@@ -37,6 +37,8 @@ plugins:
   - git-revision-date-localized
 extra_css:
   - stylesheets/extra.css
+extra:
+  generator: false
 
 copyright: <p>
   <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License"
