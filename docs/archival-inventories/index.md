@@ -1,8 +1,8 @@
 # TANAP Archival Inventories
 
-# I. Archives of the VOC Management in the Netherlands
+## I. Archives of the VOC Management in the Netherlands
 
-### 1\. Record Groups in the Nationaal Archief (The Hague, the Netherlands)
+#### 1\. Record Groups in the Nationaal Archief (The Hague, the Netherlands)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -19,11 +19,11 @@
 
 - - -
 
-# II. Archives of the VOC Management in the Trade Zone
+## II. Archives of the VOC Management in the Trade Zone
 
-## A. Archives of the Central Administration in Batavia
+### A. Archives of the Central Administration in Batavia
 
-### 1\. Record Groups in the Arsip Nasional Republik Indonesia (Jakarta, Indonesia)
+#### 1\. Record Groups in the Arsip Nasional Republik Indonesia (Jakarta, Indonesia)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -32,16 +32,16 @@
 |     | [Raad van Justitie](pdf/Jakarta_RaadvanJustitie.pdf) | 1620-1809 |
 |     | [Generale Rekenkamer](pdf/Jakarta_AlgemeneRekenkamer.pdf) | n/a |
 
-### 2\. Record Groups in the Nationaal Archief (The Hague. the Netherlands)
+#### 2\. Record Groups in the Nationaal Archief (The Hague. the Netherlands)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | 1.04.17 | [Hoge Regering te Batavia](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.17) | 1602-1827 |
 | 1.04.18.02 | [Boekhouder-Generaal te Batavia](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.18.02) | 1700-1801 |
 
-## B. Archives of the Local Management in the Trade Zone
+### B. Archives of the Local Management in the Trade Zone
 
-### 1\. Record Groups in the Arsip Nasional Republik Indonesia (Jakarta, Indonesia)
+#### 1\. Record Groups in the Arsip Nasional Republik Indonesia (Jakarta, Indonesia)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -57,7 +57,7 @@
 |     | Gewestelijke archieven | n/a |
 |     | [Amphioensociëteit](pdf/Jakarta_Amphioensocieteit.pdf) | n/a |
 
-### 2\. Record Groups in the National Archives of Sri Lanka (Colombo, Sri Lanka)
+#### 2\. Record Groups in the National Archives of Sri Lanka (Colombo, Sri Lanka)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@
 | lot 1 | [Dutch Government in the divisions of Galle (Matara) and Jaffnapatnam](https://web.archive.org/web/20180715103350/http:/databases.tanap.net/ead/html/Colombo_Mottau/index.html) | 1640-1796 |
 | lot 1 | Loose unconnected papers found among the Dutch Archives | 1640-1796 |
 
-### 3\. Record Groups in the Tamil Nadu Archives (Chennai, India)
+#### 3\. Record Groups in the Tamil Nadu Archives (Chennai, India)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -73,7 +73,7 @@
 |     | [VOC Establishments Malabar, Coromandel, Surat and Bengal (English Edition)](pdf/Chennai_DutchRecordsENG.pdf) | 1664-1825 |
 |     | [Dutch Records ("Presslist 1916/1922")](pdf/Chennai_DutchRecordsPresslist.pdf) | 1664-1825 |
 
-### 4\. Record Groups in the Cape Town Archives Repository (Cape Town, South Africa)
+#### 4\. Record Groups in the Cape Town Archives Repository (Cape Town, South Africa)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -99,19 +99,19 @@
 | 5/4/6 | [Lodge _De Goede Hoop_](pdf/CapeTown_5.4.6.pdf) | 1772-1990 |
 | 5/16/15 | [Evangelical Lutheran Church](pdf/CapeTown_5.16.15.pdf) | 1780-1907 |
 
-### 5\. Record Groups in the British Library (London, United Kingdom)
+#### 5\. Record Groups in the British Library (London, United Kingdom)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | R/5 | [Dutch Records from Malacca in the India Office Record ("Malacca Political Council, Court of Justice, and Orphan Chamber")](https://web.archive.org/web/20180623024937/http:/databases.tanap.net/ead/html/LondonBL_DutchRecordsMalacca/index.html) |     | c1685-1835 |
 
-### 6\. Record Groups in the Arkib Negara Malaysia (Kuala Lumpur, Malaysia)
+#### 6\. Record Groups in the Arkib Negara Malaysia (Kuala Lumpur, Malaysia)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 |     | [Dutch Reformed Church in Malacca](pdf/KualaLumpur_DutchReformedChurch.pdf) | 1642-1825 |
 
-### 7\. Record Groups in the Nationaal Archief (The Hague, the Netherlands)
+#### 7\. Record Groups in the Nationaal Archief (The Hague, the Netherlands)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -124,27 +124,27 @@
 
 - - -
 
-# III. VOC Records in Private Papers
+## III. VOC Records in Private Papers
 
-## 1\. Records in the Arsip Nasional Republik Indonesia (Jakarta, Indonesia)
+### 1\. Records in the Arsip Nasional Republik Indonesia (Jakarta, Indonesia)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 |     | [Engelhard Collectie](pdf/Jakarta_Engelhard.pdf) | 1764-1972 |
 
-## 2\. Records in the Cape Town Archives Repository (Cape Town, South Africa)
+### 2\. Records in the Cape Town Archives Repository (Cape Town, South Africa)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | 8/2 | [Leibbrandt Manuscript Series](pdf/CapeTown_8.2.pdf) | 1651-1898 |
 
-## 3\. Records in the British Library (London, United Kingdom)
+### 3\. Records in the British Library (London, United Kingdom)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 |     | Mackenzie Private Collection |     |     |
 
-## 4\. Records in Collections in the Nationaal Archief (The Hague, the Netherlands)
+### 4\. Records in Collections in the Nationaal Archief (The Hague, the Netherlands)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -211,15 +211,15 @@
 
 - - -
 
-# IV. VOC Records in Other Collections
+## IV. VOC Records in Other Collections
 
-## 1\. Record in the collections in the Cape Town Arcives Repository (Cape Town, South Africa)
+### 1\. Record in the collections in the Cape Town Arcives Repository (Cape Town, South Africa)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | 8/5 | Miscellaneous Documents |     | 1654-1901 |
 
-## 2\. Record in the collections in the Nationaal Archief (The Hague, the Netherlands)
+### 2\. Record in the collections in the Nationaal Archief (The Hague, the Netherlands)
 
 |     |     |     |     |
 | --- | --- | --- | --- |
