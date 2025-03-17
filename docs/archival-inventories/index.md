@@ -11,7 +11,7 @@
 | 2.01.27.01 | [Comité tot de Oost-Indische Handel en Bezittingen](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.01) | 1796-1800 |
 | 2.01.27.02 | [Raad der Aziatische Bezittingen en Etablissementen](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.02) | 1800-1806 |
 | 2.01.27.03 | [Ministerie van Koophandel en Koloniën en Ministerie van Marine en Koloniën](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.03) | 1806-1808  <br>1808-1810 |
-| 2.01.27.04 | [Uit Engeland overgekomen stukken](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.04.pdf | 1791-1797 |
+| 2.01.27.04 | [Uit Engeland overgekomen stukken](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.04) | 1791-1797 |
 | 2.01.27.05 | [Hollandse Divisie bij het Ministerie van Marine en Koloniën te Parijs](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.05) | 1810-1814 |
 | 2.01.27.06 | [Comptabiliteit betreffende Oost-Indische bezittingen en koloniën](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.06) | 1795-1813 |
 | 2.01.27.07 | [Oost-Indische troepen](https://www.nationaalarchief.nl/onderzoeken/archief/2.01.27.07) | 1796-1807 |
