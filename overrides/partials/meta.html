@@ -20,9 +20,17 @@
 <meta name="twitter:title" content="{{ page_title }}">
 <meta name="twitter:description" content="{{ page_description }}">
 
-{# Optional: Schema.org structured data if front matter contains schema block #}
-{% if page.meta.schema %}
-<script type="application/ld+json">
-{{ page.meta.schema | tojson(indent=2) }}
-</script>
+{% if page.meta and page.meta.schema %}
+  {% set schema_data = page.meta.schema %}
+  {% if schema_data is mapping %}
+    <script type="application/ld+json">
+    {{ schema_data | tojson(indent=2) }}
+    </script>
+  {% else %}
+    {# If it's a string, try parsing as YAML/JSON #}
+    {% set parsed = schema_data | fromyaml %}
+    <script type="application/ld+json">
+    {{ parsed | tojson(indent=2) }}
+    </script>
+  {% endif %}
 {% endif %}
