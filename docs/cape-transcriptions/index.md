@@ -1,3 +1,26 @@
+---
+title: TANAP Cape of Good Hope Transcriptions
+description: Overview of transcriptions from the Council of Policy and Orphan Chamber archives at the Cape of Good Hope (1651–1840), created by the TEPC and TANAP Transcription Projects.
+schema:
+  "@context": "https://schema.org"
+  "@type": "CollectionPage"
+  name: "TANAP Cape of Good Hope Transcriptions"
+  description: "Overview of transcriptions from the Council of Policy and Orphan Chamber archives at the Cape of Good Hope (1651–1840), created by the TEPC and TANAP Transcription Projects."
+  url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/"
+  provider:
+    "@type": "Organization"
+    name: "Huygens Institute / GLOBALISE"
+    url: "https://globalise.huygens.knaw.nl/"
+  hasPart:
+    - "@type": "Collection"
+      name: "Council of Policy Transcriptions"
+      url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#council-of-policy/"
+    - "@type": "Collection"
+      name: "Orphan Chamber Transcriptions"
+      url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#orphan-chamber/"
+---
+
+
 # TANAP Transcriptions
 
 The TANAP website previously featured a substantial collection of transcriptions of VOC-related documents from the Cape Town Archives Repository in South Africa. These transcriptions are now presented below. Additional transcriptions concerning the VOC history of the Cape area are available for purchase on a data carrier through the Tracing History Trust: [https://tracinghistorytrust.co.za/products.htm](https://tracinghistorytrust.co.za/products.htm).
@@ -98,8 +121,8 @@ Chronologically the digitization process happened as follows:
 - [C048](Council-of-Policy/TKF3_C041-C050/C048_v1.20.md)
 - [C049](Council-of-Policy/TKF3_C041-C050/C049_v1.20.md)
 - [C050](Council-of-Policy/TKF3_C041-C050/C050_v1.20.md)
-- [C051_3-94.md](Council-of-Policy/TKF3_C051-C060/C051_v1.20_3-94.md)
-- [C051_95-115.md](Council-of-Policy/TKF3_C051-C060/C051_v1.20_95-115.md)
+- [C051_3-94](Council-of-Policy/TKF3_C051-C060/C051_v1.20_3-94.md)
+- [C051_95-115](Council-of-Policy/TKF3_C051-C060/C051_v1.20_95-115.md)
 - [C052](Council-of-Policy/TKF3_C051-C060/C052_v1.20.md)
 - [C053](Council-of-Policy/TKF3_C051-C060/C053_v1.20.md)
 - [C054](Council-of-Policy/TKF3_C051-C060/C054_v1.20.md)

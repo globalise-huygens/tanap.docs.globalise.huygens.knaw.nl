@@ -1,3 +1,20 @@
+---
+title: "Orphan Chamber Record – MOOC8"
+description: "Transcription of Orphan Chamber Record – MOOC8 from the Cape of Good Hope."
+document_id: "MOOC8"
+date: 1690-1840
+location: "Cape of Good Hope"
+language: "nl"
+
+schema:
+  "@context": "https://schema.org"
+  "@type": "CreativeWork"
+  about: "VOC transcription"
+  spatialCoverage: "Cape of Good Hope"
+  inLanguage: "nl"
+  dateCreated: "1690-1840"
+---
+
 ## MOOC8/1.1
 
  {16731020} 20 October
