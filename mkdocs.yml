@@ -36,11 +36,6 @@ markdown_extensions:
 plugins:
   - search # necessary for search to work
   - git-revision-date-localized
-  - seo:
-      site_url: "https://docs.globalise.huygens.knaw.nl/tanap/"
-      description: "Digitized archival resources from the TANAP project, made accessible through the GLOBALISE project."
-      lang: "en"
-      author: "GLOBALISE / Huygens Institute"
 extra_css:
   - stylesheets/extra.css
 extra:
