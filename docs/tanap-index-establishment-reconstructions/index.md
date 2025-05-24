@@ -10,14 +10,14 @@ The TANAP index has remained accessible through the [*Overgekomen Brieven en Pap
 
 The OBP volumes are part of the [VOC archives that are kept by the Dutch National Archives](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02). They comprise of documents that were sent from the central administration of the VOC in Batavia to the Netherlands. Because the Gentlemen XVII alternately met in Amsterdam and Middelburg (the capital of Zeeland), copies were sent to both the Amsterdam office (the Amsterdam Chamber) and the Zeeland office (the Zeeland Chamber). This resulted in the creation of two different archives. Consequently, they are kept as two separate series and can be found here:
 
-### The OBP of the Amsterdam Chamber:  
+### The OBP of the Amsterdam Chamber  
 
 - [Deel I/E.5.a Overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/%40Deel%20I~Deel%20I%7C%7CE~Deel%20I%7C%7CE.5~Deel%20I%7C%7CE.5.a)  
 - [Deel I/E.5.b Overgekomen brieven en papieren uit Kaap de Goede Hoop aan de Heren XVII en de kamer Amsterdam](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/%40Deel%20I~Deel%20I%7C%7CE~Deel%20I%7C%7CE.5~Deel%20I%7C%7CE.5.b)  
 - [Deel I/E.5.c Overgekomen brieven en papieren uit China aan de Heren XVII, de kamer Amsterdam en de Chinase commissie](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/%40Deel%20I~Deel%20I%7C%7CE~Deel%20I%7C%7CE.5~Deel%20I%7C%7CE.5.c)  
 - [ Deel I/E.5.d Inhoudsopgaven op de overgekomen brieven en papieren uit Indië aan de Heren XVII en de kamer Amsterdam](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/%40Deel%20I~Deel%20I%7C%7CE~Deel%20I%7C%7CE.5~Deel%20I%7C%7CE.5.d) 
 
-### The OBP of the Zeeland Chamber: 
+### The OBP of the Zeeland Chamber 
 
 - [Deel II/E Ingekomen stukken van Gouverneur-Generaal en Raden bij de Heren XVII en de kamer Zeeland](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/%40Deel%20II~Deel%20II%7C%7CE)  
 - [Deel II/F Ingekomen stukken van de Raad van Justitie in Batavia bij de Heren XVII en de kamer Zeeland](https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/%40Deel%20II~Deel%20II%7C%7CF)  
@@ -51,7 +51,7 @@ By digitizing the typescripts for the inventory numbers of the Amsterdam Chamber
 | Deel II/F Ingekomen stukken van de Raad van Justitie in Batavia bij de Heren XVII en de kamer Zeeland                | 9192-9540                  |                             | 9192-9540                       |                                             |
 | Deel II/G Ingekomen stukken van de kantoren in Indië bij de Heren XVII en de kamer Zeeland                           | 9541-11024                 | 10406-10435                 | 9541-10405; <br>10436-11024     |                                             |
 
-![Chart showing the coverage of the TANAP index and digitized typescripts](/docs/static/img/chart-tanap-typescript.png)
+![Chart showing the coverage of the TANAP index and digitized typescripts](https://docs.globalise.huygens.knaw.nl/tanap/static/img/chart-tanap-typescript.png)
 
 ## TANAP establishment reconstructions
 
@@ -63,7 +63,7 @@ The reconstructions are based on the VOC main establishments: establishments whe
 
 One exception is Batavia ressort, which is not a VOC main establishment. The reconstruction of Batavia ressort mainly consists of correspondence between the area surrounding Batavia and the central administration in Batavia. It should, therefore, be part of the reconstruction of Batavia. However, because the VOC kept these documents separate when sending them to the Dutch Republic, they have been arranged separately in a TANAP establishment reconstruction as well.
 
-### List of available establishment reconstructions:
+### List of available establishment reconstructions
 
 - [Ambon](pdf/6E02F776C3DAEECB1D80CAB35D477E50.pdf)
 - [Arakan](pdf/E2CC07D1C7DA9438B390031F7BA16C41.pdf)
