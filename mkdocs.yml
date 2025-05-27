@@ -5,7 +5,6 @@ site_url: "https://docs.globalise.huygens.knaw.nl/tanap/"
 
 theme:
   name: material
-  # custom_dir: overrides
   # logo: static/img/logo/globalise_g.svg
   favicon: static/img/logo/globalise_g.svg
   #icon:
