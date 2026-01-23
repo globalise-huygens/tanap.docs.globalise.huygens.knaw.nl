@@ -1,6 +1,6 @@
 # TANAP Index and Establishment Reconstructions
 
-**Author:** Renate Smit
+**Author:** Renate Smit  
 **Date:** 24 May 2025
 
 ## Introduction to the TANAP index
