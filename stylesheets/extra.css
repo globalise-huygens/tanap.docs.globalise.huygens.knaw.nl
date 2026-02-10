@@ -66,8 +66,3 @@ body {
       max-width: 75%;
   }
 }
-
-.md-search-fuzzy mark {
-  border-radius: 4px;
-  padding: 0 2px;
-}
