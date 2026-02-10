@@ -1,0 +1,15 @@
+# Enable mod_deflate for gzip compression
+<IfModule mod_deflate.c>
+  # Compress HTML, CSS, JavaScript, and JSON
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+  
+  # Compress SVG
+  AddOutputFilterByType DEFLATE image/svg+xml
+  
+  # Ensure older browsers decompress correctly
+  DeflateCompressionLevel 6
+  
+  <IfModule mod_headers.c>
+    Header append Vary Accept-Encoding
+  </IfModule>
+</IfModule>
