@@ -21,7 +21,7 @@ nav:
   - "TANAP Archival Inventories": archival-inventories/index.md
   - "TANAP Index and Establishment Reconstructions": tanap-index-establishment-reconstructions/index.md
   - "TANAP Cape of Good Hope Transcriptions": cape-transcriptions/index.md
-
+  
 markdown_extensions:
   - toc:
       permalink: True
@@ -37,9 +37,6 @@ plugins:
   - git-revision-date-localized
 extra_css:
   - stylesheets/extra.css
-extra_javascript:
-  - https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js
-  - javascripts/fuzzy-search.js
 extra:
   generator: false
 
