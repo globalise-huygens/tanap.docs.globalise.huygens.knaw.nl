@@ -173,7 +173,6 @@ Chronologically the digitization process happened as follows:
 - [C068](Council-of-Policy/TKF3_C061-C070/C068_v1.20.md)
 - [C069](Council-of-Policy/TKF3_C061-C070/C069_v1.20.md)
 - [C070](Council-of-Policy/TKF3_C061-C070/C070_v1.20.md)
-- [C070](Council-of-Policy/TKF3_C071-C080/C070_v1.20.md)
 - [C071](Council-of-Policy/TKF3_C071-C080/C071_v1.20.md)
 - [C072](Council-of-Policy/TKF3_C071-C080/C072_v1.20.md)
 - [C073](Council-of-Policy/TKF3_C071-C080/C073_v1.20.md)
