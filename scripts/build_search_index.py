@@ -200,7 +200,7 @@ def volume_group(rel: str) -> str:
     return rel.split("/")[2].removeprefix("TKF3_").replace("-", "–")
 
 
-def mooc_items(rel: str) -> str:
+def mooc_volumes(rel: str) -> str:
     """cape-transcriptions/Orphan-Chamber/MOOC8/MOOC8_1-5/... -> 'MOOC8/1–5'."""
     return rel.split("/")[3].replace("_", "/").replace("-", "–")
 
@@ -253,7 +253,7 @@ async def build_collection_index(
                 content = with_filters(page, {"Volumes": volume_group(rel)})
                 await index.add_html_file(content=content, url=page_url(rel))
             else:
-                records = item_records(page, page_url(rel), {"Items": mooc_items(rel)})
+                records = item_records(page, page_url(rel), {"Volumes": mooc_volumes(rel)})
                 for url, content in records:
                     await index.add_html_file(content=content, url=url)
 

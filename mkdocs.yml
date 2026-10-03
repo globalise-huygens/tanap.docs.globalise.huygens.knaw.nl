@@ -2,6 +2,7 @@ site_name: TANAP resources
 repo_name: "globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/"
 repo_url: "https://github.com/globalise-huygens/tanap.docs.globalise.huygens.knaw.nl/"
 site_url: "https://docs.globalise.huygens.knaw.nl/tanap/"
+site_description: "Archival inventories, the TANAP index and establishment reconstructions, and Cape of Good Hope transcriptions from the former TANAP website, presented by GLOBALISE."
 
 theme:
   name: material
@@ -34,6 +35,8 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.details
   - footnotes
+hooks:
+  - hooks/seo.py
 plugins:
   # Material's built-in search is replaced by Pagefind, built after
   # `mkdocs build` by scripts/build_search_index.py

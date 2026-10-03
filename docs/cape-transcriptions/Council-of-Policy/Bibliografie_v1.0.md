@@ -1,3 +1,8 @@
+---
+title: Bibliography – Resolutions of the Council of Policy, Cape of Good Hope
+description: Bibliography of reference works, mainly dictionaries and encyclopaedias, for the Resolutions of the Council of Policy of the Cape of Good Hope.
+---
+
 ## Bibliography
 - Badings, A.H.L. *Woordenboek voor de Zee vaart in het Hollandsch-Maleisch-Fransch-Engelsch, met Verklarenden Hollandschen Tekst.* Schoonhoven,  1880.
 - Bosman, D.B. *Daghregister gehouden bij den Oppercoopman Jan Antonisz van Riebeeck. Drie dele.* Kaapstad, Van Riebeeck Vereniging, 1952, 1955 en 1957.

@@ -1,3 +1,7 @@
+---
+description: Inventories of VOC-related record groups and collections in archives in the Netherlands, Indonesia, Sri Lanka, India, South Africa, the United Kingdom and Malaysia, with links to the inventories.
+---
+
 # TANAP Archival Inventories
 
 ## I. Archives of the VOC Management in the Netherlands

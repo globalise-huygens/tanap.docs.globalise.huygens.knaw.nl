@@ -1,9 +1,13 @@
+---
+description: Archival inventories, the TANAP index and establishment reconstructions, and Cape of Good Hope transcriptions from the former TANAP website, on the archives of the Dutch East India Company (VOC), presented by GLOBALISE.
+---
+
 <!-- ---
 hide:
   - toc
 --- -->
 
-# Home 
+# TANAP resources
 
 <!-- ![GLOBALISE G](static/img/logo/globalise_g.svg) -->
 <p style="display: flex; justify-content: center; align-items: center; gap: 100px; text-align: center;">

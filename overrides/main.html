@@ -1,5 +1,21 @@
 {% extends "base.html" %}
 
+{#- The site name alone says little in search results -#}
+{% block htmltitle %}
+  {% if page and page.is_homepage %}
+    <title>{{ config.site_name }}: VOC archival inventories, indexes and Cape of Good Hope transcriptions</title>
+  {% else %}
+    {{ super() }}
+  {% endif %}
+{% endblock %}
+
+{#- schema.org metadata from the front matter (see hooks/seo.py) -#}
+{% block extrahead %}
+  {% if page and page.meta and page.meta.schema %}
+    <script type="application/ld+json">{{ page.meta.schema | tojson }}</script>
+  {% endif %}
+{% endblock %}
+
 {#-
   Search is provided by Pagefind (see scripts/build_search_index.py and
   docs/javascripts/search.js) instead of Material's built-in search, whose

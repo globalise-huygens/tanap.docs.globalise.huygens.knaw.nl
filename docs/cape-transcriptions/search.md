@@ -7,7 +7,7 @@ hide:
 
 # Search the Cape of Good Hope transcriptions
 
-Search the full text of the [Cape of Good Hope transcriptions](index.md), one collection at a time. Use the filters to narrow the results down to specific volumes or items.
+Search the full text of the [Cape of Good Hope transcriptions](index.md), one collection at a time. Use the filters to narrow the results down to specific volumes.
 
 Search tips:
 
