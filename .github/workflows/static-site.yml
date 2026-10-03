@@ -24,4 +24,11 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install -r requirements.txt 
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build
+      # Pagefind search indexes; the cached .cache/pdf-text speeds up PDF extraction
+      - run: python scripts/build_search_index.py site
+      - name: Deploy to gh-pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          ghp-import --no-jekyll --push --force --message "Deployed ${GITHUB_SHA::7} with MkDocs and Pagefind" site

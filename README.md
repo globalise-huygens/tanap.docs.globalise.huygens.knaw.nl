@@ -37,5 +37,22 @@ Building the site can be done with:
 $ mkdocs build
 ```
 
+#### Search
+
+Search uses [Pagefind](https://pagefind.app/) instead of the built-in MkDocs search, so that visitors only download the parts of the index they need. The indexes are built after `mkdocs build`, and are not available in `mkdocs serve`. To try search locally:
+
+```bash
+$ mkdocs build
+$ python scripts/build_search_index.py
+$ python -m http.server -d site
+```
+
+The script builds three separate indexes in `site/pagefind/`:
+
+- `site`: all pages except the transcriptions, plus the text of the PDFs linked from the pages (opened from the search button in the header);
+- `council-of-policy` and `orphan-chamber`: the Cape of Good Hope transcriptions, searched on the [transcription search page](docs/cape-transcriptions/search.md).
+
+Extracting the PDF text takes a few minutes the first time; the result is cached in `.cache/pdf-text/`. The GitHub Action runs the same steps before deploying to the `gh-pages` branch.
+
 
 

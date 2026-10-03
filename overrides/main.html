@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{#-
+  Search is provided by Pagefind (see scripts/build_search_index.py and
+  docs/javascripts/search.js) instead of Material's built-in search, whose
+  single index became too large once the transcriptions were added.
+-#}
+{% block scripts %}
+  <dialog class="tanap-search-dialog" aria-label="Search this site">
+    <div class="tanap-search-dialog__head">
+      <span class="tanap-search-dialog__title">Search this site</span>
+      <button type="button" class="md-icon tanap-search-close" aria-label="Close" title="Close">
+        {% include ".icons/material/close.svg" %}
+      </button>
+    </div>
+    <p class="tanap-search-dialog__note">
+      Searches the pages of this site and the PDFs linked from them.
+      To search the Cape of Good Hope transcriptions, use the
+      <a href="{{ 'cape-transcriptions/search/' | url }}">transcription search</a>.
+    </p>
+    <div class="tanap-site-search"></div>
+  </dialog>
+  <script>window.tanapSiteRoot = "{{ base_url }}/";</script>
+  {{ super() }}
+{% endblock %}
