@@ -66,3 +66,137 @@ body {
       max-width: 75%;
   }
 }
+
+/* Pagefind search (docs/javascripts/search.js) */
+
+:root {
+  --pagefind-ui-scale: 0.8;
+  --pagefind-ui-primary: var(--md-primary-fg-color);
+  --pagefind-ui-text: var(--md-typeset-color);
+  --pagefind-ui-background: var(--md-default-bg-color);
+  --pagefind-ui-border: var(--md-default-fg-color--lightest);
+  --pagefind-ui-tag: var(--md-default-fg-color--lightest);
+  --pagefind-ui-font: var(--md-text-font-family);
+}
+
+.tanap-search-dialog {
+  width: min(48rem, calc(100vw - 2rem));
+  max-height: calc(100vh - 4rem);
+  margin: 2rem auto auto;
+  padding: 1rem 1.2rem;
+  border: none;
+  border-radius: 0.2rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  box-shadow: var(--md-shadow-z3);
+}
+
+.tanap-search-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.54);
+}
+
+.tanap-search-dialog__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tanap-search-dialog__title {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.tanap-search-close {
+  padding: 0.2rem;
+  border: none;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.tanap-search-close svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  fill: currentColor;
+}
+
+.tanap-search-dialog__note {
+  margin: 0.4rem 0 1rem;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.tanap-search-dialog__note a {
+  color: var(--md-typeset-a-color);
+}
+
+.tanap-tabs {
+  display: flex;
+  gap: 0.2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid var(--md-default-fg-color--lightest);
+}
+
+.tanap-tabs [role=tab] {
+  margin-bottom: -2px;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: var(--md-default-fg-color--light);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.tanap-tabs [role=tab][aria-selected=true] {
+  border-bottom-color: var(--md-primary-fg-color);
+  color: var(--md-typeset-color);
+}
+
+/* Undo Material's typeset list styles inside the Pagefind results */
+.md-typeset .pagefind-ui ul,
+.md-typeset .pagefind-ui ol {
+  margin: 0;
+  padding: 0;
+}
+
+.md-typeset .pagefind-ui li {
+  margin-left: 0;
+}
+
+/* Undo Material's styling of <details> (collapsible admonitions) for the
+   Pagefind filters; Pagefind draws its own chevron in summary::after */
+.md-typeset .pagefind-ui details {
+  margin: 0;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: none;
+  font-size: inherit;
+  overflow: visible;
+}
+
+.md-typeset .pagefind-ui details > :last-child {
+  margin-bottom: 0;
+}
+
+.md-typeset .pagefind-ui summary {
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  background: none;
+}
+
+.md-typeset .pagefind-ui summary::before {
+  content: none;
+}
+
+.md-typeset .pagefind-ui summary::after {
+  background-color: transparent;
+  -webkit-mask-image: none;
+  mask-image: none;
+  transition: none;
+}
