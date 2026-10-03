@@ -1,23 +1,51 @@
 ---
 title: TANAP Cape of Good Hope Transcriptions
-description: Overview of transcriptions from the Council of Policy and Orphan Chamber archives at the Cape of Good Hope (1651–1840), created by the TEPC and TANAP Transcription Projects.
+description: Transcriptions of the Resolutions of the Council of Policy (1651–1795) and of estate papers of the Orphan Chamber (1673–1844) at the Cape of Good Hope, created by the TANAP and TEPC Transcription Projects.
 schema:
   "@context": "https://schema.org"
   "@type": "CollectionPage"
   name: "TANAP Cape of Good Hope Transcriptions"
-  description: "Overview of transcriptions from the Council of Policy and Orphan Chamber archives at the Cape of Good Hope (1651–1840), created by the TEPC and TANAP Transcription Projects."
+  description: "Transcriptions of the Resolutions of the Council of Policy (1651–1795) and of estate papers of the Orphan Chamber (1673–1844) at the Cape of Good Hope, created by the TANAP and TEPC Transcription Projects."
   url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/"
-  provider:
+  provider: &provider
     "@type": "Organization"
     name: "Huygens Institute / GLOBALISE"
     url: "https://globalise.huygens.knaw.nl/"
   hasPart:
-    - "@type": "Collection"
-      name: "Council of Policy Transcriptions"
-      url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#council-of-policy/"
-    - "@type": "Collection"
-      name: "Orphan Chamber Transcriptions"
-      url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#orphan-chamber/"
+    - "@type": "Dataset"
+      "@id": "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#council-of-policy"
+      url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#council-of-policy"
+      name: "Resolutions of the Council of Policy of the Cape of Good Hope: transcriptions"
+      description: "Full-text transcriptions of the Resolutions of the Council of Policy, the highest authority of the Dutch East India Company (VOC) at the Cape of Good Hope, 1651–1795. Transcribed, edited and tagged with person, place and ship names and dates by the TANAP Transcription Project (2001–2003), and converted to Markdown by the GLOBALISE project."
+      creator:
+        "@type": "Organization"
+        name: "TANAP Transcription Project"
+      provider: *provider
+      publisher: *provider
+      temporalCoverage: "1651/1795"
+      spatialCoverage: &cape
+        "@type": "Place"
+        name: "Cape of Good Hope"
+      inLanguage: "nl"
+      keywords: ["VOC", "Dutch East India Company", "Cape of Good Hope", "Council of Policy", "resolutions", "colonial history", "transcriptions"]
+      isAccessibleForFree: true
+      license: &license "https://creativecommons.org/publicdomain/zero/1.0/"
+    - "@type": "Dataset"
+      "@id": "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#orphan-chamber"
+      url: "https://docs.globalise.huygens.knaw.nl/tanap/cape-transcriptions/#orphan-chamber"
+      name: "Orphan Chamber of the Cape of Good Hope: transcriptions of estate papers"
+      description: "Full-text transcriptions of papers from deceased estates administered by the Orphan Chamber at the Cape of Good Hope (series MOOC8), 1673–1844, including inventories of testators and enslaved persons. Created by the TEPC Transcription Project (2004–2008) in the Western Cape Archives and Records Service, and converted to Markdown by the GLOBALISE project."
+      creator:
+        "@type": "Organization"
+        name: "TEPC Transcription Project"
+      provider: *provider
+      publisher: *provider
+      temporalCoverage: "1673/1844"
+      spatialCoverage: *cape
+      inLanguage: "nl"
+      keywords: ["VOC", "Dutch East India Company", "Cape of Good Hope", "Orphan Chamber", "estate inventories", "slavery", "transcriptions"]
+      isAccessibleForFree: true
+      license: *license
 ---
 
 
@@ -145,7 +173,6 @@ Chronologically the digitization process happened as follows:
 - [C068](Council-of-Policy/TKF3_C061-C070/C068_v1.20.md)
 - [C069](Council-of-Policy/TKF3_C061-C070/C069_v1.20.md)
 - [C070](Council-of-Policy/TKF3_C061-C070/C070_v1.20.md)
-- [C070](Council-of-Policy/TKF3_C071-C080/C070_v1.20.md)
 - [C071](Council-of-Policy/TKF3_C071-C080/C071_v1.20.md)
 - [C072](Council-of-Policy/TKF3_C071-C080/C072_v1.20.md)
 - [C073](Council-of-Policy/TKF3_C071-C080/C073_v1.20.md)

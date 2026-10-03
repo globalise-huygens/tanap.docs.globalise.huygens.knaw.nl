@@ -1,3 +1,9 @@
+---
+title: Glossary – Resolutions of the Council of Policy, Cape of Good Hope
+description: Afrikaans glossary of early modern Dutch words in the Resolutions of the Council of Policy of the Cape of Good Hope, compiled by Anna Böeseken and Con de Wet and revised by Helena Liebenberg (2004).
+language: af
+---
+
 # Glossary
 
 *Originally compiled by Anna Böeseken and Con de Wet, revised and edited by Helena Liebenberg (2004).*
